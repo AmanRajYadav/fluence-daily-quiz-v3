@@ -145,7 +145,7 @@ const HindiEnglishQuiz = () => {
           ...question,
           id: question.id || index,
         }));
-        const shuffledQuestions = [...processedQuestions].sort(() => Math.random() - 0.5).slice(0, 30);
+        const shuffledQuestions = [...processedQuestions].sort(() => Math.random() - 0.5).slice(0, 10);
         setQuestions(shuffledQuestions);
         setQuestionLoadError(null);
       })
