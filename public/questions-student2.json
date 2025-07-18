@@ -1,166 +1,180 @@
 [
   {
-    "question": "According to the lesson, what is the 'unity' aspect of the Sari?",
-    "correct": "It is a single, unstitched piece of cloth.",
+    "question": "In the lesson, what piece of clothing was discussed as a primary example of both unity and diversity in India?",
+    "correct": "Sari",
     "options": [
-      "It comes in many different colors and designs.",
-      "It is only worn for festivals.",
-      "It is a single, unstitched piece of cloth.",
-      "It is made from only one type of fabric."
+      "Kurta",
+      "Turban",
+      "Sari",
+      "Dhoti"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "The Sari as a Metaphor",
+    "topic": "Unity in Diversity",
     "complexity_score": 1
   },
   {
-    "question": "What is the shared reason for celebrating festivals like Makar Sankranti, Pongal, and Bihu at the same time?",
-    "correct": "To enjoy the harvesting of crops.",
+    "question": "According to the grammar rule discussed, which sentence is correct?",
+    "correct": "People speak different languages.",
     "options": [
-      "To celebrate the new year.",
-      "To worship the same deity.",
-      "To enjoy the harvesting of crops.",
-      "To mark the beginning of winter."
+      "People speaks different languages.",
+      "Kavya speak different languages.",
+      "People speak different languages.",
+      "He speak different languages."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Festivals and Unity",
+    "topic": "English Grammar",
     "complexity_score": 1
   },
   {
-    "question": "Which two food staples were mentioned as being common across almost every part of India?",
+    "question": "What is the name for the imaginary line that runs around the middle of the Earth?",
+    "correct": "Equator",
+    "options": [
+      "International Date Line",
+      "Prime Meridian",
+      "Equator",
+      "Tropic of Cancer"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Geography",
+    "complexity_score": 1
+  },
+  {
+    "question": "The sequence 1, 8, 27, 64 is a sequence of what kind of numbers?",
+    "correct": "Cube numbers",
+    "options": [
+      "Prime numbers",
+      "Square numbers",
+      "Cube numbers",
+      "Fibonacci numbers"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Mathematical Patterns",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which two food staples were mentioned as being common in almost every part of India?",
     "correct": "Rice and Wheat",
     "options": [
-      "Lentils and Spices",
-      "Corn and Barley",
+      "Lentils and Barley",
+      "Corn and Millet",
       "Rice and Wheat",
-      "Milk and Yogurt"
+      "Oats and Potatoes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Food and Culture",
+    "topic": "Unity in Diversity",
     "complexity_score": 1
   },
   {
-    "question": "The lesson corrected a key phrase. What does diversity do, as explained in the class?",
-    "correct": "Diversity enriches and makes things beautiful.",
+    "question": "What coordinate system, using two types of lines, allows you to find the location of any place on Earth?",
+    "correct": "Latitude and Longitude",
     "options": [
-      "Diversity divides people.",
-      "Diversity is the same as unity.",
-      "Diversity enriches and makes things beautiful.",
-      "Diversity must be eliminated for unity."
+      "Equator and Prime Meridian",
+      "Grids and Zones",
+      "Latitude and Longitude",
+      "Scales and Projections"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Core Concepts",
+    "topic": "Geography",
     "complexity_score": 1
   },
   {
-    "question": "Which two communities were mentioned as having their own versions of the Mahabharata and Ramayana?",
-    "correct": "Gonds and Bhils",
+    "question": "The festival of Makar Sankranti exemplifies unity because, despite different names like Pongal and Bihu, what key aspect remains the same across India?",
+    "correct": "The timing and reason for celebration (harvest)",
     "options": [
-      "Sikhs and Jains",
-      "Bengalis and Punjabis",
-      "Gonds and Bhils",
-      "Tamilians and Keralites"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Epics and Oral Traditions",
-    "complexity_score": 1
-  },
-  {
-    "question": "What was the definition of a 'migrant' provided in the discussion?",
-    "correct": "A person living away from their birthplace and community.",
-    "options": [
-      "A person who travels for vacation.",
-      "A person who moves to a new country.",
-      "A person living away from their birthplace and community.",
-      "A person who was born in a different city."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Social Definitions",
-    "complexity_score": 1
-  },
-  {
-    "question": "How does the example of the Sari reflect BOTH unity and diversity?",
-    "correct": "It's one type of garment (unity) worn in many different styles and fabrics (diversity).",
-    "options": [
-      "It's a single piece of cloth made in many different countries.",
-      "Everyone in India wears a Sari in the exact same way.",
-      "It's one type of garment (unity) worn in many different styles and fabrics (diversity).",
-      "The unity is in its color, and the diversity is in its price."
+      "The specific foods eaten",
+      "The songs that are sung",
+      "The timing and reason for celebration (harvest)",
+      "The clothes that are worn"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Sari as a Metaphor",
+    "topic": "Unity in Diversity",
     "complexity_score": 2
   },
   {
-    "question": "Why was the student's answer about Makar Sankranti considered 'incomplete'?",
-    "correct": "It explained the diversity (different names) but not the unity (same timing/reason).",
+    "question": "Based on the discussion, how does the Sari reflect BOTH unity and diversity?",
+    "correct": "It is a single piece of cloth (unity) worn in different styles and made of different fabrics (diversity).",
     "options": [
-      "It listed the wrong names for the festival.",
-      "It did not mention the food eaten during the festival.",
-      "It explained the diversity (different names) but not the unity (same timing/reason).",
-      "It was too long and detailed."
+      "It is only worn in one part of India, which shows unity.",
+      "It has many different names, which shows diversity.",
+      "It is a single piece of cloth (unity) worn in different styles and made of different fabrics (diversity).",
+      "It is always made of the same material (unity) but has different colors (diversity)."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Festivals and Unity",
+    "topic": "Unity in Diversity",
     "complexity_score": 2
   },
   {
-    "question": "The instructor used an analogy about water in different people's bodies being the same. What larger idea from the lesson did this illustrate?",
-    "correct": "An underlying 'oneness' or shared essence connects all things that appear different.",
+    "question": "The tutor stated, 'Unity cannot divide.' What was the main point of this statement?",
+    "correct": "The very definition of unity is oneness, so it is logically impossible for it to cause division.",
     "options": [
-      "Everyone in India drinks the same amount of water.",
-      "The human body is mostly made of water.",
-      "An underlying 'oneness' or shared essence connects all things that appear different.",
-      "People from different regions look physically different."
+      "Unity is a weak force in India.",
+      "Diversity is more important than unity.",
+      "The very definition of unity is oneness, so it is logically impossible for it to cause division.",
+      "Only unity in government can prevent division."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Core Concepts",
+    "topic": "Critical Thinking",
     "complexity_score": 2
   },
   {
-    "question": "What important 'common sense' principle was taught when discussing the incorrect statement from the 'mam'?",
-    "correct": "One should question information, even from an authority, if it contradicts logic.",
+    "question": "According to the definition provided, a person can be considered a 'migrant' if they are...",
+    "correct": "living away from their birthplace and community.",
     "options": [
-      "Teachers are always right.",
-      "Common sense is not very common.",
-      "One should question information, even from an authority, if it contradicts logic.",
-      "Unity and diversity mean the same thing."
+      "traveling for a short holiday.",
+      "visiting family in another city.",
+      "living away from their birthplace and community.",
+      "born in a different country but living in their parents' homeland."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Metacognition & Critical Thinking",
+    "topic": "Social Concepts",
     "complexity_score": 2
   },
   {
-    "question": "Based on the lesson, how can different versions of the Ramayana in various communities still represent 'unity'?",
-    "correct": "They all stem from the same core epic, showing a shared cultural heritage.",
+    "question": "What is the next number in the sequence: 1, 8, 27, 64, ...?",
+    "correct": "125",
     "options": [
-      "The stories are identical in every version.",
-      "The communities are all located in the same state.",
-      "They all stem from the same core epic, showing a shared cultural heritage.",
-      "They are all written in the same language."
+      "81",
+      "100",
+      "125",
+      "216"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Epics and Oral Traditions",
+    "topic": "Mathematical Patterns",
     "complexity_score": 2
   },
   {
-    "question": "Why is just saying 'food, festivals, and clothing' a 'shallow' way to explain unity in diversity?",
-    "correct": "It fails to explain the specific connection between the unity and diversity in each example.",
+    "question": "The discussion about different communities (like Gonds and Bhils) having their own versions of the Mahabharata and Ramayana illustrates what central idea?",
+    "correct": "A core story (unity) can have many regional variations (diversity).",
     "options": [
-      "It's a list that is too short.",
-      "It doesn't include examples from other countries.",
-      "It fails to explain the specific connection between the unity and diversity in each example.",
-      "These examples are not important to Indian culture."
+      "Only certain communities know the true stories.",
+      "These epics are not important in India.",
+      "A core story (unity) can have many regional variations (diversity).",
+      "The stories are completely different and have no connection."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Unity in Diversity",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why did the tutor suggest that an answer about Makar Sankranti was 'incomplete'?",
+    "correct": "It only described the diversity (different names) without explaining the unifying element (same timing/purpose).",
+    "options": [
+      "It had incorrect spellings of the festival names.",
+      "It did not list enough examples of names.",
+      "It only described the diversity (different names) without explaining the unifying element (same timing/purpose).",
+      "It focused too much on the unity and not enough on the diversity."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -168,69 +182,55 @@
     "complexity_score": 2
   },
   {
-    "question": "The instructor mentioned that a Sari can be used as a pillow, a door mat, or to store food. How do these examples strengthen the 'diversity' aspect of the Sari?",
-    "correct": "They show diversity in its function and use-cases, not just its appearance.",
+    "question": "If you are traveling and cross the International Date Line, what must you do to your watch or calendar?",
+    "correct": "Change the date",
     "options": [
-      "They prove that Saris are not valuable.",
-      "They show that the Sari is a single piece of cloth.",
-      "They show diversity in its function and use-cases, not just its appearance.",
-      "They suggest Saris are only used by poor people."
+      "Change the time by one hour",
+      "Nothing, it adjusts automatically",
+      "Change the date",
+      "Reset it to Greenwich Mean Time"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Sari as a Metaphor",
+    "topic": "Geography",
     "complexity_score": 2
   },
   {
-    "question": "The student showed good metacognition by reading the questions first. What was the strategic reason for doing this?",
-    "correct": "To better allocate the detailed explanation of the Sari to the most relevant question.",
+    "question": "The tutor's advice to 'question it' even if 'God would have written it' promotes what intellectual habit?",
+    "correct": "Using critical thinking and common sense over blind acceptance of authority.",
     "options": [
-      "To finish the test faster.",
-      "To see if there were any trick questions.",
-      "To better allocate the detailed explanation of the Sari to the most relevant question.",
-      "To skip the hardest questions."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Metacognition & Critical Thinking",
-    "complexity_score": 2
-  },
-  {
-    "question": "If a new clothing item became popular across India, what would need to be true for it to exemplify 'Unity in Diversity' in the same way as the Sari?",
-    "correct": "It must be a single type of item that is adapted into many regional styles, fabrics, and uses.",
-    "options": [
-      "It must be imported from another country.",
-      "It must be worn by everyone in the exact same way.",
-      "It must be a single type of item that is adapted into many regional styles, fabrics, and uses.",
-      "It must be expensive and come in only one color."
+      "Disrespecting teachers and texts.",
+      "Memorizing facts without understanding.",
+      "Using critical thinking and common sense over blind acceptance of authority.",
+      "Believing only things you can see with your own eyes."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Concept Application",
+    "topic": "Metacognition",
     "complexity_score": 3
   },
   {
-    "question": "What is the fundamental difference between the role of 'unity' and the role of 'diversity' as discussed in the lesson?",
-    "correct": "Unity is the underlying connection or 'oneness', while diversity is the variety of expressions that enriches the whole.",
+    "question": "The analogy 'Water in your body, in my body is not different. Water is water.' was used to explain a deeper concept. What is that concept?",
+    "correct": "Despite apparent differences, there is an underlying, unifying substance or principle connecting all things.",
     "options": [
-      "Unity is about festivals and diversity is about clothing.",
-      "Unity is more important than diversity.",
-      "Unity is the underlying connection or 'oneness', while diversity is the variety of expressions that enriches the whole.",
-      "Unity means 'difference' and diversity means 'sameness'."
+      "Everyone should drink more water to be unified.",
+      "All human bodies are composed of exactly the same materials.",
+      "Despite apparent differences, there is an underlying, unifying substance or principle connecting all things.",
+      "People look different because of the water they drink."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Core Concepts",
+    "topic": "Philosophical Concepts",
     "complexity_score": 3
   },
   {
-    "question": "The instructor advises the student to present answers nicely, like separating rice and pulses on a plate. What learning principle does this advice relate to?",
-    "correct": "Clear structure and organization of ideas are crucial for effective communication.",
+    "question": "A 'shallow answer' was described as one that simply states a fact (e.g., 'we learned about unity and diversity'). What would make the answer 'deeper' according to the discussion?",
+    "correct": "Explaining the 'how' and 'why' with specific examples that connect the core concepts.",
     "options": [
-      "Food presentation is the most important skill.",
-      "Longer answers are always better than shorter ones.",
-      "Clear structure and organization of ideas are crucial for effective communication.",
-      "The content of an answer is less important than how it looks."
+      "Making the answer much longer by adding more words.",
+      "Using bigger and more complicated vocabulary.",
+      "Explaining the 'how' and 'why' with specific examples that connect the core concepts.",
+      "Copying the exact words from the textbook."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
@@ -238,45 +238,45 @@
     "complexity_score": 3
   },
   {
-    "question": "Considering the examples of epics, festivals, and clothing, what is the 'one thing that connects all of them'?",
-    "correct": "A shared cultural foundation or root idea that is expressed in varied forms.",
+    "question": "The feedback on 'presenting it nicely' like separating rice and pulses on a plate is an analogy for what academic skill?",
+    "correct": "Structuring an answer clearly to make the ideas distinct and easy to understand.",
     "options": [
-      "The same geographical location.",
-      "The same language used to describe them.",
-      "A shared cultural foundation or root idea that is expressed in varied forms.",
-      "A government law that requires them."
+      "Using colorful pens and good handwriting.",
+      "Making sure your food is presented well at dinner.",
+      "Structuring an answer clearly to make the ideas distinct and easy to understand.",
+      "Giving only one part of the answer at a time."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Communication Skills",
+    "complexity_score": 3
+  },
+  {
+    "question": "The lesson implies that diversity in India does not divide, but instead does what?",
+    "correct": "Enriches the culture",
+    "options": [
+      "Creates confusion",
+      "Weakens national identity",
+      "Enriches the culture",
+      "Makes unity impossible"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Unity in Diversity",
+    "complexity_score": 3
+  },
+  {
+    "question": "Connecting the Sari, different versions of the Ramayana, and various harvest festivals reveals a pattern. What is this recurring pattern or 'crux of the chapter'?",
+    "correct": "A single, unifying core element is expressed in many diverse forms throughout India.",
+    "options": [
+      "India has more festivals and stories than any other country.",
+      "Clothing is the most important part of Indian culture.",
+      "A single, unifying core element is expressed in many diverse forms throughout India.",
+      "All Indian stories and festivals originated from the same town."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
     "topic": "Synthesis",
-    "complexity_score": 3
-  },
-  {
-    "question": "How could a single Indian folk tale, told with different characters and endings in five different states, be an example of unity in diversity?",
-    "correct": "The unity is the core plot or moral, and the diversity lies in the regional adaptations.",
-    "options": [
-      "It would not be an example of unity, only diversity.",
-      "The unity is that all five states are in India.",
-      "The unity is the core plot or moral, and the diversity lies in the regional adaptations.",
-      "It is only unity if the story is exactly the same in all states."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Concept Application",
-    "complexity_score": 3
-  },
-  {
-    "question": "The instructor states, 'Unity cannot divide. It is impossible for unity to divide.' What is the logical reasoning behind this statement?",
-    "correct": "The very definition of unity is 'oneness' or the absence of division.",
-    "options": [
-      "Unity is a weak force that is easily broken.",
-      "Only diversity can create division.",
-      "The very definition of unity is 'oneness' or the absence of division.",
-      "This was a mistake; unity can sometimes divide."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Critical Thinking",
     "complexity_score": 3
   }
 ]
