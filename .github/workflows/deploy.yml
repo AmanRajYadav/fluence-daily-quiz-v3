@@ -1,0 +1,39 @@
+name: Build & Deploy React app to GitHub Pages
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch: # This line allows API triggers
+
+permissions:
+  contents: write      # Let the action push to gh-pages
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1) Check out the repository
+      - uses: actions/checkout@v3
+
+      # 2) Install Node and cache npm modules
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: 'npm'
+
+      # 3) Install dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # 4) Build the React app (disable CRA’s “warnings == errors” in CI)
+      - name: Build React app
+        run: CI=false npm run build
+
+      # 5) Publish the build folder to gh-pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+```
