@@ -1,408 +1,282 @@
 [
   {
-    "question": "What is the primary concept explored in the Social Science chapter today?",
-    "correct": "Unity in Diversity in India",
+    "question": "According to the lesson, what is the 'unity' aspect of the Sari?",
+    "correct": "It is a single, unstitched piece of cloth.",
     "options": [
-      "The history of Indian empires",
-      "Unity in Diversity in India",
-      "Global trade routes",
-      "Modern Indian politics"
+      "It comes in many different colors and designs.",
+      "It is only worn for festivals.",
+      "It is a single, unstitched piece of cloth.",
+      "It is made from only one type of fabric."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Unity in Diversity",
+    "topic": "The Sari as a Metaphor",
     "complexity_score": 1
   },
   {
-    "question": "What common ingredient was used as an example of 'unity' in diverse Indian foods?",
-    "correct": "Rice",
+    "question": "What is the shared reason for celebrating festivals like Makar Sankranti, Pongal, and Bihu at the same time?",
+    "correct": "To enjoy the harvesting of crops.",
     "options": [
-      "Spices",
-      "Meat",
-      "Rice",
-      "Vegetables"
+      "To celebrate the new year.",
+      "To worship the same deity.",
+      "To enjoy the harvesting of crops.",
+      "To mark the beginning of winter."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Unity in Diversity - Food",
+    "topic": "Festivals and Unity",
     "complexity_score": 1
   },
   {
-    "question": "Which piece of clothing was highlighted as a 'hero' in demonstrating unity amidst diversity in India?",
-    "correct": "Saree",
+    "question": "Which two food staples were mentioned as being common across almost every part of India?",
+    "correct": "Rice and Wheat",
     "options": [
-      "Dhoti",
-      "Saree",
-      "Salwar Kameez",
-      "Lehenga"
+      "Lentils and Spices",
+      "Corn and Barley",
+      "Rice and Wheat",
+      "Milk and Yogurt"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Unity in Diversity - Clothing",
+    "topic": "Food and Culture",
     "complexity_score": 1
   },
   {
-    "question": "What is the approximate age of the Panchatantra stories mentioned?",
-    "correct": "2200 years old",
+    "question": "The lesson corrected a key phrase. What does diversity do, as explained in the class?",
+    "correct": "Diversity enriches and makes things beautiful.",
     "options": [
-      "500 years old",
-      "1000 years old",
-      "2200 years old",
-      "3000 years old"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many adaptations of the Panchatantra are estimated to exist, in how many languages?",
-    "correct": "200 adaptations in 50 languages",
-    "options": [
-      "50 adaptations in 10 languages",
-      "100 adaptations in 20 languages",
-      "200 adaptations in 50 languages",
-      "500 adaptations in 100 languages"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the combined page count of the original versions of the Ramayana and Mahabharata?",
-    "correct": "Around 7000 pages",
-    "options": [
-      "Around 1000 pages",
-      "Around 3000 pages",
-      "Around 7000 pages",
-      "Around 10,000 pages"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
-    "complexity_score": 2
-  },
-  {
-    "question": "What kind of questions do stories like Ramayana and Mahabharata constantly ask?",
-    "correct": "What is right and what is wrong",
-    "options": [
-      "How to build empires",
-      "What is right and what is wrong",
-      "Scientific advancements",
-      "Economic policies"
+      "Diversity divides people.",
+      "Diversity is the same as unity.",
+      "Diversity enriches and makes things beautiful.",
+      "Diversity must be eliminated for unity."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
+    "topic": "Core Concepts",
     "complexity_score": 1
   },
   {
-    "question": "What does 'folk versions' of epics refer to?",
-    "correct": "Stories communicated orally by small communities",
+    "question": "Which two communities were mentioned as having their own versions of the Mahabharata and Ramayana?",
+    "correct": "Gonds and Bhils",
     "options": [
-      "Official written versions",
-      "Stories communicated orally by small communities",
-      "Translated versions for international audience",
-      "Modern interpretations in movies"
+      "Sikhs and Jains",
+      "Bengalis and Punjabis",
+      "Gonds and Bhils",
+      "Tamilians and Keralites"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Epics and Oral Traditions",
+    "complexity_score": 1
+  },
+  {
+    "question": "What was the definition of a 'migrant' provided in the discussion?",
+    "correct": "A person living away from their birthplace and community.",
+    "options": [
+      "A person who travels for vacation.",
+      "A person who moves to a new country.",
+      "A person living away from their birthplace and community.",
+      "A person who was born in a different city."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Definitions",
+    "complexity_score": 1
+  },
+  {
+    "question": "How does the example of the Sari reflect BOTH unity and diversity?",
+    "correct": "It's one type of garment (unity) worn in many different styles and fabrics (diversity).",
+    "options": [
+      "It's a single piece of cloth made in many different countries.",
+      "Everyone in India wears a Sari in the exact same way.",
+      "It's one type of garment (unity) worn in many different styles and fabrics (diversity).",
+      "The unity is in its color, and the diversity is in its price."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
+    "topic": "The Sari as a Metaphor",
     "complexity_score": 2
   },
   {
-    "question": "Which communities were mentioned as having their own versions of Ramayana and Mahabharata?",
-    "correct": "Tribal communities like the Beals, Goards, and Mundas",
+    "question": "Why was the student's answer about Makar Sankranti considered 'incomplete'?",
+    "correct": "It explained the diversity (different names) but not the unity (same timing/reason).",
     "options": [
-      "Urban communities",
-      "Coastal communities",
-      "Tribal communities like the Beals, Goards, and Mundas",
-      "Foreign communities"
+      "It listed the wrong names for the festival.",
+      "It did not mention the food eaten during the festival.",
+      "It explained the diversity (different names) but not the unity (same timing/reason).",
+      "It was too long and detailed."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
+    "topic": "Festivals and Unity",
     "complexity_score": 2
   },
   {
-    "question": "What did tribal communities do to connect their history with these epics?",
-    "correct": "Preserved legends connecting their own history with these epics",
+    "question": "The instructor used an analogy about water in different people's bodies being the same. What larger idea from the lesson did this illustrate?",
+    "correct": "An underlying 'oneness' or shared essence connects all things that appear different.",
     "options": [
-      "Rejected the epics entirely",
-      "Preserved legends connecting their own history with these epics",
-      "Wrote new epics about themselves",
-      "Only listened to the main versions"
+      "Everyone in India drinks the same amount of water.",
+      "The human body is mostly made of water.",
+      "An underlying 'oneness' or shared essence connects all things that appear different.",
+      "People from different regions look physically different."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
+    "topic": "Core Concepts",
     "complexity_score": 2
   },
   {
-    "question": "Who directed the 'People of India Project'?",
-    "correct": "The anthropologist K.S. Singh",
+    "question": "What important 'common sense' principle was taught when discussing the incorrect statement from the 'mam'?",
+    "correct": "One should question information, even from an authority, if it contradicts logic.",
     "options": [
-      "Rabindranath Tagore",
-      "K.S. Singh",
-      "Vishnu Sharma",
-      "An unnamed scholar"
+      "Teachers are always right.",
+      "Common sense is not very common.",
+      "One should question information, even from an authority, if it contradicts logic.",
+      "Unity and diversity mean the same thing."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Surveys and Research",
+    "topic": "Metacognition & Critical Thinking",
     "complexity_score": 2
   },
   {
-    "question": "What was a notable observation about the Mahabharata from the 'People of India Project' survey?",
-    "correct": "There is hardly a place in the country which the epic heroes such as Pandavas did not visit according to the folklore",
+    "question": "Based on the lesson, how can different versions of the Ramayana in various communities still represent 'unity'?",
+    "correct": "They all stem from the same core epic, showing a shared cultural heritage.",
     "options": [
-      "It was primarily a regional epic",
-      "There is hardly a place in the country which the epic heroes such as Pandavas did not visit according to the folklore",
-      "It was only known in certain parts of India",
-      "Its stories were identical everywhere"
+      "The stories are identical in every version.",
+      "The communities are all located in the same state.",
+      "They all stem from the same core epic, showing a shared cultural heritage.",
+      "They are all written in the same language."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Epics and Oral Traditions",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why is just saying 'food, festivals, and clothing' a 'shallow' way to explain unity in diversity?",
+    "correct": "It fails to explain the specific connection between the unity and diversity in each example.",
+    "options": [
+      "It's a list that is too short.",
+      "It doesn't include examples from other countries.",
+      "It fails to explain the specific connection between the unity and diversity in each example.",
+      "These examples are not important to Indian culture."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Analytical Skills",
+    "complexity_score": 2
+  },
+  {
+    "question": "The instructor mentioned that a Sari can be used as a pillow, a door mat, or to store food. How do these examples strengthen the 'diversity' aspect of the Sari?",
+    "correct": "They show diversity in its function and use-cases, not just its appearance.",
+    "options": [
+      "They prove that Saris are not valuable.",
+      "They show that the Sari is a single piece of cloth.",
+      "They show diversity in its function and use-cases, not just its appearance.",
+      "They suggest Saris are only used by poor people."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "The Sari as a Metaphor",
+    "complexity_score": 2
+  },
+  {
+    "question": "The student showed good metacognition by reading the questions first. What was the strategic reason for doing this?",
+    "correct": "To better allocate the detailed explanation of the Sari to the most relevant question.",
+    "options": [
+      "To finish the test faster.",
+      "To see if there were any trick questions.",
+      "To better allocate the detailed explanation of the Sari to the most relevant question.",
+      "To skip the hardest questions."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Metacognition & Critical Thinking",
+    "complexity_score": 2
+  },
+  {
+    "question": "If a new clothing item became popular across India, what would need to be true for it to exemplify 'Unity in Diversity' in the same way as the Sari?",
+    "correct": "It must be a single type of item that is adapted into many regional styles, fabrics, and uses.",
+    "options": [
+      "It must be imported from another country.",
+      "It must be worn by everyone in the exact same way.",
+      "It must be a single type of item that is adapted into many regional styles, fabrics, and uses.",
+      "It must be expensive and come in only one color."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Surveys and Research",
+    "topic": "Concept Application",
     "complexity_score": 3
   },
   {
-    "question": "According to the class, how has Indian culture spread around the world for centuries?",
-    "correct": "Through the two biggest stories of Ramayana and Mahabharata",
+    "question": "What is the fundamental difference between the role of 'unity' and the role of 'diversity' as discussed in the lesson?",
+    "correct": "Unity is the underlying connection or 'oneness', while diversity is the variety of expressions that enriches the whole.",
     "options": [
-      "Through trade and commerce only",
-      "Through military conquests",
-      "Through the two biggest stories of Ramayana and Mahabharata",
-      "Through modern social media"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cultural Spread",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the core message of the chapter regarding Indian culture?",
-    "correct": "Indian culture celebrates diversity as an enrichment, but never loses sight of the underlying unity which nourishes the diversity",
-    "options": [
-      "Indian culture views diversity as a challenge to unity",
-      "Indian culture focuses solely on commonalities, ignoring diversity",
-      "Indian culture celebrates diversity as an enrichment, but never loses sight of the underlying unity which nourishes the diversity",
-      "Indian culture tries to eliminate diversity to promote unity"
+      "Unity is about festivals and diversity is about clothing.",
+      "Unity is more important than diversity.",
+      "Unity is the underlying connection or 'oneness', while diversity is the variety of expressions that enriches the whole.",
+      "Unity means 'difference' and diversity means 'sameness'."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Core Message",
+    "topic": "Core Concepts",
     "complexity_score": 3
   },
   {
-    "question": "What tax existed during Mughal times for Hindus who did not convert to Muslim?",
-    "correct": "Jazia tax",
+    "question": "The instructor advises the student to present answers nicely, like separating rice and pulses on a plate. What learning principle does this advice relate to?",
+    "correct": "Clear structure and organization of ideas are crucial for effective communication.",
     "options": [
-      "Sales tax",
-      "Jazia tax",
-      "Property tax",
-      "Income tax"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Historical Context",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which part of India celebrates the 'Dussehra' for 75 days, known as the world's longest?",
-    "correct": "Bastar in Chhattisgarh",
-    "options": [
-      "Punjab",
-      "Tamil Nadu",
-      "Bastar in Chhattisgarh",
-      "Kashmir"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Regional Cultures",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is one example mentioned of Indian names found in West Indies islands?",
-    "correct": "Ravi Rampal, Sunil Narayan",
-    "options": [
-      "David Smith",
-      "Ravi Rampal, Sunil Narayan",
-      "John Doe",
-      "Maria Garcia"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Cultural Influence",
-    "complexity_score": 1
-  },
-  {
-    "question": "What connects different cultures in India and parts of Asia, forming a 'dense web of cultural intersections'?",
-    "correct": "The two epics, Ramayana and Mahabharata",
-    "options": [
-      "Modern travel",
-      "Global economic treaties",
-      "The two epics, Ramayana and Mahabharata",
-      "Scientific conferences"
+      "Food presentation is the most important skill.",
+      "Longer answers are always better than shorter ones.",
+      "Clear structure and organization of ideas are crucial for effective communication.",
+      "The content of an answer is less important than how it looks."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cultural Intersections",
+    "topic": "Analytical Skills",
     "complexity_score": 3
   },
   {
-    "question": "Which historical figure was mentioned as removing the Jazia tax?",
-    "correct": "Akbar",
+    "question": "Considering the examples of epics, festivals, and clothing, what is the 'one thing that connects all of them'?",
+    "correct": "A shared cultural foundation or root idea that is expressed in varied forms.",
     "options": [
-      "Aurangzeb",
-      "Shah Jahan",
-      "Akbar",
-      "Babur"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Historical Context",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is meant by 'two millenniums'?",
-    "correct": "Two thousand years",
-    "options": [
-      "Two million years",
-      "Two hundred years",
-      "Two thousand years",
-      "Twenty years"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Time Measurement",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the term for stories communicated orally in small communities without being written down?",
-    "correct": "Folklore",
-    "options": [
-      "Epic literature",
-      "Historical records",
-      "Folklore",
-      "Modern novels"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Terminology",
-    "complexity_score": 1
-  },
-  {
-    "question": "Why did the teacher emphasize not skipping homeworks and quizzes for Kavya?",
-    "correct": "To ensure a strong foundation and understanding of the chapter",
-    "options": [
-      "To increase her XP points only",
-      "To make the class more challenging",
-      "To ensure a strong foundation and understanding of the chapter",
-      "To finish the syllabus quickly"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Learning Strategies",
-    "complexity_score": 1
-  },
-  {
-    "question": "What are some of the common basic staples (food grains) found in almost every part of India mentioned in the class?",
-    "correct": "Wheat, barley, jowar, rice",
-    "options": [
-      "Corn, oats, quinoa, rye",
-      "Wheat, barley, jowar, rice",
-      "Millet, sorghum, lentils, beans",
-      "Potatoes, tomatoes, onions, garlic"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Unity in Diversity - Food",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is Makar Sankranti primarily celebrated for?",
-    "correct": "To celebrate the beginning of the harvest season",
-    "options": [
-      "To celebrate the new year",
-      "To celebrate the beginning of the harvest season",
-      "To honor ancestors",
-      "To pray for rain"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Unity in Diversity - Festivals",
-    "complexity_score": 1
-  },
-  {
-    "question": "What does the phrase 'dense web of cultural intersections' refer to in the context of epics?",
-    "correct": "How cultures interacted and shared due to these stories",
-    "options": [
-      "A complex network of roads",
-      "How cultures interacted and shared due to these stories",
-      "A type of ancient writing system",
-      "A large group of people meeting"
+      "The same geographical location.",
+      "The same language used to describe them.",
+      "A shared cultural foundation or root idea that is expressed in varied forms.",
+      "A government law that requires them."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cultural Intersections",
+    "topic": "Synthesis",
     "complexity_score": 3
   },
   {
-    "question": "What is one reason why Indian culture celebrates diversity?",
-    "correct": "Because diversity enriches, it does not divide",
+    "question": "How could a single Indian folk tale, told with different characters and endings in five different states, be an example of unity in diversity?",
+    "correct": "The unity is the core plot or moral, and the diversity lies in the regional adaptations.",
     "options": [
-      "To create more conflicts",
-      "To make the country harder to manage",
-      "Because diversity enriches, it does not divide",
-      "To follow ancient traditions strictly"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Core Message",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is believed to happen in a temple in UP every morning, related to a Mahabharata character?",
-    "correct": "Aswathama comes, worships God Shiva and goes away",
-    "options": [
-      "Krishna appears to devotees",
-      "Arjun meditates",
-      "Aswathama comes, worships God Shiva and goes away",
-      "Pandavas offer prayers"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Folklore and Beliefs",
-    "complexity_score": 2
-  },
-  {
-    "question": "How many versions of the Mahabharata were counted in a survey in Tamil Nadu alone a few years ago?",
-    "correct": "About 100 versions",
-    "options": [
-      "10 versions",
-      "50 versions",
-      "About 100 versions",
-      "200 versions"
+      "It would not be an example of unity, only diversity.",
+      "The unity is that all five states are in India.",
+      "The unity is the core plot or moral, and the diversity lies in the regional adaptations.",
+      "It is only unity if the story is exactly the same in all states."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Epics and Folk Stories",
+    "topic": "Concept Application",
     "complexity_score": 3
   },
   {
-    "question": "Which regions, besides Tamil Nadu, were mentioned as having their own versions of epics?",
-    "correct": "India's Northeast and Himalayan regions, including Kashmir",
+    "question": "The instructor states, 'Unity cannot divide. It is impossible for unity to divide.' What is the logical reasoning behind this statement?",
+    "correct": "The very definition of unity is 'oneness' or the absence of division.",
     "options": [
-      "Southern states only",
-      "Western states only",
-      "India's Northeast and Himalayan regions, including Kashmir",
-      "Only central India"
+      "Unity is a weak force that is easily broken.",
+      "Only diversity can create division.",
+      "The very definition of unity is 'oneness' or the absence of division.",
+      "This was a mistake; unity can sometimes divide."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Regional Variations",
-    "complexity_score": 2
+    "topic": "Critical Thinking",
+    "complexity_score": 3
   }
 ]
