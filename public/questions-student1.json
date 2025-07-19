@@ -1,282 +1,282 @@
 [
-  {
-    "question": "According to the lesson, what is the English word for 'pakoda'?",
-    "correct": "Fritters",
-    "options": [
-      "Fritters",
-      "Pakodas",
-      "Fryers",
-      "Crispies"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which sentence uses the correct grammar as discussed in the class?",
-    "correct": "Trees are covered with greenery.",
-    "options": [
-      "Trees is covered with green flower.",
-      "Trees are covered with greenery.",
-      "Tree are covered with greenery.",
-      "Trees is covered with greenery."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Grammar",
-    "complexity_score": 1
-  },
-  {
-    "question": "What word was suggested to describe a teacher who is friendly?",
-    "correct": "Amiable",
-    "options": [
-      "Splendid",
-      "Respected",
-      "Amiable",
-      "Majestic"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 1
-  },
-  {
-    "question": "In a speech introduction at your own school, what information is usually unnecessary to state?",
-    "correct": "Your school's name",
-    "options": [
-      "Your name",
-      "Your class",
-      "Your house name",
-      "Your school's name"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Speech Introduction",
-    "complexity_score": 1
-  },
-  {
-    "question": "What powerful word was suggested to replace 'good' in the phrase 'good morning'?",
-    "correct": "Splendid",
-    "options": [
-      "Majestic",
-      "Amiable",
-      "Reverent",
-      "Splendid"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 1
-  },
-  {
-    "question": "What should be the very first part of a formal speech introduction, according to the structure taught?",
-    "correct": "Paying regards to the dignitaries/teacher",
-    "options": [
-      "Stating your name",
-      "Announcing the topic",
-      "Greeting the audience",
-      "Paying regards to the dignitaries/teacher"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Speech Structure",
-    "complexity_score": 1
-  },
-  {
-    "question": "If Anaya were giving a speech at an inter-school competition, what information becomes essential to include?",
-    "correct": "Her school's name, Delhi Public School",
-    "options": [
-      "Her brother's name",
-      "Her trainer's name",
-      "Her school's name, Delhi Public School",
-      "Her home address"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Contextual Introduction",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the purpose of stating 'I am representing the Ganga house' in an introduction?",
-    "correct": "To identify which team she is on in an inter-house competition",
-    "options": [
-      "To tell everyone where her classroom is located",
-      "To identify which team she is on in an inter-house competition",
-      "To share a personal detail about her family",
-      "To show she lives near the Ganga river"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Speech Introduction",
-    "complexity_score": 2
-  },
-  {
-    "question": "The teacher corrected the sentence 'My school is full with water' to 'My school is filled with water'. What does this correction primarily improve?",
-    "correct": "The correct use of prepositions and verbs",
-    "options": [
-      "The spelling of 'school'",
-      "The sentence's tone",
-      "The correct use of prepositions and verbs",
-      "The subject-verb agreement"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Grammar",
-    "complexity_score": 2
-  },
-  {
-    "question": "The teacher suggests varying your vocal pitch and not speaking in a monotonous tone. What is the main reason for this advice?",
-    "correct": "To keep the audience engaged and interested",
-    "options": [
-      "To make the speech last longer",
-      "To show you have memorized the words",
-      "To make your voice louder",
-      "To keep the audience engaged and interested"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Speech Delivery",
-    "complexity_score": 2
-  },
-  {
-    "question": "If Anaya had to give her speech in the evening, how should she adapt the suggested greeting 'Wishing you all a splendid afternoon'?",
-    "correct": "Wishing you all a splendid evening",
-    "options": [
-      "Wishing you all a splendid night",
-      "Wishing you all a majestic afternoon",
-      "Wishing you all a splendid evening",
-      "She should not change the greeting"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Contextual Introduction",
-    "complexity_score": 2
-  },
-  {
-    "question": "The teacher corrected 'I did not attempt the quiz' to 'I could not attempt the quiz'. What is the subtle difference in meaning?",
-    "correct": "'Could not' implies an inability due to circumstances, not just a choice.",
-    "options": [
-      "There is no difference in meaning.",
-      "'Could not' is more informal than 'did not'.",
-      "'Did not' means you failed, while 'could not' means you passed.",
-      "'Could not' implies an inability due to circumstances, not just a choice."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Grammar",
-    "complexity_score": 2
-  },
-  {
-    "question": "When introducing herself, Anaya's first attempt was 'My name is Anaya Gagar. My father named me...'. Why was this identified as not ideal for a formal speech?",
-    "correct": "A formal speech introduction should focus on the speaker and topic, not family details.",
-    "options": [
-      "She should have stated her mother's name first.",
-      "A formal speech introduction should focus on the speaker and topic, not family details.",
-      "She misspelled her own last name.",
-      "It is too long for an introduction."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Speech Introduction",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the primary function of the line 'I will be expressing my thoughts on...' in a speech introduction?",
-    "correct": "To clearly state the topic of the speech for the audience",
-    "options": [
-      "To ask the audience for their opinions",
-      "To show that the speaker is nervous",
-      "To clearly state the topic of the speech for the audience",
-      "To end the introduction"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Speech Structure",
-    "complexity_score": 2
-  },
-  {
-    "question": "Why is it more effective to say 'I got a platinum chance to participate' instead of just 'I am participating'?",
-    "correct": "It frames the opportunity as rare and valuable, showing deep gratitude.",
-    "options": [
-      "It is a shorter and simpler phrase.",
-      "It is the only grammatically correct option.",
-      "It suggests the speaker was paid to be there.",
-      "It frames the opportunity as rare and valuable, showing deep gratitude."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Rhetorical Devices",
-    "complexity_score": 3
-  },
-  {
-    "question": "The lesson provided two different models for introductions: one for a speech and one for a personal introduction (like in an interview). What is the fundamental difference in the PURPOSE of these two styles?",
-    "correct": "A speech intro sets the stage for a topic, while a personal intro summarizes who you are as a person.",
-    "options": [
-      "The speech intro is longer, and the personal intro is shorter.",
-      "You only state your name in a speech intro.",
-      "A speech intro sets the stage for a topic, while a personal intro summarizes who you are as a person.",
-      "There is no fundamental difference; they are the same."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Analytical Thinking",
-    "complexity_score": 3
-  },
-  {
-    "question": "The teacher suggests using words like 'majestic' and 'splendid'. What is the main rhetorical effect of choosing this type of vocabulary?",
-    "correct": "To elevate the tone and make the event feel more significant and formal.",
-    "options": [
-      "To confuse the audience with difficult words.",
-      "To make the speech sound more casual and friendly.",
-      "To elevate the tone and make the event feel more significant and formal.",
-      "To prove that the speaker has a large vocabulary."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Rhetorical Devices",
-    "complexity_score": 3
-  },
-  {
-    "question": "If Anaya says, 'I am representing India' in her introduction, what is the most likely context of her speech?",
-    "correct": "An international competition or event",
-    "options": [
-      "A school assembly",
-      "A classroom presentation",
-      "An inter-house debate",
-      "An international competition or event"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Contextual Analysis",
-    "complexity_score": 3
-  },
-  {
-    "question": "The teacher advises Anaya not to mention her school's name when speaking at her own school. This advice is based on what key principle of effective communication?",
-    "correct": "Avoiding redundancy and respecting the audience's existing knowledge.",
-    "options": [
-      "Always keeping introductions as short as possible.",
-      "The school's name is considered private information.",
-      "Avoiding redundancy and respecting the audience's existing knowledge.",
-      "It is a rule that only the principal can say the school's name."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Communication Principles",
-    "complexity_score": 3
-  },
-  {
-    "question": "The lesson's overall goal for introductions can be best described as moving from a simple statement of fact to what?",
-    "correct": "A strategic performance designed to engage and impress an audience.",
-    "options": [
-      "A longer list of personal information.",
-      "A quick greeting to save time.",
-      "A strategic performance designed to engage and impress an audience.",
-      "A script that is the same for every occasion."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Lesson Synthesis",
-    "complexity_score": 3
-  }
+    {
+        "question": "According to the text, what is the name of the ancient collection of delightful stories, with animals as main characters, that has been adapted into almost every Indian language and beyond?",
+        "correct": "Panchatantra",
+        "options": [
+            "Ramayana",
+            "Mahabharata",
+            "Panchatantra",
+            "Vedas"
+        ],
+        "difficulty": "easy",
+        "questionType": "mcq",
+        "topic": "Indian Literature",
+        "complexity_score": 1
+    },
+    {
+        "question": "Which unstitched piece of cloth is mentioned as a common traditional dress for women in most parts of India, coming in hundreds of varieties?",
+        "correct": "Sari",
+        "options": [
+            "Dhoti",
+            "Sari",
+            "Kurta",
+            "Sherwani"
+        ],
+        "difficulty": "easy",
+        "questionType": "mcq",
+        "topic": "Indian Clothing",
+        "complexity_score": 1
+    },
+    {
+        "question": "The text identifies three important components that are essential for reading maps. What are they?",
+        "correct": "Distance, direction, and symbols",
+        "options": [
+            "Latitude, longitude, and poles",
+            "Physical, political, and thematic types",
+            "Distance, direction, and symbols",
+            "Oceans, continents, and rivers"
+        ],
+        "difficulty": "easy",
+        "questionType": "mcq",
+        "topic": "Map Components",
+        "complexity_score": 1
+    },
+    {
+        "question": "What is the name of the imaginary line that runs halfway between the North and South Poles, marked as 0° latitude?",
+        "correct": "Equator",
+        "options": [
+            "Prime Meridian",
+            "Tropic of Cancer",
+            "Equator",
+            "International Date Line"
+        ],
+        "difficulty": "easy",
+        "questionType": "mcq",
+        "topic": "Latitude and Longitude",
+        "complexity_score": 1
+    },
+    {
+        "question": "Which festival, marking the harvest season around January 14th, is known by various names across India such as Pongal, Magh Bihu, and Lohri?",
+        "correct": "Makara Sankranti",
+        "options": [
+            "Diwali",
+            "Holi",
+            "Navaratri",
+            "Makara Sankranti"
+        ],
+        "difficulty": "easy",
+        "questionType": "mcq",
+        "topic": "Indian Festivals",
+        "complexity_score": 1
+    },
+    {
+        "question": "What is the international standard for the Prime Meridian (0° longitude)?",
+        "correct": "The meridian passing through Greenwich, England",
+        "options": [
+            "The meridian passing through Ujjain, India",
+            "The International Date Line",
+            "The meridian passing through Paris, France",
+            "The meridian passing through Greenwich, England"
+        ],
+        "difficulty": "easy",
+        "questionType": "mcq",
+        "topic": "Latitude and Longitude",
+        "complexity_score": 1
+    },
+    {
+        "question": "The 'People of India project' conducted by the Anthropological Survey of India highlighted the country's vast diversity. What was one of its key findings mentioned in the text?",
+        "correct": "It counted 325 languages using 25 different scripts.",
+        "options": [
+            "It discovered that all Indians eat the exact same food.",
+            "It proved that India has only 50 distinct communities.",
+            "It counted 325 languages using 25 different scripts.",
+            "It found that no one in India migrates from their birthplace."
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "Indian Diversity",
+        "complexity_score": 2
+    },
+    {
+        "question": "How does Indian cuisine exemplify the concept of 'unity in diversity' as described in the chapter?",
+        "correct": "The use of common staple grains and spices across the country to create an endless variety of regional dishes.",
+        "options": [
+            "By proving that every region uses completely unique ingredients not found elsewhere.",
+            "The fact that only a few dishes are popular throughout the entire country.",
+            "The use of common staple grains and spices across the country to create an endless variety of regional dishes.",
+            "By showing that Indian food has not changed for thousands of years."
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "Unity in Food",
+        "complexity_score": 2
+    },
+    {
+        "question": "What was the consequence of the Indian textile 'chintz' becoming highly popular in 17th-century Europe?",
+        "correct": "England and France banned its import to protect their local textile industries.",
+        "options": [
+            "It led to a major trade alliance between India and all of Europe.",
+            "It was quickly forgotten and had no major economic impact.",
+            "England and France banned its import to protect their local textile industries.",
+            "It caused the price of cotton in India to fall dramatically."
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "Indian Textiles",
+        "complexity_score": 2
+    },
+    {
+        "question": "Why is a globe considered a better representation of the Earth than a flat map?",
+        "correct": "Because its spherical shape matches the Earth's, avoiding the distortion that occurs when flattening a curved surface.",
+        "options": [
+            "Because globes are always larger and can show more detail.",
+            "Because its spherical shape matches the Earth's, avoiding the distortion that occurs when flattening a curved surface.",
+            "Because flat maps cannot use colors or symbols.",
+            "Because globes are made of more accurate materials."
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "Maps and Globes",
+        "complexity_score": 2
+    },
+    {
+        "question": "Based on the rule that the Earth rotates 15° per hour, if it is 12 PM (noon) at the Prime Meridian (0°), what is the local time at 30°E longitude?",
+        "correct": "2 PM",
+        "options": [
+            "10 AM",
+            "1 PM",
+            "2 PM",
+            "3 PM"
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "Time Zones",
+        "complexity_score": 2
+    },
+    {
+        "question": "What is a key difference between parallels of latitude and meridians of longitude?",
+        "correct": "Parallels of latitude are full circles that decrease in size towards the poles, while meridians are half-circles of the same length.",
+        "options": [
+            "Parallels of latitude are full circles that decrease in size towards the poles, while meridians are half-circles of the same length.",
+            "Meridians are parallel to each other, but parallels of latitude are not.",
+            "Only parallels of latitude are measured in degrees.",
+            "Latitude determines time, while longitude determines climate."
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "Latitude and Longitude",
+        "complexity_score": 2
+    },
+    {
+        "question": "How did ancient Indian astronomers, according to the text, establish a prime meridian long before Greenwich was chosen?",
+        "correct": "They used a 'madhya rekha' (middle line) which passed through the city of Ujjayinī.",
+        "options": [
+            "They adopted the same line as the ancient Greeks.",
+            "They used a 'madhya rekha' (middle line) which passed through the city of Ujjayinī.",
+            "They declared the river Ganga as the prime meridian.",
+            "The text states they had no concept of a prime meridian."
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "History of Cartography",
+        "complexity_score": 2
+    },
+    {
+        "question": "The existence of hundreds of folk and tribal versions of the Ramayana and Mahabharata across India primarily illustrates what concept?",
+        "correct": "The creation of a dense web of cultural interactions and unity through shared narratives.",
+        "options": [
+            "The inaccuracy of oral traditions compared to written texts.",
+            "The creation of a dense web of cultural interactions and unity through shared narratives.",
+            "That different regions of India have no shared cultural elements.",
+            "A historical conflict between different communities over the epics."
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "Unity in Literature",
+        "complexity_score": 2
+    },
+    {
+        "question": "Jawaharlal Nehru's observation that even illiterate villagers knew hundreds of verses from the epics suggests what about the transmission of culture in India?",
+        "correct": "That cultural values and rich narratives were deeply embedded and passed down through a powerful oral tradition.",
+        "options": [
+            "That literacy rates were actually very high.",
+            "That the epics were simple stories with little meaning.",
+            "That cultural knowledge was exclusive to the upper classes.",
+            "That cultural values and rich narratives were deeply embedded and passed down through a powerful oral tradition."
+        ],
+        "difficulty": "hard",
+        "questionType": "mcq",
+        "topic": "Cultural Transmission",
+        "complexity_score": 3
+    },
+    {
+        "question": "A friend in Assam (eastern India) notes that the sun has set, while for you in Gujarat (western India), it is still bright daylight. What is the fundamental reason for this, despite both locations using Indian Standard Time (IST)?",
+        "correct": "The large longitudinal distance between the two states means their local solar times are significantly different.",
+        "options": [
+            "The clocks in Assam are set to a different standard time than in Gujarat.",
+            "The large longitudinal distance between the two states means their local solar times are significantly different.",
+            "This is an optical illusion caused by atmospheric differences.",
+            "IST ensures that the sun sets at the same moment across all of India."
+        ],
+        "difficulty": "hard",
+        "questionType": "mcq",
+        "topic": "Time Zones and Longitude",
+        "complexity_score": 3
+    },
+    {
+        "question": "The text states that the lines dividing time zones on a world map are not perfectly straight but often follow international borders. What is the most logical inference for this practice?",
+        "correct": "It is a practical measure to avoid dividing a single country into multiple time zones, which would cause administrative and social confusion.",
+        "options": [
+            "It is impossible to draw straight lines on a spherical globe.",
+            "The lines are bent by the Earth's magnetic field.",
+            "It is a practical measure to avoid dividing a single country into multiple time zones, which would cause administrative and social confusion.",
+            "Countries pay to have the time zone lines moved to their benefit."
+        ],
+        "difficulty": "hard",
+        "questionType": "mcq",
+        "topic": "Time Zones",
+        "complexity_score": 3
+    },
+    {
+        "question": "The anthropologist K.S. Singh's finding that folklore connects the Pandavas to almost every part of the country implies what about the epics?",
+        "correct": "They have served as a foundational thread, allowing diverse communities to weave their own local histories into a larger, shared cultural identity.",
+        "options": [
+            "That the stories in the Mahabharata are geographically inaccurate.",
+            "They have served as a foundational thread, allowing diverse communities to weave their own local histories into a larger, shared cultural identity.",
+            "That only a few specific communities believe in the stories of the epics.",
+            "It proves the Pandavas were the first to create maps of India."
+        ],
+        "difficulty": "hard",
+        "questionType": "mcq",
+        "topic": "Indian Epics",
+        "complexity_score": 3
+    },
+    {
+        "question": "How does the example of using a single vegetable to prepare numerous different dishes serve as a metaphor for India's 'unity in diversity'?",
+        "correct": "It shows how a single, common element (unity) can be the basis for a vast array of creative and varied expressions (diversity).",
+        "options": [
+            "It proves that all vegetables taste the same when cooked.",
+            "It shows how a single, common element (unity) can be the basis for a vast array of creative and varied expressions (diversity).",
+            "It suggests that diversity leads to conflict over the 'correct' way to cook.",
+            "It implies that true unity can only be achieved if everyone eats the same food."
+        ],
+        "difficulty": "hard",
+        "questionType": "mcq",
+        "topic": "Concept of Unity in Diversity",
+        "complexity_score": 3
+    },
+    {
+        "question": "Why must a traveler crossing the International Date Line from west to east (e.g., from Asia to America) change the date on their watch from Monday back to Sunday?",
+        "correct": "Because they are moving into time zones that are progressively earlier, effectively crossing the point where the 24-hour difference between +12 GMT and -12 GMT requires moving to the previous day.",
+        "options": [
+            "Because traveling east against the Earth's rotation makes you lose a day.",
+            "This is an arbitrary rule with no relation to time zones.",
+            "Because they are moving into time zones that are progressively earlier, effectively crossing the point where the 24-hour difference between +12 GMT and -12 GMT requires moving to the previous day.",
+            "Because the Eastern Hemisphere is scientifically defined as being one day ahead of the Western Hemisphere."
+        ],
+        "difficulty": "hard",
+        "questionType": "mcq",
+        "topic": "International Date Line",
+        "complexity_score": 3
+    }
 ]
