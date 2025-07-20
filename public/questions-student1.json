@@ -1,282 +1,282 @@
 [
-    {
-        "question": "According to the text, what is the name of the ancient collection of delightful stories, with animals as main characters, that has been adapted into almost every Indian language and beyond?",
-        "correct": "Panchatantra",
-        "options": [
-            "Ramayana",
-            "Mahabharata",
-            "Panchatantra",
-            "Vedas"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Indian Literature",
-        "complexity_score": 1
-    },
-    {
-        "question": "Which unstitched piece of cloth is mentioned as a common traditional dress for women in most parts of India, coming in hundreds of varieties?",
-        "correct": "Sari",
-        "options": [
-            "Dhoti",
-            "Sari",
-            "Kurta",
-            "Sherwani"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Indian Clothing",
-        "complexity_score": 1
-    },
-    {
-        "question": "The text identifies three important components that are essential for reading maps. What are they?",
-        "correct": "Distance, direction, and symbols",
-        "options": [
-            "Latitude, longitude, and poles",
-            "Physical, political, and thematic types",
-            "Distance, direction, and symbols",
-            "Oceans, continents, and rivers"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Map Components",
-        "complexity_score": 1
-    },
-    {
-        "question": "What is the name of the imaginary line that runs halfway between the North and South Poles, marked as 0° latitude?",
-        "correct": "Equator",
-        "options": [
-            "Prime Meridian",
-            "Tropic of Cancer",
-            "Equator",
-            "International Date Line"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Latitude and Longitude",
-        "complexity_score": 1
-    },
-    {
-        "question": "Which festival, marking the harvest season around January 14th, is known by various names across India such as Pongal, Magh Bihu, and Lohri?",
-        "correct": "Makara Sankranti",
-        "options": [
-            "Diwali",
-            "Holi",
-            "Navaratri",
-            "Makara Sankranti"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Indian Festivals",
-        "complexity_score": 1
-    },
-    {
-        "question": "What is the international standard for the Prime Meridian (0° longitude)?",
-        "correct": "The meridian passing through Greenwich, England",
-        "options": [
-            "The meridian passing through Ujjain, India",
-            "The International Date Line",
-            "The meridian passing through Paris, France",
-            "The meridian passing through Greenwich, England"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Latitude and Longitude",
-        "complexity_score": 1
-    },
-    {
-        "question": "The 'People of India project' conducted by the Anthropological Survey of India highlighted the country's vast diversity. What was one of its key findings mentioned in the text?",
-        "correct": "It counted 325 languages using 25 different scripts.",
-        "options": [
-            "It discovered that all Indians eat the exact same food.",
-            "It proved that India has only 50 distinct communities.",
-            "It counted 325 languages using 25 different scripts.",
-            "It found that no one in India migrates from their birthplace."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Indian Diversity",
-        "complexity_score": 2
-    },
-    {
-        "question": "How does Indian cuisine exemplify the concept of 'unity in diversity' as described in the chapter?",
-        "correct": "The use of common staple grains and spices across the country to create an endless variety of regional dishes.",
-        "options": [
-            "By proving that every region uses completely unique ingredients not found elsewhere.",
-            "The fact that only a few dishes are popular throughout the entire country.",
-            "The use of common staple grains and spices across the country to create an endless variety of regional dishes.",
-            "By showing that Indian food has not changed for thousands of years."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Unity in Food",
-        "complexity_score": 2
-    },
-    {
-        "question": "What was the consequence of the Indian textile 'chintz' becoming highly popular in 17th-century Europe?",
-        "correct": "England and France banned its import to protect their local textile industries.",
-        "options": [
-            "It led to a major trade alliance between India and all of Europe.",
-            "It was quickly forgotten and had no major economic impact.",
-            "England and France banned its import to protect their local textile industries.",
-            "It caused the price of cotton in India to fall dramatically."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Indian Textiles",
-        "complexity_score": 2
-    },
-    {
-        "question": "Why is a globe considered a better representation of the Earth than a flat map?",
-        "correct": "Because its spherical shape matches the Earth's, avoiding the distortion that occurs when flattening a curved surface.",
-        "options": [
-            "Because globes are always larger and can show more detail.",
-            "Because its spherical shape matches the Earth's, avoiding the distortion that occurs when flattening a curved surface.",
-            "Because flat maps cannot use colors or symbols.",
-            "Because globes are made of more accurate materials."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Maps and Globes",
-        "complexity_score": 2
-    },
-    {
-        "question": "Based on the rule that the Earth rotates 15° per hour, if it is 12 PM (noon) at the Prime Meridian (0°), what is the local time at 30°E longitude?",
-        "correct": "2 PM",
-        "options": [
-            "10 AM",
-            "1 PM",
-            "2 PM",
-            "3 PM"
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Time Zones",
-        "complexity_score": 2
-    },
-    {
-        "question": "What is a key difference between parallels of latitude and meridians of longitude?",
-        "correct": "Parallels of latitude are full circles that decrease in size towards the poles, while meridians are half-circles of the same length.",
-        "options": [
-            "Parallels of latitude are full circles that decrease in size towards the poles, while meridians are half-circles of the same length.",
-            "Meridians are parallel to each other, but parallels of latitude are not.",
-            "Only parallels of latitude are measured in degrees.",
-            "Latitude determines time, while longitude determines climate."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Latitude and Longitude",
-        "complexity_score": 2
-    },
-    {
-        "question": "How did ancient Indian astronomers, according to the text, establish a prime meridian long before Greenwich was chosen?",
-        "correct": "They used a 'madhya rekha' (middle line) which passed through the city of Ujjayinī.",
-        "options": [
-            "They adopted the same line as the ancient Greeks.",
-            "They used a 'madhya rekha' (middle line) which passed through the city of Ujjayinī.",
-            "They declared the river Ganga as the prime meridian.",
-            "The text states they had no concept of a prime meridian."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "History of Cartography",
-        "complexity_score": 2
-    },
-    {
-        "question": "The existence of hundreds of folk and tribal versions of the Ramayana and Mahabharata across India primarily illustrates what concept?",
-        "correct": "The creation of a dense web of cultural interactions and unity through shared narratives.",
-        "options": [
-            "The inaccuracy of oral traditions compared to written texts.",
-            "The creation of a dense web of cultural interactions and unity through shared narratives.",
-            "That different regions of India have no shared cultural elements.",
-            "A historical conflict between different communities over the epics."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Unity in Literature",
-        "complexity_score": 2
-    },
-    {
-        "question": "Jawaharlal Nehru's observation that even illiterate villagers knew hundreds of verses from the epics suggests what about the transmission of culture in India?",
-        "correct": "That cultural values and rich narratives were deeply embedded and passed down through a powerful oral tradition.",
-        "options": [
-            "That literacy rates were actually very high.",
-            "That the epics were simple stories with little meaning.",
-            "That cultural knowledge was exclusive to the upper classes.",
-            "That cultural values and rich narratives were deeply embedded and passed down through a powerful oral tradition."
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Cultural Transmission",
-        "complexity_score": 3
-    },
-    {
-        "question": "A friend in Assam (eastern India) notes that the sun has set, while for you in Gujarat (western India), it is still bright daylight. What is the fundamental reason for this, despite both locations using Indian Standard Time (IST)?",
-        "correct": "The large longitudinal distance between the two states means their local solar times are significantly different.",
-        "options": [
-            "The clocks in Assam are set to a different standard time than in Gujarat.",
-            "The large longitudinal distance between the two states means their local solar times are significantly different.",
-            "This is an optical illusion caused by atmospheric differences.",
-            "IST ensures that the sun sets at the same moment across all of India."
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Time Zones and Longitude",
-        "complexity_score": 3
-    },
-    {
-        "question": "The text states that the lines dividing time zones on a world map are not perfectly straight but often follow international borders. What is the most logical inference for this practice?",
-        "correct": "It is a practical measure to avoid dividing a single country into multiple time zones, which would cause administrative and social confusion.",
-        "options": [
-            "It is impossible to draw straight lines on a spherical globe.",
-            "The lines are bent by the Earth's magnetic field.",
-            "It is a practical measure to avoid dividing a single country into multiple time zones, which would cause administrative and social confusion.",
-            "Countries pay to have the time zone lines moved to their benefit."
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Time Zones",
-        "complexity_score": 3
-    },
-    {
-        "question": "The anthropologist K.S. Singh's finding that folklore connects the Pandavas to almost every part of the country implies what about the epics?",
-        "correct": "They have served as a foundational thread, allowing diverse communities to weave their own local histories into a larger, shared cultural identity.",
-        "options": [
-            "That the stories in the Mahabharata are geographically inaccurate.",
-            "They have served as a foundational thread, allowing diverse communities to weave their own local histories into a larger, shared cultural identity.",
-            "That only a few specific communities believe in the stories of the epics.",
-            "It proves the Pandavas were the first to create maps of India."
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Indian Epics",
-        "complexity_score": 3
-    },
-    {
-        "question": "How does the example of using a single vegetable to prepare numerous different dishes serve as a metaphor for India's 'unity in diversity'?",
-        "correct": "It shows how a single, common element (unity) can be the basis for a vast array of creative and varied expressions (diversity).",
-        "options": [
-            "It proves that all vegetables taste the same when cooked.",
-            "It shows how a single, common element (unity) can be the basis for a vast array of creative and varied expressions (diversity).",
-            "It suggests that diversity leads to conflict over the 'correct' way to cook.",
-            "It implies that true unity can only be achieved if everyone eats the same food."
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Concept of Unity in Diversity",
-        "complexity_score": 3
-    },
-    {
-        "question": "Why must a traveler crossing the International Date Line from west to east (e.g., from Asia to America) change the date on their watch from Monday back to Sunday?",
-        "correct": "Because they are moving into time zones that are progressively earlier, effectively crossing the point where the 24-hour difference between +12 GMT and -12 GMT requires moving to the previous day.",
-        "options": [
-            "Because traveling east against the Earth's rotation makes you lose a day.",
-            "This is an arbitrary rule with no relation to time zones.",
-            "Because they are moving into time zones that are progressively earlier, effectively crossing the point where the 24-hour difference between +12 GMT and -12 GMT requires moving to the previous day.",
-            "Because the Eastern Hemisphere is scientifically defined as being one day ahead of the Western Hemisphere."
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "International Date Line",
-        "complexity_score": 3
-    }
+  {
+    "question": "Which verb form correctly completes the sentence: 'Ankitah has already _______ her class 12 exams.'?",
+    "correct": "completed",
+    "options": [
+      "completing",
+      "is completing",
+      "completed",
+      "complete"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which sentence uses the simple present tense correctly?",
+    "correct": "Monsoons occur in India.",
+    "options": [
+      "She is making a life-size painting.",
+      "Monsoons occur in India.",
+      "He was questioned by his father.",
+      "It has been snowing."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Simple Present Tense",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which sentence is in the present continuous tense?",
+    "correct": "She is meeting him on Sunday.",
+    "options": [
+      "He has been washing the car.",
+      "She is meeting him on Sunday.",
+      "I saw some interesting errors.",
+      "Ankitah has also completed her class."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Present Continuous Tense",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which auxiliary verb is used with 'they' in the present perfect continuous tense?",
+    "correct": "have been",
+    "options": [
+      "is",
+      "has been",
+      "have been",
+      "are"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Present Perfect Continuous Tense",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the correct verb form for the sentence: 'Mohan has _______ for several jobs.'?",
+    "correct": "applied",
+    "options": [
+      "apply",
+      "applying",
+      "applied",
+      "applies"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 1
+  },
+  {
+    "question": "Choose the correct sentence: 'Why _____ all those people laughing?'",
+    "correct": "are",
+    "options": [
+      "is",
+      "was",
+      "are",
+      "has"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Subject-Verb Agreement",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which sentence correctly uses the present perfect continuous tense to show a duration of time?",
+    "correct": "It has been snowing continuously since yesterday.",
+    "options": [
+      "It is snowing continuously since yesterday.",
+      "It has been snowing continuously since yesterday.",
+      "It snowed continuously since yesterday.",
+      "It will snow continuously since yesterday."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Present Perfect Continuous Tense",
+    "complexity_score": 2
+  },
+  {
+    "question": "In the sentence, 'The children are tired because they _____ in the field all morning,' which option is grammatically correct and makes the most sense?",
+    "correct": "have been playing",
+    "options": [
+      "are playing",
+      "was playing",
+      "have been playing",
+      "played"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Tense Application",
+    "complexity_score": 2
+  },
+  {
+    "question": "Choose the correct subject-verb agreement for the sentence: 'The Public Health Department _____ putting a lot of stress on sanitation.'",
+    "correct": "has been",
+    "options": [
+      "have been",
+      "are",
+      "has been",
+      "is being"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Subject-Verb Agreement (Collective Nouns)",
+    "complexity_score": 2
+  },
+  {
+    "question": "Correct the error in this sentence: 'She and his friends is practicing judo.'",
+    "correct": "She and her friends are practicing judo.",
+    "options": [
+      "She and his friends was practicing judo.",
+      "She and her friends are practicing judo.",
+      "She and his friends has been practicing judo.",
+      "The sentence is correct."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Subject-Verb Agreement",
+    "complexity_score": 2
+  },
+  {
+    "question": "If you are telling a story that happened in the past, like a jungle safari you went on yesterday, what is the most appropriate tense to start with?",
+    "correct": "Past Tense (e.g., 'I entered the jungle...')",
+    "options": [
+      "Present Tense (e.g., 'I enter the jungle...')",
+      "Future Tense (e.g., 'I will enter the jungle...')",
+      "Past Tense (e.g., 'I entered the jungle...')",
+      "Present Continuous (e.g., 'I am entering the jungle...')"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Narrative Tense",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the difference in meaning between 'He is washing the car' and 'He has been washing the car for three hours'?",
+    "correct": "The second sentence emphasizes the duration of the action.",
+    "options": [
+      "There is no difference in meaning.",
+      "The first sentence is past tense, the second is present.",
+      "The second sentence emphasizes the duration of the action.",
+      "The first sentence is more formal than the second."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Tense Nuances",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which verb would best describe what deer do with grass in a field?",
+    "correct": "graze",
+    "options": [
+      "roam",
+      "drag",
+      "spot",
+      "graze"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Vocabulary in Context",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which question is grammatically correct?",
+    "correct": "What game are those children playing?",
+    "options": [
+      "What game is those children playing?",
+      "What game are those children playing?",
+      "What game does those children playing?",
+      "What game those children are playing?"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Question Formation",
+    "complexity_score": 2
+  },
+  {
+    "question": "The sentence 'Your daughter _____ you the same thing since you got here' requires the Present Perfect Continuous. Why?",
+    "correct": "The word 'since' indicates an action that started in the past and continues to the present.",
+    "options": [
+      "The sentence is about the future.",
+      "The word 'daughter' is singular.",
+      "The word 'since' indicates an action that started in thepast and continues to the present.",
+      "Because the action is already completed."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Analytical Grammar",
+    "complexity_score": 3
+  },
+  {
+    "question": "In the sentence 'The people who dash to office by foot now should take the bus,' why is 'go' (simple present) a better choice than 'are going'?",
+    "correct": "'Go' describes a regular, habitual action, not one happening at this exact moment.",
+    "options": [
+      "'Are going' is grammatically incorrect here.",
+      "'Go' describes a regular, habitual action, not one happening at this exact moment.",
+      "'Go' is past tense and fits the context.",
+      "'Are going' would mean they are on their way right now, which doesn't fit the sentence's meaning."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Tense Choice Analysis",
+    "complexity_score": 3
+  },
+  {
+    "question": "Why is 'The Public Health Department has been putting...' correct, even though 'department' can consist of many people?",
+    "correct": "In this context, 'Department' is treated as a single, collective unit.",
+    "options": [
+      "It is an exception to the grammar rule.",
+      "The sentence is actually incorrect; it should be 'have been'.",
+      "Because 'Public Health' is singular.",
+      "In this context, 'Department' is treated as a single, collective unit."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Collective Nouns",
+    "complexity_score": 3
+  },
+  {
+    "question": "Analyze the sentence: 'He was questioned by his father about the broken window.' To change this to Present Perfect tense, which is the correct form?",
+    "correct": "He has been questioned by his father...",
+    "options": [
+      "He has questioned his father...",
+      "He is being questioned by his father...",
+      "He has been questioned by his father...",
+      "His father has been questioning him..."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Tense Transformation (Passive Voice)",
+    "complexity_score": 3
+  },
+  {
+    "question": "A story starts with 'I am entering the jungle safari.' What effect does using the present tense have on the narrative?",
+    "correct": "It makes the reader feel like the events are happening right now, creating a sense of immediacy.",
+    "options": [
+      "It makes the story sound less formal.",
+      "It suggests the events happened a long time ago.",
+      "It makes the reader feel like the events are happening right now, creating a sense of immediacy.",
+      "It is grammatically incorrect for storytelling."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Narrative Technique",
+    "complexity_score": 3
+  },
+  {
+    "question": "Consider the two phrases: 'I saw a tiger' and 'Suddenly, a tiger arrives.' Which one creates more suspense and immediacy in a present-tense story?",
+    "correct": "'Suddenly, a tiger arrives.' because it uses the present tense to match the ongoing narrative.",
+    "options": [
+      "'I saw a tiger' because 'saw' is a stronger verb.",
+      "Both are equally effective.",
+      "'Suddenly, a tiger arrives.' because it uses the present tense to match the ongoing narrative.",
+      "Neither creates suspense; the description of the tiger is what matters."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Literary Devices",
+    "complexity_score": 3
+  }
 ]
