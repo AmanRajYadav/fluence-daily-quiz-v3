@@ -1,282 +1,282 @@
 [
   {
-    "question": "Which verb form correctly completes the sentence: 'Ankitah has already _______ her class 12 exams.'?",
-    "correct": "completed",
+    "question": "According to the lesson, what is a better English word for 'pakoda'?",
+    "correct": "Fritters",
     "options": [
-      "completing",
-      "complete",
-      "completed",
-      "is completing"
+      "Fryers",
+      "Pakoras",
+      "Fritters",
+      "Snack-balls"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Perfect Tense",
+    "topic": "Vocabulary",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence uses the Simple Present tense?",
-    "correct": "Monsoons occur in India.",
+    "question": "Which sentence uses the correct grammar as discussed in the class?",
+    "correct": "The trees are covered with greenery.",
     "options": [
-      "She is making a life-size painting.",
-      "It has been snowing.",
-      "Monsoons occur in India.",
-      "He was questioned by his father."
+      "The trees is covered with green flower.",
+      "The trees are covered with greenery.",
+      "The tree are covered in green.",
+      "The trees is green."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Tense Identification",
+    "topic": "Grammar - Subject-Verb Agreement",
     "complexity_score": 1
   },
   {
-    "question": "How do you correct the sentence: 'She and his friends is practicing judo.'?",
-    "correct": "She and his friends are practicing judo.",
+    "question": "In the welcome address taught, what does the word 'amiable' mean?",
+    "correct": "Friendly",
     "options": [
-      "She and his friends was practicing judo.",
-      "She and his friends has been practicing judo.",
-      "She and his friends are practicing judo.",
-      "The sentence is already correct."
+      "Strict",
+      "Important",
+      "Friendly",
+      "Intelligent"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement",
+    "topic": "Vocabulary",
     "complexity_score": 1
   },
   {
-    "question": "What is the correct verb for the sentence: 'What game ____ those children playing?'",
-    "correct": "are",
+    "question": "When giving a speech introduction in your own school, what information is usually NOT necessary to state?",
+    "correct": "Your school's name",
     "options": [
-      "is",
-      "was",
-      "are",
-      "has"
+      "Your class and section",
+      "Your name",
+      "The name of your house",
+      "Your school's name"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement",
+    "topic": "Public Speaking - Context",
     "complexity_score": 1
   },
   {
-    "question": "The sentence 'She is making a painting' is in which tense?",
-    "correct": "Present Continuous",
+    "question": "What phrase was suggested to wish the audience a great morning or afternoon?",
+    "correct": "Wishing you all a splendid morning/afternoon.",
     "options": [
-      "Simple Present",
-      "Present Perfect",
-      "Present Continuous",
-      "Simple Past"
+      "Hope you have a good day.",
+      "Good morning to everyone here.",
+      "Wishing you all a splendid morning/afternoon.",
+      "I hope your morning is nice."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Tense Identification",
+    "topic": "Public Speaking - Phrasing",
     "complexity_score": 1
   },
   {
-    "question": "In the jungle safari story, what were the deer doing?",
-    "correct": "Grazing",
+    "question": "According to the teacher, what should you NOT include in a formal speech introduction?",
+    "correct": "The names of your family members",
     "options": [
-      "Roaming",
-      "Driving",
-      "Grazing",
-      "Spotting"
+      "The topic of your speech",
+      "Your name",
+      "The names of your family members",
+      "A greeting to the audience"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary in Context",
+    "topic": "Public Speaking - Content",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence is the correct way to say an action started yesterday and is still happening?",
-    "correct": "It has been snowing since yesterday.",
+    "question": "Why is it better to say 'My school is filled with water' instead of 'My school is full with water'?",
+    "correct": "'Filled' is the correct verb form to describe the action of being filled.",
     "options": [
-      "It is snowing since yesterday.",
-      "It has been snowing since yesterday.",
-      "It snows since yesterday.",
-      "It was snowing since yesterday."
+      "'Full' is not an English word.",
+      "'Filled' is a more advanced vocabulary word.",
+      "'Filled' is the correct verb form to describe the action of being filled.",
+      "Both sentences are equally correct."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Present Perfect Continuous",
+    "topic": "Grammar - Word Choice",
     "complexity_score": 2
   },
   {
-    "question": "The children are tired. What is the reason, using the Present Perfect Continuous tense?",
-    "correct": "They have been playing in the field all morning.",
+    "question": "If Anaya were competing in an inter-STATE competition, what would she be representing?",
+    "correct": "Her state (Chattisgarh)",
     "options": [
-      "They are playing in the field all morning.",
-      "They play in the field all morning.",
-      "They have been playing in the field all morning.",
-      "They has been playing in the field all morning."
+      "Her school (Delhi Public School)",
+      "Her house (Ganga House)",
+      "Her country (India)",
+      "Her state (Chattisgarh)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Present Perfect Continuous",
+    "topic": "Public Speaking - Contextual Adaptation",
     "complexity_score": 2
   },
   {
-    "question": "If you change 'He was questioned by his father' to the Present Perfect tense, what does it become?",
-    "correct": "He has been questioned by his father.",
+    "question": "What is the main purpose of the first part of the introduction script, 'First of all, I pay my deepest regards to my... trainer'?",
+    "correct": "To show respect and formally greet the important people present.",
     "options": [
-      "He is questioned by his father.",
-      "He has questioned his father.",
-      "He have been questioned by his father.",
-      "He has been questioned by his father."
+      "To make the speech longer.",
+      "To introduce the speaker's family.",
+      "To show respect and formally greet the important people present.",
+      "To state the topic of the speech immediately."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Tense Transformation",
+    "topic": "Public Speaking - Structure",
     "complexity_score": 2
   },
   {
-    "question": "Choose the correct sentence for an action that has been happening for a specific duration.",
-    "correct": "He has been driving the car for three hours.",
+    "question": "The teacher suggests using a phrase like 'I got a platinum chance to participate'. What is the effect of using the word 'platinum'?",
+    "correct": "It makes the opportunity sound very special and valuable.",
     "options": [
-      "He is driving the car for three hours.",
-      "He has been driving the car for three hours.",
-      "He drives the car for three hours.",
-      "He was driving the car for three hours."
+      "It confuses the audience.",
+      "It proves the speaker is wealthy.",
+      "It is a required part of all speeches.",
+      "It makes the opportunity sound very special and valuable."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Present Perfect Continuous",
+    "topic": "Public Speaking - Rhetorical Devices",
     "complexity_score": 2
   },
   {
-    "question": "How do you correct the error in 'Moha has apply for several jobs.'?",
-    "correct": "Moha has applied for several jobs.",
+    "question": "If you are representing your school in a competition against other schools, why is it important to mention your school's name?",
+    "correct": "Because the audience needs to know which school you represent.",
     "options": [
-      "Moha have apply for several jobs.",
-      "Moha is applying for several jobs.",
-      "Moha has applied for several jobs.",
-      "Moha had applying for several jobs."
+      "Because it is your home.",
+      "Because your principal will be angry if you don't.",
+      "Because the audience needs to know which school you represent.",
+      "Because it is the first rule of all speeches."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Present Perfect Tense",
+    "topic": "Public Speaking - Audience Awareness",
     "complexity_score": 2
   },
   {
-    "question": "What is the correct form for the sentence: 'We _____ to find our way home for the last two hours.'?",
-    "correct": "have been trying",
+    "question": "The teacher corrected 'And it is look beautiful' to 'And it becomes beautiful'. What is the reason for this change?",
+    "correct": "It properly expresses the transformation or change that happens.",
     "options": [
-      "are trying",
-      "try",
-      "have been trying",
-      "has been trying"
+      "'Look' can only be used for people.",
+      "It properly expresses the transformation or change that happens.",
+      "'Beautiful' is always used with 'becomes'.",
+      "The original sentence was grammatically correct."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Present Perfect Continuous",
+    "topic": "Grammar - Verb Tense and Meaning",
     "complexity_score": 2
   },
   {
-    "question": "Which tense is most appropriate for a question about someone's current well-being after an event?",
-    "correct": "How is he doing after the accident?",
+    "question": "What is the key difference between the two types of introductions the teacher described (for a speech vs. for an interview)?",
+    "correct": "The interview introduction is more personal and detailed about your life and skills.",
     "options": [
-      "How has he done after the accident?",
-      "How is he doing after the accident?",
-      "How does he do after the accident?",
-      "How he did after the accident?"
+      "There is no difference; the teacher used two examples for the same thing.",
+      "The interview introduction is much shorter than the speech introduction.",
+      "The speech introduction includes your hobbies, while the interview one does not.",
+      "The interview introduction is more personal and detailed about your life and skills."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Tense Application",
+    "topic": "Public Speaking - Contextual Variation",
     "complexity_score": 2
   },
   {
-    "question": "In the sentence 'The people who ____ to the office by foot...', which verb form suggests a regular, habitual action?",
-    "correct": "walk",
+    "question": "The teacher corrected 'I am not attempt the quiz' to 'I could not attempt the quiz'. This change expresses:",
+    "correct": "An inability to do something in the past.",
     "options": [
-      "are walking",
-      "have been walking",
-      "walk",
-      "walked"
+      "A decision not to do something.",
+      "A future plan to do something.",
+      "An inability to do something in the past.",
+      "A present action."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Simple Present Tense",
+    "topic": "Grammar - Modal Verbs",
     "complexity_score": 2
   },
   {
-    "question": "Why is 'The Public Health Department HAS BEEN putting...' the correct form?",
-    "correct": "Because 'Department' is a single, collective noun.",
+    "question": "Why did the teacher emphasize practicing the speech with vocal variety (changing your voice) instead of a 'monotonous' tone?",
+    "correct": "To make the speech more engaging and interesting for the audience.",
     "options": [
-      "Because 'Public Health' is plural.",
-      "Because 'Department' refers to many people, so it is plural.",
-      "Because 'Department' is a single, collective noun.",
-      "Because the action happened in the past."
+      "Because speaking in a monotonous tone is easier.",
+      "To show that the speaker can shout loudly.",
+      "To meet the minimum word count for the speech.",
+      "To make the speech more engaging and interesting for the audience."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement (Collective Nouns)",
+    "topic": "Public Speaking - Delivery",
     "complexity_score": 3
   },
   {
-    "question": "The presence of 'since' or 'for' in a sentence is a strong clue that you should probably use which tense?",
-    "correct": "Present Perfect Continuous",
+    "question": "The lesson demonstrates that the 'correct' way to introduce yourself depends heavily on one key factor. What is that factor?",
+    "correct": "The context and the audience you are speaking to.",
     "options": [
-      "Simple Present",
-      "Present Continuous",
-      "Present Perfect Continuous",
-      "Simple Past"
+      "How you are feeling that day.",
+      "The length of your speech.",
+      "The context and the audience you are speaking to.",
+      "The brand of the microphone."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Tense Analysis",
+    "topic": "Public Speaking - Core Principles",
     "complexity_score": 3
   },
   {
-    "question": "In the jungle safari story, the writer says 'I saw many trees' (Past Tense) and then 'Then suddenly a tiger arrives' (Present Tense). What is the main issue with this?",
-    "correct": "The verb tenses are inconsistent within the narrative.",
+    "question": "The teacher's detailed introduction model, which included his education and professional goals, served what primary purpose in the lesson?",
+    "correct": "To show how an introduction can be adapted for a different, more professional context.",
     "options": [
-      "The vocabulary is too simple.",
-      "The verb tenses are inconsistent within the narrative.",
-      "A tiger cannot suddenly arrive.",
-      "Simple Present is never used in stories."
+      "To prove he was a good teacher.",
+      "To provide a script for the student to memorize and use in school.",
+      "To show how an introduction can be adapted for a different, more professional context.",
+      "To fill time before getting to the main lesson."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Narrative Tense Consistency",
+    "topic": "Pedagogy and Application",
     "complexity_score": 3
   },
   {
-    "question": "Which sentence correctly uses a verb form for a planned future event?",
-    "correct": "She is seeing him on Sunday.",
+    "question": "When Anaya initially introduced herself by listing her family members' names, what fundamental principle of public speaking was she misunderstanding?",
+    "correct": "An introduction should be audience-focused, providing relevant information to them.",
     "options": [
-      "She will has seen him on Sunday.",
-      "She is seeing him on Sunday.",
-      "She does see him on Sunday.",
-      "She has been seeing him on Sunday."
+      "A speech should always be memorized perfectly.",
+      "An introduction must always be longer than one minute.",
+      "An introduction should be audience-focused, providing relevant information to them.",
+      "Family is the most important topic for any speech."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Present Continuous for Future Plans",
+    "topic": "Public Speaking - Audience Analysis",
     "complexity_score": 3
   },
   {
-    "question": "What is the key difference between 'I am painting' and 'I have been painting for two hours'?",
-    "correct": "'Have been painting' emphasizes the duration of the action.",
+    "question": "How does learning a structured introduction for a speech connect to the grammar corrections made earlier in the class?",
+    "correct": "Both aim to make communication clearer, more correct, and more effective.",
     "options": [
-      "There is no difference in meaning.",
-      "'Am painting' is for professional artists only.",
-      "'Have been painting' emphasizes the duration of the action.",
-      "'Am painting' means the action is finished."
+      "They are unrelated topics taught in the same class.",
+      "Good grammar is only important in writing, not speaking.",
+      "The speech introduction requires using incorrect grammar to sound friendly.",
+      "Both aim to make communication clearer, more correct, and more effective."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Tense Nuances",
+    "topic": "Synthesis of Concepts",
     "complexity_score": 3
   },
   {
-    "question": "Why is 'Your daughter has been telling you...' correct in the context of '...since you got here'?",
-    "correct": "The action started when the person arrived and is still continuing.",
+    "question": "What is the underlying goal of adapting your introduction for different events (e.g., House vs. National competition)?",
+    "correct": "To establish the most relevant identity for that specific audience.",
     "options": [
-      "Because the daughter is singular.",
-      "Because the action is finished.",
-      "The sentence is incorrect; it should be 'is telling'.",
-      "The action started when the person arrived and is still continuing."
+      "To make the introduction a different length each time.",
+      "To follow a strict set of rules for each type of event.",
+      "To establish the most relevant identity for that specific audience.",
+      "To show off how many places you have been to."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Tense Analysis",
+    "topic": "Public Speaking - Strategic Communication",
     "complexity_score": 3
   }
 ]
