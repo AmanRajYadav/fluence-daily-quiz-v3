@@ -1,62 +1,34 @@
 [
   {
-    "question": "Which phrase correctly uses the simple present tense to describe a recurring action?",
-    "correct": "Monsoons occur in India.",
+    "question": "Which tense is used to describe an action that is happening right now? For example: 'She ___ making a life-size painting.'",
+    "correct": "Present Continuous",
     "options": [
-      "Monsoons is occurring in India.",
-      "Monsoons occur in India.",
-      "Monsoons has occurred in India.",
-      "Monsoons was occurring in India."
+      "Simple Present",
+      "Present Perfect",
+      "Present Continuous",
+      "Past Continuous"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Simple Present Tense",
+    "topic": "Verb Tenses",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence is correctly written in the present continuous tense?",
-    "correct": "She is making a life-size painting.",
+    "question": "In the sentence 'Ankitah has already completed her exams,' which word indicates the use of the Present Perfect tense?",
+    "correct": "has",
     "options": [
-      "She has been make a life-size painting.",
-      "She makes a life-size painting.",
-      "She is making a life-size painting.",
-      "She make a life-size painting."
+      "already",
+      "completed",
+      "her",
+      "has"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Continuous Tense",
+    "topic": "Verb Tenses",
     "complexity_score": 1
   },
   {
-    "question": "To form the present perfect continuous tense, you need 'has/have' followed by...",
-    "correct": "been + verb-ing",
-    "options": [
-      "been + verb-ed",
-      "is + verb-ing",
-      "been + verb-ing",
-      "the base verb"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Present Perfect Continuous Tense",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which sentence correctly uses 'has' for a singular subject?",
-    "correct": "Mohan has applied for several jobs.",
-    "options": [
-      "Mohan have applied for several jobs.",
-      "Mohan has apply for several jobs.",
-      "Mohan is apply for several jobs.",
-      "Mohan has applied for several jobs."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Subject-Verb Agreement",
-    "complexity_score": 1
-  },
-  {
-    "question": "Choose the correct verb to complete the sentence: 'She and her friends ___ practicing judo.'",
+    "question": "Which word correctly completes the sentence: 'He and his friends ___ practicing judo.'?",
     "correct": "are",
     "options": [
       "is",
@@ -70,69 +42,69 @@
     "complexity_score": 1
   },
   {
-    "question": "Complete the sentence: 'Ankitah has already ___ her class 12 exams.'",
-    "correct": "completed",
+    "question": "The words 'since' and 'for' are often used with which tense to show an action that started in the past and is still continuing?",
+    "correct": "Present Perfect Continuous",
     "options": [
-      "completing",
-      "complete",
-      "is completing",
-      "completed"
+      "Simple Present",
+      "Present Continuous",
+      "Present Perfect Continuous",
+      "Simple Past"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Perfect Tense",
+    "topic": "Verb Tenses",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence is the correct choice for an action that started in the past and continues to the present?",
-    "correct": "It has been snowing continuously since yesterday.",
+    "question": "What is the correct form of the verb 'apply' in the sentence: 'Moha has ___ for several jobs.'?",
+    "correct": "applied",
     "options": [
-      "It is snowing continuously since yesterday.",
-      "It has been snowing continuously since yesterday.",
-      "It snowed continuously since yesterday.",
-      "It snows continuously since yesterday."
+      "apply",
+      "applies",
+      "applying",
+      "applied"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which of these is the correct way to ask the question: 'What you are reading?'",
+    "correct": "What are you reading?",
+    "options": [
+      "What is you reading?",
+      "What you reading?",
+      "What are you reading?",
+      "What does you read?"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Sentence Structure",
+    "complexity_score": 1
+  },
+  {
+    "question": "The sentence 'It ___ continuously since yesterday' requires the Present Perfect Continuous tense. Which option is correct?",
+    "correct": "has been snowing",
+    "options": [
+      "is snowing",
+      "snows",
+      "has been snowing",
+      "was snowing"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Present Perfect Continuous vs. Present Continuous",
+    "topic": "Verb Tenses",
     "complexity_score": 2
   },
   {
-    "question": "Choose the correct tense: 'The children are tired because they ___ in the field all morning.'",
-    "correct": "have been playing",
-    "options": [
-      "are playing",
-      "have been playing",
-      "played",
-      "has been playing"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Present Perfect Continuous Tense",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which verb from the lesson best describes what deer do with grass and leaves?",
-    "correct": "graze",
-    "options": [
-      "roam",
-      "drag",
-      "spot",
-      "graze"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vocabulary Application",
-    "complexity_score": 2
-  },
-  {
-    "question": "Change the following sentence from past tense to present perfect tense: 'He was questioned by his father.'",
+    "question": "To change 'He was questioned by his father' to the Present Perfect tense, how should it be rewritten?",
     "correct": "He has been questioned by his father.",
     "options": [
-      "He has been questioning by his father.",
-      "He is questioned by his father.",
+      "He is questioning his father.",
       "He has been questioned by his father.",
-      "He have been questioned by his father."
+      "He has questioned his father.",
+      "He is being questioned by his father."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -140,55 +112,83 @@
     "complexity_score": 2
   },
   {
-    "question": "Complete the question: 'What game ___ those children playing?'",
+    "question": "In the sentence 'The children are tired because they ___ in the field all morning,' which tense best explains why they are tired?",
+    "correct": "have been playing",
+    "options": [
+      "are playing",
+      "played",
+      "have been playing",
+      "will play"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Contextual Tense Usage",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why is 'have been trying' the correct choice for 'We ___ to find our way home for the last two hours'?",
+    "correct": "The action started in the past and is still ongoing.",
+    "options": [
+      "The action is a future plan.",
+      "The action happened and finished completely in the past.",
+      "The action is a general habit.",
+      "The action started in the past and is still ongoing."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Tenses",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which sentence correctly uses the verb 'graze' from the writing exercise?",
+    "correct": "In the distance, we could see the deer graze peacefully.",
+    "options": [
+      "The tiger will graze the deer.",
+      "I saw the lion graze through the jungle.",
+      "In the distance, we could see the deer graze peacefully.",
+      "The birds graze in their nests."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Vocabulary in Context",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which sentence correctly changes 'She is making a painting' to the Simple Present tense?",
+    "correct": "She makes a painting.",
+    "options": [
+      "She made a painting.",
+      "She has made a painting.",
+      "She makes a painting.",
+      "She will make a painting."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Tense Transformation",
+    "complexity_score": 2
+  },
+  {
+    "question": "Choose the correct verb form: 'My grandmother's backache ___ since she started doing yoga.'",
+    "correct": "has been improving",
+    "options": [
+      "is improving",
+      "improves",
+      "has been improving",
+      "improved"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Tenses",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which verb correctly completes the sentence: 'What game ___ those children playing?'",
     "correct": "are",
     "options": [
       "is",
       "are",
       "do",
-      "has"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Question Formation",
-    "complexity_score": 2
-  },
-  {
-    "question": "The sentence 'He ___ the car for three hours' requires the present perfect continuous tense because...",
-    "correct": "it specifies a duration of time ('for three hours').",
-    "options": [
-      "the action is happening right now.",
-      "the action is finished.",
-      "it specifies a duration of time ('for three hours').",
-      "it is a question."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Grammar Rules Application",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which verb means to wander or move about aimlessly, like animals in a large jungle?",
-    "correct": "roam",
-    "options": [
-      "drive",
-      "drag",
-      "graze",
-      "roam"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vocabulary Application",
-    "complexity_score": 2
-  },
-  {
-    "question": "Identify the correct sentence using a collective noun.",
-    "correct": "The public health department has been putting a lot of stress on sanitation.",
-    "options": [
-      "The public health department are putting a lot of stress on sanitation.",
-      "The public health department have been putting a lot of stress on sanitation.",
-      "The public health department is put a lot of stress on sanitation.",
-      "The public health department has been putting a lot of stress on sanitation."
+      "does"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -196,87 +196,87 @@
     "complexity_score": 2
   },
   {
-    "question": "Analyze this sentence: 'The people ___ to the office by foot now take the bus.' Why is 'are walking' a better fit than 'have been walking'?",
-    "correct": "Because there is no mention of a specific duration like 'since' or 'for'.",
+    "question": "In the sentence 'The Public Health Department ___ putting a lot of stress on sanitation,' why is 'has been' used instead of 'have been'?",
+    "correct": "'Department' is a single, collective noun.",
     "options": [
-      "Because 'have been walking' is past tense.",
-      "Because the sentence talks about a group of people.",
-      "Because there is no mention of a specific duration like 'since' or 'for'.",
-      "Because 'are walking' is simpler to say."
+      "'Department' is always plural.",
+      "Because 'Public Health' contains two words.",
+      "'Department' is a single, collective noun.",
+      "It is a mistake; it should be 'have been'."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Tense Analysis",
+    "topic": "Subject-Verb Agreement",
     "complexity_score": 3
   },
   {
-    "question": "If a story begins, 'When I entered the jungle, I saw a tiger,' which of the following sentences would be inconsistent with the established tense?",
-    "correct": "The tiger is dragging a deer.",
+    "question": "Consider the sentence: 'The people who ___ to the office by foot now take the bus.' Which verb form is most appropriate and why?",
+    "correct": "'go', because it describes a general habit or fact.",
     "options": [
-      "The tiger dragged a deer.",
-      "The tiger was dragging a deer.",
-      "The tiger is dragging a deer.",
-      "I watched the tiger's family."
+      "'are going', because the action is happening now.",
+      "'have been going', because it happened over a period of time.",
+      "'go', because it describes a general habit or fact.",
+      "'went', because it is a past action."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Tense Consistency in Narrative",
+    "topic": "Contextual Tense Usage",
     "complexity_score": 3
   },
   {
-    "question": "Your daughter ___ you the same thing since you got here.' Which option is correct and why?",
-    "correct": "'has been telling' because 'since' indicates a continuing action from a past point.",
-    "options": [
-      "'is telling' because the action is happening now.",
-      "'has been telling' because 'since' indicates a continuing action from a past point.",
-      "'tells' because it's a simple fact.",
-      "'have been telling' because 'daughter' is plural."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Grammar Rules Analysis",
-    "complexity_score": 3
-  },
-  {
-    "question": "In the jungle safari story, the verb 'spot' is used. How is 'spotting' different from 'seeing' in this context?",
-    "correct": "'Spotting' implies suddenly noticing something that might be hard to see.",
-    "options": [
-      "There is no difference; they mean the same thing.",
-      "'Spotting' is only used for animals with spots.",
-      "'Spotting' implies suddenly noticing something that might be hard to see.",
-      "'Seeing' is a more formal word than 'spotting'."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Vocabulary Nuance",
-    "complexity_score": 3
-  },
-  {
-    "question": "Consider the question: 'How ___ he ___ after the accident?' The correct present continuous form 'is he doing' implies what?",
-    "correct": "A query about his current state of recovery and well-being.",
-    "options": [
-      "A query about his current state of recovery and well-being.",
-      "That he is physically performing the accident again.",
-      "That the accident is still happening.",
-      "A question about what caused the accident."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Inferential Comprehension",
-    "complexity_score": 3
-  },
-  {
-    "question": "We use the present continuous ('She is meeting him on Sunday') to talk about a future plan. How does this differ from using 'will' ('She will meet him on Sunday')?",
-    "correct": "The present continuous often implies the arrangement is already fixed and confirmed.",
+    "question": "What is the key difference in meaning between 'She is meeting him on Sunday' (Present Continuous) and 'She meets him on Sundays' (Simple Present)?",
+    "correct": "The first is a specific future plan, the second is a repeated habit.",
     "options": [
       "There is no difference in meaning.",
-      "'Will' is more certain than the present continuous.",
-      "The present continuous is only for plans happening very soon.",
-      "The present continuous often implies the arrangement is already fixed and confirmed."
+      "The first is happening right now, the second is a future plan.",
+      "The first is a specific future plan, the second is a repeated habit.",
+      "The first is a guess, the second is a confirmed fact."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Tense Nuance",
+    "topic": "Nuances of Tense",
+    "complexity_score": 3
+  },
+  {
+    "question": "A story starts with 'When I entered the jungle...'. Based on this opening, which tense should the rest of the story's main actions use to remain consistent?",
+    "correct": "Simple Past",
+    "options": [
+      "Present Perfect",
+      "Future Tense",
+      "Present Continuous",
+      "Simple Past"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Narrative Tense",
+    "complexity_score": 3
+  },
+  {
+    "question": "The question 'How is he doing after the accident?' implies what about the person's condition?",
+    "correct": "It asks about their current state of recovery or well-being.",
+    "options": [
+      "It asks what actions they are performing.",
+      "It asks for a description of the accident.",
+      "It asks about their current state of recovery or well-being.",
+      "It implies the person caused the accident."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Inference and Pragmatics",
+    "complexity_score": 3
+  },
+  {
+    "question": "Analyze this sentence: 'Your daughter has been telling you the same thing since you got here.' Why is Present Perfect Continuous the best choice?",
+    "correct": "It emphasizes the continuous, repeated nature of an action that started in the past and continues to the present.",
+    "options": [
+      "Because the action is a single, completed event.",
+      "It is used for actions happening at the exact moment of speaking.",
+      "It describes a future intention.",
+      "It emphasizes the continuous, repeated nature of an action that started in the past and continues to the present."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Advanced Tense Analysis",
     "complexity_score": 3
   }
 ]
