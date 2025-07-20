@@ -1,22 +1,282 @@
 [
   {
-    "question": "What is the chemical symbol for gold?",
-    "correct": "Au",
+    "question": "According to the lesson, what is the English word for 'pakoda'?",
+    "correct": "Fritters",
     "options": [
-      "Ag",
-      "Au",
-      "Fe",
-      "Cu"
-    ]
+      "Fried Dough",
+      "Pakodas",
+      "Fritters",
+      "Spicy Bites"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Vocabulary",
+    "complexity_score": 1
   },
   {
-    "question": "Which year did World War II end?",
-    "correct": "1945",
+    "question": "Which word was suggested to describe a friendly teacher?",
+    "correct": "Amiable",
     "options": [
-      "1943",
-      "1944",
-      "1945",
-      "1946"
-    ]
+      "Splendid",
+      "Majestic",
+      "Amiable",
+      "Reverent"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Vocabulary",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which sentence shows the correct grammar discussed for multiple trees?",
+    "correct": "Trees are covered with greenery.",
+    "options": [
+      "Trees is covered with green flower.",
+      "Trees are covered with greenery.",
+      "Tree is covered with greenery.",
+      "Trees is covered with green leaves."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Grammar",
+    "complexity_score": 1
+  },
+  {
+    "question": "What phrase was suggested to say at the very end of your speech?",
+    "correct": "That's all from my part. Thank you so much for listening.",
+    "options": [
+      "I am finished now.",
+      "Okay, that was my speech.",
+      "I hope you liked my speech.",
+      "That's all from my part. Thank you so much for listening."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Speech Structure",
+    "complexity_score": 1
+  },
+  {
+    "question": "What phrase was introduced to express gratitude for getting a chance to speak?",
+    "correct": "I got a platinum chance to participate.",
+    "options": [
+      "I am happy to be here.",
+      "Thank you for choosing me.",
+      "I got a platinum chance to participate.",
+      "It's my turn to speak now."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Speech Structure",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which word did the teacher suggest to use instead of 'activity' to make it sound more grand?",
+    "correct": "Majestic event",
+    "options": [
+      "Important gathering",
+      "Majestic event",
+      "Special function",
+      "Nice program"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Vocabulary",
+    "complexity_score": 1
+  },
+  {
+    "question": "If you are giving a speech in an inter-house competition at your school, what should you mention?",
+    "correct": "Your name, class, and house.",
+    "options": [
+      "Your name and your parents' names.",
+      "Your name, your school's name, and your house.",
+      "Your name, class, and house.",
+      "Only your name."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Contextual Introduction",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why is it important to vary your vocal pitch and not be 'monotonous' during a speech?",
+    "correct": "To keep the audience engaged and interested.",
+    "options": [
+      "To make the speech shorter.",
+      "To show you have a loud voice.",
+      "To help you remember the words.",
+      "To keep the audience engaged and interested."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Delivery Technique",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the key difference between an introduction for a speech and a personal introduction for an interview?",
+    "correct": "A speech intro focuses on the topic, while a personal intro focuses on your life, skills, and background.",
+    "options": [
+      "A speech intro is longer than a personal intro.",
+      "A speech intro focuses on the topic, while a personal intro focuses on your life, skills, and background.",
+      "You must state your parents' names in a personal intro.",
+      "There is no difference; they are the same."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Types of Introductions",
+    "complexity_score": 2
+  },
+  {
+    "question": "If you were representing your entire country in an international competition, how would your introduction change?",
+    "correct": "You would say, 'I am representing India.'",
+    "options": [
+      "You would say, 'I am representing my school.'",
+      "You would say, 'I am representing the Ganga house.'",
+      "You would say, 'I am representing India.'",
+      "You would say, 'I am representing my district.'"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Contextual Introduction",
+    "complexity_score": 2
+  },
+  {
+    "question": "What was the teacher's correction for the sentence 'And my is full with water'?",
+    "correct": "My school is filled with water.",
+    "options": [
+      "My school have much water.",
+      "My school is full of water.",
+      "My school is filled with water.",
+      "Water is in my school."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Grammar",
+    "complexity_score": 2
+  },
+  {
+    "question": "The teacher corrected 'I did not attempt the quiz' to 'I could not attempt the quiz'. What does 'could not' imply in this context?",
+    "correct": "That there was a reason or obstacle preventing the action.",
+    "options": [
+      "That you refused to do it.",
+      "That you forgot to do it.",
+      "That there was a reason or obstacle preventing the action.",
+      "That you did not want to do it."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Grammar",
+    "complexity_score": 2
+  },
+  {
+    "question": "The teacher demonstrated two ways to say a line: one flat and one with energy. What was the main purpose of this demonstration?",
+    "correct": "To show how vocal variety makes a speech more powerful.",
+    "options": [
+      "To test who was listening carefully.",
+      "To show that speaking slowly is better.",
+      "To make the class more fun.",
+      "To show how vocal variety makes a speech more powerful."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Delivery Technique",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the primary purpose of the 'Welcome Address' part of the introduction (e.g., 'I pay my deepest regards...')?",
+    "correct": "To show respect to the audience and dignitaries and create a formal opening.",
+    "options": [
+      "To make the introduction longer.",
+      "To list everyone who is important.",
+      "To show respect to the audience and dignitaries and create a formal opening.",
+      "To prove you know advanced vocabulary."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Speech Structure",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why is saying 'My name is..., my father's name is..., my mother's name is...' considered a less effective introduction for a formal speech?",
+    "correct": "The audience is interested in the speech topic, not the speaker's family details.",
+    "options": [
+      "It is too difficult for the speaker to remember.",
+      "It is considered impolite to mention family.",
+      "The audience is interested in the speech topic, not the speaker's family details.",
+      "It does not include the name of your school."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Critical Analysis",
+    "complexity_score": 3
+  },
+  {
+    "question": "Based on the entire lesson, what is the single most important principle to follow when preparing any introduction?",
+    "correct": "Always adapt your introduction to the specific audience and context.",
+    "options": [
+      "Always use the most complicated words you know.",
+      "Always keep your introduction under 30 seconds.",
+      "Always adapt your introduction to the specific audience and context.",
+      "Always start by stating your name and age."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Synthesis of Concepts",
+    "complexity_score": 3
+  },
+  {
+    "question": "The teacher suggests using powerful words like 'splendid' and 'majestic'. What is the likely intended psychological effect on the audience?",
+    "correct": "To create a sense of importance and capture their attention with elevated language.",
+    "options": [
+      "To confuse the audience with unfamiliar words.",
+      "To prove that the speaker has a large vocabulary.",
+      "To make the audience feel less intelligent.",
+      "To create a sense of importance and capture their attention with elevated language."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Analysis of Technique",
+    "complexity_score": 3
+  },
+  {
+    "question": "Why is it generally unnecessary to state your school's name when giving a speech *at your own school*?",
+    "correct": "Because the audience already knows where they are, making the information redundant.",
+    "options": [
+      "Because it is against the school rules.",
+      "Because the audience doesn't care about the school's name.",
+      "Because your teachers might get upset.",
+      "Because the audience already knows where they are, making the information redundant."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Critical Analysis",
+    "complexity_score": 3
+  },
+  {
+    "question": "The lesson transitions from correcting basic grammar ('trees are') to teaching complex speech structures. What does this progression imply about the learning process?",
+    "correct": "That foundational skills are necessary before building more complex ones.",
+    "options": [
+      "That grammar is more important than public speaking.",
+      "That public speaking is easier than grammar.",
+      "That foundational skills are necessary before building more complex ones.",
+      "That the teacher decided to change the topic randomly."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Metacognition",
+    "complexity_score": 3
+  },
+  {
+    "question": "A student gives an introduction: 'Good morning. My name is Anaya. I am in the Ganga house. I am giving a speech on women's empowerment.' Based on the lesson, how could this be most significantly improved?",
+    "correct": "By adding a formal welcome address and expressing gratitude for the opportunity.",
+    "options": [
+      "By speaking much louder.",
+      "By adding her parents' names.",
+      "By adding a formal welcome address and expressing gratitude for the opportunity.",
+      "By stating the name of her school."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Application and Evaluation",
+    "complexity_score": 3
   }
-] 
+]
