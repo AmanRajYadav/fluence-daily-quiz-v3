@@ -1,68 +1,68 @@
 [
   {
-    "question": "In the sentence 'Monsoons ______ in India,' which is the correct simple present tense form of the verb 'occur'?",
-    "correct": "occur",
+    "question": "Which sentence is written in the simple present tense?",
+    "correct": "Monsoons occur in India.",
     "options": [
-      "is occurring",
-      "occurs",
-      "occur",
-      "has occurred"
+      "She is making a life-size painting.",
+      "Monsoons occur in India.",
+      "He was questioned by his father.",
+      "It has been snowing continuously."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Simple Present Tense",
+    "topic": "Verb Tenses",
     "complexity_score": 1
   },
   {
-    "question": "Which verb form correctly completes the sentence: 'Ankitah has already ______ her class 12 exams.'?",
-    "correct": "completed",
+    "question": "In the sentence 'Mohan has _____ for several jobs,' what is the correct form of the verb 'apply'?",
+    "correct": "applied",
     "options": [
-      "completing",
-      "completes",
-      "completed",
-      "is completing"
+      "apply",
+      "applying",
+      "applies",
+      "applied"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Perfect Tense",
+    "topic": "Verb Forms",
     "complexity_score": 1
   },
   {
-    "question": "Choose the correct verb for the sentence: 'She and her friends ______ practicing judo.'",
-    "correct": "are",
+    "question": "Which verb form correctly completes the sentence: 'What game are those children _____?'",
+    "correct": "playing",
     "options": [
-      "is",
-      "are",
-      "was",
-      "has been"
+      "played",
+      "plays",
+      "playing",
+      "play"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement",
+    "topic": "Present Continuous Tense",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence is grammatically correct?",
-    "correct": "What are you reading?",
+    "question": "Which sentence correctly uses the third form of the verb 'see'?",
+    "correct": "I saw some interesting birds.",
     "options": [
-      "What you are reading?",
-      "What is you reading?",
-      "What are you reading?",
-      "What does you reading?"
+      "I seen some interesting birds.",
+      "I am seeing some interesting birds.",
+      "I sees some interesting birds.",
+      "I saw some interesting birds."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Sentence Structure",
+    "topic": "Irregular Verbs",
     "complexity_score": 1
   },
   {
-    "question": "What is the meaning of the verb 'graze' as used in the context of animals like deer or cows?",
-    "correct": "To eat grass in a field",
+    "question": "The verb 'graze' means to...",
+    "correct": "feed on grass in a field.",
     "options": [
-      "To run quickly",
-      "To look at something for a long time",
-      "To drink from a river",
-      "To eat grass in a field"
+      "run quickly.",
+      "look at something with surprise.",
+      "feed on grass in a field.",
+      "build a nest."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -70,213 +70,213 @@
     "complexity_score": 1
   },
   {
-    "question": "Which verb correctly completes the sentence: 'Moha has ______ for several jobs.'?",
-    "correct": "applied",
+    "question": "Choose the correct sentence: 'She and her friends _____ practicing judo.'",
+    "correct": "are",
     "options": [
-      "applied",
-      "apply",
-      "applies",
-      "applying"
+      "is",
+      "are",
+      "was",
+      "am"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Perfect Tense",
+    "topic": "Subject-Verb Agreement",
     "complexity_score": 1
   },
   {
-    "question": "The phrase 'since yesterday' is a clue that you should probably use which tense?",
+    "question": "Which sentence correctly uses the present perfect continuous tense?",
+    "correct": "It has been snowing since yesterday.",
+    "options": [
+      "It is snowing now.",
+      "It snowed yesterday.",
+      "It has been snowing since yesterday.",
+      "It will snow tomorrow."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Tenses",
+    "complexity_score": 1
+  },
+  {
+    "question": "Why is 'have been playing' the correct choice for 'The children are tired because they _____ in the field all morning'?",
+    "correct": "The phrase 'all morning' indicates an action that has happened over a period of time.",
+    "options": [
+      "The action is happening right now.",
+      "The action is a daily habit.",
+      "The phrase 'all morning' indicates an action that has happened over a period of time.",
+      "The children are plural."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Tenses",
+    "complexity_score": 1
+  },
+  {
+    "question": "Complete the sentence: 'My grandmother's backache _____ since she started doing yoga.'",
+    "correct": "has been improving",
+    "options": [
+      "is improving",
+      "improves",
+      "has been improving",
+      "will improve"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Present Perfect Continuous Tense",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which sentence needs correction? 'Ankit has also completed her class. Rohit has enrolled in a college.'",
+    "correct": "Ankit has also completed her class.",
+    "options": [
+      "Ankit has also completed her class.",
+      "Rohit has enrolled in a college.",
+      "Both sentences are correct.",
+      "Both sentences are incorrect."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Sentence Correction",
+    "complexity_score": 1
+  },
+  {
+    "question": "Choose the correct verb form: 'He _____ the car for three hours now.'",
+    "correct": "has been driving",
+    "options": [
+      "is driving",
+      "drives",
+      "has been driving",
+      "drove"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Present Perfect Continuous Tense",
+    "complexity_score": 1
+  },
+  {
+    "question": "In a story, if you start by saying 'I arrived at the safari,' what tense should the following sentences be in to maintain consistency?",
+    "correct": "Past Tense",
+    "options": [
+      "Future Tense",
+      "Present Tense",
+      "Present Continuous Tense",
+      "Past Tense"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Narrative Tense",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which question is grammatically correct?",
+    "correct": "What are you reading?",
+    "options": [
+      "What you are reading?",
+      "What is you reading?",
+      "What are you reading?",
+      "What does you read?"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Sentence Structure",
+    "complexity_score": 1
+  },
+  {
+    "question": "If an action started in the past and is still continuing in the present, which tense is most appropriate to use?",
     "correct": "Present Perfect Continuous",
     "options": [
       "Simple Present",
       "Present Continuous",
-      "Present Perfect Continuous",
-      "Simple Past"
+      "Simple Past",
+      "Present Perfect Continuous"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Tense Identification",
-    "complexity_score": 2
+    "topic": "Verb Tenses",
+    "complexity_score": 1
   },
   {
-    "question": "Which sentence correctly uses the present continuous tense for a future plan?",
-    "correct": "She is meeting him at 3 PM today.",
+    "question": "In the sentence 'The public health department _____ putting a lot of stress on sanitation,' which verb form is correct and why?",
+    "correct": "'has been', because 'department' is a singular collective noun.",
     "options": [
-      "She will has met him at 3 PM today.",
-      "She meets him at 3 PM today.",
-      "She is meeting him at 3 PM today.",
-      "She has been meeting him at 3 PM today."
+      "'have been', because a department has many people.",
+      "'are', because the action is happening now.",
+      "'has been', because 'department' is a singular collective noun.",
+      "'is', because 'public health' is singular."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Present Continuous Tense",
-    "complexity_score": 2
+    "topic": "Subject-Verb Agreement",
+    "complexity_score": 1
   },
   {
-    "question": "Why is the sentence 'The public health department has been putting stress on sanitation' correct?",
-    "correct": "'Department' is treated as a single, collective unit.",
+    "question": "The sentence 'The people who dashed to office by foot, now should take the bus' has no time marker like 'since' or 'for'. Why might the present tense 'go' be better here than 'have been going'?",
+    "correct": "It describes a general habit or routine, not a continuous action over time.",
     "options": [
-      "'Department' is always plural.",
-      "The sentence should use 'have been'.",
-      "'Department' is treated as a single, collective unit.",
-      "It is an exception to all grammar rules."
+      "Because 'people' is plural.",
+      "It describes a general habit or routine, not a continuous action over time.",
+      "Because the action is already finished.",
+      "The sentence is in the past tense."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement (Collective Nouns)",
-    "complexity_score": 2
+    "topic": "Tense Nuances",
+    "complexity_score": 1
   },
   {
-    "question": "The children are tired because they ______ in the field all morning.",
-    "correct": "have been playing",
+    "question": "How could you change the sentence 'He was questioned by his father' to the Present Perfect Tense?",
+    "correct": "He has been questioned by his father.",
     "options": [
-      "are playing",
-      "play",
-      "has been playing",
-      "have been playing"
+      "He is questioning his father.",
+      "He has been questioned by his father.",
+      "He questions his father.",
+      "His father has been questioning him."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Tense Transformation",
+    "complexity_score": 1
+  },
+  {
+    "question": "Consider the sentence: 'Your daughter _____ you the same thing since you got here.' What is the best verb phrase to fill the blank?",
+    "correct": "has been telling",
+    "options": [
+      "is telling",
+      "tells",
+      "has been telling",
+      "told"
+    ],
+    "difficulty": "hard",
     "questionType": "mcq",
     "topic": "Present Perfect Continuous Tense",
-    "complexity_score": 2
+    "complexity_score": 1
   },
   {
-    "question": "Identify the error in this sentence: 'What game is those children playing?'",
-    "correct": "The verb 'is' does not agree with the plural subject 'children'.",
+    "question": "Analyze this sentence: 'Why is all those people laughing?' What is the primary error?",
+    "correct": "The subject 'people' is plural and requires 'are', not 'is'.",
     "options": [
-      "The word 'game' should be 'games'.",
-      "The verb 'is' does not agree with the plural subject 'children'.",
-      "The word 'those' is incorrect.",
-      "The sentence should be in the past tense."
+      "The word 'laughing' should be 'laughed'.",
+      "The subject 'people' is plural and requires 'are', not 'is'.",
+      "The word 'Why' should be 'How'.",
+      "The phrase 'all those' is incorrect."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
     "topic": "Error Analysis",
-    "complexity_score": 2
+    "complexity_score": 1
   },
   {
-    "question": "When creating a story, if you start with a sentence like 'I have entered the jungle,' what tense should the following actions be in to maintain consistency?",
-    "correct": "Present tense (e.g., I see, I spot)",
-    "options": [
-      "Past tense (e.g., I saw, I spotted)",
-      "Present tense (e.g., I see, I spot)",
-      "Future tense (e.g., I will see, I will spot)",
-      "Any tense is fine."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Creative Writing - Tense Consistency",
-    "complexity_score": 2
-  },
-  {
-    "question": "He ______ the car for three hours.",
-    "correct": "has been washing",
-    "options": [
-      "is washing",
-      "washes",
-      "has been washing",
-      "will wash"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Present Perfect Continuous Tense",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the main difference between the Present Continuous ('He is working') and Present Perfect Continuous ('He has been working')?",
+    "question": "What is the key difference between the Present Continuous tense ('I am watching') and the Present Perfect Continuous tense ('I have been watching')?",
     "correct": "Present Perfect Continuous emphasizes the duration of an action that started in the past.",
     "options": [
       "There is no difference; they are interchangeable.",
-      "Present Continuous is only for actions happening at the exact moment of speaking.",
-      "Present Perfect Continuous emphasizes the duration of an action that started in thepast.",
-      "Present Continuous is for single people and Present Perfect Continuous is for groups."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Tense Distinction",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which sentence correctly transforms 'He was questioned by his father' into the Present Perfect Tense?",
-    "correct": "He has been questioned by his father.",
-    "options": [
-      "He has questioned his father.",
-      "He is questioning his father.",
-      "He has been questioned by his father.",
-      "He will be questioned by his father."
+      "Present Continuous is for plural subjects, and Present Perfect Continuous is for singular.",
+      "Present Continuous describes a completed action.",
+      "Present Perfect Continuous emphasizes the duration of an action that started in the past."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Tense Transformation (Passive Voice)",
-    "complexity_score": 3
-  },
-  {
-    "question": "Analyze this sentence: 'The people who ______ to the office by foot now should take the bus to reach on time.' Why is a simple present verb the best fit for the blank?",
-    "correct": "It describes a habitual action without a specific time duration like 'for' or 'since'.",
-    "options": [
-      "The action is happening right now, so it must be present continuous.",
-      "It describes a habitual action without a specific time duration like 'for' or 'since'.",
-      "The sentence is in the past tense.",
-      "The sentence requires the present perfect continuous tense."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Tense Analysis",
-    "complexity_score": 3
-  },
-  {
-    "question": "Your daughter ______ you the same thing since you got here.",
-    "correct": "has been telling",
-    "options": [
-      "tells",
-      "is telling",
-      "has been telling",
-      "was telling"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Present Perfect Continuous Tense",
-    "complexity_score": 3
-  },
-  {
-    "question": "The question 'How is he doing after the accident?' is asking about what?",
-    "correct": "His current state of recovery and well-being.",
-    "options": [
-      "What actions he performed during the accident.",
-      "The cause of the accident.",
-      "His current state of recovery and well-being.",
-      "If he is going to have another accident."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Language Nuance",
-    "complexity_score": 3
-  },
-  {
-    "question": "Which is the most effective way to correct the sentence: 'Ankitah is completing her class 12 exams already.'?",
-    "correct": "Change it to 'Ankitah has already completed her class 12 exams.' to match the word 'already'.",
-    "options": [
-      "Remove 'already' to make 'Ankitah is completing her class 12 exams.' correct.",
-      "Change 'is' to 'was' to put it in the past.",
-      "Change 'exams' to 'exam'.",
-      "Change it to 'Ankitah has already completed her class 12 exams.' to match the word 'already'."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Error Correction and Logic",
-    "complexity_score": 3
-  },
-  {
-    "question": "We ______ to find our way home for the last two hours.",
-    "correct": "have been trying",
-    "options": [
-      "are trying",
-      "try",
-      "have been trying",
-      "tried"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Present Perfect Continuous Tense",
-    "complexity_score": 3
+    "topic": "Tense Nuances",
+    "complexity_score": 1
   }
 ]
