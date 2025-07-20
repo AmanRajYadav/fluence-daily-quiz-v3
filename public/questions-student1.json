@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, what is a better English word for 'pakoda'?",
-    "correct": "Fritters",
+    "question": "In the context of the lesson, what does the word 'amiable' mean when describing a trainer?",
+    "correct": "Friendly and pleasant",
     "options": [
-      "Fryers",
-      "Pakoras",
-      "Fritters",
-      "Snack-balls"
+      "Strict and serious",
+      "Knowledgeable and wise",
+      "Friendly and pleasant",
+      "New and inexperienced"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary",
+    "topic": "Vocabulary for Introductions",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence uses the correct grammar as discussed in the class?",
-    "correct": "The trees are covered with greenery.",
+    "question": "According to the teacher, when giving a speech at an inter-house competition within your own school, what should you mention?",
+    "correct": "Your house name",
     "options": [
-      "The trees is covered with green flower.",
-      "The trees are covered with greenery.",
-      "The tree are covered in green.",
-      "The trees is green."
+      "Your parents' names",
+      "Your home address",
+      "Your house name",
+      "The name of a different school"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Grammar - Subject-Verb Agreement",
+    "topic": "Contextual Introductions",
     "complexity_score": 1
   },
   {
-    "question": "In the welcome address taught, what does the word 'amiable' mean?",
-    "correct": "Friendly",
+    "question": "What phrase did the teacher suggest as a more elegant alternative to 'good morning' or 'good afternoon'?",
+    "correct": "Wishing you all a splendid morning/afternoon",
     "options": [
-      "Strict",
-      "Important",
-      "Friendly",
-      "Intelligent"
+      "Hello everyone here today",
+      "I hope you are all good",
+      "A very good day to one and all",
+      "Wishing you all a splendid morning/afternoon"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary",
+    "topic": "Refining Language",
     "complexity_score": 1
   },
   {
-    "question": "When giving a speech introduction in your own school, what information is usually NOT necessary to state?",
-    "correct": "Your school's name",
+    "question": "When is it NOT necessary to mention your school's name in an introduction, according to the lesson?",
+    "correct": "When you are giving the speech inside your own school",
     "options": [
-      "Your class and section",
-      "Your name",
-      "The name of your house",
-      "Your school's name"
+      "During an inter-school competition",
+      "When you are giving the speech inside your own school",
+      "When you are representing your district",
+      "When talking to the principal"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Public Speaking - Context",
+    "topic": "Contextual Introductions",
     "complexity_score": 1
   },
   {
-    "question": "What phrase was suggested to wish the audience a great morning or afternoon?",
-    "correct": "Wishing you all a splendid morning/afternoon.",
+    "question": "What is the purpose of saying 'That's all from my part. Thank you so much for listening me patiently'?",
+    "correct": "To formally conclude the speech and thank the audience",
     "options": [
-      "Hope you have a good day.",
-      "Good morning to everyone here.",
-      "Wishing you all a splendid morning/afternoon.",
-      "I hope your morning is nice."
+      "To ask the audience for questions",
+      "To formally conclude the speech and thank the audience",
+      "To introduce the next speaker",
+      "To summarize the main points again"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Public Speaking - Phrasing",
+    "topic": "Speech Structure",
     "complexity_score": 1
   },
   {
-    "question": "According to the teacher, what should you NOT include in a formal speech introduction?",
-    "correct": "The names of your family members",
+    "question": "The correction from 'Trees is covered' to 'Trees are covered' is based on which fundamental grammar rule?",
+    "correct": "Subject-verb agreement",
     "options": [
-      "The topic of your speech",
-      "Your name",
-      "The names of your family members",
-      "A greeting to the audience"
+      "Correct tense usage",
+      "Proper noun capitalization",
+      "Subject-verb agreement",
+      "Use of prepositions"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Public Speaking - Content",
+    "topic": "Grammar Fundamentals",
     "complexity_score": 1
   },
   {
-    "question": "Why is it better to say 'My school is filled with water' instead of 'My school is full with water'?",
-    "correct": "'Filled' is the correct verb form to describe the action of being filled.",
+    "question": "If Anaya were competing against a school from another city, which piece of information becomes essential to include in her introduction?",
+    "correct": "Her school's name",
     "options": [
-      "'Full' is not an English word.",
-      "'Filled' is a more advanced vocabulary word.",
-      "'Filled' is the correct verb form to describe the action of being filled.",
-      "Both sentences are equally correct."
+      "Her class section",
+      "Her house name",
+      "Her school's name",
+      "Her favorite subject"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar - Word Choice",
+    "topic": "Application of Concepts",
     "complexity_score": 2
   },
   {
-    "question": "If Anaya were competing in an inter-STATE competition, what would she be representing?",
-    "correct": "Her state (Chattisgarh)",
+    "question": "Why did the teacher advise against Anaya's initial introduction that included her family members' names for a formal speech?",
+    "correct": "A speech audience is interested in the topic, not the speaker's family details",
     "options": [
-      "Her school (Delhi Public School)",
-      "Her house (Ganga House)",
-      "Her country (India)",
-      "Her state (Chattisgarh)"
+      "It is against school rules",
+      "It makes the introduction too long",
+      "A speech audience is interested in the topic, not the speaker's family details",
+      "It is considered impolite to mention family"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Public Speaking - Contextual Adaptation",
+    "topic": "Audience Awareness",
     "complexity_score": 2
   },
   {
-    "question": "What is the main purpose of the first part of the introduction script, 'First of all, I pay my deepest regards to my... trainer'?",
-    "correct": "To show respect and formally greet the important people present.",
+    "question": "The teacher suggests using the phrase 'platinum chance'. What is the effect of using 'platinum' instead of just 'chance'?",
+    "correct": "It elevates the language and makes the opportunity sound more special",
     "options": [
-      "To make the speech longer.",
-      "To introduce the speaker's family.",
-      "To show respect and formally greet the important people present.",
-      "To state the topic of the speech immediately."
+      "It is a required phrase for all competitions",
+      "It confuses the audience with scientific terms",
+      "It elevates the language and makes the opportunity sound more special",
+      "It shows that the speaker is wealthy"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Public Speaking - Structure",
+    "topic": "Refining Language",
     "complexity_score": 2
   },
   {
-    "question": "The teacher suggests using a phrase like 'I got a platinum chance to participate'. What is the effect of using the word 'platinum'?",
-    "correct": "It makes the opportunity sound very special and valuable.",
+    "question": "The lesson covered two types of introductions: one for a speech and one for an interview. What is a key difference between them?",
+    "correct": "The interview introduction is more personal and detailed about one's life and skills",
     "options": [
-      "It confuses the audience.",
-      "It proves the speaker is wealthy.",
-      "It is a required part of all speeches.",
-      "It makes the opportunity sound very special and valuable."
+      "The speech introduction is always longer",
+      "The interview introduction does not include your name",
+      "The interview introduction is more personal and detailed about one's life and skills",
+      "Only speech introductions can mention your school"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Public Speaking - Rhetorical Devices",
+    "topic": "Communication Contexts",
     "complexity_score": 2
   },
   {
-    "question": "If you are representing your school in a competition against other schools, why is it important to mention your school's name?",
-    "correct": "Because the audience needs to know which school you represent.",
+    "question": "The teacher stressed practicing how to stand, where to look, and how to use hand gestures. What does this imply about effective communication?",
+    "correct": "It is a combination of what you say (verbal) and how you say it (non-verbal)",
     "options": [
-      "Because it is your home.",
-      "Because your principal will be angry if you don't.",
-      "Because the audience needs to know which school you represent.",
-      "Because it is the first rule of all speeches."
+      "The words are the only thing that matters",
+      "Standing perfectly still is the best strategy",
+      "It is a combination of what you say (verbal) and how you say it (non-verbal)",
+      "Hand gestures are distracting and should be avoided"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Public Speaking - Audience Awareness",
+    "topic": "Delivery Techniques",
     "complexity_score": 2
   },
   {
-    "question": "The teacher corrected 'And it is look beautiful' to 'And it becomes beautiful'. What is the reason for this change?",
-    "correct": "It properly expresses the transformation or change that happens.",
+    "question": "The teacher uses the phrase 'I am representing the Ganga house.' What is the primary purpose of this specific phrasing in a competition?",
+    "correct": "To establish an official role and a sense of team pride",
     "options": [
-      "'Look' can only be used for people.",
-      "It properly expresses the transformation or change that happens.",
-      "'Beautiful' is always used with 'becomes'.",
-      "The original sentence was grammatically correct."
+      "To ask for support from other houses",
+      "To show that the speaker is better than other houses",
+      "To establish an official role and a sense of team pride",
+      "To clarify which house the speaker lives in"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar - Verb Tense and Meaning",
+    "topic": "Rhetorical Strategy",
     "complexity_score": 2
   },
   {
-    "question": "What is the key difference between the two types of introductions the teacher described (for a speech vs. for an interview)?",
-    "correct": "The interview introduction is more personal and detailed about your life and skills.",
+    "question": "Why is it more effective to say 'Trees become green' or 'get covered with greenery' than 'Trees are covered with green flower'?",
+    "correct": "'Greenery' or 'become green' is more accurate and natural-sounding English",
     "options": [
-      "There is no difference; the teacher used two examples for the same thing.",
-      "The interview introduction is much shorter than the speech introduction.",
-      "The speech introduction includes your hobbies, while the interview one does not.",
-      "The interview introduction is more personal and detailed about your life and skills."
+      "Because 'green flower' is not a real thing",
+      "'Greenery' or 'become green' is more accurate and natural-sounding English",
+      "It is a shorter way to say the same thing",
+      "Flowers are never green"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Public Speaking - Contextual Variation",
+    "topic": "Grammar and Phrasing",
     "complexity_score": 2
   },
   {
-    "question": "The teacher corrected 'I am not attempt the quiz' to 'I could not attempt the quiz'. This change expresses:",
-    "correct": "An inability to do something in the past.",
+    "question": "Why is varying your vocal tone and pitch important during a speech?",
+    "correct": "To maintain audience engagement and avoid a boring, monotonous delivery",
     "options": [
-      "A decision not to do something.",
-      "A future plan to do something.",
-      "An inability to do something in the past.",
-      "A present action."
+      "To make your voice louder so everyone can hear",
+      "To show that you have a good singing voice",
+      "To finish the speech more quickly",
+      "To maintain audience engagement and avoid a boring, monotonous delivery"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar - Modal Verbs",
+    "topic": "Delivery Techniques",
     "complexity_score": 2
   },
   {
-    "question": "Why did the teacher emphasize practicing the speech with vocal variety (changing your voice) instead of a 'monotonous' tone?",
-    "correct": "To make the speech more engaging and interesting for the audience.",
+    "question": "What is the underlying psychological reason for starting a speech by saying, 'I pay my deepest regards to my... trainer and... friends'?",
+    "correct": "To build rapport and show respect, making the audience more receptive",
     "options": [
-      "Because speaking in a monotonous tone is easier.",
-      "To show that the speaker can shout loudly.",
-      "To meet the minimum word count for the speech.",
-      "To make the speech more engaging and interesting for the audience."
+      "To fulfill a mandatory rule of all speech contests",
+      "To check if the microphone is working correctly",
+      "To build rapport and show respect, making the audience more receptive",
+      "To give the speaker time to remember their opening line"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Public Speaking - Delivery",
+    "topic": "Audience Psychology",
     "complexity_score": 3
   },
   {
-    "question": "The lesson demonstrates that the 'correct' way to introduce yourself depends heavily on one key factor. What is that factor?",
-    "correct": "The context and the audience you are speaking to.",
+    "question": "The teacher's lesson demonstrates that the 'correct' way to introduce yourself depends entirely on the situation (e.g., class, competition, interview). This illustrates what core principle of communication?",
+    "correct": "Effective communication requires adapting your message to the audience and context",
     "options": [
-      "How you are feeling that day.",
-      "The length of your speech.",
-      "The context and the audience you are speaking to.",
-      "The brand of the microphone."
+      "There is only one perfect way to introduce yourself",
+      "The longest introduction is always the best one",
+      "Effective communication requires adapting your message to the audience and context",
+      "Using complex vocabulary is the most important skill"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Public Speaking - Core Principles",
+    "topic": "Communication Theory",
     "complexity_score": 3
   },
   {
-    "question": "The teacher's detailed introduction model, which included his education and professional goals, served what primary purpose in the lesson?",
-    "correct": "To show how an introduction can be adapted for a different, more professional context.",
+    "question": "The teacher first corrects basic sentence structure ('Trees are...' not 'Trees is...') before teaching the complex structure of a formal introduction. This teaching approach is an example of:",
+    "correct": "Scaffolding: building complex skills upon a foundation of basic ones",
     "options": [
-      "To prove he was a good teacher.",
-      "To provide a script for the student to memorize and use in school.",
-      "To show how an introduction can be adapted for a different, more professional context.",
-      "To fill time before getting to the main lesson."
+      "Rote memorization: having the student repeat facts",
+      "Scaffolding: building complex skills upon a foundation of basic ones",
+      "Discovery learning: letting the student figure it out alone",
+      "Testing before teaching"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Pedagogy and Application",
+    "topic": "Learning Science",
     "complexity_score": 3
   },
   {
-    "question": "When Anaya initially introduced herself by listing her family members' names, what fundamental principle of public speaking was she misunderstanding?",
-    "correct": "An introduction should be audience-focused, providing relevant information to them.",
+    "question": "The teacher says, 'forget that' regarding the student's old introduction method. What does this suggest about mastering a new skill?",
+    "correct": "It often requires unlearning previous habits or misconceptions",
     "options": [
-      "A speech should always be memorized perfectly.",
-      "An introduction must always be longer than one minute.",
-      "An introduction should be audience-focused, providing relevant information to them.",
-      "Family is the most important topic for any speech."
+      "Old skills are always useless",
+      "It is impossible to learn new things",
+      "Learning should never involve forgetting information",
+      "It often requires unlearning previous habits or misconceptions"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Public Speaking - Audience Analysis",
+    "topic": "Metacognition",
     "complexity_score": 3
   },
   {
-    "question": "How does learning a structured introduction for a speech connect to the grammar corrections made earlier in the class?",
-    "correct": "Both aim to make communication clearer, more correct, and more effective.",
+    "question": "By providing a detailed template ('First of all, I pay my deepest regards...'), what is the teacher trying to build in the student?",
+    "correct": "A mental model or schema for how a formal introduction is structured",
     "options": [
-      "They are unrelated topics taught in the same class.",
-      "Good grammar is only important in writing, not speaking.",
-      "The speech introduction requires using incorrect grammar to sound friendly.",
-      "Both aim to make communication clearer, more correct, and more effective."
+      "A script that must be memorized and never changed",
+      "A way to avoid speaking to the audience directly",
+      "A mental model or schema for how a formal introduction is structured",
+      "A list of words to use in every conversation"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Synthesis of Concepts",
+    "topic": "Cognitive Psychology",
     "complexity_score": 3
   },
   {
-    "question": "What is the underlying goal of adapting your introduction for different events (e.g., House vs. National competition)?",
-    "correct": "To establish the most relevant identity for that specific audience.",
+    "question": "If Anaya were to give a speech representing her entire country at an international event, how would her introduction change based on the principles taught in the lesson?",
+    "correct": "She would state her name and say she is 'representing India'",
     "options": [
-      "To make the introduction a different length each time.",
-      "To follow a strict set of rules for each type of event.",
-      "To establish the most relevant identity for that specific audience.",
-      "To show off how many places you have been to."
+      "She would list her name, class, school, house, district, and state",
+      "She would introduce herself in a different language",
+      "She would use the exact same introduction she uses in her class",
+      "She would state her name and say she is 'representing India'"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Public Speaking - Strategic Communication",
+    "topic": "Critical Application",
     "complexity_score": 3
   }
 ]
