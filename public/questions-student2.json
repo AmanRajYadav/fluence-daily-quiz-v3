@@ -1,282 +1,282 @@
 [
-    {
-        "question": "According to the text, what is the name of the ancient collection of delightful stories, with animals as main characters, that has been adapted into almost every Indian language and beyond?",
-        "correct": "Panchatantra",
-        "options": [
-            "Ramayana",
-            "Mahabharata",
-            "Panchatantra",
-            "Vedas"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Indian Literature",
-        "complexity_score": 1
-    },
-    {
-        "question": "Which unstitched piece of cloth is mentioned as a common traditional dress for women in most parts of India, coming in hundreds of varieties?",
-        "correct": "Sari",
-        "options": [
-            "Dhoti",
-            "Sari",
-            "Kurta",
-            "Sherwani"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Indian Clothing",
-        "complexity_score": 1
-    },
-    {
-        "question": "The text identifies three important components that are essential for reading maps. What are they?",
-        "correct": "Distance, direction, and symbols",
-        "options": [
-            "Latitude, longitude, and poles",
-            "Physical, political, and thematic types",
-            "Distance, direction, and symbols",
-            "Oceans, continents, and rivers"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Map Components",
-        "complexity_score": 1
-    },
-    {
-        "question": "What is the name of the imaginary line that runs halfway between the North and South Poles, marked as 0° latitude?",
-        "correct": "Equator",
-        "options": [
-            "Prime Meridian",
-            "Tropic of Cancer",
-            "Equator",
-            "International Date Line"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Latitude and Longitude",
-        "complexity_score": 1
-    },
-    {
-        "question": "Which festival, marking the harvest season around January 14th, is known by various names across India such as Pongal, Magh Bihu, and Lohri?",
-        "correct": "Makara Sankranti",
-        "options": [
-            "Diwali",
-            "Holi",
-            "Navaratri",
-            "Makara Sankranti"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Indian Festivals",
-        "complexity_score": 1
-    },
-    {
-        "question": "What is the international standard for the Prime Meridian (0° longitude)?",
-        "correct": "The meridian passing through Greenwich, England",
-        "options": [
-            "The meridian passing through Ujjain, India",
-            "The International Date Line",
-            "The meridian passing through Paris, France",
-            "The meridian passing through Greenwich, England"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Latitude and Longitude",
-        "complexity_score": 1
-    },
-    {
-        "question": "The 'People of India project' conducted by the Anthropological Survey of India highlighted the country's vast diversity. What was one of its key findings mentioned in the text?",
-        "correct": "It counted 325 languages using 25 different scripts.",
-        "options": [
-            "It discovered that all Indians eat the exact same food.",
-            "It proved that India has only 50 distinct communities.",
-            "It counted 325 languages using 25 different scripts.",
-            "It found that no one in India migrates from their birthplace."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Indian Diversity",
-        "complexity_score": 2
-    },
-    {
-        "question": "How does Indian cuisine exemplify the concept of 'unity in diversity' as described in the chapter?",
-        "correct": "The use of common staple grains and spices across the country to create an endless variety of regional dishes.",
-        "options": [
-            "By proving that every region uses completely unique ingredients not found elsewhere.",
-            "The fact that only a few dishes are popular throughout the entire country.",
-            "The use of common staple grains and spices across the country to create an endless variety of regional dishes.",
-            "By showing that Indian food has not changed for thousands of years."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Unity in Food",
-        "complexity_score": 2
-    },
-    {
-        "question": "What was the consequence of the Indian textile 'chintz' becoming highly popular in 17th-century Europe?",
-        "correct": "England and France banned its import to protect their local textile industries.",
-        "options": [
-            "It led to a major trade alliance between India and all of Europe.",
-            "It was quickly forgotten and had no major economic impact.",
-            "England and France banned its import to protect their local textile industries.",
-            "It caused the price of cotton in India to fall dramatically."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Indian Textiles",
-        "complexity_score": 2
-    },
-    {
-        "question": "Why is a globe considered a better representation of the Earth than a flat map?",
-        "correct": "Because its spherical shape matches the Earth's, avoiding the distortion that occurs when flattening a curved surface.",
-        "options": [
-            "Because globes are always larger and can show more detail.",
-            "Because its spherical shape matches the Earth's, avoiding the distortion that occurs when flattening a curved surface.",
-            "Because flat maps cannot use colors or symbols.",
-            "Because globes are made of more accurate materials."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Maps and Globes",
-        "complexity_score": 2
-    },
-    {
-        "question": "Based on the rule that the Earth rotates 15° per hour, if it is 12 PM (noon) at the Prime Meridian (0°), what is the local time at 30°E longitude?",
-        "correct": "2 PM",
-        "options": [
-            "10 AM",
-            "1 PM",
-            "2 PM",
-            "3 PM"
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Time Zones",
-        "complexity_score": 2
-    },
-    {
-        "question": "What is a key difference between parallels of latitude and meridians of longitude?",
-        "correct": "Parallels of latitude are full circles that decrease in size towards the poles, while meridians are half-circles of the same length.",
-        "options": [
-            "Parallels of latitude are full circles that decrease in size towards the poles, while meridians are half-circles of the same length.",
-            "Meridians are parallel to each other, but parallels of latitude are not.",
-            "Only parallels of latitude are measured in degrees.",
-            "Latitude determines time, while longitude determines climate."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Latitude and Longitude",
-        "complexity_score": 2
-    },
-    {
-        "question": "How did ancient Indian astronomers, according to the text, establish a prime meridian long before Greenwich was chosen?",
-        "correct": "They used a 'madhya rekha' (middle line) which passed through the city of Ujjayinī.",
-        "options": [
-            "They adopted the same line as the ancient Greeks.",
-            "They used a 'madhya rekha' (middle line) which passed through the city of Ujjayinī.",
-            "They declared the river Ganga as the prime meridian.",
-            "The text states they had no concept of a prime meridian."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "History of Cartography",
-        "complexity_score": 2
-    },
-    {
-        "question": "The existence of hundreds of folk and tribal versions of the Ramayana and Mahabharata across India primarily illustrates what concept?",
-        "correct": "The creation of a dense web of cultural interactions and unity through shared narratives.",
-        "options": [
-            "The inaccuracy of oral traditions compared to written texts.",
-            "The creation of a dense web of cultural interactions and unity through shared narratives.",
-            "That different regions of India have no shared cultural elements.",
-            "A historical conflict between different communities over the epics."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Unity in Literature",
-        "complexity_score": 2
-    },
-    {
-        "question": "Jawaharlal Nehru's observation that even illiterate villagers knew hundreds of verses from the epics suggests what about the transmission of culture in India?",
-        "correct": "That cultural values and rich narratives were deeply embedded and passed down through a powerful oral tradition.",
-        "options": [
-            "That literacy rates were actually very high.",
-            "That the epics were simple stories with little meaning.",
-            "That cultural knowledge was exclusive to the upper classes.",
-            "That cultural values and rich narratives were deeply embedded and passed down through a powerful oral tradition."
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Cultural Transmission",
-        "complexity_score": 3
-    },
-    {
-        "question": "A friend in Assam (eastern India) notes that the sun has set, while for you in Gujarat (western India), it is still bright daylight. What is the fundamental reason for this, despite both locations using Indian Standard Time (IST)?",
-        "correct": "The large longitudinal distance between the two states means their local solar times are significantly different.",
-        "options": [
-            "The clocks in Assam are set to a different standard time than in Gujarat.",
-            "The large longitudinal distance between the two states means their local solar times are significantly different.",
-            "This is an optical illusion caused by atmospheric differences.",
-            "IST ensures that the sun sets at the same moment across all of India."
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Time Zones and Longitude",
-        "complexity_score": 3
-    },
-    {
-        "question": "The text states that the lines dividing time zones on a world map are not perfectly straight but often follow international borders. What is the most logical inference for this practice?",
-        "correct": "It is a practical measure to avoid dividing a single country into multiple time zones, which would cause administrative and social confusion.",
-        "options": [
-            "It is impossible to draw straight lines on a spherical globe.",
-            "The lines are bent by the Earth's magnetic field.",
-            "It is a practical measure to avoid dividing a single country into multiple time zones, which would cause administrative and social confusion.",
-            "Countries pay to have the time zone lines moved to their benefit."
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Time Zones",
-        "complexity_score": 3
-    },
-    {
-        "question": "The anthropologist K.S. Singh's finding that folklore connects the Pandavas to almost every part of the country implies what about the epics?",
-        "correct": "They have served as a foundational thread, allowing diverse communities to weave their own local histories into a larger, shared cultural identity.",
-        "options": [
-            "That the stories in the Mahabharata are geographically inaccurate.",
-            "They have served as a foundational thread, allowing diverse communities to weave their own local histories into a larger, shared cultural identity.",
-            "That only a few specific communities believe in the stories of the epics.",
-            "It proves the Pandavas were the first to create maps of India."
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Indian Epics",
-        "complexity_score": 3
-    },
-    {
-        "question": "How does the example of using a single vegetable to prepare numerous different dishes serve as a metaphor for India's 'unity in diversity'?",
-        "correct": "It shows how a single, common element (unity) can be the basis for a vast array of creative and varied expressions (diversity).",
-        "options": [
-            "It proves that all vegetables taste the same when cooked.",
-            "It shows how a single, common element (unity) can be the basis for a vast array of creative and varied expressions (diversity).",
-            "It suggests that diversity leads to conflict over the 'correct' way to cook.",
-            "It implies that true unity can only be achieved if everyone eats the same food."
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Concept of Unity in Diversity",
-        "complexity_score": 3
-    },
-    {
-        "question": "Why must a traveler crossing the International Date Line from west to east (e.g., from Asia to America) change the date on their watch from Monday back to Sunday?",
-        "correct": "Because they are moving into time zones that are progressively earlier, effectively crossing the point where the 24-hour difference between +12 GMT and -12 GMT requires moving to the previous day.",
-        "options": [
-            "Because traveling east against the Earth's rotation makes you lose a day.",
-            "This is an arbitrary rule with no relation to time zones.",
-            "Because they are moving into time zones that are progressively earlier, effectively crossing the point where the 24-hour difference between +12 GMT and -12 GMT requires moving to the previous day.",
-            "Because the Eastern Hemisphere is scientifically defined as being one day ahead of the Western Hemisphere."
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "International Date Line",
-        "complexity_score": 3
-    }
+  {
+    "question": "What is a map primarily used for?",
+    "correct": "To represent the Earth's surface and help locate places",
+    "options": [
+      "To show the daily weather forecast",
+      "To list the population of every country",
+      "To represent the Earth's surface and help locate places",
+      "To tell a story about ancient history"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Geography: Maps",
+    "complexity_score": 1
+  },
+  {
+    "question": "In the context of the lesson, what are the main characters in the Panchatantra stories?",
+    "correct": "Animals",
+    "options": [
+      "Kings and Queens",
+      "Gods and Goddesses",
+      "Animals",
+      "Children from different countries"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Diversity: Indian Literature",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the term for the imaginary vertical lines on a globe that run from the North Pole to the South Pole?",
+    "correct": "Longitude",
+    "options": [
+      "Latitude",
+      "Equator",
+      "Longitude",
+      "Meridian"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Geography: Latitude & Longitude",
+    "complexity_score": 1
+  },
+  {
+    "question": "According to the discussion, how old are the Panchatantra scriptures?",
+    "correct": "2200 years old",
+    "options": [
+      "50 years old",
+      "200 years old",
+      "2200 years old",
+      "1000 years old"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Diversity: Indian Literature",
+    "complexity_score": 1
+  },
+  {
+    "question": "The term 'literature', as discussed with examples like Ramayana and Panchatantra, refers to what?",
+    "correct": "Written creations like books and stories",
+    "options": [
+      "Only scientific textbooks",
+      "The way people speak",
+      "Written creations like books and stories",
+      "The laws of a country"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Diversity: Indian Literature",
+    "complexity_score": 1
+  },
+  {
+    "question": "What does 'diversity' mean, based on the examples of clothes, languages, and festivals in India?",
+    "correct": "The state of being different or having a variety",
+    "options": [
+      "Everyone being exactly the same",
+      "A type of food from one region",
+      "The state of being different or having a variety",
+      "A national holiday"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Diversity: Core Concept",
+    "complexity_score": 1
+  },
+  {
+    "question": "Why is it important to draw and label a diagram when explaining the difference between latitude and longitude?",
+    "correct": "It provides a clear visual representation that makes the answer easier to understand.",
+    "options": [
+      "It is the only way to get the answer correct.",
+      "It fills up more space on the page.",
+      "It provides a clear visual representation that makes the answer easier to understand.",
+      "It proves you have a good pen."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Geography: Maps",
+    "complexity_score": 2
+  },
+  {
+    "question": "The lesson explained that India has unity despite its diversity. How do the many versions of Ramayana and Mahabharata demonstrate this?",
+    "correct": "Though stories and languages differ, they teach the same core life skills and morals.",
+    "options": [
+      "Every version has the exact same characters and plot.",
+      "They are all written in the same language.",
+      "Though stories and languages differ, they teach the same core life skills and morals.",
+      "They are only read in one part of India."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Diversity: Indian Literature",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the key difference between local time and standard time as discussed in the class?",
+    "correct": "Local time is based on the sun's position at a specific longitude, while standard time is a fixed, official time for a whole country.",
+    "options": [
+      "Local time is for cities and standard time is for villages.",
+      "Standard time changes every day, but local time is always the same.",
+      "There is no difference; they are the same thing.",
+      "Local time is based on the sun's position at a specific longitude, while standard time is a fixed, official time for a whole country."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Geography: Time Zones",
+    "complexity_score": 2
+  },
+  {
+    "question": "The Panchatantra has been translated into 50 languages and has 200 adaptations. What does this fact show?",
+    "correct": "Its messages are universal and valued by many different cultures.",
+    "options": [
+      "The original story was not very good.",
+      "Nobody can agree on the correct story.",
+      "Its messages are universal and valued by many different cultures.",
+      "It is a very difficult book to read."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Diversity: Indian Literature",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why can it be said that 'unity does not divide, it enriches' in the context of Indian diversity?",
+    "correct": "Because bringing together different cultures and ideas makes the nation stronger and better, not weaker.",
+    "options": [
+      "Because unity means everyone must become the same.",
+      "Because division is a mathematical concept.",
+      "Because bringing together different cultures and ideas makes the nation stronger and better, not weaker.",
+      "Because unity is impossible in a diverse country."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Diversity: Core Concept",
+    "complexity_score": 2
+  },
+  {
+    "question": "The time difference between India and London is approximately 5 hours and 30 minutes. This is primarily because of the difference in their...",
+    "correct": "Longitudes",
+    "options": [
+      "Latitudes",
+      "Altitudes",
+      "Climates",
+      "Longitudes"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Geography: Time Zones",
+    "complexity_score": 2
+  },
+  {
+    "question": "When the teacher says 'ugly is also beautiful' from a different standpoint, what concept about diversity is being taught?",
+    "correct": "That our perspective shapes our judgment and what one person sees as different, another can see as valuable.",
+    "options": [
+      "That there is no such thing as beauty.",
+      "That spiders are secretly the most beautiful creatures.",
+      "That our perspective shapes our judgment and what one person sees as different, another can see as valuable.",
+      "That comedians are always ugly."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Diversity: Core Concept",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the main purpose of having a Standard Meridian for a country like India?",
+    "correct": "To create a single, uniform time for the entire country to avoid confusion.",
+    "options": [
+      "To mark the exact center of the country.",
+      "To create a single, uniform time for the entire country to avoid confusion.",
+      "To divide the country into two equal halves.",
+      "To determine the location for the capital city."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Geography: Time Zones",
+    "complexity_score": 2
+  },
+  {
+    "question": "The discussion about Galileo proving the Earth revolves around the sun was used to make a point. What was that point?",
+    "correct": "That humans can be wrong, and therefore information in books should be questioned with common sense.",
+    "options": [
+      "That all books from a thousand years ago are wrong.",
+      "That Galileo was the smartest person who ever lived.",
+      "That we should not believe anything we read in science books.",
+      "That humans can be wrong, and therefore information in books should be questioned with common sense."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Metacognition: Critical Thinking",
+    "complexity_score": 3
+  },
+  {
+    "question": "If Indian literatures are 'extremely diverse' (different languages, styles, versions), what is the 'underlying unity' the lesson refers to?",
+    "correct": "The shared morals, concerns, and life lessons they teach.",
+    "options": [
+      "They are all stored in the same library.",
+      "They were all written by the same author.",
+      "The shared morals, concerns, and life lessons they teach.",
+      "The paper and ink used to print them are identical."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Diversity: Indian Literature",
+    "complexity_score": 3
+  },
+  {
+    "question": "The teacher stated, 'diversity actually divides. But in this chapter we have learnt that diversity does not divide.' What does this seeming contradiction mean?",
+    "correct": "While differences can potentially cause conflict, India's example shows they can also be a source of national strength and richness.",
+    "options": [
+      "The teacher was confused and said the wrong thing.",
+      "Diversity only divides people in other countries, not India.",
+      "While differences can potentially cause conflict, India's example shows they can also be a source of national strength and richness.",
+      "The chapter is incorrect and diversity always divides people."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Diversity: Core Concept",
+    "complexity_score": 3
+  },
+  {
+    "question": "Why is simply stating 'the time difference is 5 hours 30 minutes' an incomplete answer to the question about time in India and London?",
+    "correct": "Because it doesn't explain the geographical reason (Earth's rotation and longitude) *why* the difference exists.",
+    "options": [
+      "Because the actual difference is 6 hours.",
+      "Because it fails to mention the date.",
+      "Because it doesn't explain the geographical reason (Earth's rotation and longitude) *why* the difference exists.",
+      "Because the answer must be written in a full paragraph."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Geography: Time Zones",
+    "complexity_score": 3
+  },
+  {
+    "question": "The People of India Project found 100 versions of the Ramayana. How does this fact support the main argument of the chapter on diversity?",
+    "correct": "It shows extreme diversity in storytelling, yet the core cultural values (unity) persist across all versions.",
+    "options": [
+      "It proves that no one knows the original story of the Ramayana.",
+      "It shows that most Indians have not read the Ramayana.",
+      "It means that the People of India Project is trying to confuse people.",
+      "It shows extreme diversity in storytelling, yet the core cultural values (unity) persist across all versions."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Diversity: Indian Literature",
+    "complexity_score": 3
+  },
+  {
+    "question": "The lesson implies that true friendship doesn't require two people to be the same. How does this relate to the concept of 'unity in diversity' at a national level?",
+    "correct": "Just as different friends can form a strong bond, different cultures can form a strong and unified nation.",
+    "options": [
+      "Friendship is more important than national unity.",
+      "Countries cannot be friends with each other.",
+      "Just as different friends can form a strong bond, different cultures can form a strong and unified nation.",
+      "To be unified, all friends in a nation must wear the same color bracelet."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Diversity: Core Concept",
+    "complexity_score": 3
+  }
 ]
