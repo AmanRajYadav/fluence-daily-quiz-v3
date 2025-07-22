@@ -1,6 +1,6 @@
 [
   {
-    "question": "Which phrase is the most formal and polite way to ask someone to open a door?",
+    "question": "Which phrase is the most polite way to ask someone to open a door?",
     "correct": "Sir, could you please open that door?",
     "options": [
       "Can I open that?",
@@ -14,27 +14,27 @@
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, the word 'will' can be used to express a promise, a threat, or...",
-    "correct": "determination.",
+    "question": "The word 'will' can be used to express a promise, a threat, or...",
+    "correct": "Determination",
     "options": [
-      "a past habit.",
-      "a question.",
-      "determination.",
-      "a wish."
+      "A past ability",
+      "A wish",
+      "Determination",
+      "A suggestion"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Future Intentions with 'Will'",
+    "topic": "Functions of 'Will'",
     "complexity_score": 1
   },
   {
-    "question": "How do you formally express a wish you have right now, like wanting to drink tea?",
-    "correct": "I would like to take tea.",
+    "question": "How would you formally express that you want to have some tea?",
+    "correct": "I would like to have tea.",
     "options": [
-      "I want to take tea.",
-      "I will take tea.",
-      "I would like to take tea.",
-      "I can take tea."
+      "I want tea.",
+      "Give me tea.",
+      "I would like to have tea.",
+      "I can have tea."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -42,241 +42,241 @@
     "complexity_score": 1
   },
   {
-    "question": "The sentence 'I can play' expresses a...",
-    "correct": "present ability.",
+    "question": "What does the sentence 'I can play' express?",
+    "correct": "Present ability",
     "options": [
-      "past possibility.",
-      "future plan.",
-      "present ability.",
-      "polite request."
+      "Past ability",
+      "A polite request",
+      "Present ability",
+      "A future promise"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Ability with 'Can'",
+    "topic": "Modal Verb 'Can'",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence correctly shows an ability in the past?",
-    "correct": "I could win.",
+    "question": "Which sentence expresses an inability to do something in the past?",
+    "correct": "I could not write on time.",
     "options": [
-      "I could have won.",
-      "I can win.",
-      "I could win.",
-      "I will win."
+      "I can't play.",
+      "I will not lie.",
+      "I could not write on time.",
+      "I would like to go."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Past Ability with 'Could'",
+    "topic": "Modal Verb 'Could Not'",
     "complexity_score": 1
   },
   {
-    "question": "What is the correct way to complete the sentence: 'I could not ____ on time.'?",
-    "correct": "write",
+    "question": "What is 'determination' as described in the lesson?",
+    "correct": "Promising yourself you will do something.",
     "options": [
-      "wrote",
-      "written",
-      "writing",
-      "write"
+      "Asking someone else for a favor.",
+      "Wishing for something you don't have.",
+      "Promising yourself you will do something.",
+      "Talking about something you did yesterday."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Sentence Structure with Modals",
+    "topic": "Functions of 'Will'",
     "complexity_score": 1
   },
   {
-    "question": "When a host asks a guest, 'What would you like to have?', what are they asking?",
-    "correct": "They are politely asking about the guest's preference or wish.",
+    "question": "A guest has just arrived. Which question uses 'would' correctly to offer them something?",
+    "correct": "What would you like to have?",
     "options": [
-      "They are giving the guest an order.",
-      "They are asking what the guest already possesses.",
-      "They are making a guess about the guest's feelings.",
-      "They are politely asking about the guest's preference or wish."
+      "What you will have?",
+      "What can you have?",
+      "What would you like to have?",
+      "What did you have?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Application of 'Would Like'",
+    "topic": "Polite Offers with 'Would'",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence is a correct example of expressing a 'determination' as discussed in the lesson?",
-    "correct": "Tomorrow I will cross level 21, 22, and 23.",
+    "question": "Choose the correct sentence to explain why you didn't call someone because you didn't have your phone.",
+    "correct": "I would have called you, but I did not have my phone.",
     "options": [
-      "I would like to cross level 21 tomorrow.",
-      "Tomorrow I will cross level 21, 22, and 23.",
-      "I could cross level 21 yesterday.",
-      "Can I cross level 21 tomorrow?"
+      "I would call you, but I have no phone.",
+      "I would have called you, but I did not have my phone.",
+      "I will call you, but I did not have my phone.",
+      "I would have call you, but I was not having my phone."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Future Intentions with 'Will'",
+    "topic": "Past Conditionals with 'Would Have'",
     "complexity_score": 2
   },
   {
-    "question": "The sentence 'I would have called you, but...' is used to talk about something...",
-    "correct": "you wanted to do in the past, but could not.",
+    "question": "What is the meaning of 'I could have won'?",
+    "correct": "I had the ability to win in the past, but I did not win.",
     "options": [
-      "you will do in the future.",
-      "you are doing right now.",
-      "you wanted to do in the past, but could not.",
-      "you were forced to do in the past."
+      "I will win in the future.",
+      "I am winning right now.",
+      "I had the ability to win in the past, but I did not win.",
+      "I win all the time."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Past Conditionals",
+    "topic": "Past Possibility with 'Could Have'",
     "complexity_score": 2
   },
   {
-    "question": "A student wanted to say they didn't have their phone. What is the correct way to finish the sentence: 'I would have called you, but...'",
-    "correct": "I did not have my phone.",
+    "question": "If you are making a strong promise to yourself about the future, which sentence is best?",
+    "correct": "I will cross level 23 tomorrow.",
     "options": [
-      "I am not having my phone.",
-      "I was no phone.",
-      "I did not have my phone.",
-      "I will not have my phone."
+      "I would cross level 23 tomorrow.",
+      "I could cross level 23 tomorrow.",
+      "I will cross level 23 tomorrow.",
+      "I can cross level 23 tomorrow."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Past Tense in Conditionals",
+    "topic": "Functions of 'Will'",
     "complexity_score": 2
   },
   {
-    "question": "What is the key difference between 'I could win' and 'I could have won'?",
-    "correct": "'I could win' means I had the ability, while 'I could have won' means it was a possibility that didn't happen.",
+    "question": "You wanted to do your homework in the past, but you couldn't because there was no electricity. How do you express this?",
+    "correct": "I would have done my homework, but there was no electricity.",
     "options": [
-      "There is no difference in meaning.",
-      "'I could win' is about the future, and 'I could have won' is about the past.",
-      "'I could win' is a definite victory, while 'I could have won' is uncertain.",
-      "'I could win' means I had the ability, while 'I could have won' means it was a possibility that didn't happen."
+      "I would do my homework, but there is no electricity.",
+      "I could do my homework, but there was no electricity.",
+      "I will do my homework, but there was no electricity.",
+      "I would have done my homework, but there was no electricity."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Distinguishing 'Could' and 'Could Have'",
+    "topic": "Past Conditionals with 'Would Have'",
     "complexity_score": 2
   },
   {
-    "question": "If you are trying to be polite, which question is better to ask a friend?",
-    "correct": "Would you like to come to my home on Sunday?",
+    "question": "Which of the following is a polite invitation?",
+    "correct": "Would you like to come to my home?",
     "options": [
-      "Why would you come to my house?",
-      "You will come to my house on Sunday.",
-      "Would you like to come to my home on Sunday?",
+      "Why would you come to my home?",
+      "You will come to my home.",
+      "Would you like to come to my home?",
       "Can you come to my home?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Appropriate Questioning",
+    "topic": "Polite Invitations with 'Would'",
     "complexity_score": 2
   },
   {
-    "question": "The teacher asks, 'How would you like your noodles? Plain or with spices?'. What kind of information is the teacher looking for?",
-    "correct": "The person's preference or wish for their food.",
+    "question": "The sentence 'I will beat you' is given as an example of a...",
+    "correct": "Threat",
     "options": [
-      "A description of noodles in general.",
-      "The person's ability to cook noodles.",
-      "A prediction about how the noodles will taste.",
-      "The person's preference or wish for their food."
+      "Promise",
+      "Threat",
+      "Determination",
+      "Wish"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Application of 'Would Like'",
+    "topic": "Functions of 'Will'",
     "complexity_score": 2
   },
   {
-    "question": "Choose the best sentence to explain why you didn't do your homework because of a power outage.",
-    "correct": "I would have done my homework, but there was no electricity.",
+    "question": "When asking a guest about their preference, 'would like' is used. It means the same as...",
+    "correct": "prefer",
     "options": [
-      "I could do my homework, but there was no electricity.",
-      "I would have done my homework, but there was no electricity.",
-      "I can't do my homework because there is no electricity.",
-      "I will do my homework, but there was no electricity."
+      "demand",
+      "need",
+      "prefer",
+      "can"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Past Conditionals",
+    "topic": "Expressing Wishes with 'Would'",
     "complexity_score": 2
   },
   {
-    "question": "Analyze the sentence: 'I would have done my homework, but I did not have my pen.' What does this logically imply?",
-    "correct": "The homework was not completed because a necessary tool was missing.",
+    "question": "A student says, 'I would have called you, but I was not having my phone.' What is the most accurate way to correct the second part for a past situation?",
+    "correct": "...but I did not have my phone.",
     "options": [
-      "The person was too tired to do the homework.",
-      "The homework was completed using a pencil instead.",
-      "The person forgot about the homework entirely.",
-      "The homework was not completed because a necessary tool was missing."
+      "...but I have no phone.",
+      "...but I will not have my phone.",
+      "...but I did not have my phone.",
+      "The sentence is already correct."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analysis of Conditionals",
+    "topic": "Past Tense in Conditionals",
     "complexity_score": 3
   },
   {
-    "question": "The teacher corrected the question 'Why would you come to my house?' to 'Would you like to come to my home?' in a specific context. Why was the first question likely inappropriate for asking a friend over?",
-    "correct": "It asks for a reason for an imaginary action, rather than politely inviting someone by asking their wish.",
+    "question": "What is the key difference between 'I could win' and 'I could have won'?",
+    "correct": "'I could have won' implies that you did not actually win.",
     "options": [
-      "It was grammatically incorrect.",
-      "It was too informal for a friend.",
-      "It asks for a reason for an imaginary action, rather than politely inviting someone by asking their wish.",
-      "It implies the person is already at the house."
+      "There is no difference in meaning.",
+      "'I could win' is about the future, and 'I could have won' is about the present.",
+      "'I could have won' implies that you did not actually win.",
+      "'I could win' is more polite than 'I could have won'."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Nuances of 'Would'",
+    "topic": "Nuances of 'Could' vs 'Could Have'",
     "complexity_score": 3
   },
   {
-    "question": "Which of the following real-life situations is the best fit for the expression 'I could have won'?",
-    "correct": "A runner was in first place but fell just before the finish line.",
+    "question": "The teacher corrected the question 'Why would you come to my house?' to 'Would you like to come to my home?' when inviting a friend. Why is the second question better for an invitation?",
+    "correct": "It politely asks about the friend's wish, while the first is a hypothetical question.",
     "options": [
-      "A student who studied hard and won the competition easily.",
-      "A person who decided not to enter a competition at all.",
-      "A runner was in first place but fell just before the finish line.",
-      "A chess player who knew they were a beginner and lost the game."
+      "The first question is grammatically incorrect.",
+      "The first question is too formal for a friend.",
+      "It politely asks about the friend's wish, while the first is a hypothetical question.",
+      "The second question uses more advanced vocabulary."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Contextual Analysis of 'Could Have'",
+    "topic": "Contextual Use of 'Would'",
     "complexity_score": 3
   },
   {
-    "question": "The lesson groups 'threat,' 'promise,' and 'determination' under the modal verb 'will'. What fundamental idea connects all three of these uses?",
-    "correct": "They all express a strong sense of intention or resolve about a future action.",
+    "question": "Consider the incorrect sentence from the transcript: 'I would have done my homework, but my hands are painting.' Why is this grammatically flawed for explaining a past event?",
+    "correct": "It incorrectly mixes a past conditional ('would have done') with a present tense verb ('are').",
     "options": [
-      "They are all used to ask polite questions.",
-      "They all describe events that are impossible.",
-      "They all talk about abilities in the past.",
-      "They all express a strong sense of intention or resolve about a future action."
+      "The word 'homework' should be plural.",
+      "You should use 'could have' instead of 'would have'.",
+      "It incorrectly mixes a past conditional ('would have done') with a present tense verb ('are').",
+      "The word 'painting' is not a valid reason."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Thematic Connection of 'Will'",
+    "topic": "Verb Tense Consistency",
     "complexity_score": 3
   },
   {
-    "question": "The student says, 'I would have to call you' and is corrected to 'I would have called you'. What is the critical difference in the corrected version?",
-    "correct": "It correctly expresses a past action that was intended but did not happen, without the incorrect sense of obligation.",
+    "question": "Which concept connects the ideas of 'threats', 'promises', and 'determination' as discussed in the class?",
+    "correct": "Stating a future intention with 'will'.",
     "options": [
-      "The corrected version is more polite.",
-      "The corrected version is in the present tense.",
-      "It correctly expresses a past action that was intended but did not happen, without the incorrect sense of obligation.",
-      "It means the person was unable to call."
+      "Expressing a past regret with 'could have'.",
+      "Making a polite request with 'could'.",
+      "Stating a future intention with 'will'.",
+      "Asking about a preference with 'would like'."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Modal Verb Precision",
+    "topic": "Synthesis of 'Will'",
     "complexity_score": 3
   },
   {
-    "question": "Based on the patterns in the lesson, what is the underlying function of using 'would' and 'could' in questions like 'Would you like to...' and 'Could you please...?'",
-    "correct": "To create a polite distance and make the interaction less direct and demanding.",
+    "question": "The sentence 'I would have called you, but there was no signal' is an example of...",
+    "correct": "Explaining why a desired past action did not happen.",
     "options": [
-      "To show that the speaker is uncertain about what they are saying.",
-      "To make the sentence longer and sound more intelligent.",
-      "To create a polite distance and make the interaction less direct and demanding.",
-      "To refer only to imaginary or impossible situations."
+      "Making a promise for the future.",
+      "Describing a current ability.",
+      "Explaining why a desired past action did not happen.",
+      "Asking for permission politely."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analysis of Politeness",
+    "topic": "Past Conditionals with 'Would Have'",
     "complexity_score": 3
   }
 ]
