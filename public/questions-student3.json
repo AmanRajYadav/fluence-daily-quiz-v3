@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the lesson, the sequence of square numbers was discussed. What is the fundamental rule for generating a number in this sequence?",
-    "correct": "Multiply the position number in the series by itself.",
+    "question": "According to the lesson, adding a sequence of which type of numbers can result in a square number?",
+    "correct": "Odd numbers",
     "options": [
-      "Add the previous two numbers together.",
-      "Add the series of numbers by themselves.",
-      "Multiply the position number in the series by itself.",
-      "Double the previous number in the sequence."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Number Patterns (Square Numbers)",
-    "complexity_score": 1
-  },
-  {
-    "question": "What specific item of clothing was used as a primary example to explain the concept of 'Unity in Diversity' in India?",
-    "correct": "The Sari",
-    "options": [
-      "The Kurta",
-      "The Turban",
-      "The Sari",
-      "The Dhoti"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Unity in Diversity in India",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which two ancient Indian epics were mentioned as having a powerful, unifying influence across the entire country?",
-    "correct": "The Ramayana and the Mahabharata",
-    "options": [
-      "The Vedas and the Upanishads",
-      "The Puranas and the Sutras",
-      "The Ramayana and the Mahabharata",
-      "The Arthashastra and the Manusmriti"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Cultural Influence of Epics",
-    "complexity_score": 1
-  },
-  {
-    "question": "The term for a sequence of numbers like 1, 4, 9, 16, 25... is the sequence of:",
-    "correct": "Square numbers",
-    "options": [
-      "Odd numbers",
+      "Even numbers",
       "Prime numbers",
-      "Square numbers",
-      "Even numbers"
+      "Odd numbers",
+      "Counting numbers up and down"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Number Patterns (Square Numbers)",
+    "topic": "Math: Number Sequences",
     "complexity_score": 1
   },
   {
-    "question": "The lesson emphasized that a complete answer in social science requires more than just facts. What was missing from the initial answer about the sari?",
-    "correct": "Examples of how it is worn differently in various regions.",
+    "question": "The lesson mentioned a specific case study from the 'People of India' project. In Tamil Nadu, how many versions of the Mahabharata were reportedly found?",
+    "correct": "100 versions",
     "options": [
-      "The history of the sari's invention.",
-      "The total number of saris sold each year.",
-      "Examples of how it is worn differently in various regions.",
-      "A list of famous people who wear saris."
+      "10 versions",
+      "50 versions",
+      "100 versions",
+      "Countless versions"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Unity in Diversity in India",
-    "complexity_score": 2
+    "topic": "Social Science: Cultural Epics",
+    "complexity_score": 1
   },
   {
-    "question": "What is the core idea of 'Unity in Diversity' as discussed in the context of India?",
-    "correct": "Different cultures and traditions coexisting as part of a single national identity.",
+    "question": "In the math problem, what is the rule for finding a square number based on its position in the counting number series?",
+    "correct": "Multiply the position in the series by itself",
     "options": [
-      "Everyone in the country following the exact same traditions.",
-      "Different cultures and traditions coexisting as part of a single national identity.",
-      "The idea that diversity should be reduced to create unity.",
-      "A political system that has many different parties."
+      "Add the position in the series to itself",
+      "Multiply the position in the series by itself",
+      "Add all previous positions in the series",
+      "Multiply the position by two"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Unity in Diversity in India",
+    "topic": "Math: Square Numbers",
+    "complexity_score": 1
+  },
+  {
+    "question": "What concept was the example of the saree used to explain in the social science portion?",
+    "correct": "Unity in diversity",
+    "options": [
+      "Economic trade routes",
+      "Fashion trends",
+      "Unity in diversity",
+      "The textile industry"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science: Indian Culture",
+    "complexity_score": 1
+  },
+  {
+    "question": "What was the specific name for the type of sequence described as 'adding the counting numbers up and down'?",
+    "correct": "Up and down sequence",
+    "options": [
+      "Pyramid sequence",
+      "Odd number sequence",
+      "Triangular sequence",
+      "Up and down sequence"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Math: Number Sequences",
+    "complexity_score": 1
+  },
+  {
+    "question": "The lesson explained that epics like the Ramayana and Mahabharata have created a 'dense web of...' what?",
+    "correct": "Cultural interactions",
+    "options": [
+      "Historical inaccuracies",
+      "Religious rules",
+      "Cultural interactions",
+      "Geographical boundaries"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Social Science: Cultural Influence",
+    "complexity_score": 1
+  },
+  {
+    "question": "The student initially suggested the pattern was 'adding the series of number by themselves'. Why was this explanation incomplete?",
+    "correct": "It didn't specify WHICH series of numbers was being used.",
+    "options": [
+      "The pattern involved subtraction, not addition.",
+      "It didn't specify WHICH series of numbers was being used.",
+      "The pattern was about shapes, not numbers.",
+      "It was a correct but too simple explanation."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Math: Pattern Articulation",
     "complexity_score": 2
   },
   {
-    "question": "The lesson described a specific pattern for generating the square number 25. What kind of sequence was it?",
-    "correct": "An 'up and down' sequence of counting numbers (1+2+3+4+5+4+3+2+1)",
+    "question": "Based on the instructor's feedback, what is the difference between a weak and a strong answer when explaining the saree's cultural role?",
+    "correct": "A strong answer gives specific examples of regional variations and fabrics.",
     "options": [
-      "A sequence of adding only odd numbers.",
-      "An 'up and down' sequence of counting numbers (1+2+3+4+5+4+3+2+1)",
-      "A sequence of multiplying numbers by 5.",
-      "A sequence of adding only even numbers."
+      "A strong answer lists all the states where sarees are worn.",
+      "A strong answer focuses only on the modern uses of the saree.",
+      "A strong answer gives specific examples of regional variations and fabrics.",
+      "A strong answer explains how the saree is manufactured."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Number Patterns (Square Numbers)",
-    "complexity_score": 4
+    "topic": "Social Science: Analytical Writing",
+    "complexity_score": 2
   },
   {
-    "question": "According to the tutor, K.S. Singh's 'People of India' project found over 100 versions of the Mahabharata in which state alone?",
-    "correct": "Tamil Nadu",
+    "question": "The discussion about the 'People of India' project suggested that almost every place in India has a local story about what?",
+    "correct": "A visit from the Pandavas or legends from Ramayana",
     "options": [
-      "Rajasthan",
-      "Punjab",
-      "Tamil Nadu",
-      "West Bengal"
+      "The origin of their local language",
+      "The founding of their village by a king",
+      "A visit from the Pandavas or legends from Ramayana",
+      "The creation of a unique local craft"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cultural Influence of Epics",
+    "topic": "Social Science: Cultural Epics",
+    "complexity_score": 2
+  },
+  {
+    "question": "A question asked to write the 'addition pattern that results in the square number 25' using an 'up and down sequence'. Which of the following best represents that concept?",
+    "correct": "1 + 2 + 3 + 4 + 5 + 4 + 3 + 2 + 1",
+    "options": [
+      "5 + 5 + 5 + 5 + 5",
+      "1 + 3 + 5 + 7 + 9",
+      "1 + 2 + 3 + 4 + 5 + 4 + 3 + 2 + 1",
+      "25 + 0"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Math: Number Sequences",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why is saying '10 is not a series, 10 is a position in a series' an important distinction when describing a mathematical pattern?",
+    "correct": "It clarifies that the rule applies to the location (position) of a number, not the number itself.",
+    "options": [
+      "It shows that a series must have more than one number.",
+      "It clarifies that the rule applies to the location (position) of a number, not the number itself.",
+      "It suggests that only numbers greater than 10 can be in a series.",
+      "It is a minor grammatical correction with no mathematical importance."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Math: Pattern Articulation",
+    "complexity_score": 2
+  },
+  {
+    "question": "How do the numerous local versions of the Mahabharata demonstrate the concept of 'unity in diversity'?",
+    "correct": "They show a common cultural story (unity) adapted with unique local elements (diversity).",
+    "options": [
+      "They prove that everyone in India agrees on the story's details.",
+      "They show a common cultural story (unity) adapted with unique local elements (diversity).",
+      "They demonstrate that ancient texts are often translated incorrectly.",
+      "They indicate that different regions are in competition with each other."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Social Science: Cultural Influence",
+    "complexity_score": 2
+  },
+  {
+    "question": "The instructor emphasized providing a 'pictorial presentation' for the number sequence. What is the main cognitive benefit of this approach?",
+    "correct": "It helps translate an abstract numerical pattern into a concrete visual one.",
+    "options": [
+      "It makes the test paper look more artistic.",
+      "It proves the student has drawing skills.",
+      "It is the only way to get full marks on the question.",
+      "It helps translate an abstract numerical pattern into a concrete visual one."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Math: Representation",
+    "complexity_score": 2
+  },
+  {
+    "question": "The instructor stated, 'The answer will come from the question only,' when asking for the pattern. What did this hint at?",
+    "correct": "The question contained the precise language needed to describe the rule.",
+    "options": [
+      "The answer was written somewhere else in the test.",
+      "The question was a trick and had no real answer.",
+      "The question contained the precise language needed to describe the rule.",
+      "The instructor was giving up on the student."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Metacognition: Problem Solving",
+    "complexity_score": 2
+  },
+  {
+    "question": "If a student only describes how a saree is used in different ceremonies, why would their answer be considered incomplete for a question on 'unity in diversity'?",
+    "correct": "It explains the 'unity' of use, but not the 'diversity' of fabric, style, or regional identity.",
+    "options": [
+      "Because it fails to mention the price of the saree.",
+      "It explains the 'unity' of use, but not the 'diversity' of fabric, style, or regional identity.",
+      "Because it should have focused on another piece of clothing.",
+      "It's a complete answer because ceremonies are part of culture."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Social Science: Analytical Writing",
     "complexity_score": 3
   },
   {
-    "question": "Why is the fact that nearly every region in India has a local story about a visit from the Pandavas significant?",
-    "correct": "It shows how deeply the national epic is woven into local identities.",
+    "question": "The lesson connects number patterns (math) and cultural patterns (social science). What is the fundamental concept that links these two seemingly different topics?",
+    "correct": "Both involve identifying an underlying, repeatable rule or structure that governs a system.",
     "options": [
-      "It proves the Pandavas had a detailed travel map.",
-      "It is a coincidence found in many countries.",
-      "It shows how deeply the national epic is woven into local identities.",
-      "It means all the stories are historically inaccurate."
+      "Both topics originated in ancient India.",
+      "Both involve complex calculations and memorization.",
+      "Both are required subjects for the exam.",
+      "Both involve identifying an underlying, repeatable rule or structure that governs a system."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cultural Influence of Epics",
-    "complexity_score": 5
-  },
-  {
-    "question": "How does the example of the sari best illustrate the concept of 'unity in diversity'?",
-    "correct": "The same garment (unity) is adapted into many different regional styles (diversity).",
-    "options": [
-      "Everyone in India wears the exact same type of sari.",
-      "The same garment (unity) is adapted into many different regional styles (diversity).",
-      "Saris are only made from one type of fabric.",
-      "The sari unites India because it is exported to other countries."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Unity in Diversity in India",
-    "complexity_score": 4
-  },
-  {
-    "question": "If you follow the rule 'multiply the position in the series by itself', what would be the number of triangles in the ninth position of the sequence?",
-    "correct": "81",
-    "options": [
-      "18",
-      "9",
-      "81",
-      "36"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Number Patterns (Square Numbers)",
+    "topic": "Interdisciplinary Thinking",
     "complexity_score": 3
   },
   {
-    "question": "The tutor stated that the epics created a 'dense web of cultural interactions'. What does this phrase imply?",
-    "correct": "The stories influenced and connected various aspects of culture, like language, traditions, and local tales.",
+    "question": "The 'up and down sequence' (e.g., 1+2+3+2+1) is related to generating square numbers by adding odd numbers (e.g., 1+3+5). How are these two patterns connected?",
+    "correct": "The sum of an 'up and down sequence' to N is N-squared, and the sum of the first N odd numbers is also N-squared.",
     "options": [
-      "The stories are very complicated and difficult to understand.",
-      "The stories were used to create fishing nets.",
-      "The stories influenced and connected various aspects of culture, like language, traditions, and local tales.",
-      "The stories were only popular in a few small, dense areas."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cultural Influence of Epics",
-    "complexity_score": 5
-  },
-  {
-    "question": "The student initially suggested the pattern for square numbers was 'adding the series of number by themselves.' Why is this an imprecise way to describe the rule?",
-    "correct": "It's vague; 'multiplying the position by itself' is the specific, correct operation.",
-    "options": [
-      "Because addition and multiplication are the same thing.",
-      "It's vague; 'multiplying the position by itself' is the specific, correct operation.",
-      "Because the pattern actually involves subtraction.",
-      "Because a series cannot be added to itself."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Number Patterns (Square Numbers)",
-    "complexity_score": 6
-  },
-  {
-    "question": "The existence of many regional versions of the Ramayana and Mahabharata demonstrates that Indian culture is:",
-    "correct": "Dynamic and adaptive, not static or uniform.",
-    "options": [
-      "Confused about its own history.",
-      "Unable to preserve its original stories.",
-      "Dynamic and adaptive, not static or uniform.",
-      "Less unified than other cultures."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cultural Influence of Epics",
-    "complexity_score": 5
-  },
-  {
-    "question": "If a student's answer about 'unity in diversity' only listed examples of different foods in India, why might it be considered incomplete?",
-    "correct": "It explains the 'diversity' but fails to explain the 'unity' - what connects these different foods as 'Indian'.",
-    "options": [
-      "Because it should have included recipes for the foods.",
-      "Because it didn't list every food from every state.",
-      "It explains the 'diversity' but fails to explain the 'unity' - what connects these different foods as 'Indian'.",
-      "Because food is not part of a country's culture."
+      "There is no connection; they are two unrelated patterns.",
+      "The 'up and down sequence' is used for even numbers, while the odd number sequence is for odd numbers.",
+      "One pattern is a visual representation of the other.",
+      "The sum of an 'up and down sequence' to N is N-squared, and the sum of the first N odd numbers is also N-squared."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Unity in Diversity in India",
-    "complexity_score": 8
+    "topic": "Math: Pattern Analysis",
+    "complexity_score": 3
   },
   {
-    "question": "What is the critical difference between saying a sequence's rule is 'multiplying the position' versus 'multiplying the previous number'?",
-    "correct": "One rule depends on a fixed position (stable), while the other depends on the value of the previous term (variable).",
+    "question": "Given the evidence that epics have been adapted by different communities, what can be inferred about the nature of culture in India?",
+    "correct": "Culture is not a static monolith but is dynamic and participatory, allowing communities to make stories their own.",
     "options": [
-      "There is no difference; both produce the same result.",
-      "One rule is for addition, the other is for multiplication.",
-      "One rule depends on a fixed position (stable), while the other depends on the value of the previous term (variable).",
-      "One rule is used for math, the other for social science."
+      "Culture is strictly dictated by ancient scriptures with no room for change.",
+      "The original stories have been lost and are no longer known.",
+      "Culture is not a static monolith but is dynamic and participatory, allowing communities to make stories their own.",
+      "Tribal communities are completely isolated from mainstream Indian culture."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Number Patterns (Square Numbers)",
-    "complexity_score": 9
+    "topic": "Social Science: Cultural Analysis",
+    "complexity_score": 3
   },
   {
-    "question": "The tutor's prompting about 'how tribal communities have created their own versions' of epics pushes the student to consider what?",
-    "correct": "How culture is actively shaped by all communities, not just a dominant group.",
+    "question": "The question asks 'How have these epics been adapted?'. Based on the instructor's prompts, a high-quality answer must analyze the influence on different groups. Which is the best example of this analysis?",
+    "correct": "Explaining how both tribal and non-tribal communities have created their own unique versions of the stories.",
     "options": [
-      "That tribal communities do not understand the original epics.",
-      "That the epics are only relevant to tribal communities.",
-      "How culture is actively shaped by all communities, not just a dominant group.",
-      "That there is only one correct version of any story."
+      "Listing the names of all the characters in the Ramayana.",
+      "Stating that the epics are very old and influential.",
+      "Explaining how both tribal and non-tribal communities have created their own unique versions of the stories.",
+      "Describing the plot of the Mahabharata in detail."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cultural Influence of Epics",
-    "complexity_score": 8
+    "topic": "Social Science: Critical Thinking",
+    "complexity_score": 3
   },
   {
-    "question": "The 'up and down' sequence (e.g., 1+2+3+2+1=9) is a specific example of a broader mathematical concept. What does this method visually represent?",
-    "correct": "Building a square by adding symmetric layers or 'gnomons' to a central point.",
+    "question": "A student is asked to find the sum of triangles in the 9th pattern, which follows a square number rule (1, 4, 9...). Instead of just writing '81', the instructor wants the student to 'explain the rule'. What is the critical thinking skill being tested here?",
+    "correct": "The ability to articulate the process (the 'how' and 'why') behind the answer, not just compute the result.",
     "options": [
-      "The fastest way to add any set of numbers.",
-      "A random and inefficient way of calculating a sum.",
-      "The formula for the circumference of a circle.",
-      "Building a square by adding symmetric layers or 'gnomons' to a central point."
+      "The ability to perform multiplication quickly.",
+      "The ability to draw triangles accurately.",
+      "The ability to articulate the process (the 'how' and 'why') behind the answer, not just compute the result.",
+      "The ability to remember all the square numbers up to 100."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Number Patterns (Square Numbers)",
-    "complexity_score": 10
-  },
-  {
-    "question": "When a local community in India adapts the Mahabharata to include its own heroes and landmarks, what two processes are occurring simultaneously?",
-    "correct": "Appropriation of a national symbol and assertion of a unique local identity.",
-    "options": [
-      "Forgetting the past and inventing a new future.",
-      "Rejecting national culture and promoting separatism.",
-      "Appropriation of a national symbol and assertion of a unique local identity.",
-      "Perfectly copying a text and misunderstanding its meaning."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cultural Influence of Epics",
-    "complexity_score": 9
-  },
-  {
-    "question": "Considering both subjects from the lesson, what is a shared theme between finding a rule for a number sequence and understanding 'unity in diversity'?",
-    "correct": "Both require identifying an underlying principle that connects seemingly different elements.",
-    "options": [
-      "Both are only important for passing exams.",
-      "Both involve drawing pictures of triangles and squares.",
-      "Both require identifying an underlying principle that connects seemingly different elements.",
-      "Both subjects conclude that there are no rules or patterns."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Interdisciplinary Connection",
-    "complexity_score": 10
+    "topic": "Metacognition: Explaining Process",
+    "complexity_score": 3
   }
 ]
