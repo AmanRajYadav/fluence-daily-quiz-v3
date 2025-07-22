@@ -1,282 +1,282 @@
 [
-  {
-    "question": "What is a map primarily used for?",
-    "correct": "To represent the Earth's surface and help locate places",
-    "options": [
-      "To show the daily weather forecast",
-      "To list the population of every country",
-      "To represent the Earth's surface and help locate places",
-      "To tell a story about ancient history"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Geography: Maps",
-    "complexity_score": 1
-  },
-  {
-    "question": "In the context of the lesson, what are the main characters in the Panchatantra stories?",
-    "correct": "Animals",
-    "options": [
-      "Kings and Queens",
-      "Gods and Goddesses",
-      "Animals",
-      "Children from different countries"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Diversity: Indian Literature",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the term for the imaginary vertical lines on a globe that run from the North Pole to the South Pole?",
-    "correct": "Longitude",
-    "options": [
-      "Latitude",
-      "Equator",
-      "Longitude",
-      "Meridian"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Geography: Latitude & Longitude",
-    "complexity_score": 1
-  },
-  {
-    "question": "According to the discussion, how old are the Panchatantra scriptures?",
-    "correct": "2200 years old",
-    "options": [
-      "50 years old",
-      "200 years old",
-      "2200 years old",
-      "1000 years old"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Diversity: Indian Literature",
-    "complexity_score": 1
-  },
-  {
-    "question": "The term 'literature', as discussed with examples like Ramayana and Panchatantra, refers to what?",
-    "correct": "Written creations like books and stories",
-    "options": [
-      "Only scientific textbooks",
-      "The way people speak",
-      "Written creations like books and stories",
-      "The laws of a country"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Diversity: Indian Literature",
-    "complexity_score": 1
-  },
-  {
-    "question": "What does 'diversity' mean, based on the examples of clothes, languages, and festivals in India?",
-    "correct": "The state of being different or having a variety",
-    "options": [
-      "Everyone being exactly the same",
-      "A type of food from one region",
-      "The state of being different or having a variety",
-      "A national holiday"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Diversity: Core Concept",
-    "complexity_score": 1
-  },
-  {
-    "question": "Why is it important to draw and label a diagram when explaining the difference between latitude and longitude?",
-    "correct": "It provides a clear visual representation that makes the answer easier to understand.",
-    "options": [
-      "It is the only way to get the answer correct.",
-      "It fills up more space on the page.",
-      "It provides a clear visual representation that makes the answer easier to understand.",
-      "It proves you have a good pen."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Geography: Maps",
-    "complexity_score": 2
-  },
-  {
-    "question": "The lesson explained that India has unity despite its diversity. How do the many versions of Ramayana and Mahabharata demonstrate this?",
-    "correct": "Though stories and languages differ, they teach the same core life skills and morals.",
-    "options": [
-      "Every version has the exact same characters and plot.",
-      "They are all written in the same language.",
-      "Though stories and languages differ, they teach the same core life skills and morals.",
-      "They are only read in one part of India."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Diversity: Indian Literature",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the key difference between local time and standard time as discussed in the class?",
-    "correct": "Local time is based on the sun's position at a specific longitude, while standard time is a fixed, official time for a whole country.",
-    "options": [
-      "Local time is for cities and standard time is for villages.",
-      "Standard time changes every day, but local time is always the same.",
-      "There is no difference; they are the same thing.",
-      "Local time is based on the sun's position at a specific longitude, while standard time is a fixed, official time for a whole country."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Geography: Time Zones",
-    "complexity_score": 2
-  },
-  {
-    "question": "The Panchatantra has been translated into 50 languages and has 200 adaptations. What does this fact show?",
-    "correct": "Its messages are universal and valued by many different cultures.",
-    "options": [
-      "The original story was not very good.",
-      "Nobody can agree on the correct story.",
-      "Its messages are universal and valued by many different cultures.",
-      "It is a very difficult book to read."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Diversity: Indian Literature",
-    "complexity_score": 2
-  },
-  {
-    "question": "Why can it be said that 'unity does not divide, it enriches' in the context of Indian diversity?",
-    "correct": "Because bringing together different cultures and ideas makes the nation stronger and better, not weaker.",
-    "options": [
-      "Because unity means everyone must become the same.",
-      "Because division is a mathematical concept.",
-      "Because bringing together different cultures and ideas makes the nation stronger and better, not weaker.",
-      "Because unity is impossible in a diverse country."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Diversity: Core Concept",
-    "complexity_score": 2
-  },
-  {
-    "question": "The time difference between India and London is approximately 5 hours and 30 minutes. This is primarily because of the difference in their...",
-    "correct": "Longitudes",
-    "options": [
-      "Latitudes",
-      "Altitudes",
-      "Climates",
-      "Longitudes"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Geography: Time Zones",
-    "complexity_score": 2
-  },
-  {
-    "question": "When the teacher says 'ugly is also beautiful' from a different standpoint, what concept about diversity is being taught?",
-    "correct": "That our perspective shapes our judgment and what one person sees as different, another can see as valuable.",
-    "options": [
-      "That there is no such thing as beauty.",
-      "That spiders are secretly the most beautiful creatures.",
-      "That our perspective shapes our judgment and what one person sees as different, another can see as valuable.",
-      "That comedians are always ugly."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Diversity: Core Concept",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the main purpose of having a Standard Meridian for a country like India?",
-    "correct": "To create a single, uniform time for the entire country to avoid confusion.",
-    "options": [
-      "To mark the exact center of the country.",
-      "To create a single, uniform time for the entire country to avoid confusion.",
-      "To divide the country into two equal halves.",
-      "To determine the location for the capital city."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Geography: Time Zones",
-    "complexity_score": 2
-  },
-  {
-    "question": "The discussion about Galileo proving the Earth revolves around the sun was used to make a point. What was that point?",
-    "correct": "That humans can be wrong, and therefore information in books should be questioned with common sense.",
-    "options": [
-      "That all books from a thousand years ago are wrong.",
-      "That Galileo was the smartest person who ever lived.",
-      "That we should not believe anything we read in science books.",
-      "That humans can be wrong, and therefore information in books should be questioned with common sense."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Metacognition: Critical Thinking",
-    "complexity_score": 3
-  },
-  {
-    "question": "If Indian literatures are 'extremely diverse' (different languages, styles, versions), what is the 'underlying unity' the lesson refers to?",
-    "correct": "The shared morals, concerns, and life lessons they teach.",
-    "options": [
-      "They are all stored in the same library.",
-      "They were all written by the same author.",
-      "The shared morals, concerns, and life lessons they teach.",
-      "The paper and ink used to print them are identical."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Diversity: Indian Literature",
-    "complexity_score": 3
-  },
-  {
-    "question": "The teacher stated, 'diversity actually divides. But in this chapter we have learnt that diversity does not divide.' What does this seeming contradiction mean?",
-    "correct": "While differences can potentially cause conflict, India's example shows they can also be a source of national strength and richness.",
-    "options": [
-      "The teacher was confused and said the wrong thing.",
-      "Diversity only divides people in other countries, not India.",
-      "While differences can potentially cause conflict, India's example shows they can also be a source of national strength and richness.",
-      "The chapter is incorrect and diversity always divides people."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Diversity: Core Concept",
-    "complexity_score": 3
-  },
-  {
-    "question": "Why is simply stating 'the time difference is 5 hours 30 minutes' an incomplete answer to the question about time in India and London?",
-    "correct": "Because it doesn't explain the geographical reason (Earth's rotation and longitude) *why* the difference exists.",
-    "options": [
-      "Because the actual difference is 6 hours.",
-      "Because it fails to mention the date.",
-      "Because it doesn't explain the geographical reason (Earth's rotation and longitude) *why* the difference exists.",
-      "Because the answer must be written in a full paragraph."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Geography: Time Zones",
-    "complexity_score": 3
-  },
-  {
-    "question": "The People of India Project found 100 versions of the Ramayana. How does this fact support the main argument of the chapter on diversity?",
-    "correct": "It shows extreme diversity in storytelling, yet the core cultural values (unity) persist across all versions.",
-    "options": [
-      "It proves that no one knows the original story of the Ramayana.",
-      "It shows that most Indians have not read the Ramayana.",
-      "It means that the People of India Project is trying to confuse people.",
-      "It shows extreme diversity in storytelling, yet the core cultural values (unity) persist across all versions."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Diversity: Indian Literature",
-    "complexity_score": 3
-  },
-  {
-    "question": "The lesson implies that true friendship doesn't require two people to be the same. How does this relate to the concept of 'unity in diversity' at a national level?",
-    "correct": "Just as different friends can form a strong bond, different cultures can form a strong and unified nation.",
-    "options": [
-      "Friendship is more important than national unity.",
-      "Countries cannot be friends with each other.",
-      "Just as different friends can form a strong bond, different cultures can form a strong and unified nation.",
-      "To be unified, all friends in a nation must wear the same color bracelet."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Diversity: Core Concept",
-    "complexity_score": 3
-  }
+    {
+        "question": "What is a portion of a line that has one starting point and extends endlessly in one direction?",
+        "correct": "A ray",
+        "options": [
+            "A line",
+            "A line segment",
+            "A ray",
+            "A point"
+        ],
+        "difficulty": "easy",
+        "questionType": "mcq",
+        "topic": "Ray",
+        "complexity_score": 1
+    },
+    {
+        "question": "What is the common starting point shared by the two rays that form an angle?",
+        "correct": "Vertex",
+        "options": [
+            "Arm",
+            "Vertex",
+            "Edge",
+            "Side"
+        ],
+        "difficulty": "easy",
+        "questionType": "mcq",
+        "topic": "Angle Basics",
+        "complexity_score": 1
+    },
+    {
+        "question": "An angle that measures exactly 90° is known as a:",
+        "correct": "Right angle",
+        "options": [
+            "Acute angle",
+            "Obtuse angle",
+            "Straight angle",
+            "Right angle"
+        ],
+        "difficulty": "easy",
+        "questionType": "mcq",
+        "topic": "Types of Angles",
+        "complexity_score": 1
+    },
+    {
+        "question": "Which of the following describes an acute angle?",
+        "correct": "An angle less than 90°",
+        "options": [
+            "An angle exactly 90°",
+            "An angle greater than 90° but less than 180°",
+            "An angle less than 90°",
+            "An angle of 180°"
+        ],
+        "difficulty": "easy",
+        "questionType": "mcq",
+        "topic": "Types of Angles",
+        "complexity_score": 1
+    },
+    {
+        "question": "How many distinct lines can be drawn through two given points?",
+        "correct": "One",
+        "options": [
+            "One",
+            "Two",
+            "Infinite",
+            "None"
+        ],
+        "difficulty": "easy",
+        "questionType": "mcq",
+        "topic": "Lines",
+        "complexity_score": 1
+    },
+    {
+        "question": "What geometric tool is specifically designed for measuring and drawing angles?",
+        "correct": "Protractor",
+        "options": [
+            "Ruler",
+            "Compass",
+            "Protractor",
+            "Set square"
+        ],
+        "difficulty": "easy",
+        "questionType": "mcq",
+        "topic": "Measuring Angles",
+        "complexity_score": 1
+    },
+    {
+        "question": "If you bisect a straight angle, what will you get?",
+        "correct": "Two right angles",
+        "options": [
+            "Two acute angles",
+            "Two obtuse angles",
+            "Two right angles",
+            "Two straight angles"
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "Angle Properties",
+        "complexity_score": 2
+    },
+    {
+        "question": "The notation $\\overleftrightarrow{XY}$ represents a line. How does this differ from a ray, $\\vec{XY}$?",
+        "correct": "The line extends infinitely in both directions, while the ray has a starting point at X.",
+        "options": [
+            "There is no difference.",
+            "The ray is shorter than the line.",
+            "The line extends infinitely in both directions, while the ray has a starting point at X.",
+            "The ray extends infinitely in both directions, while the line has a starting point."
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "Notation",
+        "complexity_score": 2
+    },
+    {
+        "question": "What type of angle do the hands of a clock form at 3 o'clock?",
+        "correct": "A right angle",
+        "options": [
+            "An acute angle",
+            "An obtuse angle",
+            "A straight angle",
+            "A right angle"
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "Application of Angles",
+        "complexity_score": 2
+    },
+    {
+        "question": "An angle measures 179°. What type of angle is it?",
+        "correct": "Obtuse",
+        "options": [
+            "Acute",
+            "Right",
+            "Straight",
+            "Obtuse"
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "Classifying Angles",
+        "complexity_score": 2
+    },
+    {
+        "question": "Which statement best describes the difference between a line segment and a line?",
+        "correct": "A line segment has two fixed endpoints, while a line extends infinitely in both directions.",
+        "options": [
+            "A line is curved, but a line segment is straight.",
+            "A line segment has two fixed endpoints, while a line extends infinitely in both directions.",
+            "A line segment is longer than a line.",
+            "A line has one endpoint, while a line segment has two."
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "Lines and Line Segments",
+        "complexity_score": 2
+    },
+    {
+        "question": "A reflex angle is bisected. What can be said about the two new angles formed?",
+        "correct": "They could be obtuse or right angles.",
+        "options": [
+            "They are always acute angles.",
+            "They are always reflex angles.",
+            "They are always obtuse angles.",
+            "They could be obtuse or right angles."
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "Angle Bisector",
+        "complexity_score": 3
+    },
+    {
+        "question": "In the name for an angle, $\\angle PQR$, what does the letter 'Q' represent?",
+        "correct": "The vertex of the angle",
+        "options": [
+            "A point on one of the arms",
+            "The vertex of the angle",
+            "The length of the angle's arm",
+            "A point in the exterior of the angle"
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "Angle Basics",
+        "complexity_score": 2
+    },
+    {
+        "question": "What is the angle between the hands of a clock at 1 o'clock?",
+        "correct": "30°",
+        "options": [
+            "15°",
+            "30°",
+            "60°",
+            "10°"
+        ],
+        "difficulty": "medium",
+        "questionType": "mcq",
+        "topic": "Application of Angles",
+        "complexity_score": 2
+    },
+    {
+        "question": "The sum of two acute angles results in a new angle. What type could this new angle be?",
+        "correct": "It could be acute, right, or obtuse.",
+        "options": [
+            "It must be acute.",
+            "It must be obtuse.",
+            "It could be acute, right, or obtuse.",
+            "It must be a right angle."
+        ],
+        "difficulty": "hard",
+        "questionType": "mcq",
+        "topic": "Angle Properties",
+        "complexity_score": 3
+    },
+    {
+        "question": "An angle is bisected, and each of the two resulting angles measures 55°. What was the type of the original angle?",
+        "correct": "Obtuse",
+        "options": [
+            "Acute",
+            "Right",
+            "Obtuse",
+            "Straight"
+        ],
+        "difficulty": "hard",
+        "questionType": "mcq",
+        "topic": "Angle Bisector",
+        "complexity_score": 3
+    },
+    {
+        "question": "What is the measure of the angle between the hands of a clock at 4 o'clock?",
+        "correct": "120°",
+        "options": [
+            "90°",
+            "100°",
+            "120°",
+            "40°"
+        ],
+        "difficulty": "hard",
+        "questionType": "mcq",
+        "topic": "Application of Angles",
+        "complexity_score": 3
+    },
+    {
+        "question": "A pizza is cut into 10 equal slices. What is the measure of the angle of one slice at the center?",
+        "correct": "36°",
+        "options": [
+            "10°",
+            "18°",
+            "36°",
+            "45°"
+        ],
+        "difficulty": "hard",
+        "questionType": "mcq",
+        "topic": "Application of Angles",
+        "complexity_score": 3
+    },
+    {
+        "question": "The size of an angle is independent of the length of its arms. Why is this statement true?",
+        "correct": "Because the angle measures the amount of rotation between the arms, not their length.",
+        "options": [
+            "Because the arms must always be the same length.",
+            "Because the angle measures the distance between the endpoints of the arms.",
+            "Because longer arms create smaller angles.",
+            "Because the angle measures the amount of rotation between the arms, not their length."
+        ],
+        "difficulty": "hard",
+        "questionType": "mcq",
+        "topic": "Angle Properties",
+        "complexity_score": 3
+    },
+    {
+        "question": "You see two lines, $\\overleftrightarrow{AB}$ and $\\overleftrightarrow{CD}$, that are perpendicular. What must be true about the angle they form at their intersection?",
+        "correct": "The angle measures exactly 90°.",
+        "options": [
+            "The angle is acute.",
+            "The angle is obtuse.",
+            "The angle measures exactly 180°.",
+            "The angle measures exactly 90°."
+        ],
+        "difficulty": "hard",
+        "questionType": "mcq",
+        "topic": "Types of Lines",
+        "complexity_score": 3
+    }
 ]
