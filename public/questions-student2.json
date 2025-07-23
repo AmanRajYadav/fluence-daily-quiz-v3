@@ -1,282 +1,282 @@
 [
-    {
-        "question": "What is a portion of a line that has one starting point and extends endlessly in one direction?",
-        "correct": "A ray",
-        "options": [
-            "A line",
-            "A line segment",
-            "A ray",
-            "A point"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Ray",
-        "complexity_score": 1
-    },
-    {
-        "question": "What is the common starting point shared by the two rays that form an angle?",
-        "correct": "Vertex",
-        "options": [
-            "Arm",
-            "Vertex",
-            "Edge",
-            "Side"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Angle Basics",
-        "complexity_score": 1
-    },
-    {
-        "question": "An angle that measures exactly 90° is known as a:",
-        "correct": "Right angle",
-        "options": [
-            "Acute angle",
-            "Obtuse angle",
-            "Straight angle",
-            "Right angle"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Types of Angles",
-        "complexity_score": 1
-    },
-    {
-        "question": "Which of the following describes an acute angle?",
-        "correct": "An angle less than 90°",
-        "options": [
-            "An angle exactly 90°",
-            "An angle greater than 90° but less than 180°",
-            "An angle less than 90°",
-            "An angle of 180°"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Types of Angles",
-        "complexity_score": 1
-    },
-    {
-        "question": "How many distinct lines can be drawn through two given points?",
-        "correct": "One",
-        "options": [
-            "One",
-            "Two",
-            "Infinite",
-            "None"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Lines",
-        "complexity_score": 1
-    },
-    {
-        "question": "What geometric tool is specifically designed for measuring and drawing angles?",
-        "correct": "Protractor",
-        "options": [
-            "Ruler",
-            "Compass",
-            "Protractor",
-            "Set square"
-        ],
-        "difficulty": "easy",
-        "questionType": "mcq",
-        "topic": "Measuring Angles",
-        "complexity_score": 1
-    },
-    {
-        "question": "If you bisect a straight angle, what will you get?",
-        "correct": "Two right angles",
-        "options": [
-            "Two acute angles",
-            "Two obtuse angles",
-            "Two right angles",
-            "Two straight angles"
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Angle Properties",
-        "complexity_score": 2
-    },
-    {
-        "question": "The notation $\\overleftrightarrow{XY}$ represents a line. How does this differ from a ray, $\\vec{XY}$?",
-        "correct": "The line extends infinitely in both directions, while the ray has a starting point at X.",
-        "options": [
-            "There is no difference.",
-            "The ray is shorter than the line.",
-            "The line extends infinitely in both directions, while the ray has a starting point at X.",
-            "The ray extends infinitely in both directions, while the line has a starting point."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Notation",
-        "complexity_score": 2
-    },
-    {
-        "question": "What type of angle do the hands of a clock form at 3 o'clock?",
-        "correct": "A right angle",
-        "options": [
-            "An acute angle",
-            "An obtuse angle",
-            "A straight angle",
-            "A right angle"
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Application of Angles",
-        "complexity_score": 2
-    },
-    {
-        "question": "An angle measures 179°. What type of angle is it?",
-        "correct": "Obtuse",
-        "options": [
-            "Acute",
-            "Right",
-            "Straight",
-            "Obtuse"
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Classifying Angles",
-        "complexity_score": 2
-    },
-    {
-        "question": "Which statement best describes the difference between a line segment and a line?",
-        "correct": "A line segment has two fixed endpoints, while a line extends infinitely in both directions.",
-        "options": [
-            "A line is curved, but a line segment is straight.",
-            "A line segment has two fixed endpoints, while a line extends infinitely in both directions.",
-            "A line segment is longer than a line.",
-            "A line has one endpoint, while a line segment has two."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Lines and Line Segments",
-        "complexity_score": 2
-    },
-    {
-        "question": "A reflex angle is bisected. What can be said about the two new angles formed?",
-        "correct": "They could be obtuse or right angles.",
-        "options": [
-            "They are always acute angles.",
-            "They are always reflex angles.",
-            "They are always obtuse angles.",
-            "They could be obtuse or right angles."
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Angle Bisector",
-        "complexity_score": 3
-    },
-    {
-        "question": "In the name for an angle, $\\angle PQR$, what does the letter 'Q' represent?",
-        "correct": "The vertex of the angle",
-        "options": [
-            "A point on one of the arms",
-            "The vertex of the angle",
-            "The length of the angle's arm",
-            "A point in the exterior of the angle"
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Angle Basics",
-        "complexity_score": 2
-    },
-    {
-        "question": "What is the angle between the hands of a clock at 1 o'clock?",
-        "correct": "30°",
-        "options": [
-            "15°",
-            "30°",
-            "60°",
-            "10°"
-        ],
-        "difficulty": "medium",
-        "questionType": "mcq",
-        "topic": "Application of Angles",
-        "complexity_score": 2
-    },
-    {
-        "question": "The sum of two acute angles results in a new angle. What type could this new angle be?",
-        "correct": "It could be acute, right, or obtuse.",
-        "options": [
-            "It must be acute.",
-            "It must be obtuse.",
-            "It could be acute, right, or obtuse.",
-            "It must be a right angle."
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Angle Properties",
-        "complexity_score": 3
-    },
-    {
-        "question": "An angle is bisected, and each of the two resulting angles measures 55°. What was the type of the original angle?",
-        "correct": "Obtuse",
-        "options": [
-            "Acute",
-            "Right",
-            "Obtuse",
-            "Straight"
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Angle Bisector",
-        "complexity_score": 3
-    },
-    {
-        "question": "What is the measure of the angle between the hands of a clock at 4 o'clock?",
-        "correct": "120°",
-        "options": [
-            "90°",
-            "100°",
-            "120°",
-            "40°"
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Application of Angles",
-        "complexity_score": 3
-    },
-    {
-        "question": "A pizza is cut into 10 equal slices. What is the measure of the angle of one slice at the center?",
-        "correct": "36°",
-        "options": [
-            "10°",
-            "18°",
-            "36°",
-            "45°"
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Application of Angles",
-        "complexity_score": 3
-    },
-    {
-        "question": "The size of an angle is independent of the length of its arms. Why is this statement true?",
-        "correct": "Because the angle measures the amount of rotation between the arms, not their length.",
-        "options": [
-            "Because the arms must always be the same length.",
-            "Because the angle measures the distance between the endpoints of the arms.",
-            "Because longer arms create smaller angles.",
-            "Because the angle measures the amount of rotation between the arms, not their length."
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Angle Properties",
-        "complexity_score": 3
-    },
-    {
-        "question": "You see two lines, $\\overleftrightarrow{AB}$ and $\\overleftrightarrow{CD}$, that are perpendicular. What must be true about the angle they form at their intersection?",
-        "correct": "The angle measures exactly 90°.",
-        "options": [
-            "The angle is acute.",
-            "The angle is obtuse.",
-            "The angle measures exactly 180°.",
-            "The angle measures exactly 90°."
-        ],
-        "difficulty": "hard",
-        "questionType": "mcq",
-        "topic": "Types of Lines",
-        "complexity_score": 3
-    }
+  {
+    "question": "According to the lesson, what is a point?",
+    "correct": "A small dot with no length, breadth, or height",
+    "options": [
+      "The end of a line",
+      "A small circle",
+      "A small dot with no length, breadth, or height",
+      "The space between two lines"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Geometric Definitions",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the main characteristic of a line segment?",
+    "correct": "It has two distinct endpoints.",
+    "options": [
+      "It extends forever in one direction.",
+      "It has no endpoints.",
+      "It has two distinct endpoints.",
+      "It forms a right angle."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Geometric Definitions",
+    "complexity_score": 1
+  },
+  {
+    "question": "A ray is best described as having:",
+    "correct": "One starting point and extending indefinitely in one direction.",
+    "options": [
+      "Two starting points.",
+      "No starting point and no endpoint.",
+      "One starting point and extending indefinitely in one direction.",
+      "One starting point and one endpoint."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Geometric Definitions",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is a line?",
+    "correct": "A line segment extended indefinitely in both directions.",
+    "options": [
+      "A collection of many points in a curve.",
+      "Something with two endpoints.",
+      "A ray that has an endpoint.",
+      "A line segment extended indefinitely in both directions."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Geometric Definitions",
+    "complexity_score": 1
+  },
+  {
+    "question": "In the final definition created in class, an angle is formed when:",
+    "correct": "Two rays start from one common point.",
+    "options": [
+      "Two line segments are near each other.",
+      "Two lines cross each other.",
+      "Two rays start from one common point.",
+      "A ray is bent."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Angles",
+    "complexity_score": 1
+  },
+  {
+    "question": "The common starting point of the two rays that form an angle is called the:",
+    "correct": "Vertex",
+    "options": [
+      "Arm",
+      "Point",
+      "Ray",
+      "Vertex"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Angles",
+    "complexity_score": 1
+  },
+  {
+    "question": "The beam from a flashlight was used as a real-world example of what geometric figure?",
+    "correct": "A ray",
+    "options": [
+      "A point",
+      "A line segment",
+      "A line",
+      "A ray"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Real-World Application",
+    "complexity_score": 2
+  },
+  {
+    "question": "If you have a line segment and you extend it forever, but only in ONE direction, what do you create?",
+    "correct": "A ray",
+    "options": [
+      "A line",
+      "An angle",
+      "A ray",
+      "Another line segment"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Geometric Relationships",
+    "complexity_score": 2
+  },
+  {
+    "question": "In the example of opening a laptop, an angle is formed between the screen and the keyboard. What are the 'arms' of this angle?",
+    "correct": "The flat surfaces of the screen and the keyboard",
+    "options": [
+      "The hinge of the laptop",
+      "The corners of the screen",
+      "The flat surfaces of the screen and the keyboard",
+      "The space between the screen and keyboard"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Real-World Application",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why is 'gap' not the most precise word to describe an angle?",
+    "correct": "Because the size of the 'gap' changes as you move away from the vertex, but the angle does not.",
+    "options": [
+      "Because a gap must be empty space.",
+      "Because 'gap' is not a mathematical term.",
+      "Because the size of the 'gap' changes as you move away from the vertex, but the angle does not.",
+      "Because a gap can only exist between two lines, not two rays."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Conceptual Understanding",
+    "complexity_score": 2
+  },
+  {
+    "question": "If ray PQ and ray PR form an angle, which point is the vertex?",
+    "correct": "P",
+    "options": [
+      "Q",
+      "R",
+      "There is no vertex.",
+      "P"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Angles",
+    "complexity_score": 2
+  },
+  {
+    "question": "What are the two rays that form an angle often called?",
+    "correct": "The arms of the angle",
+    "options": [
+      "The sides of the vertex",
+      "The arms of the angle",
+      "The segments of the angle",
+      "The points of the angle"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Angles",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which of the following describes a key difference between a line and a line segment?",
+    "correct": "A line is infinite in length, while a line segment has a measurable length.",
+    "options": [
+      "A line has one endpoint, and a line segment has two.",
+      "A line is straight, while a line segment can be curved.",
+      "A line is infinite in length, while a line segment has a measurable length.",
+      "A line is made of rays, and a line segment is made of points."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Geometric Relationships",
+    "complexity_score": 2
+  },
+  {
+    "question": "In the angle named ∠OPQ, what are the arms?",
+    "correct": "Ray PO and Ray PQ",
+    "options": [
+      "Ray OP and Ray QP",
+      "Point O, P, and Q",
+      "Ray PO and Ray PQ",
+      "Line segment OP and Line segment PQ"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Angles",
+    "complexity_score": 2
+  },
+  {
+    "question": "A student defines an angle as 'two rays that share a starting point'. Why is adding a real-life example, like an open laptop, a 'beautiful' and 'clear' way to improve this answer?",
+    "correct": "It connects an abstract idea to a concrete, familiar object, making it easier to understand.",
+    "options": [
+      "It proves you own a laptop.",
+      "It makes the answer longer and more detailed.",
+      "It connects an abstract idea to a concrete, familiar object, making it easier to understand.",
+      "It shows you can identify different types of angles like acute and right."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Metacognition & Communication",
+    "complexity_score": 3
+  },
+  {
+    "question": "Imagine two rays starting from the same point and pointing in exactly opposite directions. What have they formed?",
+    "correct": "A straight line",
+    "options": [
+      "A right angle",
+      "A complete circle",
+      "Two separate lines",
+      "A straight line"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Analytical Thinking",
+    "complexity_score": 3
+  },
+  {
+    "question": "Why can't you measure the total length of a ray?",
+    "correct": "Because it extends indefinitely in one direction.",
+    "options": [
+      "Because it has no starting point.",
+      "Because it is too thin to measure.",
+      "Because it extends indefinitely in one direction.",
+      "Because you need two endpoints to measure length."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Conceptual Analysis",
+    "complexity_score": 3
+  },
+  {
+    "question": "If two rays are parallel to each other, why do they not form an angle according to the definition discussed?",
+    "correct": "Because they do not share a common starting point (vertex).",
+    "options": [
+      "Because parallel lines never meet.",
+      "Because they are not line segments.",
+      "Because they do not share a common starting point (vertex).",
+      "Because they must be perpendicular to form an angle."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Analytical Thinking",
+    "complexity_score": 3
+  },
+  {
+    "question": "The lesson stressed making answers 'efficient'. Which of the following is the most efficient way to describe an angle formed by rays BA and BC?",
+    "correct": "Angle ABC is formed by rays BA and BC with vertex B.",
+    "options": [
+      "There are two things, called rays, and they are BA and BC, and they start at a point, B, which makes an angle.",
+      "Angle ABC is formed by rays BA and BC with vertex B.",
+      "An angle is there. Its parts are a ray BA and a ray BC.",
+      "Look at the corner at B. It's an angle."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Metacognition & Communication",
+    "complexity_score": 3
+  },
+  {
+    "question": "In the final, improved answer about angles, why was it important to identify BOTH the vertex and the arms?",
+    "correct": "It provides a complete and unambiguous description of the angle's structure.",
+    "options": [
+      "It is the only way to name the angle.",
+      "It proves that the angle is not a right angle.",
+      "It provides a complete and unambiguous description of the angle's structure.",
+      "It shows how long the rays are."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Conceptual Analysis",
+    "complexity_score": 3
+  }
 ]
