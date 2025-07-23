@@ -1,12 +1,12 @@
 [
   {
-    "question": "According to the lesson, what is one of the main uses of the word 'will'?",
-    "correct": "To make a promise or a threat",
+    "question": "Which sentence shows the correct use of 'will' to make a promise?",
+    "correct": "I will definitely help you with your project.",
     "options": [
-      "To ask for permission",
-      "To talk about a past ability",
-      "To make a promise or a threat",
-      "To express a wish"
+      "I will maybe help you with your project.",
+      "I will definitely help you with your project.",
+      "I can help you with your project.",
+      "I would help you with your project."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -14,13 +14,27 @@
     "complexity_score": 1
   },
   {
-    "question": "The word 'might' is used when we are...",
-    "correct": "unsure about something.",
+    "question": "How would you use 'may' to give a blessing?",
+    "correct": "May you have a wonderful birthday.",
     "options": [
-      "giving a strong command.",
-      "unsure about something.",
-      "certain that something will happen.",
-      "asking for polite permission."
+      "You can have a wonderful birthday.",
+      "You will have a wonderful birthday.",
+      "May you have a wonderful birthday.",
+      "You should have a wonderful birthday."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Modal Verbs: May",
+    "complexity_score": 1
+  },
+  {
+    "question": "If you are unsure if it will rain, what is the best way to express this using 'might'?",
+    "correct": "It might rain today.",
+    "options": [
+      "It will rain today.",
+      "It must rain today.",
+      "It can rain today.",
+      "It might rain today."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -31,10 +45,10 @@
     "question": "Which sentence correctly shows that the washroom belongs to the school?",
     "correct": "My school's washroom is very dirty.",
     "options": [
-      "My school washroom is very dirty.",
       "My schools washroom is very dirty.",
-      "My school's washroom is very dirty.",
-      "My school washrooms is very dirty."
+      "My school washroom is very dirty.",
+      "My schools' washroom is very dirty.",
+      "My school's washroom is very dirty."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -42,41 +56,13 @@
     "complexity_score": 1
   },
   {
-    "question": "The modal verb 'may' is often used to give...",
-    "correct": "blessings or ask for permission.",
-    "options": [
-      "threats or warnings.",
-      "blessings or ask for permission.",
-      "advice or suggestions.",
-      "proof of a past action."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Modal Verbs: May",
-    "complexity_score": 1
-  },
-  {
-    "question": "If you want to talk about an ability you have, which word is most appropriate?",
-    "correct": "Can",
-    "options": [
-      "Will",
-      "May",
-      "Can",
-      "Might"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Modal Verbs: Can",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which sentence correctly uses 'would' to express a wish in the present?",
+    "question": "Which sentence correctly expresses a wish using 'would'?",
     "correct": "I would like to take coffee.",
     "options": [
       "I will like to take coffee.",
-      "I would like to take coffee.",
       "I can like to take coffee.",
-      "I would have taken coffee."
+      "I would like to take coffee.",
+      "I may like to take coffee."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -84,111 +70,55 @@
     "complexity_score": 1
   },
   {
-    "question": "Which sentence is the best example of using 'will' to show determination?",
-    "correct": "I will wake up at 6 o'clock daily, no matter what.",
+    "question": "Which word is a more descriptive and positive synonym for 'good' when describing a teacher?",
+    "correct": "Amiable",
     "options": [
-      "It will probably rain tomorrow.",
-      "He will be here soon.",
-      "I will wake up at 6 o'clock daily, no matter what.",
-      "Will you pass the salt?"
+      "Strict",
+      "Rude",
+      "Amiable",
+      "Curves"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Vocabulary",
+    "complexity_score": 1
+  },
+  {
+    "question": "To ask for permission formally, which sentence is the most appropriate?",
+    "correct": "May I sit there?",
+    "options": [
+      "Can I sit there?",
+      "Will I sit there?",
+      "Should I sit there?",
+      "May I sit there?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs: Will (Application)",
+    "topic": "Modal Verbs: Can vs. May",
     "complexity_score": 2
   },
   {
-    "question": "The sentence 'I would have called you, but there was no signal' means:",
-    "correct": "You wanted to call, but an obstacle prevented you.",
+    "question": "Choose the sentence that correctly uses 'would have' to describe a past action that didn't happen.",
+    "correct": "I would have called you, but there was no signal.",
     "options": [
-      "You will call later when you have a signal.",
-      "You are making a promise to call in the future.",
-      "You wanted to call, but an obstacle prevented you.",
-      "You are asking for permission to call."
+      "I would call you, but there was no signal.",
+      "I would have called you, but there was no signal.",
+      "I will have called you, but there was no signal.",
+      "I could call you, but there was no signal."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs: Would Have (Application)",
+    "topic": "Modal Verbs: Would Have",
     "complexity_score": 2
   },
   {
-    "question": "To solve the math problem '5-digit number + 5-digit number = 18,500', what type of number was needed?",
-    "correct": "An integer (a negative number)",
+    "question": "Which phrase correctly shows that the classes belong to many teachers?",
+    "correct": "Many of the teachers' classes",
     "options": [
-      "A fraction",
-      "An integer (a negative number)",
-      "A decimal number",
-      "Only a positive whole number"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematical Logic",
-    "complexity_score": 2
-  },
-  {
-    "question": "Choose the correct verb for this sentence: 'My school _______ many activities.'",
-    "correct": "organises",
-    "options": [
-      "organise",
-      "organises",
-      "are organising",
-      "have organised"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Grammar: Subject-Verb Agreement",
-    "complexity_score": 2
-  },
-  {
-    "question": "If you want to politely request that another person performs an action (like sitting down), what is the best way to ask?",
-    "correct": "Could you please sit there?",
-    "options": [
-      "May I sit there?",
-      "Can you sit there?",
-      "Will you sit there?",
-      "Could you please sit there?"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Modal Verbs: Polite Requests",
-    "complexity_score": 2
-  },
-  {
-    "question": "The sentence 'It looks cloudy, so it might rain today' shows:",
-    "correct": "Uncertainty based on evidence.",
-    "options": [
-      "A definite promise of rain.",
-      "A wish for rain.",
-      "A past event that didn't happen.",
-      "Uncertainty based on evidence."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Modal Verbs: Might (Application)",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the key difference between 'May I do something?' and 'Could you do something?'",
-    "correct": "'May I' asks permission for your own action, while 'Could you' requests an action from someone else.",
-    "options": [
-      "They are exactly the same and can be used interchangeably.",
-      "'May I' asks permission for your own action, while 'Could you' requests an action from someone else.",
-      "'Could you' is much ruder than 'May I'.",
-      "'May I' is for wishes and 'Could you' is for abilities."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Modal Verbs: Nuance",
-    "complexity_score": 2
-  },
-  {
-    "question": "In the sentence 'Many of the teachers' classes feel boring,' why does the apostrophe go AFTER the 's' in 'teachers'?",
-    "correct": "Because 'teachers' is a plural noun, and we are talking about the classes of many teachers.",
-    "options": [
-      "It's a spelling mistake; it should be 'teacher's'.",
-      "Because the word ends in 's'.",
-      "Because 'teachers' is a plural noun, and we are talking about the classes of many teachers.",
-      "To show that the classes are boring."
+      "Many of the teacher's classes",
+      "Many of the teachers classes",
+      "Many of the teachers' classes",
+      "Many of the teacher classes"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -196,87 +126,157 @@
     "complexity_score": 2
   },
   {
-    "question": "Why was the math problem '4-digit + 4-digit = 6-digit' considered impossible with natural numbers?",
-    "correct": "Because the largest possible sum of two 4-digit numbers (9999 + 9999) is a 5-digit number (19998).",
+    "question": "If your classmate had the ability to apologize but didn't, which sentence is correct?",
+    "correct": "My classmate could have apologized.",
     "options": [
-      "Because 4+4 equals 8, not 6.",
-      "Because it can only be solved using fractions.",
-      "Because the largest possible sum of two 4-digit numbers (9999 + 9999) is a 5-digit number (19998).",
-      "Because you can't add two numbers that have the same number of digits."
+      "My classmate can have apologized.",
+      "My classmate would have apologized.",
+      "My classmate should have apologized.",
+      "My classmate could have apologized."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Modal Verbs: Could Have",
+    "complexity_score": 2
+  },
+  {
+    "question": "In the public speaking lesson, what was the purpose of starting with 'First of all, I pay my deepest regards...'?",
+    "correct": "To provide a formal and respectful opening for a speech.",
+    "options": [
+      "To show you are better than everyone else.",
+      "To make the speech longer.",
+      "To provide a formal and respectful opening for a speech.",
+      "To ask a question to the audience."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Public Speaking",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why is it impossible to add two 4-digit whole numbers (like 9,999 + 9,999) and get a 6-digit number?",
+    "correct": "Because the highest possible sum is a 5-digit number.",
+    "options": [
+      "Because 4 + 4 equals 8, not 6.",
+      "Because you need to use negative numbers.",
+      "Because the highest possible sum is a 5-digit number.",
+      "Because all 4-digit numbers are even."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Math Logic",
+    "complexity_score": 2
+  },
+  {
+    "question": "The sentence 'I will beat you' is an example of using 'will' for a...",
+    "correct": "Threat",
+    "options": [
+      "Promise",
+      "Determination",
+      "Threat",
+      "Wish"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Modal Verbs: Will",
+    "complexity_score": 2
+  },
+  {
+    "question": "To make a polite request where the other person has to do the action (like turn on a fan), which is the best option?",
+    "correct": "Could you please turn on the fan?",
+    "options": [
+      "May I turn on the fan?",
+      "Can you turn on the fan?",
+      "Will you turn on the fan?",
+      "Could you please turn on the fan?"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Modal Verbs: Could",
+    "complexity_score": 2
+  },
+  {
+    "question": "In the math problem '30,000 + (-11,500) = 18,500', what is the purpose of using the negative number (-11,500)?",
+    "correct": "It allows the addition of two 5-digit numbers to result in a smaller 5-digit number.",
+    "options": [
+      "It's a mistake, you can only add positive numbers.",
+      "It makes the problem harder for no reason.",
+      "It allows the addition of two 5-digit numbers to result in a smaller 5-digit number.",
+      "It turns the problem into a subtraction problem."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Mathematical Logic",
+    "topic": "Math Logic: Integers",
     "complexity_score": 3
   },
   {
-    "question": "Consider the sentence: 'My classmate could have apologized to the teacher.' What does this imply?",
-    "correct": "The classmate had the ability/opportunity to apologize but did not do it.",
+    "question": "What is the key difference between 'I would have gone to school' and 'I could have gone to school'?",
+    "correct": "'Would have' implies intention that was blocked, while 'could have' implies it was just one of several possibilities.",
     "options": [
-      "The classmate is currently apologizing.",
-      "The classmate will apologize in the future.",
-      "The classmate was forced to apologize.",
-      "The classmate had the ability/opportunity to apologize but did not do it."
+      "There is no difference, they mean the same thing.",
+      "'Would have' is for the past, 'could have' is for the future.",
+      "'Would have' implies intention that was blocked, while 'could have' implies it was just one of several possibilities.",
+      "'Could have' is more formal than 'would have'."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Modal Verbs: Could Have (Analysis)",
+    "topic": "Modal Verbs: Would Have vs. Could Have",
     "complexity_score": 3
   },
   {
-    "question": "The teacher suggested replacing the word 'good' with 'amiable' or 'easy-going' when describing teachers. Why is this a more precise use of language?",
-    "correct": "It specifies the *type* of positive quality, acknowledging that 'strict' teachers can also be good at teaching.",
+    "question": "The teacher advised to 'act like a great public speaker' and 'copy the loudness'. What is the main goal of this advice?",
+    "correct": "To build confidence and practice the physical aspects of effective speaking.",
     "options": [
-      "'Good' is not a real English word.",
-      "It specifies the *type* of positive quality, acknowledging that 'strict' teachers can also be good at teaching.",
-      "'Amiable' is just a formal way of saying 'good'.",
-      "Because students should not judge teachers."
+      "To make fun of famous actors.",
+      "To show that your own voice is not good enough.",
+      "To build confidence and practice the physical aspects of effective speaking.",
+      "To prove that you can shout louder than the teacher."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Vocabulary & Nuance",
+    "topic": "Public Speaking",
     "complexity_score": 3
   },
   {
-    "question": "Analyze this sentence: 'I would have prepared the class, but the AC was not working.' What is the relationship between the two clauses?",
-    "correct": "The second clause states the condition that prevented the action in the first clause from happening.",
+    "question": "If you are determined to do something difficult, like wake up early, what is the best way to state your determination?",
+    "correct": "I will wake up at 6 o'clock daily.",
     "options": [
-      "The first clause is a promise, and the second is an excuse.",
-      "Both clauses describe things that happened.",
-      "The second clause states the condition that prevented the action in the first clause from happening.",
-      "The first clause is a wish, and the second is a command."
+      "I might wake up at 6 o'clock daily.",
+      "I could wake up at 6 o'clock daily.",
+      "I should wake up at 6 o'clock daily.",
+      "I will wake up at 6 o'clock daily."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Modal Verbs: Conditional Logic",
+    "topic": "Modal Verbs: Will for Determination",
     "complexity_score": 3
   },
   {
-    "question": "If you are taking permission for an action YOU will perform (e.g., drink coffee), which is the most formal and correct phrasing?",
-    "correct": "May I drink my coffee?",
+    "question": "You see the sentence: 'My classmate could have apologize'. What is the error?",
+    "correct": "After 'could have', the verb should be 'apologized'.",
     "options": [
-      "Could you drink my coffee?",
-      "Can I drink my coffee?",
-      "Will I drink my coffee?",
-      "May I drink my coffee?"
+      "It should be 'can have apologize'.",
+      "The word 'apologize' is spelled incorrectly.",
+      "After 'could have', the verb should be 'apologized'.",
+      "It should be 'My classmate could apologize'."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Modal Verbs: Nuance (Permission)",
+    "topic": "Grammar: Verb Forms with Modals",
     "complexity_score": 3
   },
   {
-    "question": "The teacher used mimicry (copying tone and loudness) for public speaking practice. What is the cognitive purpose of this technique?",
-    "correct": "To bypass the anxiety of creating a performance and build muscle memory for confident delivery.",
+    "question": "Why is it possible to solve '5-digit number - 5-digit number = 41,500' but not '5-digit number + 5-digit number = 18,500' using only positive whole numbers?",
+    "correct": "Because subtraction can result in a smaller number, but adding two large positive numbers cannot result in a very small one.",
     "options": [
-      "To prove that the student cannot be as loud as the teacher.",
-      "To make the student's own voice sound exactly like someone else's.",
-      "To bypass the anxiety of creating a performance and build muscle memory for confident delivery.",
-      "To test the student's memory of the script."
+      "Both are actually impossible without negative numbers.",
+      "Subtraction is easier than addition.",
+      "Because subtraction can result in a smaller number, but adding two large positive numbers cannot result in a very small one.",
+      "The number 41,500 is special."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Learning Strategies",
+    "topic": "Math Logic",
     "complexity_score": 3
   }
 ]
