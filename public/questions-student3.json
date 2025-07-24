@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, adding a sequence of which type of numbers can result in a square number?",
-    "correct": "Odd numbers",
+    "question": "According to the lesson, what is the main unifying idea behind celebrating the festival of Makar Sankranti across India?",
+    "correct": "It marks the beginning of the harvest season.",
     "options": [
-      "Even numbers",
-      "Prime numbers",
-      "Odd numbers",
-      "Counting numbers up and down"
+      "It is a national holiday for all citizens.",
+      "It celebrates the goddess Durga.",
+      "It marks the beginning of the harvest season.",
+      "It is the birthday of a famous king."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Math: Number Sequences",
+    "topic": "Festivals and Unity",
     "complexity_score": 1
   },
   {
-    "question": "The lesson mentioned a specific case study from the 'People of India' project. In Tamil Nadu, how many versions of the Mahabharata were reportedly found?",
-    "correct": "100 versions",
+    "question": "Which single, unstitched piece of cloth was highlighted as a 'hero' for demonstrating unity in Indian clothing?",
+    "correct": "Sari",
     "options": [
-      "10 versions",
-      "50 versions",
-      "100 versions",
-      "Countless versions"
+      "Dhoti",
+      "Pagdi",
+      "Sari",
+      "Chanya Choli"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Social Science: Cultural Epics",
+    "topic": "Clothing and Unity",
     "complexity_score": 1
   },
   {
-    "question": "In the math problem, what is the rule for finding a square number based on its position in the counting number series?",
-    "correct": "Multiply the position in the series by itself",
+    "question": "What are the two major Sanskrit epics discussed extensively in the lesson that have spread across India and Asia?",
+    "correct": "The Ramayana and the Mahabharata",
     "options": [
-      "Add the position in the series to itself",
-      "Multiply the position in the series by itself",
-      "Add all previous positions in the series",
-      "Multiply the position by two"
+      "The Panchatantra and the Vedas",
+      "The Ramayana and the Mahabharata",
+      "The Puranas and the Upanishads",
+      "The Jataka Tales and the Gita"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Math: Square Numbers",
+    "topic": "Epics and Cultural Spread",
     "complexity_score": 1
   },
   {
-    "question": "What concept was the example of the saree used to explain in the social science portion?",
-    "correct": "Unity in diversity",
+    "question": "Who is the main hero of the epic Ramayana, who fights to re-establish dharma?",
+    "correct": "Rama",
     "options": [
-      "Economic trade routes",
-      "Fashion trends",
-      "Unity in diversity",
-      "The textile industry"
+      "Arjun",
+      "Hanuman",
+      "Ravana",
+      "Rama"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Social Science: Indian Culture",
+    "topic": "Epics and Heroes",
     "complexity_score": 1
   },
   {
-    "question": "What was the specific name for the type of sequence described as 'adding the counting numbers up and down'?",
-    "correct": "Up and down sequence",
+    "question": "The lesson mentioned the 'People of India' project. Which organization conducted this survey?",
+    "correct": "The Anthropological Survey of India",
     "options": [
-      "Pyramid sequence",
-      "Odd number sequence",
-      "Triangular sequence",
-      "Up and down sequence"
+      "The Historical Society of India",
+      "The National Geographic Society",
+      "The Anthropological Survey of India",
+      "The Ministry of Culture"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Math: Number Sequences",
+    "topic": "Research and Surveys",
     "complexity_score": 1
   },
   {
-    "question": "The lesson explained that epics like the Ramayana and Mahabharata have created a 'dense web of...' what?",
-    "correct": "Cultural interactions",
+    "question": "In the lesson, what does the term 'folk versions' of an epic refer to?",
+    "correct": "Orally transmitted, community-specific variations of the main story.",
     "options": [
-      "Historical inaccuracies",
-      "Religious rules",
-      "Cultural interactions",
-      "Geographical boundaries"
+      "The original, ancient written texts.",
+      "Official government-approved translations.",
+      "Orally transmitted, community-specific variations of the main story.",
+      "Movie and television adaptations of the stories."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Social Science: Cultural Influence",
+    "topic": "Folklore and Oral Tradition",
     "complexity_score": 1
   },
   {
-    "question": "The student initially suggested the pattern was 'adding the series of number by themselves'. Why was this explanation incomplete?",
-    "correct": "It didn't specify WHICH series of numbers was being used.",
+    "question": "The lesson highlighted that staples like rice, wheat, and jowar are common across India. What larger concept does this fact support?",
+    "correct": "An underlying unity exists despite diverse regional cuisines.",
     "options": [
-      "The pattern involved subtraction, not addition.",
-      "It didn't specify WHICH series of numbers was being used.",
-      "The pattern was about shapes, not numbers.",
-      "It was a correct but too simple explanation."
+      "That all Indian food tastes the same.",
+      "That India has limited agricultural options.",
+      "An underlying unity exists despite diverse regional cuisines.",
+      "That foreign foods are not popular in India."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Math: Pattern Articulation",
+    "topic": "Unity in Diversity - Food",
     "complexity_score": 2
   },
   {
-    "question": "Based on the instructor's feedback, what is the difference between a weak and a strong answer when explaining the saree's cultural role?",
-    "correct": "A strong answer gives specific examples of regional variations and fabrics.",
+    "question": "What is the common purpose of the heroes in both the Ramayana and the Mahabharata?",
+    "correct": "To fight battles to re-establish dharma (what is right).",
     "options": [
-      "A strong answer lists all the states where sarees are worn.",
-      "A strong answer focuses only on the modern uses of the saree.",
-      "A strong answer gives specific examples of regional variations and fabrics.",
-      "A strong answer explains how the saree is manufactured."
+      "To become the wealthiest kings in the land.",
+      "To conquer as many neighboring countries as possible.",
+      "To build the largest temples for the gods.",
+      "To fight battles to re-establish dharma (what is right)."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Social Science: Analytical Writing",
+    "topic": "Epics and Core Messages",
     "complexity_score": 2
   },
   {
-    "question": "The discussion about the 'People of India' project suggested that almost every place in India has a local story about what?",
-    "correct": "A visit from the Pandavas or legends from Ramayana",
+    "question": "The lesson mentioned tribal communities like the Beals, Gonds, and Mundas. What is a common practice among these communities regarding the great epics?",
+    "correct": "Creating their own versions and legends connecting the epic heroes to their own history.",
     "options": [
-      "The origin of their local language",
-      "The founding of their village by a king",
-      "A visit from the Pandavas or legends from Ramayana",
-      "The creation of a unique local craft"
+      "Rejecting the epics as foreign stories.",
+      "Translating the epics into English for tourists.",
+      "Creating their own versions and legends connecting the epic heroes to their own history.",
+      "Only reading the exact original Sanskrit versions."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Social Science: Cultural Epics",
+    "topic": "Tribal Communities and Epics",
     "complexity_score": 2
   },
   {
-    "question": "A question asked to write the 'addition pattern that results in the square number 25' using an 'up and down sequence'. Which of the following best represents that concept?",
-    "correct": "1 + 2 + 3 + 4 + 5 + 4 + 3 + 2 + 1",
+    "question": "The 'People of India' project discovered that according to folklore, the Pandavas had visited nearly every part of the country. What does this finding suggest?",
+    "correct": "That many communities wanted to feel a direct connection to the epic's narrative.",
     "options": [
-      "5 + 5 + 5 + 5 + 5",
-      "1 + 3 + 5 + 7 + 9",
-      "1 + 2 + 3 + 4 + 5 + 4 + 3 + 2 + 1",
-      "25 + 0"
+      "That the Pandavas were the greatest explorers in history.",
+      "That the Mahabharata is historically accurate in every detail.",
+      "That the Pandavas were searching for a specific hidden treasure.",
+      "That many communities wanted to feel a direct connection to the epic's narrative."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Math: Number Sequences",
+    "topic": "Folklore Analysis",
     "complexity_score": 2
   },
   {
-    "question": "Why is saying '10 is not a series, 10 is a position in a series' an important distinction when describing a mathematical pattern?",
-    "correct": "It clarifies that the rule applies to the location (position) of a number, not the number itself.",
+    "question": "How were the stories and values of the Ramayana and Mahabharata primarily transmitted orally by tribal communities?",
+    "correct": "They were passed down by speaking and telling stories, not through written books.",
     "options": [
-      "It shows that a series must have more than one number.",
-      "It clarifies that the rule applies to the location (position) of a number, not the number itself.",
-      "It suggests that only numbers greater than 10 can be in a series.",
-      "It is a minor grammatical correction with no mathematical importance."
+      "They were carved into stone tablets for everyone to see.",
+      "They were passed down by speaking and telling stories, not through written books.",
+      "They were sent through letters to neighboring villages.",
+      "They were performed exclusively as silent plays."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Math: Pattern Articulation",
+    "topic": "Oral Tradition",
     "complexity_score": 2
   },
   {
-    "question": "How do the numerous local versions of the Mahabharata demonstrate the concept of 'unity in diversity'?",
-    "correct": "They show a common cultural story (unity) adapted with unique local elements (diversity).",
+    "question": "The lesson describes the epics as creating a 'dense web of cultural intersections'. What is the best meaning of this phrase?",
+    "correct": "The stories connected different cultures and communities through shared values and characters.",
     "options": [
-      "They prove that everyone in India agrees on the story's details.",
-      "They show a common cultural story (unity) adapted with unique local elements (diversity).",
-      "They demonstrate that ancient texts are often translated incorrectly.",
-      "They indicate that different regions are in competition with each other."
+      "The stories caused confusion and arguments between different cultures.",
+      "The stories were so complex that they were difficult to understand.",
+      "The stories described the trading of spider webs across Asia.",
+      "The stories connected different cultures and communities through shared values and characters."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Social Science: Cultural Influence",
+    "topic": "Cultural Spread",
     "complexity_score": 2
   },
   {
-    "question": "The instructor emphasized providing a 'pictorial presentation' for the number sequence. What is the main cognitive benefit of this approach?",
-    "correct": "It helps translate an abstract numerical pattern into a concrete visual one.",
+    "question": "In the Mahabharata, the Pandavas fight their own cousins, the Kauravas. This detail primarily asks the reader to consider questions about...",
+    "correct": "What is right and wrong, even within a family.",
     "options": [
-      "It makes the test paper look more artistic.",
-      "It proves the student has drawing skills.",
-      "It is the only way to get full marks on the question.",
-      "It helps translate an abstract numerical pattern into a concrete visual one."
+      "The best strategies for winning a war.",
+      "What is right and wrong, even within a family.",
+      "The geography of ancient India.",
+      "The importance of respecting elders no matter what."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Math: Representation",
+    "topic": "Moral Questions in Epics",
     "complexity_score": 2
   },
   {
-    "question": "The instructor stated, 'The answer will come from the question only,' when asking for the pattern. What did this hint at?",
-    "correct": "The question contained the precise language needed to describe the rule.",
+    "question": "Even though there are thousands of versions of the Ramayana, what is most likely to remain the same across all of them?",
+    "correct": "The core messages about values and how one should live.",
     "options": [
-      "The answer was written somewhere else in the test.",
-      "The question was a trick and had no real answer.",
-      "The question contained the precise language needed to describe the rule.",
-      "The instructor was giving up on the student."
+      "The exact sequence of every event in the story.",
+      "The core messages about values and how one should live.",
+      "The specific location from which Rama came.",
+      "The idea that Hanuman is the main villain."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Metacognition: Problem Solving",
+    "topic": "Unity within Diversity of Epics",
     "complexity_score": 2
   },
   {
-    "question": "If a student only describes how a saree is used in different ceremonies, why would their answer be considered incomplete for a question on 'unity in diversity'?",
-    "correct": "It explains the 'unity' of use, but not the 'diversity' of fabric, style, or regional identity.",
+    "question": "The lesson concludes that 'Indian culture celebrates diversity as an enrichment.' How does this contrast with the viewpoint of some other historical rulers or cultures?",
+    "correct": "They viewed diversity as a threat to unity and tried to make everyone the same.",
     "options": [
-      "Because it fails to mention the price of the saree.",
-      "It explains the 'unity' of use, but not the 'diversity' of fabric, style, or regional identity.",
-      "Because it should have focused on another piece of clothing.",
-      "It's a complete answer because ceremonies are part of culture."
+      "They also celebrated diversity by inviting people from all over the world.",
+      "They were indifferent to diversity and didn't care about cultural differences.",
+      "They believed diversity was only important for food, not for people.",
+      "They viewed diversity as a threat to unity and tried to make everyone the same."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Social Science: Analytical Writing",
+    "topic": "Cultural Philosophy",
     "complexity_score": 3
   },
   {
-    "question": "The lesson connects number patterns (math) and cultural patterns (social science). What is the fundamental concept that links these two seemingly different topics?",
-    "correct": "Both involve identifying an underlying, repeatable rule or structure that governs a system.",
+    "question": "The teacher compared the spread of epics to modern social media trends. What is the fundamental process being compared?",
+    "correct": "The transmission of cultural ideas and norms across large populations.",
     "options": [
-      "Both topics originated in ancient India.",
-      "Both involve complex calculations and memorization.",
-      "Both are required subjects for the exam.",
-      "Both involve identifying an underlying, repeatable rule or structure that governs a system."
+      "The speed at which information travels.",
+      "The technology used for communication.",
+      "The type of people who become famous.",
+      "The transmission of cultural ideas and norms across large populations."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Interdisciplinary Thinking",
+    "topic": "Analytical Comparison",
     "complexity_score": 3
   },
   {
-    "question": "The 'up and down sequence' (e.g., 1+2+3+2+1) is related to generating square numbers by adding odd numbers (e.g., 1+3+5). How are these two patterns connected?",
-    "correct": "The sum of an 'up and down sequence' to N is N-squared, and the sum of the first N odd numbers is also N-squared.",
+    "question": "Why is the existence of countless 'folk versions' of the epics a powerful example of 'Unity in Diversity'?",
+    "correct": "It shows that diverse communities adapted a shared story to fit their unique identity, strengthening both.",
     "options": [
-      "There is no connection; they are two unrelated patterns.",
-      "The 'up and down sequence' is used for even numbers, while the odd number sequence is for odd numbers.",
-      "One pattern is a visual representation of the other.",
-      "The sum of an 'up and down sequence' to N is N-squared, and the sum of the first N odd numbers is also N-squared."
+      "It proves that the original story was not very good and needed to be changed.",
+      "It shows a lack of unity, as everyone had a different story.",
+      "It suggests that people in the past had poor memories.",
+      "It shows that diverse communities adapted a shared story to fit their unique identity, strengthening both."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Math: Pattern Analysis",
+    "topic": "Synthesis of Concepts",
     "complexity_score": 3
   },
   {
-    "question": "Given the evidence that epics have been adapted by different communities, what can be inferred about the nature of culture in India?",
-    "correct": "Culture is not a static monolith but is dynamic and participatory, allowing communities to make stories their own.",
+    "question": "The lesson states that the epics provide 'a dense web of cultural intersections'. Based on this, what might you expect to find in a country like Indonesia or Thailand?",
+    "correct": "Art, names, or local stories that show influence from the Ramayana or Mahabharata.",
     "options": [
-      "Culture is strictly dictated by ancient scriptures with no room for change.",
-      "The original stories have been lost and are no longer known.",
-      "Culture is not a static monolith but is dynamic and participatory, allowing communities to make stories their own.",
-      "Tribal communities are completely isolated from mainstream Indian culture."
+      "People speaking the same Indian languages as their primary language.",
+      "A population that exclusively eats Indian food.",
+      "The exact same political system as India.",
+      "Art, names, or local stories that show influence from the Ramayana or Mahabharata."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Social Science: Cultural Analysis",
+    "topic": "Cultural Influence Application",
     "complexity_score": 3
   },
   {
-    "question": "The question asks 'How have these epics been adapted?'. Based on the instructor's prompts, a high-quality answer must analyze the influence on different groups. Which is the best example of this analysis?",
-    "correct": "Explaining how both tribal and non-tribal communities have created their own unique versions of the stories.",
+    "question": "The final message of the chapter is that there is an 'underlying unity which nourishes the diversity.' How do the epics exemplify this principle?",
+    "correct": "They act as a common cultural root that provides shared values to many different branches of society.",
     "options": [
-      "Listing the names of all the characters in the Ramayana.",
-      "Stating that the epics are very old and influential.",
-      "Explaining how both tribal and non-tribal communities have created their own unique versions of the stories.",
-      "Describing the plot of the Mahabharata in detail."
+      "They encourage diverse groups to fight each other, as in the Mahabharata.",
+      "They are so diverse that they have no single unifying message.",
+      "They act as a common cultural root that provides shared values to many different branches of society.",
+      "They were written in so many languages that they nourished the creation of new alphabets."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Social Science: Critical Thinking",
+    "topic": "Core Theme Analysis",
     "complexity_score": 3
   },
   {
-    "question": "A student is asked to find the sum of triangles in the 9th pattern, which follows a square number rule (1, 4, 9...). Instead of just writing '81', the instructor wants the student to 'explain the rule'. What is the critical thinking skill being tested here?",
-    "correct": "The ability to articulate the process (the 'how' and 'why') behind the answer, not just compute the result.",
+    "question": "If an archaeologist found a site in southern India with legends connecting it to the Pandavas, what would K.S. Singh's 'People of India' project suggest this signifies?",
+    "correct": "It is another example of a local community integrating its history with the pan-Indian epic narrative.",
     "options": [
-      "The ability to perform multiplication quickly.",
-      "The ability to draw triangles accurately.",
-      "The ability to articulate the process (the 'how' and 'why') behind the answer, not just compute the result.",
-      "The ability to remember all the square numbers up to 100."
+      "It is definitive proof that the Pandavas lived there.",
+      "It means the people in the south had a different version of the Mahabharata.",
+      "It is an anomaly because the Pandavas were from the north.",
+      "It is another example of a local community integrating its history with the pan-Indian epic narrative."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition: Explaining Process",
+    "topic": "Critical Application of Theory",
     "complexity_score": 3
   }
 ]
