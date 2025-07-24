@@ -3,32 +3,32 @@
     "question": "According to the lesson, what is the definition of an object?",
     "correct": "Anything that can be seen or touched",
     "options": [
-      "Anything that has a color",
+      "Anything that has a specific color",
       "Anything that is made in a factory",
       "Anything that can be seen or touched",
-      "Anything that is a liquid"
+      "Anything that can be dissolved in water"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Objects and Materials",
+    "topic": "Defining Objects",
     "complexity_score": 1
   },
   {
-    "question": "The property of a substance dissolving in a liquid is called...",
+    "question": "What is the term for the property of a substance dissolving in a liquid?",
     "correct": "Solubility",
     "options": [
       "Miscibility",
+      "Variety",
       "Solubility",
-      "Translucence",
-      "Variety"
+      "Transparency"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Properties of Materials",
+    "topic": "Solubility",
     "complexity_score": 1
   },
   {
-    "question": "What are liquids that mix completely with each other called?",
+    "question": "What are liquids that mix with each other called?",
     "correct": "Miscible liquids",
     "options": [
       "Soluble liquids",
@@ -38,87 +38,143 @@
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Properties of Materials",
+    "topic": "Miscible Liquids",
     "complexity_score": 1
   },
   {
-    "question": "Which of the following were listed as properties of objects?",
-    "correct": "Shapes, sizes, and colors",
+    "question": "The lesson mentioned that objects have different shapes, sizes, and what else?",
+    "correct": "Colors",
     "options": [
-      "Weight, cost, and smell",
-      "Shapes, sizes, and colors",
-      "Solubility and miscibility",
-      "Taste, texture, and temperature"
+      "Weights",
+      "Smells",
+      "Colors",
+      "Textures"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Objects and Materials",
+    "topic": "Properties of Objects",
     "complexity_score": 1
   },
   {
-    "question": "Which of these was mentioned as an example of an object?",
-    "correct": "A coin",
+    "question": "Which of these words was dictated as a vocabulary word used in winter?",
+    "correct": "Glycerin",
     "options": [
-      "A thought",
-      "A sound",
-      "A coin",
-      "A shadow"
+      "Solubility",
+      "Glycerin",
+      "Variety",
+      "Translucent"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Objects and Materials",
+    "topic": "Vocabulary",
     "complexity_score": 1
   },
   {
-    "question": "The lesson provided 'book, pencil, and ball' as examples of what?",
-    "correct": "Objects with different shapes, sizes, and colors",
+    "question": "In the lesson, the abbreviation 'etc.' was used. What does 'etc.' stand for?",
+    "correct": "Etcetera",
     "options": [
-      "Things that are miscible",
-      "Things that are always soluble",
-      "Objects with different shapes, sizes, and colors",
-      "Things that are translucent"
+      "Example",
+      "Extra Things Correct",
+      "Etcetera",
+      "End of Text"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Objects and Materials",
+    "topic": "Vocabulary",
     "complexity_score": 1
   },
   {
-    "question": "If you stir a spoonful of salt into a glass of water and it disappears, which property is being demonstrated?",
+    "question": "If you stir sugar into a cup of hot tea and it disappears, which property is being demonstrated?",
     "correct": "Solubility",
     "options": [
       "Miscibility",
       "Solubility",
-      "Translucence",
-      "Shape"
+      "Variety",
+      "Insolubility"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Properties of Materials",
+    "topic": "Solubility",
     "complexity_score": 2
   },
   {
-    "question": "A pencil, a pencil box, and a coin all fit the definition of an 'object' because they...",
-    "correct": "can be seen and touched.",
+    "question": "Based on the definition from the class, which of the following is an 'object'?",
+    "correct": "A pencil",
     "options": [
-      "are used in school.",
-      "have the same color.",
-      "can dissolve in water.",
-      "can be seen and touched."
+      "A dream",
+      "A sound",
+      "A pencil",
+      "A thought"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Objects and Materials",
+    "topic": "Defining Objects",
     "complexity_score": 2
   },
   {
-    "question": "If milk and chocolate syrup mix together perfectly to make chocolate milk, they can be described as...",
-    "correct": "Miscible",
+    "question": "If you mix lemonade and water together, they would be considered...",
+    "correct": "Miscible liquids",
     "options": [
-      "Soluble",
+      "Insoluble liquids",
+      "Soluble solids",
+      "Miscible liquids",
+      "Translucent liquids"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Miscible Liquids",
+    "complexity_score": 2
+  },
+  {
+    "question": "The phrase 'a wide variety of objects' means that the objects are...",
+    "correct": "All very different from each other",
+    "options": [
+      "All very large",
+      "All the same color",
+      "All very different from each other",
+      "All made of wood"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Vocabulary",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the most likely opposite of a miscible liquid?",
+    "correct": "An immiscible liquid",
+    "options": [
+      "A soluble liquid",
+      "A solid",
+      "An immiscible liquid",
+      "A transparent liquid"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Miscible Liquids",
+    "complexity_score": 2
+  },
+  {
+    "question": "The teacher mentioned 'sanitizer' and 'glycerin' as liquids. If they dissolve completely in water, they are considered...",
+    "correct": "Soluble",
+    "options": [
       "Miscible",
       "Insoluble",
-      "Objects"
+      "Soluble",
+      "Translucent"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Solubility",
+    "complexity_score": 2
+  },
+  {
+    "question": "The dictation included the word 'translucent'. What does this word likely describe?",
+    "correct": "An object that lets some light through, but is not clear",
+    "options": [
+      "An object that blocks all light",
+      "An object that is completely clear",
+      "An object that dissolves easily",
+      "An object that lets some light through, but is not clear"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -126,157 +182,101 @@
     "complexity_score": 2
   },
   {
-    "question": "Why is the air in the room NOT considered an object according to the specific definition given in the lesson?",
-    "correct": "Because it cannot be easily seen",
+    "question": "The teacher advised repeating the sentence in your mind before writing. How does this strategy help?",
+    "correct": "It improves memory and accuracy",
     "options": [
-      "Because it has no color",
-      "Because it cannot be easily seen",
-      "Because it has no shape",
-      "Because it is not a liquid"
+      "It makes the writing go faster",
+      "It changes the meaning of the sentence",
+      "It improves memory and accuracy",
+      "It only helps with spelling"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Objects and Materials",
-    "complexity_score": 3
-  },
-  {
-    "question": "The lesson discusses 'solubility' for solids in liquids, and 'miscibility' for liquids in liquids. What do both of these properties describe?",
-    "correct": "How well substances combine",
-    "options": [
-      "How substances look",
-      "The shapes of substances",
-      "How well substances combine",
-      "The colors of substances"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Properties of Materials",
-    "complexity_score": 3
-  },
-  {
-    "question": "Which of these items would be an example of an IMMISCIBLE liquid when mixed with water?",
-    "correct": "Cooking oil",
-    "options": [
-      "Lemon juice",
-      "Cooking oil",
-      "Vinegar",
-      "Glycerin"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Properties of Materials",
-    "complexity_score": 3
-  },
-  {
-    "question": "A wooden block and a glass of water are both objects. What is a key difference in their properties based on the lesson's concepts?",
-    "correct": "The wooden block has a fixed shape, while the water takes the shape of its container.",
-    "options": [
-      "Only the wooden block has color.",
-      "Only the glass of water can be touched.",
-      "The wooden block has a fixed shape, while the water takes the shape of its container.",
-      "The wooden block is soluble, but the water is not."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Objects and Materials",
-    "complexity_score": 3
-  },
-  {
-    "question": "If you are asked to sort a collection of buttons, which properties mentioned in the lesson would be most useful?",
-    "correct": "Shape, size, and color",
-    "options": [
-      "Solubility and Miscibility",
-      "Shape, size, and color",
-      "Objects and Liquids",
-      "Dissolving and Mixing"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Objects and Materials",
+    "topic": "Metacognition",
     "complexity_score": 2
   },
   {
-    "question": "A scientist has two clear, colorless liquids. What is the BEST way to determine if they are miscible?",
-    "correct": "Pour one into the other and observe if they form a single, uniform liquid.",
+    "question": "A clear glass window is transparent. A frosted bathroom window is translucent. A wooden door is opaque. Which one fits the new vocabulary word 'translucent'?",
+    "correct": "The frosted bathroom window",
     "options": [
-      "Taste them to see if they are different.",
-      "Check if they have the same size.",
-      "Pour one into the other and observe if they form a single, uniform liquid.",
-      "See if a solid can dissolve in them."
+      "The clear glass window",
+      "The wooden door",
+      "The frosted bathroom window",
+      "Both the window and the door"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
     "topic": "Properties of Materials",
-    "complexity_score": 4
+    "complexity_score": 3
   },
   {
-    "question": "The word 'translucent' was mentioned. While not fully defined, it is a property of materials. How does it relate to the definition of an object ('can be seen or touched')?",
-    "correct": "A translucent object can be seen, even if not clearly, and can be touched.",
+    "question": "The definition given for solubility was 'The property of dissolving an object in a liquid'. Why might a scientist say 'dissolving a substance' is a better phrase than 'dissolving an object'?",
+    "correct": "Because materials like sugar or salt are substances, not typically called objects when in granular form",
     "options": [
-      "A translucent object cannot be seen, but can be touched.",
-      "A translucent object can be seen, but cannot be touched.",
-      "Translucence is the same as solubility.",
-      "A translucent object can be seen, even if not clearly, and can be touched."
+      "Because only liquids can be objects",
+      "Because objects cannot be dissolved",
+      "Because materials like sugar or salt are substances, not typically called objects when in granular form",
+      "Because 'substance' and 'object' mean the exact same thing"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Objects and Materials",
-    "complexity_score": 5
+    "topic": "Critical Thinking",
+    "complexity_score": 3
   },
   {
-    "question": "Why is 'solubility' considered a property of a material, like salt, rather than a property of an object, like a single salt crystal?",
-    "correct": "Because it describes how the substance itself behaves, not just its shape or size.",
+    "question": "If sand is stirred into water, it does not dissolve. Therefore, sand is considered...",
+    "correct": "Insoluble in water",
     "options": [
-      "Because objects cannot be properties.",
-      "Because solubility depends on the object's color.",
-      "Because it describes how the substance itself behaves, not just its shape or size.",
-      "Because only liquids have solubility."
+      "Miscible with water",
+      "Insoluble in water",
+      "Soluble in water",
+      "Translucent in water"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Properties of Materials",
-    "complexity_score": 5
+    "topic": "Solubility",
+    "complexity_score": 3
   },
   {
-    "question": "A student claims that since a cloud can be seen, it must be an object. Why is this reasoning flawed based on the lesson's full definition?",
-    "correct": "Because a cloud cannot be reliably touched.",
+    "question": "Why is it useful to know if a substance is soluble or insoluble in everyday life?",
+    "correct": "For tasks like cooking, cleaning, and taking medicine",
     "options": [
-      "Because clouds are white.",
-      "Because a cloud cannot be reliably touched.",
-      "Because clouds are made of gas.",
-      "The student is correct; a cloud is an object."
+      "It is only useful for spelling tests",
+      "It helps you count objects better",
+      "For tasks like cooking, cleaning, and taking medicine",
+      "It is not useful in everyday life"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Objects and Materials",
-    "complexity_score": 4
+    "topic": "Real-World Application",
+    "complexity_score": 3
   },
   {
-    "question": "You have sand and sugar. Both are small, solid crystals. Which property from the lesson would be most useful to tell them apart without tasting them?",
-    "correct": "Solubility in water",
+    "question": "The lesson defined an object as something that can be seen OR touched. Can air be considered an object by this definition?",
+    "correct": "Yes, because while you can't see it, you can feel it (touch it) when it moves as wind",
     "options": [
-      "Color",
-      "Shape",
-      "Solubility in water",
-      "Miscibility"
+      "No, because you cannot see it",
+      "No, because it has no color or shape",
+      "Yes, because while you can't see it, you can feel it (touch it) when it moves as wind",
+      "Only when it is cold"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Properties of Materials",
-    "complexity_score": 4
+    "topic": "Critical Thinking",
+    "complexity_score": 3
   },
   {
-    "question": "The definition of an object as 'anything that can be seen or touched' helps us classify the world. What is the primary limitation of this specific definition?",
-    "correct": "It may exclude things that are real but intangible, like forces or energy.",
+    "question": "If a scientist creates a new cleaning product, why would it be important for them to know about miscibility?",
+    "correct": "To ensure the different liquid ingredients in the cleaner mix together properly and don't separate",
     "options": [
-      "It is too complicated for everyday use.",
-      "It doesn't include the property of color.",
-      "It only applies to things made by humans.",
-      "It may exclude things that are real but intangible, like forces or energy."
+      "To make sure the product has a nice color",
+      "To ensure the different liquid ingredients in the cleaner mix together properly and don't separate",
+      "To make the bottle easier to hold",
+      "Miscibility only applies to things in nature, not man-made products"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Objects and Materials",
-    "complexity_score": 5
+    "topic": "Real-World Application",
+    "complexity_score": 3
   }
 ]
