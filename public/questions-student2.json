@@ -1,124 +1,124 @@
 [
   {
-    "question": "According to the lesson, what is a point?",
+    "question": "According to the lesson, what is a 'point' in geometry?",
     "correct": "A small dot with no length, breadth, or height",
     "options": [
       "The end of a line",
-      "A small circle",
+      "A circle with a very small radius",
       "A small dot with no length, breadth, or height",
-      "The space between two lines"
+      "Any location you can mark with a pencil"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geometric Definitions",
+    "topic": "Basic Definitions",
     "complexity_score": 1
   },
   {
-    "question": "What is the main characteristic of a line segment?",
+    "question": "What is the key feature of a 'line segment'?",
     "correct": "It has two distinct endpoints.",
     "options": [
-      "It extends forever in one direction.",
-      "It has no endpoints.",
+      "It goes on forever in one direction.",
+      "It is endless.",
       "It has two distinct endpoints.",
-      "It forms a right angle."
+      "It is a type of angle."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geometric Definitions",
+    "topic": "Basic Definitions",
     "complexity_score": 1
   },
   {
-    "question": "A ray is best described as having:",
-    "correct": "One starting point and extending indefinitely in one direction.",
+    "question": "A 'ray' is described as having what two characteristics?",
+    "correct": "One starting point and extending indefinitely in one direction",
     "options": [
-      "Two starting points.",
-      "No starting point and no endpoint.",
-      "One starting point and extending indefinitely in one direction.",
-      "One starting point and one endpoint."
+      "Two starting points and no endpoint",
+      "No starting point and no endpoint",
+      "One starting point and extending indefinitely in one direction",
+      "One starting point and one endpoint"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geometric Definitions",
+    "topic": "Basic Definitions",
     "complexity_score": 1
   },
   {
-    "question": "What is a line?",
-    "correct": "A line segment extended indefinitely in both directions.",
+    "question": "What is formed when two rays start from the same single point?",
+    "correct": "An angle",
     "options": [
-      "A collection of many points in a curve.",
-      "Something with two endpoints.",
-      "A ray that has an endpoint.",
-      "A line segment extended indefinitely in both directions."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Geometric Definitions",
-    "complexity_score": 1
-  },
-  {
-    "question": "In the final definition created in class, an angle is formed when:",
-    "correct": "Two rays start from one common point.",
-    "options": [
-      "Two line segments are near each other.",
-      "Two lines cross each other.",
-      "Two rays start from one common point.",
-      "A ray is bent."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Angles",
-    "complexity_score": 1
-  },
-  {
-    "question": "The common starting point of the two rays that form an angle is called the:",
-    "correct": "Vertex",
-    "options": [
-      "Arm",
-      "Point",
-      "Ray",
-      "Vertex"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Angles",
-    "complexity_score": 1
-  },
-  {
-    "question": "The beam from a flashlight was used as a real-world example of what geometric figure?",
-    "correct": "A ray",
-    "options": [
-      "A point",
       "A line segment",
       "A line",
-      "A ray"
+      "An angle",
+      "A circle"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Angles",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the common starting point of the two rays that form an angle called?",
+    "correct": "Vertex",
+    "options": [
+      "Point",
+      "Arm",
+      "Vertex",
+      "Origin"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Angles",
+    "complexity_score": 1
+  },
+  {
+    "question": "What did the instructor give as a real-world example of a 'ray'?",
+    "correct": "A ray from a flashlight",
+    "options": [
+      "A ruler",
+      "The edge of a book",
+      "A ray from a flashlight",
+      "A piece of string pulled tight"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Real-World Application",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the main difference between a line and a ray?",
+    "correct": "A line extends indefinitely in two directions, while a ray extends in only one.",
+    "options": [
+      "A line is straight, while a ray can be curved.",
+      "A line has one endpoint, while a ray has two.",
+      "A line extends indefinitely in two directions, while a ray extends in only one.",
+      "There is no difference; they are the same thing."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Real-World Application",
+    "topic": "Comparative Analysis",
     "complexity_score": 2
   },
   {
-    "question": "If you have a line segment and you extend it forever, but only in ONE direction, what do you create?",
-    "correct": "A ray",
+    "question": "What do you create if you take a line segment and extend it indefinitely in both directions?",
+    "correct": "A line",
     "options": [
-      "A line",
       "An angle",
       "A ray",
-      "Another line segment"
+      "A line",
+      "A longer line segment"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Geometric Relationships",
+    "topic": "Transformations",
     "complexity_score": 2
   },
   {
-    "question": "In the example of opening a laptop, an angle is formed between the screen and the keyboard. What are the 'arms' of this angle?",
-    "correct": "The flat surfaces of the screen and the keyboard",
+    "question": "In the lesson, the instructor mentioned opening a laptop. What geometric concept does this action demonstrate?",
+    "correct": "The formation of different types of angles",
     "options": [
-      "The hinge of the laptop",
-      "The corners of the screen",
-      "The flat surfaces of the screen and the keyboard",
-      "The space between the screen and keyboard"
+      "The definition of a line segment",
+      "The properties of a point",
+      "The formation of different types of angles",
+      "The difference between a line and a ray"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -126,13 +126,13 @@
     "complexity_score": 2
   },
   {
-    "question": "Why is 'gap' not the most precise word to describe an angle?",
-    "correct": "Because the size of the 'gap' changes as you move away from the vertex, but the angle does not.",
+    "question": "Why was the word 'gap' considered not precise enough to define an angle?",
+    "correct": "Because the distance of the 'gap' changes as you move away from the vertex, but the angle does not.",
     "options": [
-      "Because a gap must be empty space.",
-      "Because 'gap' is not a mathematical term.",
-      "Because the size of the 'gap' changes as you move away from the vertex, but the angle does not.",
-      "Because a gap can only exist between two lines, not two rays."
+      "Because 'gap' implies an empty space, which is incorrect.",
+      "Because angles can only be described with numbers.",
+      "Because the distance of the 'gap' changes as you move away from the vertex, but the angle does not.",
+      "Because 'gap' is not a mathematical term."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -140,143 +140,143 @@
     "complexity_score": 2
   },
   {
-    "question": "If ray PQ and ray PR form an angle, which point is the vertex?",
-    "correct": "P",
-    "options": [
-      "Q",
-      "R",
-      "There is no vertex.",
-      "P"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Angles",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are the two rays that form an angle often called?",
+    "question": "The two rays that form an angle were given a special name. What are they called?",
     "correct": "The arms of the angle",
     "options": [
-      "The sides of the vertex",
+      "The sides of the angle",
+      "The legs of the angle",
       "The arms of the angle",
-      "The segments of the angle",
-      "The points of the angle"
+      "The segments of the angle"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Angles",
+    "topic": "Angle Terminology",
     "complexity_score": 2
   },
   {
-    "question": "Which of the following describes a key difference between a line and a line segment?",
-    "correct": "A line is infinite in length, while a line segment has a measurable length.",
+    "question": "If you are told to draw ray PQ, what does this name tell you?",
+    "correct": "The ray starts at point P and extends indefinitely through point Q.",
     "options": [
-      "A line has one endpoint, and a line segment has two.",
-      "A line is straight, while a line segment can be curved.",
-      "A line is infinite in length, while a line segment has a measurable length.",
-      "A line is made of rays, and a line segment is made of points."
+      "The ray is the distance between point P and point Q.",
+      "The ray starts at point Q and extends indefinitely through point P.",
+      "The ray has two endpoints, P and Q.",
+      "The ray starts at point P and extends indefinitely through point Q."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Geometric Relationships",
+    "topic": "Notation",
     "complexity_score": 2
   },
   {
-    "question": "In the angle named ∠OPQ, what are the arms?",
-    "correct": "Ray PO and Ray PQ",
+    "question": "When you were asked to make your answer 'beautiful' and 'clear' for Sammy, what was the goal?",
+    "correct": "To add details, examples, and present the information neatly to show deep understanding.",
     "options": [
-      "Ray OP and Ray QP",
-      "Point O, P, and Q",
-      "Ray PO and Ray PQ",
-      "Line segment OP and Line segment PQ"
+      "To use as many colors as possible.",
+      "To write the answer as quickly as possible.",
+      "To add details, examples, and present the information neatly to show deep understanding.",
+      "To copy the definition exactly from a book."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Angles",
+    "topic": "Metacognition",
     "complexity_score": 2
   },
   {
-    "question": "A student defines an angle as 'two rays that share a starting point'. Why is adding a real-life example, like an open laptop, a 'beautiful' and 'clear' way to improve this answer?",
-    "correct": "It connects an abstract idea to a concrete, familiar object, making it easier to understand.",
+    "question": "When a laptop is opened so the screen is perfectly flat and level with the keyboard, it forms a 'straight angle'. What geometric figure does this resemble?",
+    "correct": "A line",
     "options": [
-      "It proves you own a laptop.",
-      "It makes the answer longer and more detailed.",
-      "It connects an abstract idea to a concrete, familiar object, making it easier to understand.",
-      "It shows you can identify different types of angles like acute and right."
+      "A point",
+      "Two parallel rays",
+      "A line",
+      "A right angle"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Application",
+    "complexity_score": 2
+  },
+  {
+    "question": "The instructor said the initial definition 'a ray has a starting point and no end point' could be confusing. What key word was added to the definition to make it clear the ray is not just a point?",
+    "correct": "extends",
+    "options": [
+      "stops",
+      "is",
+      "extends",
+      "points"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition & Communication",
+    "topic": "Precision in Language",
     "complexity_score": 3
   },
   {
-    "question": "Imagine two rays starting from the same point and pointing in exactly opposite directions. What have they formed?",
-    "correct": "A straight line",
+    "question": "The lesson discussed 'efficiency' in math. Why is using a small arc to mark an angle more 'efficient' than shading the entire space between the rays?",
+    "correct": "It conveys the same information using less ink, space, and effort.",
     "options": [
-      "A right angle",
-      "A complete circle",
-      "Two separate lines",
-      "A straight line"
+      "It is the only way to show an angle.",
+      "It makes the drawing look more professional.",
+      "It conveys the same information using less ink, space, and effort.",
+      "Shading the entire space is mathematically incorrect."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analytical Thinking",
+    "topic": "Mathematical Principles",
     "complexity_score": 3
   },
   {
-    "question": "Why can't you measure the total length of a ray?",
-    "correct": "Because it extends indefinitely in one direction.",
+    "question": "If an angle is named ∠OPQ, which point represents the vertex?",
+    "correct": "P",
     "options": [
-      "Because it has no starting point.",
-      "Because it is too thin to measure.",
-      "Because it extends indefinitely in one direction.",
-      "Because you need two endpoints to measure length."
+      "O",
+      "The point halfway between O and Q",
+      "P",
+      "Q"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Conceptual Analysis",
+    "topic": "Angle Notation",
     "complexity_score": 3
   },
   {
-    "question": "If two rays are parallel to each other, why do they not form an angle according to the definition discussed?",
-    "correct": "Because they do not share a common starting point (vertex).",
+    "question": "Imagine the two hands of a clock at 3:00. What geometric figures do the two hands represent in this position?",
+    "correct": "Two rays (the arms) forming a right angle at a common vertex.",
     "options": [
-      "Because parallel lines never meet.",
-      "Because they are not line segments.",
-      "Because they do not share a common starting point (vertex).",
-      "Because they must be perpendicular to form an angle."
+      "A line segment and a point.",
+      "Two separate lines.",
+      "Two rays (the arms) forming a right angle at a common vertex.",
+      "Two intersecting line segments."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analytical Thinking",
+    "topic": "Analytical Application",
     "complexity_score": 3
   },
   {
-    "question": "The lesson stressed making answers 'efficient'. Which of the following is the most efficient way to describe an angle formed by rays BA and BC?",
-    "correct": "Angle ABC is formed by rays BA and BC with vertex B.",
+    "question": "You successfully defined an angle using two rays. Could an angle be formed by two intersecting lines?",
+    "correct": "Yes, two intersecting lines actually form four angles at their intersection point.",
     "options": [
-      "There are two things, called rays, and they are BA and BC, and they start at a point, B, which makes an angle.",
-      "Angle ABC is formed by rays BA and BC with vertex B.",
-      "An angle is there. Its parts are a ray BA and a ray BC.",
-      "Look at the corner at B. It's an angle."
+      "No, angles can only be formed by rays.",
+      "Yes, but they would only form one angle.",
+      "Yes, two intersecting lines actually form four angles at their intersection point.",
+      "No, because lines do not have a starting point (vertex)."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition & Communication",
+    "topic": "Critical Thinking",
     "complexity_score": 3
   },
   {
-    "question": "In the final, improved answer about angles, why was it important to identify BOTH the vertex and the arms?",
-    "correct": "It provides a complete and unambiguous description of the angle's structure.",
+    "question": "Based on the lesson's progression from point to line to ray to angle, what is the most fundamental concept that all the others are built upon?",
+    "correct": "The point",
     "options": [
-      "It is the only way to name the angle.",
-      "It proves that the angle is not a right angle.",
-      "It provides a complete and unambiguous description of the angle's structure.",
-      "It shows how long the rays are."
+      "The line segment",
+      "The ray",
+      "The point",
+      "The concept of infinity"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Conceptual Analysis",
+    "topic": "Conceptual Hierarchy",
     "complexity_score": 3
   }
 ]
