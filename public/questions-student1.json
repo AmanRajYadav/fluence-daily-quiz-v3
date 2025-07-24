@@ -1,30 +1,44 @@
 [
   {
-    "question": "According to the lesson, what is the definition of an object?",
+    "question": "According to the lesson, what is the definition of an 'object'?",
     "correct": "Anything that can be seen or touched",
     "options": [
       "Anything that has a specific color",
-      "Anything that is made in a factory",
+      "Only things made in a factory",
       "Anything that can be seen or touched",
-      "Anything that can be dissolved in water"
+      "Only natural things like rocks and trees"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Defining Objects",
+    "topic": "Properties of Matter",
     "complexity_score": 1
   },
   {
-    "question": "What is the term for the property of a substance dissolving in a liquid?",
+    "question": "Which of these is a property of an object mentioned in the dictation?",
+    "correct": "Shape",
+    "options": [
+      "Weight",
+      "Smell",
+      "Shape",
+      "Temperature"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Properties of Matter",
+    "complexity_score": 1
+  },
+  {
+    "question": "The property of a substance dissolving in a liquid is called...",
     "correct": "Solubility",
     "options": [
       "Miscibility",
       "Variety",
       "Solubility",
-      "Transparency"
+      "Translucence"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Solubility",
+    "topic": "Properties of Matter",
     "complexity_score": 1
   },
   {
@@ -38,185 +52,213 @@
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Miscible Liquids",
+    "topic": "Properties of Matter",
     "complexity_score": 1
   },
   {
-    "question": "The lesson mentioned that objects have different shapes, sizes, and what else?",
-    "correct": "Colors",
+    "question": "Which of the following words was spelled out during the lesson?",
+    "correct": "translucent",
     "options": [
-      "Weights",
-      "Smells",
-      "Colors",
-      "Textures"
+      "transparent",
+      "transport",
+      "translucent",
+      "transfer"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Properties of Objects",
+    "topic": "Spelling and Vocabulary",
     "complexity_score": 1
   },
   {
-    "question": "Which of these words was dictated as a vocabulary word used in winter?",
-    "correct": "Glycerin",
+    "question": "The phrase 'have to' is used to show...",
+    "correct": "Necessity or obligation",
     "options": [
-      "Solubility",
-      "Glycerin",
-      "Variety",
-      "Translucent"
+      "A suggestion or idea",
+      "Permission to do something",
+      "Necessity or obligation",
+      "Something that happened in the past"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary",
+    "topic": "English Modals",
     "complexity_score": 1
   },
   {
-    "question": "In the lesson, the abbreviation 'etc.' was used. What does 'etc.' stand for?",
-    "correct": "Etcetera",
+    "question": "Based on the lesson's definition, which of the following is an 'object'?",
+    "correct": "A cloud in the sky",
     "options": [
-      "Example",
-      "Extra Things Correct",
-      "Etcetera",
-      "End of Text"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 1
-  },
-  {
-    "question": "If you stir sugar into a cup of hot tea and it disappears, which property is being demonstrated?",
-    "correct": "Solubility",
-    "options": [
-      "Miscibility",
-      "Solubility",
-      "Variety",
-      "Insolubility"
+      "A feeling of happiness",
+      "A dream you had last night",
+      "A cloud in the sky",
+      "An idea for a story"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Solubility",
+    "topic": "Properties of Matter",
     "complexity_score": 2
   },
   {
-    "question": "Based on the definition from the class, which of the following is an 'object'?",
-    "correct": "A pencil",
+    "question": "The sentence 'We see a wide variety of objects around us' means that the objects are...",
+    "correct": "very different from each other",
     "options": [
-      "A dream",
-      "A sound",
-      "A pencil",
-      "A thought"
+      "all the same size",
+      "all the same color",
+      "very different from each other",
+      "all very far away"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Defining Objects",
+    "topic": "Vocabulary and Comprehension",
     "complexity_score": 2
   },
   {
-    "question": "If you mix lemonade and water together, they would be considered...",
-    "correct": "Miscible liquids",
+    "question": "If you mix honey and water together and they combine completely, what concept does this demonstrate?",
+    "correct": "They are miscible liquids",
     "options": [
-      "Insoluble liquids",
-      "Soluble solids",
-      "Miscible liquids",
-      "Translucent liquids"
+      "They are insoluble",
+      "They are translucent",
+      "They are miscible liquids",
+      "They have different shapes"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Miscible Liquids",
+    "topic": "Properties of Matter",
     "complexity_score": 2
   },
   {
-    "question": "The phrase 'a wide variety of objects' means that the objects are...",
-    "correct": "All very different from each other",
+    "question": "Which sentence correctly uses the modal concept discussed in class?",
+    "correct": "You have to wear a helmet when riding a bike.",
     "options": [
-      "All very large",
-      "All the same color",
-      "All very different from each other",
-      "All made of wood"
+      "You can to wear a helmet if you want.",
+      "You should to wear a helmet.",
+      "You have to wear a helmet when riding a bike.",
+      "You may to wear a helmet."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Vocabulary",
+    "topic": "English Modals",
     "complexity_score": 2
   },
   {
-    "question": "What is the most likely opposite of a miscible liquid?",
-    "correct": "An immiscible liquid",
+    "question": "An object that is 'insoluble' in water will...",
+    "correct": "not dissolve when put in water",
     "options": [
-      "A soluble liquid",
-      "A solid",
-      "An immiscible liquid",
-      "A transparent liquid"
+      "float on top of the water",
+      "change the color of the water",
+      "not dissolve when put in water",
+      "mix perfectly with the water"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Miscible Liquids",
+    "topic": "Properties of Matter",
     "complexity_score": 2
   },
   {
-    "question": "The teacher mentioned 'sanitizer' and 'glycerin' as liquids. If they dissolve completely in water, they are considered...",
-    "correct": "Soluble",
+    "question": "The dictation listed 'book, pencil box, pencil, ball, coin' as examples of objects with different...",
+    "correct": "shapes, sizes, and colors",
     "options": [
-      "Miscible",
-      "Insoluble",
-      "Soluble",
-      "Translucent"
+      "weights, textures, and smells",
+      "materials, costs, and owners",
+      "shapes, sizes, and colors",
+      "functions, ages, and conditions"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Solubility",
+    "topic": "Properties of Matter",
     "complexity_score": 2
   },
   {
-    "question": "The dictation included the word 'translucent'. What does this word likely describe?",
-    "correct": "An object that lets some light through, but is not clear",
+    "question": "What is the opposite of a 'miscible' liquid?",
+    "correct": "Immiscible",
     "options": [
-      "An object that blocks all light",
-      "An object that is completely clear",
-      "An object that dissolves easily",
-      "An object that lets some light through, but is not clear"
+      "Inmiscible",
+      "Unmiscible",
+      "Immiscible",
+      "Dismiscible"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Properties of Materials",
+    "topic": "Vocabulary and Comprehension",
     "complexity_score": 2
   },
   {
-    "question": "The teacher advised repeating the sentence in your mind before writing. How does this strategy help?",
-    "correct": "It improves memory and accuracy",
+    "question": "A 'translucent' material, like frosted glass, would...",
+    "correct": "let some light pass through, but not clearly",
     "options": [
-      "It makes the writing go faster",
-      "It changes the meaning of the sentence",
-      "It improves memory and accuracy",
-      "It only helps with spelling"
+      "block all light completely",
+      "let all light pass through perfectly",
+      "let some light pass through, but not clearly",
+      "dissolve completely in water"
     ],
     "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Vocabulary and Comprehension",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why is it scientifically useful to categorize objects by properties like shape, size, and color?",
+    "correct": "It helps us to organize, compare, and understand the world.",
+    "options": [
+      "It is the only way to count them.",
+      "It determines how much they cost.",
+      "It helps us to organize, compare, and understand the world.",
+      "It tells us who the owner of the object is."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Scientific Thinking",
+    "complexity_score": 3
+  },
+  {
+    "question": "A scientist observes that sand sinks to the bottom of a beaker of water without mixing. This demonstrates that sand has low...",
+    "correct": "solubility",
+    "options": [
+      "miscibility",
+      "solubility",
+      "variety",
+      "color"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Application of Concepts",
+    "complexity_score": 3
+  },
+  {
+    "question": "The teacher suggested repeating a sentence in your mind to remember it. This learning strategy primarily helps to...",
+    "correct": "move information from short-term to long-term memory",
+    "options": [
+      "check for spelling errors",
+      "understand the teacher's accent",
+      "move information from short-term to long-term memory",
+      "make the class go by faster"
+    ],
+    "difficulty": "hard",
     "questionType": "mcq",
     "topic": "Metacognition",
-    "complexity_score": 2
-  },
-  {
-    "question": "A clear glass window is transparent. A frosted bathroom window is translucent. A wooden door is opaque. Which one fits the new vocabulary word 'translucent'?",
-    "correct": "The frosted bathroom window",
-    "options": [
-      "The clear glass window",
-      "The wooden door",
-      "The frosted bathroom window",
-      "Both the window and the door"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Properties of Materials",
     "complexity_score": 3
   },
   {
-    "question": "The definition given for solubility was 'The property of dissolving an object in a liquid'. Why might a scientist say 'dissolving a substance' is a better phrase than 'dissolving an object'?",
-    "correct": "Because materials like sugar or salt are substances, not typically called objects when in granular form",
+    "question": "If you mix oil and vinegar for a salad dressing, they quickly separate. This means oil and vinegar are...",
+    "correct": "immiscible liquids",
     "options": [
-      "Because only liquids can be objects",
-      "Because objects cannot be dissolved",
-      "Because materials like sugar or salt are substances, not typically called objects when in granular form",
-      "Because 'substance' and 'object' mean the exact same thing"
+      "soluble solids",
+      "insoluble solids",
+      "miscible liquids",
+      "immiscible liquids"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Application of Concepts",
+    "complexity_score": 3
+  },
+  {
+    "question": "The lesson defined an object as something 'seen or touched'. Why is 'or' a key word in this definition?",
+    "correct": "Because some objects can be seen but not touched (like a star), or felt but not seen (in the dark).",
+    "options": [
+      "Because you must do both at the same time.",
+      "Because 'or' and 'and' mean the same thing in science.",
+      "Because some objects can be seen but not touched (like a star), or felt but not seen (in the dark).",
+      "Because it's a mistake and should say 'seen and touched'."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
@@ -224,59 +266,17 @@
     "complexity_score": 3
   },
   {
-    "question": "If sand is stirred into water, it does not dissolve. Therefore, sand is considered...",
-    "correct": "Insoluble in water",
+    "question": "Consider the sentence: 'To pass the test, I have to study.' The phrase 'have to' implies that studying is...",
+    "correct": "a necessary condition for success",
     "options": [
-      "Miscible with water",
-      "Insoluble in water",
-      "Soluble in water",
-      "Translucent in water"
+      "a fun but optional activity",
+      "one of many possible choices",
+      "a necessary condition for success",
+      "a bad thing to do"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Solubility",
-    "complexity_score": 3
-  },
-  {
-    "question": "Why is it useful to know if a substance is soluble or insoluble in everyday life?",
-    "correct": "For tasks like cooking, cleaning, and taking medicine",
-    "options": [
-      "It is only useful for spelling tests",
-      "It helps you count objects better",
-      "For tasks like cooking, cleaning, and taking medicine",
-      "It is not useful in everyday life"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Real-World Application",
-    "complexity_score": 3
-  },
-  {
-    "question": "The lesson defined an object as something that can be seen OR touched. Can air be considered an object by this definition?",
-    "correct": "Yes, because while you can't see it, you can feel it (touch it) when it moves as wind",
-    "options": [
-      "No, because you cannot see it",
-      "No, because it has no color or shape",
-      "Yes, because while you can't see it, you can feel it (touch it) when it moves as wind",
-      "Only when it is cold"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Critical Thinking",
-    "complexity_score": 3
-  },
-  {
-    "question": "If a scientist creates a new cleaning product, why would it be important for them to know about miscibility?",
-    "correct": "To ensure the different liquid ingredients in the cleaner mix together properly and don't separate",
-    "options": [
-      "To make sure the product has a nice color",
-      "To ensure the different liquid ingredients in the cleaner mix together properly and don't separate",
-      "To make the bottle easier to hold",
-      "Miscibility only applies to things in nature, not man-made products"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Real-World Application",
+    "topic": "English Modals",
     "complexity_score": 3
   }
 ]
