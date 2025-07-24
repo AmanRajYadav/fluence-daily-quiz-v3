@@ -1,282 +1,282 @@
 [
   {
-    "question": "Which sentence shows the correct use of 'will' to make a promise?",
-    "correct": "I will definitely help you with your project.",
+    "question": "According to the lesson, what is the definition of an object?",
+    "correct": "Anything that can be seen or touched",
     "options": [
-      "I will maybe help you with your project.",
-      "I will definitely help you with your project.",
-      "I can help you with your project.",
-      "I would help you with your project."
+      "Anything that has a color",
+      "Anything that is made in a factory",
+      "Anything that can be seen or touched",
+      "Anything that is a liquid"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Modal Verbs: Will",
+    "topic": "Objects and Materials",
     "complexity_score": 1
   },
   {
-    "question": "How would you use 'may' to give a blessing?",
-    "correct": "May you have a wonderful birthday.",
+    "question": "The property of a substance dissolving in a liquid is called...",
+    "correct": "Solubility",
     "options": [
-      "You can have a wonderful birthday.",
-      "You will have a wonderful birthday.",
-      "May you have a wonderful birthday.",
-      "You should have a wonderful birthday."
+      "Miscibility",
+      "Solubility",
+      "Translucence",
+      "Variety"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Modal Verbs: May",
+    "topic": "Properties of Materials",
     "complexity_score": 1
   },
   {
-    "question": "If you are unsure if it will rain, what is the best way to express this using 'might'?",
-    "correct": "It might rain today.",
+    "question": "What are liquids that mix completely with each other called?",
+    "correct": "Miscible liquids",
     "options": [
-      "It will rain today.",
-      "It must rain today.",
-      "It can rain today.",
-      "It might rain today."
+      "Soluble liquids",
+      "Insoluble liquids",
+      "Miscible liquids",
+      "Variety liquids"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Modal Verbs: Might",
+    "topic": "Properties of Materials",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence correctly shows that the washroom belongs to the school?",
-    "correct": "My school's washroom is very dirty.",
+    "question": "Which of the following were listed as properties of objects?",
+    "correct": "Shapes, sizes, and colors",
     "options": [
-      "My schools washroom is very dirty.",
-      "My school washroom is very dirty.",
-      "My schools' washroom is very dirty.",
-      "My school's washroom is very dirty."
+      "Weight, cost, and smell",
+      "Shapes, sizes, and colors",
+      "Solubility and miscibility",
+      "Taste, texture, and temperature"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Grammar: Possessives",
+    "topic": "Objects and Materials",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence correctly expresses a wish using 'would'?",
-    "correct": "I would like to take coffee.",
+    "question": "Which of these was mentioned as an example of an object?",
+    "correct": "A coin",
     "options": [
-      "I will like to take coffee.",
-      "I can like to take coffee.",
-      "I would like to take coffee.",
-      "I may like to take coffee."
+      "A thought",
+      "A sound",
+      "A coin",
+      "A shadow"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Modal Verbs: Would",
+    "topic": "Objects and Materials",
     "complexity_score": 1
   },
   {
-    "question": "Which word is a more descriptive and positive synonym for 'good' when describing a teacher?",
-    "correct": "Amiable",
+    "question": "The lesson provided 'book, pencil, and ball' as examples of what?",
+    "correct": "Objects with different shapes, sizes, and colors",
     "options": [
-      "Strict",
-      "Rude",
-      "Amiable",
-      "Curves"
+      "Things that are miscible",
+      "Things that are always soluble",
+      "Objects with different shapes, sizes, and colors",
+      "Things that are translucent"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary",
+    "topic": "Objects and Materials",
     "complexity_score": 1
   },
   {
-    "question": "To ask for permission formally, which sentence is the most appropriate?",
-    "correct": "May I sit there?",
+    "question": "If you stir a spoonful of salt into a glass of water and it disappears, which property is being demonstrated?",
+    "correct": "Solubility",
     "options": [
-      "Can I sit there?",
-      "Will I sit there?",
-      "Should I sit there?",
-      "May I sit there?"
+      "Miscibility",
+      "Solubility",
+      "Translucence",
+      "Shape"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs: Can vs. May",
+    "topic": "Properties of Materials",
     "complexity_score": 2
   },
   {
-    "question": "Choose the sentence that correctly uses 'would have' to describe a past action that didn't happen.",
-    "correct": "I would have called you, but there was no signal.",
+    "question": "A pencil, a pencil box, and a coin all fit the definition of an 'object' because they...",
+    "correct": "can be seen and touched.",
     "options": [
-      "I would call you, but there was no signal.",
-      "I would have called you, but there was no signal.",
-      "I will have called you, but there was no signal.",
-      "I could call you, but there was no signal."
+      "are used in school.",
+      "have the same color.",
+      "can dissolve in water.",
+      "can be seen and touched."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs: Would Have",
+    "topic": "Objects and Materials",
     "complexity_score": 2
   },
   {
-    "question": "Which phrase correctly shows that the classes belong to many teachers?",
-    "correct": "Many of the teachers' classes",
+    "question": "If milk and chocolate syrup mix together perfectly to make chocolate milk, they can be described as...",
+    "correct": "Miscible",
     "options": [
-      "Many of the teacher's classes",
-      "Many of the teachers classes",
-      "Many of the teachers' classes",
-      "Many of the teacher classes"
+      "Soluble",
+      "Miscible",
+      "Insoluble",
+      "Objects"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Plural Possessives",
+    "topic": "Properties of Materials",
     "complexity_score": 2
   },
   {
-    "question": "If your classmate had the ability to apologize but didn't, which sentence is correct?",
-    "correct": "My classmate could have apologized.",
+    "question": "Why is the air in the room NOT considered an object according to the specific definition given in the lesson?",
+    "correct": "Because it cannot be easily seen",
     "options": [
-      "My classmate can have apologized.",
-      "My classmate would have apologized.",
-      "My classmate should have apologized.",
-      "My classmate could have apologized."
+      "Because it has no color",
+      "Because it cannot be easily seen",
+      "Because it has no shape",
+      "Because it is not a liquid"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs: Could Have",
-    "complexity_score": 2
-  },
-  {
-    "question": "In the public speaking lesson, what was the purpose of starting with 'First of all, I pay my deepest regards...'?",
-    "correct": "To provide a formal and respectful opening for a speech.",
-    "options": [
-      "To show you are better than everyone else.",
-      "To make the speech longer.",
-      "To provide a formal and respectful opening for a speech.",
-      "To ask a question to the audience."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Public Speaking",
-    "complexity_score": 2
-  },
-  {
-    "question": "Why is it impossible to add two 4-digit whole numbers (like 9,999 + 9,999) and get a 6-digit number?",
-    "correct": "Because the highest possible sum is a 5-digit number.",
-    "options": [
-      "Because 4 + 4 equals 8, not 6.",
-      "Because you need to use negative numbers.",
-      "Because the highest possible sum is a 5-digit number.",
-      "Because all 4-digit numbers are even."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Math Logic",
-    "complexity_score": 2
-  },
-  {
-    "question": "The sentence 'I will beat you' is an example of using 'will' for a...",
-    "correct": "Threat",
-    "options": [
-      "Promise",
-      "Determination",
-      "Threat",
-      "Wish"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Modal Verbs: Will",
-    "complexity_score": 2
-  },
-  {
-    "question": "To make a polite request where the other person has to do the action (like turn on a fan), which is the best option?",
-    "correct": "Could you please turn on the fan?",
-    "options": [
-      "May I turn on the fan?",
-      "Can you turn on the fan?",
-      "Will you turn on the fan?",
-      "Could you please turn on the fan?"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Modal Verbs: Could",
-    "complexity_score": 2
-  },
-  {
-    "question": "In the math problem '30,000 + (-11,500) = 18,500', what is the purpose of using the negative number (-11,500)?",
-    "correct": "It allows the addition of two 5-digit numbers to result in a smaller 5-digit number.",
-    "options": [
-      "It's a mistake, you can only add positive numbers.",
-      "It makes the problem harder for no reason.",
-      "It allows the addition of two 5-digit numbers to result in a smaller 5-digit number.",
-      "It turns the problem into a subtraction problem."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Math Logic: Integers",
+    "topic": "Objects and Materials",
     "complexity_score": 3
   },
   {
-    "question": "What is the key difference between 'I would have gone to school' and 'I could have gone to school'?",
-    "correct": "'Would have' implies intention that was blocked, while 'could have' implies it was just one of several possibilities.",
+    "question": "The lesson discusses 'solubility' for solids in liquids, and 'miscibility' for liquids in liquids. What do both of these properties describe?",
+    "correct": "How well substances combine",
     "options": [
-      "There is no difference, they mean the same thing.",
-      "'Would have' is for the past, 'could have' is for the future.",
-      "'Would have' implies intention that was blocked, while 'could have' implies it was just one of several possibilities.",
-      "'Could have' is more formal than 'would have'."
+      "How substances look",
+      "The shapes of substances",
+      "How well substances combine",
+      "The colors of substances"
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs: Would Have vs. Could Have",
+    "topic": "Properties of Materials",
     "complexity_score": 3
   },
   {
-    "question": "The teacher advised to 'act like a great public speaker' and 'copy the loudness'. What is the main goal of this advice?",
-    "correct": "To build confidence and practice the physical aspects of effective speaking.",
+    "question": "Which of these items would be an example of an IMMISCIBLE liquid when mixed with water?",
+    "correct": "Cooking oil",
     "options": [
-      "To make fun of famous actors.",
-      "To show that your own voice is not good enough.",
-      "To build confidence and practice the physical aspects of effective speaking.",
-      "To prove that you can shout louder than the teacher."
+      "Lemon juice",
+      "Cooking oil",
+      "Vinegar",
+      "Glycerin"
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Public Speaking",
+    "topic": "Properties of Materials",
     "complexity_score": 3
   },
   {
-    "question": "If you are determined to do something difficult, like wake up early, what is the best way to state your determination?",
-    "correct": "I will wake up at 6 o'clock daily.",
+    "question": "A wooden block and a glass of water are both objects. What is a key difference in their properties based on the lesson's concepts?",
+    "correct": "The wooden block has a fixed shape, while the water takes the shape of its container.",
     "options": [
-      "I might wake up at 6 o'clock daily.",
-      "I could wake up at 6 o'clock daily.",
-      "I should wake up at 6 o'clock daily.",
-      "I will wake up at 6 o'clock daily."
+      "Only the wooden block has color.",
+      "Only the glass of water can be touched.",
+      "The wooden block has a fixed shape, while the water takes the shape of its container.",
+      "The wooden block is soluble, but the water is not."
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs: Will for Determination",
+    "topic": "Objects and Materials",
     "complexity_score": 3
   },
   {
-    "question": "You see the sentence: 'My classmate could have apologize'. What is the error?",
-    "correct": "After 'could have', the verb should be 'apologized'.",
+    "question": "If you are asked to sort a collection of buttons, which properties mentioned in the lesson would be most useful?",
+    "correct": "Shape, size, and color",
     "options": [
-      "It should be 'can have apologize'.",
-      "The word 'apologize' is spelled incorrectly.",
-      "After 'could have', the verb should be 'apologized'.",
-      "It should be 'My classmate could apologize'."
+      "Solubility and Miscibility",
+      "Shape, size, and color",
+      "Objects and Liquids",
+      "Dissolving and Mixing"
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Verb Forms with Modals",
-    "complexity_score": 3
+    "topic": "Objects and Materials",
+    "complexity_score": 2
   },
   {
-    "question": "Why is it possible to solve '5-digit number - 5-digit number = 41,500' but not '5-digit number + 5-digit number = 18,500' using only positive whole numbers?",
-    "correct": "Because subtraction can result in a smaller number, but adding two large positive numbers cannot result in a very small one.",
+    "question": "A scientist has two clear, colorless liquids. What is the BEST way to determine if they are miscible?",
+    "correct": "Pour one into the other and observe if they form a single, uniform liquid.",
     "options": [
-      "Both are actually impossible without negative numbers.",
-      "Subtraction is easier than addition.",
-      "Because subtraction can result in a smaller number, but adding two large positive numbers cannot result in a very small one.",
-      "The number 41,500 is special."
+      "Taste them to see if they are different.",
+      "Check if they have the same size.",
+      "Pour one into the other and observe if they form a single, uniform liquid.",
+      "See if a solid can dissolve in them."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Math Logic",
-    "complexity_score": 3
+    "topic": "Properties of Materials",
+    "complexity_score": 4
+  },
+  {
+    "question": "The word 'translucent' was mentioned. While not fully defined, it is a property of materials. How does it relate to the definition of an object ('can be seen or touched')?",
+    "correct": "A translucent object can be seen, even if not clearly, and can be touched.",
+    "options": [
+      "A translucent object cannot be seen, but can be touched.",
+      "A translucent object can be seen, but cannot be touched.",
+      "Translucence is the same as solubility.",
+      "A translucent object can be seen, even if not clearly, and can be touched."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Objects and Materials",
+    "complexity_score": 5
+  },
+  {
+    "question": "Why is 'solubility' considered a property of a material, like salt, rather than a property of an object, like a single salt crystal?",
+    "correct": "Because it describes how the substance itself behaves, not just its shape or size.",
+    "options": [
+      "Because objects cannot be properties.",
+      "Because solubility depends on the object's color.",
+      "Because it describes how the substance itself behaves, not just its shape or size.",
+      "Because only liquids have solubility."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Properties of Materials",
+    "complexity_score": 5
+  },
+  {
+    "question": "A student claims that since a cloud can be seen, it must be an object. Why is this reasoning flawed based on the lesson's full definition?",
+    "correct": "Because a cloud cannot be reliably touched.",
+    "options": [
+      "Because clouds are white.",
+      "Because a cloud cannot be reliably touched.",
+      "Because clouds are made of gas.",
+      "The student is correct; a cloud is an object."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Objects and Materials",
+    "complexity_score": 4
+  },
+  {
+    "question": "You have sand and sugar. Both are small, solid crystals. Which property from the lesson would be most useful to tell them apart without tasting them?",
+    "correct": "Solubility in water",
+    "options": [
+      "Color",
+      "Shape",
+      "Solubility in water",
+      "Miscibility"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Properties of Materials",
+    "complexity_score": 4
+  },
+  {
+    "question": "The definition of an object as 'anything that can be seen or touched' helps us classify the world. What is the primary limitation of this specific definition?",
+    "correct": "It may exclude things that are real but intangible, like forces or energy.",
+    "options": [
+      "It is too complicated for everyday use.",
+      "It doesn't include the property of color.",
+      "It only applies to things made by humans.",
+      "It may exclude things that are real but intangible, like forces or energy."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Objects and Materials",
+    "complexity_score": 5
   }
 ]
