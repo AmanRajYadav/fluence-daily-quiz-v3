@@ -1,124 +1,166 @@
 [
   {
-    "question": "According to the lesson, what is a 'point' in geometry?",
-    "correct": "A small dot with no length, breadth, or height",
-    "options": [
-      "The end of a line",
-      "A circle with a very small radius",
-      "A small dot with no length, breadth, or height",
-      "Any location you can mark with a pencil"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Basic Definitions",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the key feature of a 'line segment'?",
-    "correct": "It has two distinct endpoints.",
-    "options": [
-      "It goes on forever in one direction.",
-      "It is endless.",
-      "It has two distinct endpoints.",
-      "It is a type of angle."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Basic Definitions",
-    "complexity_score": 1
-  },
-  {
-    "question": "A 'ray' is described as having what two characteristics?",
-    "correct": "One starting point and extending indefinitely in one direction",
-    "options": [
-      "Two starting points and no endpoint",
-      "No starting point and no endpoint",
-      "One starting point and extending indefinitely in one direction",
-      "One starting point and one endpoint"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Basic Definitions",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is formed when two rays start from the same single point?",
-    "correct": "An angle",
-    "options": [
-      "A line segment",
-      "A line",
-      "An angle",
-      "A circle"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Angles",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the common starting point of the two rays that form an angle called?",
+    "question": "What is the name of the common starting point where the two rays of an angle meet?",
     "correct": "Vertex",
     "options": [
-      "Point",
       "Arm",
+      "Point",
       "Vertex",
-      "Origin"
+      "Line"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Angles",
+    "topic": "Angle Basics",
     "complexity_score": 1
   },
   {
-    "question": "What did the instructor give as a real-world example of a 'ray'?",
-    "correct": "A ray from a flashlight",
+    "question": "What are the two rays that form an angle officially called?",
+    "correct": "Arms",
     "options": [
-      "A ruler",
-      "The edge of a book",
-      "A ray from a flashlight",
-      "A piece of string pulled tight"
+      "Legs",
+      "Arms",
+      "Sides",
+      "Vectors"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Real-World Application",
+    "topic": "Angle Basics",
     "complexity_score": 1
   },
   {
-    "question": "What is the main difference between a line and a ray?",
-    "correct": "A line extends indefinitely in two directions, while a ray extends in only one.",
+    "question": "What is the measurement in degrees of a straight angle, like a book opened completely flat?",
+    "correct": "180 degrees",
     "options": [
-      "A line is straight, while a ray can be curved.",
-      "A line has one endpoint, while a ray has two.",
-      "A line extends indefinitely in two directions, while a ray extends in only one.",
-      "There is no difference; they are the same thing."
+      "90 degrees",
+      "360 degrees",
+      "180 degrees",
+      "45 degrees"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Types of Angles",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the measurement of a complete or full angle, like a full circle?",
+    "correct": "360 degrees",
+    "options": [
+      "180 degrees",
+      "100 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Types of Angles",
+    "complexity_score": 1
+  },
+  {
+    "question": "What tool did you use in class to measure the exact degree of an angle?",
+    "correct": "Protractor",
+    "options": [
+      "Ruler",
+      "Protractor",
+      "Compass",
+      "Scale"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Measurement",
+    "complexity_score": 1
+  },
+  {
+    "question": "If you take a 180-degree straight angle and fold it exactly in half, what is the measurement of the new angle created?",
+    "correct": "90 degrees",
+    "options": [
+      "45 degrees",
+      "180 degrees",
+      "360 degrees",
+      "90 degrees"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Angle Relationships",
+    "complexity_score": 1
+  },
+  {
+    "question": "In class, you saw a diagram with multiple angles sharing the same vertex 'P'. Why couldn't you just call any of them 'angle P'?",
+    "correct": "Because it would be confusing which of the three angles you were referring to.",
+    "options": [
+      "Because 'P' is not a valid letter for an angle.",
+      "Because angles must always be named with three letters.",
+      "Because it would be confusing which of the three angles you were referring to.",
+      "Because the rays were too long."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Comparative Analysis",
+    "topic": "Naming Angles",
     "complexity_score": 2
   },
   {
-    "question": "What do you create if you take a line segment and extend it indefinitely in both directions?",
-    "correct": "A line",
+    "question": "When measuring an angle with a protractor, what part of the protractor should be placed directly on the angle's vertex?",
+    "correct": "The center point or hole",
     "options": [
-      "An angle",
-      "A ray",
-      "A line",
-      "A longer line segment"
+      "The 90-degree mark",
+      "The straight edge",
+      "The zero mark",
+      "The center point or hole"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Transformations",
+    "topic": "Measurement",
     "complexity_score": 2
   },
   {
-    "question": "In the lesson, the instructor mentioned opening a laptop. What geometric concept does this action demonstrate?",
-    "correct": "The formation of different types of angles",
+    "question": "If an open laptop forms an angle of 120 degrees, what would be the measurement of the larger, reflex angle on the outside?",
+    "correct": "240 degrees",
     "options": [
-      "The definition of a line segment",
-      "The properties of a point",
-      "The formation of different types of angles",
-      "The difference between a line and a ray"
+      "180 degrees",
+      "60 degrees",
+      "240 degrees",
+      "360 degrees"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Angle Relationships",
+    "complexity_score": 3
+  },
+  {
+    "question": "Imagine an angle drawn with very short arms and another angle drawn with very long arms. If both measure 30 degrees, which angle is actually bigger?",
+    "correct": "They are the same size.",
+    "options": [
+      "The one with the long arms.",
+      "They are the same size.",
+      "The one with the short arms.",
+      "It's impossible to tell without a protractor."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Angle Properties",
+    "complexity_score": 3
+  },
+  {
+    "question": "You learned that a 90-degree angle can be folded in half. What is the measurement of the resulting angle?",
+    "correct": "45 degrees",
+    "options": [
+      "90 degrees",
+      "22.5 degrees",
+      "45 degrees",
+      "30 degrees"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Angle Relationships",
+    "complexity_score": 2
+  },
+  {
+    "question": "You arranged the animal mouths from smallest to biggest angle. What property were you comparing?",
+    "correct": "The amount of opening between their jaws",
+    "options": [
+      "The length of their snouts",
+      "The sharpness of their teeth",
+      "The amount of opening between their jaws",
+      "The color of the animals"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -126,157 +168,115 @@
     "complexity_score": 2
   },
   {
-    "question": "Why was the word 'gap' considered not precise enough to define an angle?",
-    "correct": "Because the distance of the 'gap' changes as you move away from the vertex, but the angle does not.",
+    "question": "If one ray of an angle is aligned with the baseline of a protractor, where must the counting of degrees always start?",
+    "correct": "From the 0 mark on that baseline",
     "options": [
-      "Because 'gap' implies an empty space, which is incorrect.",
-      "Because angles can only be described with numbers.",
-      "Because the distance of the 'gap' changes as you move away from the vertex, but the angle does not.",
-      "Because 'gap' is not a mathematical term."
+      "From the 90 mark",
+      "From the 180 mark",
+      "From the 0 mark on that baseline",
+      "From the center of the protractor"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Conceptual Understanding",
-    "complexity_score": 2
+    "topic": "Measurement",
+    "complexity_score": 3
   },
   {
-    "question": "The two rays that form an angle were given a special name. What are they called?",
-    "correct": "The arms of the angle",
+    "question": "An angle is formed by the rays BA and BC. Which of the following is a correct way to name this angle?",
+    "correct": "Angle ABC",
     "options": [
-      "The sides of the angle",
-      "The legs of the angle",
-      "The arms of the angle",
-      "The segments of the angle"
+      "Angle ACB",
+      "Angle BAC",
+      "Angle ABC",
+      "Angle B"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Angle Terminology",
+    "topic": "Naming Angles",
     "complexity_score": 2
   },
   {
-    "question": "If you are told to draw ray PQ, what does this name tell you?",
-    "correct": "The ray starts at point P and extends indefinitely through point Q.",
+    "question": "In class, you were told that if the bigger angle around a point is 250 degrees, the smaller angle is 110 degrees. What fundamental geometric rule explains this?",
+    "correct": "The sum of angles around a single point is always 360 degrees.",
     "options": [
-      "The ray is the distance between point P and point Q.",
-      "The ray starts at point Q and extends indefinitely through point P.",
-      "The ray has two endpoints, P and Q.",
-      "The ray starts at point P and extends indefinitely through point Q."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Notation",
-    "complexity_score": 2
-  },
-  {
-    "question": "When you were asked to make your answer 'beautiful' and 'clear' for Sammy, what was the goal?",
-    "correct": "To add details, examples, and present the information neatly to show deep understanding.",
-    "options": [
-      "To use as many colors as possible.",
-      "To write the answer as quickly as possible.",
-      "To add details, examples, and present the information neatly to show deep understanding.",
-      "To copy the definition exactly from a book."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Metacognition",
-    "complexity_score": 2
-  },
-  {
-    "question": "When a laptop is opened so the screen is perfectly flat and level with the keyboard, it forms a 'straight angle'. What geometric figure does this resemble?",
-    "correct": "A line",
-    "options": [
-      "A point",
-      "Two parallel rays",
-      "A line",
-      "A right angle"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Application",
-    "complexity_score": 2
-  },
-  {
-    "question": "The instructor said the initial definition 'a ray has a starting point and no end point' could be confusing. What key word was added to the definition to make it clear the ray is not just a point?",
-    "correct": "extends",
-    "options": [
-      "stops",
-      "is",
-      "extends",
-      "points"
+      "All angles must be less than 180 degrees.",
+      "You must always subtract 100.",
+      "The sum of angles around a single point is always 360 degrees.",
+      "Angles on a straight line add up to 250 degrees."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Precision in Language",
-    "complexity_score": 3
+    "topic": "Angle Relationships",
+    "complexity_score": 4
   },
   {
-    "question": "The lesson discussed 'efficiency' in math. Why is using a small arc to mark an angle more 'efficient' than shading the entire space between the rays?",
-    "correct": "It conveys the same information using less ink, space, and effort.",
+    "question": "You measure an angle and your protractor shows two numbers: 70 and 110. If you can clearly see the angle is obtuse (greater than 90 degrees), what is the correct measurement?",
+    "correct": "110 degrees",
     "options": [
-      "It is the only way to show an angle.",
-      "It makes the drawing look more professional.",
-      "It conveys the same information using less ink, space, and effort.",
-      "Shading the entire space is mathematically incorrect."
+      "70 degrees",
+      "110 degrees",
+      "180 degrees",
+      "You must add them together."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Mathematical Principles",
-    "complexity_score": 3
+    "topic": "Measurement and Reasoning",
+    "complexity_score": 4
   },
   {
-    "question": "If an angle is named ∠OPQ, which point represents the vertex?",
-    "correct": "P",
+    "question": "A diagram has two adjacent angles, ∠APB and ∠BPC, sharing a vertex P. If ∠APB = 35 degrees and ∠BPC = 35 degrees, what is the total measure of the larger angle, ∠APC?",
+    "correct": "70 degrees",
     "options": [
-      "O",
-      "The point halfway between O and Q",
-      "P",
-      "Q"
+      "35 degrees",
+      "0 degrees",
+      "70 degrees",
+      "110 degrees"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Angle Notation",
-    "complexity_score": 3
+    "topic": "Angle Addition",
+    "complexity_score": 4
   },
   {
-    "question": "Imagine the two hands of a clock at 3:00. What geometric figures do the two hands represent in this position?",
-    "correct": "Two rays (the arms) forming a right angle at a common vertex.",
+    "question": "A complete angle is repeatedly folded in half. What is the correct sequence of the first four angle measurements you would get?",
+    "correct": "360, 180, 90, 45",
     "options": [
-      "A line segment and a point.",
-      "Two separate lines.",
-      "Two rays (the arms) forming a right angle at a common vertex.",
-      "Two intersecting line segments."
+      "360, 270, 180, 90",
+      "360, 180, 90, 45",
+      "360, 120, 60, 30",
+      "180, 90, 60, 45"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analytical Application",
-    "complexity_score": 3
+    "topic": "Angle Relationships",
+    "complexity_score": 5
   },
   {
-    "question": "You successfully defined an angle using two rays. Could an angle be formed by two intersecting lines?",
-    "correct": "Yes, two intersecting lines actually form four angles at their intersection point.",
+    "question": "You measure an angle using a protractor. The baseline arm of the angle is pointing to the left side of the protractor. What does this mean for your measurement?",
+    "correct": "You must use the scale that starts with 0 on the left side.",
     "options": [
-      "No, angles can only be formed by rays.",
-      "Yes, but they would only form one angle.",
-      "Yes, two intersecting lines actually form four angles at their intersection point.",
-      "No, because lines do not have a starting point (vertex)."
+      "The measurement will be negative.",
+      "You must use the scale that starts with 0 on the left side.",
+      "You must flip the protractor upside down.",
+      "The angle cannot be measured."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Critical Thinking",
-    "complexity_score": 3
+    "topic": "Measurement and Reasoning",
+    "complexity_score": 5
   },
   {
-    "question": "Based on the lesson's progression from point to line to ray to angle, what is the most fundamental concept that all the others are built upon?",
-    "correct": "The point",
+    "question": "Reflecting on the class, why is saying 'the corner of a square' a good example of a 90-degree angle?",
+    "correct": "Because the two sides forming the corner are perpendicular.",
     "options": [
-      "The line segment",
-      "The ray",
-      "The point",
-      "The concept of infinity"
+      "Because all squares have four angles.",
+      "Because the two sides forming the corner are perpendicular.",
+      "Because the sides of a square are long.",
+      "Because a square can be folded in half."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Conceptual Hierarchy",
-    "complexity_score": 3
+    "topic": "Real-World Application",
+    "complexity_score": 4
   }
 ]
