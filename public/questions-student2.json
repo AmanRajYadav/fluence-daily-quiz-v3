@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the name of the common starting point where the two rays of an angle meet?",
-    "correct": "Vertex",
+    "question": "What is the total number of degrees in a full circle?",
+    "correct": "360°",
     "options": [
-      "Arm",
-      "Point",
-      "Vertex",
-      "Line"
+      "90°",
+      "180°",
+      "360°",
+      "100°"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Angle Basics",
+    "topic": "Properties of Circles",
     "complexity_score": 1
   },
   {
-    "question": "What are the two rays that form an angle officially called?",
-    "correct": "Arms",
+    "question": "The process of dividing an angle into two perfectly equal smaller angles is called:",
+    "correct": "Bisecting an angle",
     "options": [
-      "Legs",
-      "Arms",
-      "Sides",
-      "Vectors"
+      "Measuring an angle",
+      "Creating an angle",
+      "Bisecting an angle",
+      "Folding an angle"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Angle Basics",
+    "topic": "Angle Bisection",
     "complexity_score": 1
   },
   {
-    "question": "What is the measurement in degrees of a straight angle, like a book opened completely flat?",
-    "correct": "180 degrees",
+    "question": "A line that divides an angle into two equal halves is called a:",
+    "correct": "Bisector",
     "options": [
-      "90 degrees",
-      "360 degrees",
-      "180 degrees",
-      "45 degrees"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Types of Angles",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the measurement of a complete or full angle, like a full circle?",
-    "correct": "360 degrees",
-    "options": [
-      "180 degrees",
-      "100 degrees",
-      "270 degrees",
-      "360 degrees"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Types of Angles",
-    "complexity_score": 1
-  },
-  {
-    "question": "What tool did you use in class to measure the exact degree of an angle?",
-    "correct": "Protractor",
-    "options": [
-      "Ruler",
       "Protractor",
-      "Compass",
-      "Scale"
+      "Vertex",
+      "Ruler",
+      "Bisector"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Measurement",
+    "topic": "Geometric Terminology",
     "complexity_score": 1
   },
   {
-    "question": "If you take a 180-degree straight angle and fold it exactly in half, what is the measurement of the new angle created?",
-    "correct": "90 degrees",
+    "question": "If you bisect a 90° angle, what will be the measure of the two new angles?",
+    "correct": "45° and 45°",
     "options": [
-      "45 degrees",
-      "180 degrees",
-      "360 degrees",
-      "90 degrees"
+      "90° and 90°",
+      "45° and 45°",
+      "30° and 60°",
+      "50° and 40°"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Angle Relationships",
+    "topic": "Angle Bisection",
     "complexity_score": 1
   },
   {
-    "question": "In class, you saw a diagram with multiple angles sharing the same vertex 'P'. Why couldn't you just call any of them 'angle P'?",
-    "correct": "Because it would be confusing which of the three angles you were referring to.",
+    "question": "A clock face is a full circle. How many equal parts is it divided into for the hours?",
+    "correct": "12",
     "options": [
-      "Because 'P' is not a valid letter for an angle.",
-      "Because angles must always be named with three letters.",
-      "Because it would be confusing which of the three angles you were referring to.",
-      "Because the rays were too long."
+      "4",
+      "60",
+      "12",
+      "24"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Real-World Angles",
+    "complexity_score": 1
+  },
+  {
+    "question": "What does the prefix 'bi-' in 'bisect' mean?",
+    "correct": "Two",
+    "options": [
+      "Angle",
+      "Half",
+      "Two",
+      "Cut"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Geometric Terminology",
+    "complexity_score": 1
+  },
+  {
+    "question": "If a 110° angle is bisected, what will be the measure of each of the two resulting angles?",
+    "correct": "55°",
+    "options": [
+      "110°",
+      "50°",
+      "55°",
+      "60°"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Naming Angles",
+    "topic": "Applying Bisection",
     "complexity_score": 2
   },
   {
-    "question": "When measuring an angle with a protractor, what part of the protractor should be placed directly on the angle's vertex?",
-    "correct": "The center point or hole",
+    "question": "A clock is a 360° circle divided into 12 hours. What is the angle between each consecutive hour mark (e.g., between the 1 and the 2)?",
+    "correct": "30°",
     "options": [
-      "The 90-degree mark",
-      "The straight edge",
-      "The zero mark",
-      "The center point or hole"
+      "12°",
+      "30°",
+      "60°",
+      "15°"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Measurement",
+    "topic": "Angles on a Clock",
     "complexity_score": 2
   },
   {
-    "question": "If an open laptop forms an angle of 120 degrees, what would be the measurement of the larger, reflex angle on the outside?",
-    "correct": "240 degrees",
+    "question": "What is the smaller angle formed by the hands of a clock at 3 o'clock?",
+    "correct": "90°",
     "options": [
-      "180 degrees",
-      "60 degrees",
-      "240 degrees",
-      "360 degrees"
+      "30°",
+      "60°",
+      "180°",
+      "90°"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Angle Relationships",
+    "topic": "Angles on a Clock",
+    "complexity_score": 2
+  },
+  {
+    "question": "If you cut a round pizza into 6 perfectly equal slices, what is the angle of the point of each slice?",
+    "correct": "60°",
+    "options": [
+      "30°",
+      "90°",
+      "60°",
+      "180°"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Real-World Angles",
+    "complexity_score": 2
+  },
+  {
+    "question": "To draw the letter 'X' with four equal angles at its center, you should divide which value by 4?",
+    "correct": "360°",
+    "options": [
+      "180°",
+      "90°",
+      "360°",
+      "100°"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Applying Circle Properties",
+    "complexity_score": 2
+  },
+  {
+    "question": "When measuring an angle with a protractor, what is the most important first step for accuracy?",
+    "correct": "Aligning the protractor's baseline with one arm of the angle and the center point on the vertex.",
+    "options": [
+      "Making sure the paper is flat.",
+      "Guessing the angle first.",
+      "Using a sharp pencil.",
+      "Aligning the protractor's baseline with one arm of the angle and the center point on the vertex."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Measurement Skills",
+    "complexity_score": 2
+  },
+  {
+    "question": "Based on the rule that each hour on a clock is 30°, what is the smaller angle created by the hands at 5 o'clock?",
+    "correct": "150°",
+    "options": [
+      "120°",
+      "50°",
+      "180°",
+      "150°"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Angles on a Clock",
+    "complexity_score": 2
+  },
+  {
+    "question": "A straight line forms a 180° angle. If you draw two arms, BD and BL, that form a straight line with B as the vertex, what is the measure of angle DBL?",
+    "correct": "180°",
+    "options": [
+      "90°",
+      "360°",
+      "180°",
+      "It cannot be determined."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Properties of Angles",
+    "complexity_score": 2
+  },
+  {
+    "question": "A student tries to make an 'X' with four equal angles by dividing 180° by 4. Why is this method incorrect for the angles at the center?",
+    "correct": "Because the intersecting lines form a full 360° circle at the center, not a 180° straight line.",
+    "options": [
+      "Because 180 is not evenly divisible by 4.",
+      "Because you should use a protractor, not math.",
+      "Because the letter 'X' has no angles.",
+      "Because the intersecting lines form a full 360° circle at the center, not a 180° straight line."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Problem Analysis",
     "complexity_score": 3
   },
   {
-    "question": "Imagine an angle drawn with very short arms and another angle drawn with very long arms. If both measure 30 degrees, which angle is actually bigger?",
-    "correct": "They are the same size.",
+    "question": "If the smaller angle formed by the hands of a clock at 9 o'clock is 90°, what is the measure of the larger (reflex) angle on the other side?",
+    "correct": "270°",
     "options": [
-      "The one with the long arms.",
-      "They are the same size.",
-      "The one with the short arms.",
-      "It's impossible to tell without a protractor."
+      "90°",
+      "180°",
+      "270°",
+      "360°"
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Angle Properties",
+    "topic": "Reflex Angles",
     "complexity_score": 3
   },
   {
-    "question": "You learned that a 90-degree angle can be folded in half. What is the measurement of the resulting angle?",
-    "correct": "45 degrees",
+    "question": "If you create a perfect cross shape (+) with two intersecting lines, what is the measure of each of the four angles created at the center?",
+    "correct": "90°",
     "options": [
-      "90 degrees",
-      "22.5 degrees",
-      "45 degrees",
-      "30 degrees"
+      "45°",
+      "180°",
+      "90°",
+      "60°"
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Angle Relationships",
-    "complexity_score": 2
-  },
-  {
-    "question": "You arranged the animal mouths from smallest to biggest angle. What property were you comparing?",
-    "correct": "The amount of opening between their jaws",
-    "options": [
-      "The length of their snouts",
-      "The sharpness of their teeth",
-      "The amount of opening between their jaws",
-      "The color of the animals"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Real-World Application",
-    "complexity_score": 2
-  },
-  {
-    "question": "If one ray of an angle is aligned with the baseline of a protractor, where must the counting of degrees always start?",
-    "correct": "From the 0 mark on that baseline",
-    "options": [
-      "From the 90 mark",
-      "From the 180 mark",
-      "From the 0 mark on that baseline",
-      "From the center of the protractor"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Measurement",
+    "topic": "Synthesizing Concepts",
     "complexity_score": 3
   },
   {
-    "question": "An angle is formed by the rays BA and BC. Which of the following is a correct way to name this angle?",
-    "correct": "Angle ABC",
+    "question": "A round pizza is cut into 8 perfectly equal slices. What is the angle of each slice?",
+    "correct": "45°",
     "options": [
-      "Angle ACB",
-      "Angle BAC",
-      "Angle ABC",
-      "Angle B"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Naming Angles",
-    "complexity_score": 2
-  },
-  {
-    "question": "In class, you were told that if the bigger angle around a point is 250 degrees, the smaller angle is 110 degrees. What fundamental geometric rule explains this?",
-    "correct": "The sum of angles around a single point is always 360 degrees.",
-    "options": [
-      "All angles must be less than 180 degrees.",
-      "You must always subtract 100.",
-      "The sum of angles around a single point is always 360 degrees.",
-      "Angles on a straight line add up to 250 degrees."
+      "60°",
+      "30°",
+      "45°",
+      "90°"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Angle Relationships",
-    "complexity_score": 4
+    "topic": "Extrapolating Concepts",
+    "complexity_score": 3
   },
   {
-    "question": "You measure an angle and your protractor shows two numbers: 70 and 110. If you can clearly see the angle is obtuse (greater than 90 degrees), what is the correct measurement?",
-    "correct": "110 degrees",
+    "question": "The teacher states, 'In math, we want accuracy.' Which action demonstrates this principle when working with angles?",
+    "correct": "Carefully using a protractor to find the exact degree measure.",
     "options": [
-      "70 degrees",
-      "110 degrees",
-      "180 degrees",
-      "You must add them together."
+      "Making a reasonable assumption about the angle's size.",
+      "Drawing the angle as neatly as possible without measuring.",
+      "Asking a friend what they think the angle is.",
+      "Carefully using a protractor to find the exact degree measure."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Measurement and Reasoning",
-    "complexity_score": 4
+    "topic": "Metacognition in Math",
+    "complexity_score": 3
   },
   {
-    "question": "A diagram has two adjacent angles, ∠APB and ∠BPC, sharing a vertex P. If ∠APB = 35 degrees and ∠BPC = 35 degrees, what is the total measure of the larger angle, ∠APC?",
-    "correct": "70 degrees",
+    "question": "Two angles, ∠BAC and ∠CAE, are adjacent and form a straight line. If ∠BAC is 90°, what must ∠CAE be?",
+    "correct": "90°",
     "options": [
-      "35 degrees",
-      "0 degrees",
-      "70 degrees",
-      "110 degrees"
+      "45°",
+      "180°",
+      "270°",
+      "90°"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Angle Addition",
-    "complexity_score": 4
-  },
-  {
-    "question": "A complete angle is repeatedly folded in half. What is the correct sequence of the first four angle measurements you would get?",
-    "correct": "360, 180, 90, 45",
-    "options": [
-      "360, 270, 180, 90",
-      "360, 180, 90, 45",
-      "360, 120, 60, 30",
-      "180, 90, 60, 45"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Angle Relationships",
-    "complexity_score": 5
-  },
-  {
-    "question": "You measure an angle using a protractor. The baseline arm of the angle is pointing to the left side of the protractor. What does this mean for your measurement?",
-    "correct": "You must use the scale that starts with 0 on the left side.",
-    "options": [
-      "The measurement will be negative.",
-      "You must use the scale that starts with 0 on the left side.",
-      "You must flip the protractor upside down.",
-      "The angle cannot be measured."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Measurement and Reasoning",
-    "complexity_score": 5
-  },
-  {
-    "question": "Reflecting on the class, why is saying 'the corner of a square' a good example of a 90-degree angle?",
-    "correct": "Because the two sides forming the corner are perpendicular.",
-    "options": [
-      "Because all squares have four angles.",
-      "Because the two sides forming the corner are perpendicular.",
-      "Because the sides of a square are long.",
-      "Because a square can be folded in half."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Real-World Application",
-    "complexity_score": 4
+    "topic": "Properties of Angles",
+    "complexity_score": 3
   }
 ]
