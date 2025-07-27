@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, what is the main unifying idea behind celebrating the festival of Makar Sankranti across India?",
-    "correct": "It marks the beginning of the harvest season.",
+    "question": "What is the total number of degrees in a full circle?",
+    "correct": "360 degrees",
     "options": [
-      "It is a national holiday for all citizens.",
-      "It celebrates the goddess Durga.",
-      "It marks the beginning of the harvest season.",
-      "It is the birthday of a famous king."
+      "90 degrees",
+      "180 degrees",
+      "360 degrees",
+      "100 degrees"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Festivals and Unity",
+    "topic": "Angle Basics",
     "complexity_score": 1
   },
   {
-    "question": "Which single, unstitched piece of cloth was highlighted as a 'hero' for demonstrating unity in Indian clothing?",
-    "correct": "Sari",
+    "question": "The process of dividing an angle into two perfectly equal halves is called:",
+    "correct": "Bisecting",
     "options": [
-      "Dhoti",
-      "Pagdi",
-      "Sari",
-      "Chanya Choli"
+      "Measuring",
+      "Bisecting",
+      "Intersecting",
+      "Reflecting"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Clothing and Unity",
+    "topic": "Angle Bisection",
     "complexity_score": 1
   },
   {
-    "question": "What are the two major Sanskrit epics discussed extensively in the lesson that have spread across India and Asia?",
-    "correct": "The Ramayana and the Mahabharata",
+    "question": "A clock face is a circle that is divided into how many main parts or hours?",
+    "correct": "12",
     "options": [
-      "The Panchatantra and the Vedas",
-      "The Ramayana and the Mahabharata",
-      "The Puranas and the Upanishads",
-      "The Jataka Tales and the Gita"
+      "60",
+      "4",
+      "12",
+      "24"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Epics and Cultural Spread",
+    "topic": "Real-World Angles (Clocks)",
     "complexity_score": 1
   },
   {
-    "question": "Who is the main hero of the epic Ramayana, who fights to re-establish dharma?",
-    "correct": "Rama",
+    "question": "If a line divides a 90-degree angle into two equal parts, what is the measure of each new angle?",
+    "correct": "45 degrees",
     "options": [
-      "Arjun",
-      "Hanuman",
-      "Ravana",
-      "Rama"
+      "90 degrees",
+      "30 degrees",
+      "45 degrees",
+      "180 degrees"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Epics and Heroes",
+    "topic": "Angle Bisection",
     "complexity_score": 1
   },
   {
-    "question": "The lesson mentioned the 'People of India' project. Which organization conducted this survey?",
-    "correct": "The Anthropological Survey of India",
+    "question": "In the lesson, the teacher explained that the prefix 'bi-' in 'bisect' means:",
+    "correct": "Two",
     "options": [
-      "The Historical Society of India",
-      "The National Geographic Society",
-      "The Anthropological Survey of India",
-      "The Ministry of Culture"
+      "Half",
+      "Angle",
+      "Two",
+      "Line"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Research and Surveys",
+    "topic": "Vocabulary",
     "complexity_score": 1
   },
   {
-    "question": "In the lesson, what does the term 'folk versions' of an epic refer to?",
-    "correct": "Orally transmitted, community-specific variations of the main story.",
+    "question": "A line that perfectly divides an angle into two equal halves is called a(n):",
+    "correct": "Bisector",
     "options": [
-      "The original, ancient written texts.",
-      "Official government-approved translations.",
-      "Orally transmitted, community-specific variations of the main story.",
-      "Movie and television adaptations of the stories."
+      "Engineer",
+      "Divider",
+      "Bisector",
+      "Vertex"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Folklore and Oral Tradition",
+    "topic": "Vocabulary",
     "complexity_score": 1
   },
   {
-    "question": "The lesson highlighted that staples like rice, wheat, and jowar are common across India. What larger concept does this fact support?",
-    "correct": "An underlying unity exists despite diverse regional cuisines.",
+    "question": "Based on the calculation in class, what is the angle between any two consecutive numbers on a clock face (e.g., between 2 and 3)?",
+    "correct": "30 degrees",
     "options": [
-      "That all Indian food tastes the same.",
-      "That India has limited agricultural options.",
-      "An underlying unity exists despite diverse regional cuisines.",
-      "That foreign foods are not popular in India."
+      "15 degrees",
+      "30 degrees",
+      "60 degrees",
+      "12 degrees"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Unity in Diversity - Food",
+    "topic": "Real-World Angles (Clocks)",
     "complexity_score": 2
   },
   {
-    "question": "What is the common purpose of the heroes in both the Ramayana and the Mahabharata?",
-    "correct": "To fight battles to re-establish dharma (what is right).",
+    "question": "If a pizza is cut into 6 equal slices, what is the angle of a single slice?",
+    "correct": "60 degrees",
     "options": [
-      "To become the wealthiest kings in the land.",
-      "To conquer as many neighboring countries as possible.",
-      "To build the largest temples for the gods.",
-      "To fight battles to re-establish dharma (what is right)."
+      "30 degrees",
+      "90 degrees",
+      "60 degrees",
+      "36 degrees"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Epics and Core Messages",
+    "topic": "Real-World Angles (Pizza)",
     "complexity_score": 2
   },
   {
-    "question": "The lesson mentioned tribal communities like the Beals, Gonds, and Mundas. What is a common practice among these communities regarding the great epics?",
-    "correct": "Creating their own versions and legends connecting the epic heroes to their own history.",
+    "question": "What is the angle formed by the hands of a clock at exactly 5 o'clock?",
+    "correct": "150 degrees",
     "options": [
-      "Rejecting the epics as foreign stories.",
-      "Translating the epics into English for tourists.",
-      "Creating their own versions and legends connecting the epic heroes to their own history.",
-      "Only reading the exact original Sanskrit versions."
+      "120 degrees",
+      "50 degrees",
+      "150 degrees",
+      "180 degrees"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Tribal Communities and Epics",
+    "topic": "Real-World Angles (Clocks)",
     "complexity_score": 2
   },
   {
-    "question": "The 'People of India' project discovered that according to folklore, the Pandavas had visited nearly every part of the country. What does this finding suggest?",
-    "correct": "That many communities wanted to feel a direct connection to the epic's narrative.",
+    "question": "When drawing the letter 'K' so that the three angles on one side of the vertical line are equal, you need to divide which total angle by 3?",
+    "correct": "180 degrees",
     "options": [
-      "That the Pandavas were the greatest explorers in history.",
-      "That the Mahabharata is historically accurate in every detail.",
-      "That the Pandavas were searching for a specific hidden treasure.",
-      "That many communities wanted to feel a direct connection to the epic's narrative."
+      "90 degrees",
+      "360 degrees",
+      "180 degrees",
+      "120 degrees"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Folklore Analysis",
+    "topic": "Applying Angle Concepts",
     "complexity_score": 2
   },
   {
-    "question": "How were the stories and values of the Ramayana and Mahabharata primarily transmitted orally by tribal communities?",
-    "correct": "They were passed down by speaking and telling stories, not through written books.",
+    "question": "The teacher stressed that in mathematics, unlike guessing, we need:",
+    "correct": "Accuracy",
     "options": [
-      "They were carved into stone tablets for everyone to see.",
-      "They were passed down by speaking and telling stories, not through written books.",
-      "They were sent through letters to neighboring villages.",
-      "They were performed exclusively as silent plays."
+      "Speed",
+      "Assumptions",
+      "Accuracy",
+      "Opinions"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Oral Tradition",
+    "topic": "Metacognition in Math",
     "complexity_score": 2
   },
   {
-    "question": "The lesson describes the epics as creating a 'dense web of cultural intersections'. What is the best meaning of this phrase?",
-    "correct": "The stories connected different cultures and communities through shared values and characters.",
+    "question": "When using a protractor, what part of the angle should be placed on the center point of the protractor?",
+    "correct": "The vertex",
     "options": [
-      "The stories caused confusion and arguments between different cultures.",
-      "The stories were so complex that they were difficult to understand.",
-      "The stories described the trading of spider webs across Asia.",
-      "The stories connected different cultures and communities through shared values and characters."
+      "The longest arm",
+      "The vertex",
+      "The endpoint of an arm",
+      "The angle's label"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cultural Spread",
+    "topic": "Tools and Measurement",
     "complexity_score": 2
   },
   {
-    "question": "In the Mahabharata, the Pandavas fight their own cousins, the Kauravas. This detail primarily asks the reader to consider questions about...",
-    "correct": "What is right and wrong, even within a family.",
+    "question": "An angle that measures exactly 180 degrees is called a:",
+    "correct": "Straight angle",
     "options": [
-      "The best strategies for winning a war.",
-      "What is right and wrong, even within a family.",
-      "The geography of ancient India.",
-      "The importance of respecting elders no matter what."
+      "Right angle",
+      "Acute angle",
+      "Full angle",
+      "Straight angle"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Moral Questions in Epics",
+    "topic": "Angle Types",
     "complexity_score": 2
   },
   {
-    "question": "Even though there are thousands of versions of the Ramayana, what is most likely to remain the same across all of them?",
-    "correct": "The core messages about values and how one should live.",
+    "question": "If a line bisects a straight angle (180 degrees), what two angles does it create?",
+    "correct": "Two 90-degree angles",
     "options": [
-      "The exact sequence of every event in the story.",
-      "The core messages about values and how one should live.",
-      "The specific location from which Rama came.",
-      "The idea that Hanuman is the main villain."
+      "Two 45-degree angles",
+      "Two 180-degree angles",
+      "Two 90-degree angles",
+      "Two 60-degree angles"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Unity within Diversity of Epics",
+    "topic": "Angle Bisection",
     "complexity_score": 2
   },
   {
-    "question": "The lesson concludes that 'Indian culture celebrates diversity as an enrichment.' How does this contrast with the viewpoint of some other historical rulers or cultures?",
-    "correct": "They viewed diversity as a threat to unity and tried to make everyone the same.",
+    "question": "In the task to draw an 'X' with four equal angles, the student first tried to divide 180° by 4. Why was this approach incorrect?",
+    "correct": "Because the angles around the center of an 'X' form a full 360° circle.",
     "options": [
-      "They also celebrated diversity by inviting people from all over the world.",
-      "They were indifferent to diversity and didn't care about cultural differences.",
-      "They believed diversity was only important for food, not for people.",
-      "They viewed diversity as a threat to unity and tried to make everyone the same."
+      "Because an 'X' only has two angles.",
+      "Because 180 divided by 4 is not a whole number.",
+      "Because the lines in an 'X' are parallel.",
+      "Because the angles around the center of an 'X' form a full 360° circle."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cultural Philosophy",
+    "topic": "Problem Analysis",
     "complexity_score": 3
   },
   {
-    "question": "The teacher compared the spread of epics to modern social media trends. What is the fundamental process being compared?",
-    "correct": "The transmission of cultural ideas and norms across large populations.",
+    "question": "At 9 o'clock, the smaller angle between the clock hands is 90°. What is the measure of the larger, reflex angle?",
+    "correct": "270 degrees",
     "options": [
-      "The speed at which information travels.",
-      "The technology used for communication.",
-      "The type of people who become famous.",
-      "The transmission of cultural ideas and norms across large populations."
+      "180 degrees",
+      "90 degrees",
+      "360 degrees",
+      "270 degrees"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analytical Comparison",
+    "topic": "Reflex Angles",
     "complexity_score": 3
   },
   {
-    "question": "Why is the existence of countless 'folk versions' of the epics a powerful example of 'Unity in Diversity'?",
-    "correct": "It shows that diverse communities adapted a shared story to fit their unique identity, strengthening both.",
+    "question": "In the homemade protractor activity, folding a semi-circle (180°) made a 90° angle. If you folded that 90° angle in half again, what angle would you mark?",
+    "correct": "45 degrees",
     "options": [
-      "It proves that the original story was not very good and needed to be changed.",
-      "It shows a lack of unity, as everyone had a different story.",
-      "It suggests that people in the past had poor memories.",
-      "It shows that diverse communities adapted a shared story to fit their unique identity, strengthening both."
+      "22.5 degrees",
+      "45 degrees",
+      "90 degrees",
+      "30 degrees"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Synthesis of Concepts",
+    "topic": "Geometric Construction",
     "complexity_score": 3
   },
   {
-    "question": "The lesson states that the epics provide 'a dense web of cultural intersections'. Based on this, what might you expect to find in a country like Indonesia or Thailand?",
-    "correct": "Art, names, or local stories that show influence from the Ramayana or Mahabharata.",
+    "question": "If two lines intersect to form an 'X', and one of the angles is 80°, what is the measure of the angle immediately next to it (adjacent)?",
+    "correct": "100 degrees",
     "options": [
-      "People speaking the same Indian languages as their primary language.",
-      "A population that exclusively eats Indian food.",
-      "The exact same political system as India.",
-      "Art, names, or local stories that show influence from the Ramayana or Mahabharata."
+      "80 degrees",
+      "100 degrees",
+      "280 degrees",
+      "10 degrees"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cultural Influence Application",
+    "topic": "Adjacent Angles",
     "complexity_score": 3
   },
   {
-    "question": "The final message of the chapter is that there is an 'underlying unity which nourishes the diversity.' How do the epics exemplify this principle?",
-    "correct": "They act as a common cultural root that provides shared values to many different branches of society.",
+    "question": "At what time do the hands of a clock form a 180-degree angle?",
+    "correct": "6 o'clock",
     "options": [
-      "They encourage diverse groups to fight each other, as in the Mahabharata.",
-      "They are so diverse that they have no single unifying message.",
-      "They act as a common cultural root that provides shared values to many different branches of society.",
-      "They were written in so many languages that they nourished the creation of new alphabets."
+      "3 o'clock",
+      "12 o'clock",
+      "6 o'clock",
+      "9 o'clock"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Core Theme Analysis",
+    "topic": "Real-World Angles (Clocks)",
     "complexity_score": 3
   },
   {
-    "question": "If an archaeologist found a site in southern India with legends connecting it to the Pandavas, what would K.S. Singh's 'People of India' project suggest this signifies?",
-    "correct": "It is another example of a local community integrating its history with the pan-Indian epic narrative.",
+    "question": "A pizza is cut into 12 equal slices. If you eat 5 slices, what is the total angle of the portion you ate?",
+    "correct": "150 degrees",
     "options": [
-      "It is definitive proof that the Pandavas lived there.",
-      "It means the people in the south had a different version of the Mahabharata.",
-      "It is an anomaly because the Pandavas were from the north.",
-      "It is another example of a local community integrating its history with the pan-Indian epic narrative."
+      "120 degrees",
+      "150 degrees",
+      "90 degrees",
+      "180 degrees"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Critical Application of Theory",
+    "topic": "Multi-step Problems",
     "complexity_score": 3
   }
 ]
