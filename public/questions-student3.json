@@ -3,24 +3,24 @@
     "question": "What is the total number of degrees in a full circle?",
     "correct": "360 degrees",
     "options": [
-      "90 degrees",
       "180 degrees",
+      "90 degrees",
       "360 degrees",
       "100 degrees"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Angle Basics",
+    "topic": "Circle Geometry",
     "complexity_score": 1
   },
   {
-    "question": "The process of dividing an angle into two perfectly equal halves is called:",
-    "correct": "Bisecting",
+    "question": "What is the process of dividing an angle into two equal halves called?",
+    "correct": "Bisecting an angle",
     "options": [
-      "Measuring",
-      "Bisecting",
-      "Intersecting",
-      "Reflecting"
+      "Measuring an angle",
+      "Creating an angle",
+      "Bisecting an angle",
+      "Intersecting an angle"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -28,91 +28,77 @@
     "complexity_score": 1
   },
   {
-    "question": "A clock face is a circle that is divided into how many main parts or hours?",
-    "correct": "12",
-    "options": [
-      "60",
-      "4",
-      "12",
-      "24"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Real-World Angles (Clocks)",
-    "complexity_score": 1
-  },
-  {
-    "question": "If a line divides a 90-degree angle into two equal parts, what is the measure of each new angle?",
-    "correct": "45 degrees",
-    "options": [
-      "90 degrees",
-      "30 degrees",
-      "45 degrees",
-      "180 degrees"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Angle Bisection",
-    "complexity_score": 1
-  },
-  {
-    "question": "In the lesson, the teacher explained that the prefix 'bi-' in 'bisect' means:",
-    "correct": "Two",
-    "options": [
-      "Half",
-      "Angle",
-      "Two",
-      "Line"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 1
-  },
-  {
-    "question": "A line that perfectly divides an angle into two equal halves is called a(n):",
-    "correct": "Bisector",
-    "options": [
-      "Engineer",
-      "Divider",
-      "Bisector",
-      "Vertex"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Vocabulary",
-    "complexity_score": 1
-  },
-  {
-    "question": "Based on the calculation in class, what is the angle between any two consecutive numbers on a clock face (e.g., between 2 and 3)?",
+    "question": "A clock face is a full circle divided into 12 parts. What is the angle between each part (e.g., between the 12 and the 1)?",
     "correct": "30 degrees",
     "options": [
-      "15 degrees",
-      "30 degrees",
+      "12 degrees",
       "60 degrees",
-      "12 degrees"
+      "30 degrees",
+      "90 degrees"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "questionType": "mcq",
     "topic": "Real-World Angles (Clocks)",
-    "complexity_score": 2
+    "complexity_score": 1
   },
   {
-    "question": "If a pizza is cut into 6 equal slices, what is the angle of a single slice?",
-    "correct": "60 degrees",
+    "question": "A line that divides an angle into two equal parts is called a...",
+    "correct": "Bisector",
     "options": [
-      "30 degrees",
+      "Protractor",
+      "Vertex",
+      "Bisector",
+      "Arm"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Angle Bisection",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many degrees are in a straight angle, like a straight line?",
+    "correct": "180 degrees",
+    "options": [
+      "360 degrees",
+      "180 degrees",
       "90 degrees",
-      "60 degrees",
-      "36 degrees"
+      "270 degrees"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Angle Types",
+    "complexity_score": 1
+  },
+  {
+    "question": "In the phrase 'angle BAC', which letter represents the vertex of the angle?",
+    "correct": "A",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "BAC"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Naming Angles",
+    "complexity_score": 1
+  },
+  {
+    "question": "If you bisect a 90-degree angle, what two angles do you create?",
+    "correct": "Two 45-degree angles",
+    "options": [
+      "Two 90-degree angles",
+      "Two 30-degree angles",
+      "Two 45-degree angles",
+      "One 180-degree angle"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Real-World Angles (Pizza)",
+    "topic": "Angle Bisection",
     "complexity_score": 2
   },
   {
-    "question": "What is the angle formed by the hands of a clock at exactly 5 o'clock?",
+    "question": "What angle do the hands of a clock make at 5 o'clock?",
     "correct": "150 degrees",
     "options": [
       "120 degrees",
@@ -126,69 +112,41 @@
     "complexity_score": 2
   },
   {
-    "question": "When drawing the letter 'K' so that the three angles on one side of the vertical line are equal, you need to divide which total angle by 3?",
-    "correct": "180 degrees",
+    "question": "If you cut a circular pizza into 6 equal slices, what is the angle of each slice?",
+    "correct": "60 degrees",
     "options": [
+      "30 degrees",
       "90 degrees",
-      "360 degrees",
+      "60 degrees",
+      "180 degrees"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Real-World Angles (Pizza)",
+    "complexity_score": 2
+  },
+  {
+    "question": "When making the letter 'X' with two perpendicular lines, what is the measure of each of the four angles created at the center?",
+    "correct": "90 degrees",
+    "options": [
+      "45 degrees",
       "180 degrees",
-      "120 degrees"
+      "90 degrees",
+      "360 degrees"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Applying Angle Concepts",
+    "topic": "Applying Geometry",
     "complexity_score": 2
   },
   {
-    "question": "The teacher stressed that in mathematics, unlike guessing, we need:",
-    "correct": "Accuracy",
+    "question": "If you bisect an angle that measures 110 degrees, what will be the measure of each new angle?",
+    "correct": "55 degrees",
     "options": [
-      "Speed",
-      "Assumptions",
-      "Accuracy",
-      "Opinions"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Metacognition in Math",
-    "complexity_score": 2
-  },
-  {
-    "question": "When using a protractor, what part of the angle should be placed on the center point of the protractor?",
-    "correct": "The vertex",
-    "options": [
-      "The longest arm",
-      "The vertex",
-      "The endpoint of an arm",
-      "The angle's label"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Tools and Measurement",
-    "complexity_score": 2
-  },
-  {
-    "question": "An angle that measures exactly 180 degrees is called a:",
-    "correct": "Straight angle",
-    "options": [
-      "Right angle",
-      "Acute angle",
-      "Full angle",
-      "Straight angle"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Angle Types",
-    "complexity_score": 2
-  },
-  {
-    "question": "If a line bisects a straight angle (180 degrees), what two angles does it create?",
-    "correct": "Two 90-degree angles",
-    "options": [
-      "Two 45-degree angles",
-      "Two 180-degree angles",
-      "Two 90-degree angles",
-      "Two 60-degree angles"
+      "110 degrees",
+      "55 degrees",
+      "60 degrees",
+      "220 degrees"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -196,27 +154,69 @@
     "complexity_score": 2
   },
   {
-    "question": "In the task to draw an 'X' with four equal angles, the student first tried to divide 180° by 4. Why was this approach incorrect?",
-    "correct": "Because the angles around the center of an 'X' form a full 360° circle.",
+    "question": "When measuring an angle with a protractor, what is the most important first step?",
+    "correct": "Align the vertex of the angle with the center point of the protractor and the baseline with one arm.",
     "options": [
-      "Because an 'X' only has two angles.",
-      "Because 180 divided by 4 is not a whole number.",
-      "Because the lines in an 'X' are parallel.",
-      "Because the angles around the center of an 'X' form a full 360° circle."
+      "Make sure the paper is straight.",
+      "Look at the 90-degree mark first.",
+      "Align the vertex of the angle with the center point of the protractor and the baseline with one arm.",
+      "Choose the biggest number on the protractor."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Using a Protractor",
+    "complexity_score": 2
+  },
+  {
+    "question": "The activity of folding a half-circle piece of paper in half creates what angle?",
+    "correct": "90 degrees",
+    "options": [
+      "45 degrees",
+      "180 degrees",
+      "90 degrees",
+      "360 degrees"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Applying Geometry",
+    "complexity_score": 2
+  },
+  {
+    "question": "What angle do the hands of a clock make at 9 o'clock?",
+    "correct": "90 degrees",
+    "options": [
+      "180 degrees",
+      "270 degrees",
+      "90 degrees",
+      "30 degrees"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Real-World Angles (Clocks)",
+    "complexity_score": 2
+  },
+  {
+    "question": "A student tried to find the angles in the letter 'X' by dividing 180 by 4. Why was this approach incorrect?",
+    "correct": "Because the angles in an 'X' form a full circle (360°), not a half circle (180°).",
+    "options": [
+      "Because they should have multiplied by 4, not divided.",
+      "Because the angles in an 'X' are not equal.",
+      "Because the letter 'X' has no angles.",
+      "Because the angles in an 'X' form a full circle (360°), not a half circle (180°)."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Problem Analysis",
+    "topic": "Analytical Thinking",
     "complexity_score": 3
   },
   {
-    "question": "At 9 o'clock, the smaller angle between the clock hands is 90°. What is the measure of the larger, reflex angle?",
+    "question": "At 9 o'clock, the smaller angle between the clock hands is 90 degrees. What is the measure of the larger, reflex angle on the outside?",
     "correct": "270 degrees",
     "options": [
-      "180 degrees",
       "90 degrees",
-      "360 degrees",
-      "270 degrees"
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
@@ -224,41 +224,41 @@
     "complexity_score": 3
   },
   {
-    "question": "In the homemade protractor activity, folding a semi-circle (180°) made a 90° angle. If you folded that 90° angle in half again, what angle would you mark?",
+    "question": "In the diagram of the letter 'X' with vertex A and points B, C, D, E on the arms, if angle BAC is 90°, what would be the measure of the reflex angle CAB?",
+    "correct": "270 degrees",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "It's the same as angle BAC."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Reflex Angles",
+    "complexity_score": 3
+  },
+  {
+    "question": "If a pizza is cut into 4 equal slices, and then each of those slices is bisected, what is the angle of the final, smallest slices?",
     "correct": "45 degrees",
     "options": [
-      "22.5 degrees",
-      "45 degrees",
       "90 degrees",
-      "30 degrees"
+      "30 degrees",
+      "45 degrees",
+      "60 degrees"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Geometric Construction",
+    "topic": "Multi-step Problem Solving",
     "complexity_score": 3
   },
   {
-    "question": "If two lines intersect to form an 'X', and one of the angles is 80°, what is the measure of the angle immediately next to it (adjacent)?",
-    "correct": "100 degrees",
+    "question": "At 11 o'clock, the larger angle between the hands is 330 degrees. What is the smaller angle?",
+    "correct": "30 degrees",
     "options": [
-      "80 degrees",
-      "100 degrees",
-      "280 degrees",
-      "10 degrees"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Adjacent Angles",
-    "complexity_score": 3
-  },
-  {
-    "question": "At what time do the hands of a clock form a 180-degree angle?",
-    "correct": "6 o'clock",
-    "options": [
-      "3 o'clock",
-      "12 o'clock",
-      "6 o'clock",
-      "9 o'clock"
+      "11 degrees",
+      "60 degrees",
+      "30 degrees",
+      "110 degrees"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
@@ -266,17 +266,17 @@
     "complexity_score": 3
   },
   {
-    "question": "A pizza is cut into 12 equal slices. If you eat 5 slices, what is the total angle of the portion you ate?",
-    "correct": "150 degrees",
+    "question": "The sum of all the angles around the central vertex of the letter 'K' that you drew is:",
+    "correct": "Less than 360 degrees",
     "options": [
-      "120 degrees",
-      "150 degrees",
-      "90 degrees",
-      "180 degrees"
+      "Exactly 360 degrees",
+      "Exactly 180 degrees",
+      "Less than 360 degrees",
+      "It is impossible to tell."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Multi-step Problems",
+    "topic": "Analytical Thinking",
     "complexity_score": 3
   }
 ]
