@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the total number of degrees in a full circle?",
-    "correct": "360°",
+    "question": "What is the primary meaning of 'classification' as discussed in the lesson?",
+    "correct": "Creating categories and grouping similar objects together.",
     "options": [
-      "90°",
-      "180°",
-      "360°",
-      "100°"
+      "Making objects look more stylish and fancy.",
+      "Studying the history of different materials.",
+      "Creating categories and grouping similar objects together.",
+      "Listing all objects in alphabetical order."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Properties of Circles",
+    "topic": "Classification",
     "complexity_score": 1
   },
   {
-    "question": "The process of dividing an angle into two perfectly equal smaller angles is called:",
-    "correct": "Bisecting an angle",
+    "question": "Which term describes a material that has a natural shine, like steel or gold?",
+    "correct": "Lustrous",
     "options": [
-      "Measuring an angle",
-      "Creating an angle",
-      "Bisecting an angle",
-      "Folding an angle"
+      "Soluble",
+      "Texture",
+      "Lustrous",
+      "Non-lustrous"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Angle Bisection",
+    "topic": "Properties of Materials - Appearance",
     "complexity_score": 1
   },
   {
-    "question": "A line that divides an angle into two equal halves is called a:",
-    "correct": "Bisector",
+    "question": "According to the lesson, materials that can be easily compressed are called...",
+    "correct": "Soft",
     "options": [
-      "Protractor",
-      "Vertex",
-      "Ruler",
-      "Bisector"
+      "Hard",
+      "Dense",
+      "Soft",
+      "Insoluble"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geometric Terminology",
+    "topic": "Properties of Materials - Texture",
     "complexity_score": 1
   },
   {
-    "question": "If you bisect a 90° angle, what will be the measure of the two new angles?",
-    "correct": "45° and 45°",
+    "question": "What are liquids, like milk and water, that can mix together completely called?",
+    "correct": "Miscible liquids",
     "options": [
-      "90° and 90°",
-      "45° and 45°",
-      "30° and 60°",
-      "50° and 40°"
+      "Immiscible liquids",
+      "Soluble liquids",
+      "Miscible liquids",
+      "Lustrous liquids"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Angle Bisection",
+    "topic": "Properties of Materials - Solubility",
     "complexity_score": 1
   },
   {
-    "question": "A clock face is a full circle. How many equal parts is it divided into for the hours?",
-    "correct": "12",
+    "question": "Which of these is a key advantage of classification mentioned in the class?",
+    "correct": "It helps in the identification and location of things.",
     "options": [
-      "4",
-      "60",
-      "12",
-      "24"
+      "It makes objects heavier.",
+      "It changes the color of materials.",
+      "It helps in the identification and location of things.",
+      "It combines all materials into one."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Real-World Angles",
+    "topic": "Classification",
     "complexity_score": 1
   },
   {
-    "question": "What does the prefix 'bi-' in 'bisect' mean?",
-    "correct": "Two",
+    "question": "A material that does not shine, such as wood or rubber, is described as...",
+    "correct": "Non-lustrous",
     "options": [
-      "Angle",
-      "Half",
-      "Two",
-      "Cut"
+      "Lustrous",
+      "Hard",
+      "Miscible",
+      "Non-lustrous"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geometric Terminology",
+    "topic": "Properties of Materials - Appearance",
     "complexity_score": 1
   },
   {
-    "question": "If a 110° angle is bisected, what will be the measure of each of the two resulting angles?",
-    "correct": "55°",
+    "question": "Why is a library used as a great example of classification?",
+    "correct": "Because it allows thousands of books to be sorted and found easily.",
     "options": [
-      "110°",
-      "50°",
-      "55°",
-      "60°"
+      "Because all library books are made of the same material.",
+      "Because libraries are always shiny and lustrous.",
+      "Because it allows thousands of books to be sorted and found easily.",
+      "Because books in a library cannot be compressed."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Applying Bisection",
+    "topic": "Classification",
     "complexity_score": 2
   },
   {
-    "question": "A clock is a 360° circle divided into 12 hours. What is the angle between each consecutive hour mark (e.g., between the 1 and the 2)?",
-    "correct": "30°",
+    "question": "Based on the lesson, why are most cooking vessels made of steel and not paper?",
+    "correct": "Steel allows heat to pass through it, while paper would catch fire.",
     "options": [
-      "12°",
-      "30°",
-      "60°",
-      "15°"
+      "Steel is shinier and looks better in the kitchen.",
+      "Paper is too soft to hold food.",
+      "Steel allows heat to pass through it, while paper would catch fire.",
+      "Steel is insoluble in water, but paper is soluble."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Angles on a Clock",
+    "topic": "Properties and Purpose",
     "complexity_score": 2
   },
   {
-    "question": "What is the smaller angle formed by the hands of a clock at 3 o'clock?",
-    "correct": "90°",
+    "question": "A student organizes their computer files into folders named 'School', 'Games', and 'Pictures'. Which scientific principle from the lesson are they applying?",
+    "correct": "Classification",
     "options": [
-      "30°",
-      "60°",
-      "180°",
-      "90°"
+      "Lustre",
+      "Solubility",
+      "Classification",
+      "Density"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Angles on a Clock",
+    "topic": "Classification",
     "complexity_score": 2
   },
   {
-    "question": "If you cut a round pizza into 6 perfectly equal slices, what is the angle of the point of each slice?",
-    "correct": "60°",
+    "question": "If you mix cooking oil and water together in a glass, they quickly separate into two distinct layers. This demonstrates that they are...",
+    "correct": "Immiscible liquids",
     "options": [
-      "30°",
-      "90°",
-      "60°",
-      "180°"
+      "Miscible liquids",
+      "Soluble materials",
+      "Soft materials",
+      "Immiscible liquids"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Real-World Angles",
+    "topic": "Properties of Materials - Solubility",
     "complexity_score": 2
   },
   {
-    "question": "To draw the letter 'X' with four equal angles at its center, you should divide which value by 4?",
-    "correct": "360°",
+    "question": "A t-shirt is made from cotton fabric and has plastic buttons. What important idea about objects does this example show?",
+    "correct": "An object can be made from different materials.",
     "options": [
-      "180°",
-      "90°",
-      "360°",
-      "100°"
+      "All materials are soft.",
+      "Many objects can be made from the same material.",
+      "An object can be made from different materials.",
+      "All materials are non-lustrous."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Applying Circle Properties",
+    "topic": "Objects and Materials",
     "complexity_score": 2
   },
   {
-    "question": "When measuring an angle with a protractor, what is the most important first step for accuracy?",
-    "correct": "Aligning the protractor's baseline with one arm of the angle and the center point on the vertex.",
+    "question": "The lesson mentioned that a chair for a hospital patient might be made of plastic. Why would this be a better choice than a chair made of cloth?",
+    "correct": "Because plastic is non-porous and easier to clean regularly.",
     "options": [
-      "Making sure the paper is flat.",
-      "Guessing the angle first.",
-      "Using a sharp pencil.",
-      "Aligning the protractor's baseline with one arm of the angle and the center point on the vertex."
+      "Because plastic is more lustrous than cloth.",
+      "Because cloth is harder than plastic.",
+      "Because plastic is non-porous and easier to clean regularly.",
+      "Because plastic is always transparent."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Measurement Skills",
+    "topic": "Properties and Purpose",
     "complexity_score": 2
   },
   {
-    "question": "Based on the rule that each hour on a clock is 30°, what is the smaller angle created by the hands at 5 o'clock?",
-    "correct": "150°",
+    "question": "If you try to dissolve sand in water and it just sinks to the bottom without mixing, what property is the sand demonstrating?",
+    "correct": "Insolubility",
     "options": [
-      "120°",
-      "50°",
-      "180°",
-      "150°"
+      "Hardness",
+      "Lustre",
+      "Insolubility",
+      "Softness"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Angles on a Clock",
+    "topic": "Properties of Materials - Solubility",
     "complexity_score": 2
   },
   {
-    "question": "A straight line forms a 180° angle. If you draw two arms, BD and BL, that form a straight line with B as the vertex, what is the measure of angle DBL?",
-    "correct": "180°",
+    "question": "The lesson pointed out that both wood and rubber have a common property. What is it?",
+    "correct": "They are both non-lustrous.",
     "options": [
-      "90°",
-      "360°",
-      "180°",
-      "It cannot be determined."
+      "They are both very soft.",
+      "They are both soluble in water.",
+      "They both have a shiny appearance.",
+      "They are both non-lustrous."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Properties of Angles",
+    "topic": "Properties of Materials - Appearance",
     "complexity_score": 2
   },
   {
-    "question": "A student tries to make an 'X' with four equal angles by dividing 180° by 4. Why is this method incorrect for the angles at the center?",
-    "correct": "Because the intersecting lines form a full 360° circle at the center, not a 180° straight line.",
+    "question": "What are the two most important things to consider when choosing a material to make a specific object, according to the class discussion?",
+    "correct": "The properties of the material and the purpose of the object.",
     "options": [
-      "Because 180 is not evenly divisible by 4.",
-      "Because you should use a protractor, not math.",
-      "Because the letter 'X' has no angles.",
-      "Because the intersecting lines form a full 360° circle at the center, not a 180° straight line."
+      "The color of the material and its weight.",
+      "The properties of the material and the purpose of the object.",
+      "The name of the material and the country it comes from.",
+      "The cost of the material and its shininess."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Problem Analysis",
+    "topic": "Properties and Purpose",
     "complexity_score": 3
   },
   {
-    "question": "If the smaller angle formed by the hands of a clock at 9 o'clock is 90°, what is the measure of the larger (reflex) angle on the other side?",
-    "correct": "270°",
+    "question": "The teacher organized books first by subject (e.g., Math, Science) and then alphabetically by title. What does this multi-level organization demonstrate?",
+    "correct": "Classification can have multiple layers for more precise sorting.",
     "options": [
-      "90°",
-      "180°",
-      "270°",
-      "360°"
+      "Alphabetical order is the only way to classify things.",
+      "All science books are more important than math books.",
+      "Classification can have multiple layers for more precise sorting.",
+      "Classification only works for non-lustrous objects."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Reflex Angles",
+    "topic": "Classification",
     "complexity_score": 3
   },
   {
-    "question": "If you create a perfect cross shape (+) with two intersecting lines, what is the measure of each of the four angles created at the center?",
-    "correct": "90°",
+    "question": "The teacher explained that gold looks different from copper because 'gold is gold and copper is copper.' What fundamental idea does this convey?",
+    "correct": "That each material has its own unique, inherent nature and properties.",
     "options": [
-      "45°",
-      "180°",
-      "90°",
-      "60°"
+      "That the use of a material determines its appearance.",
+      "That gold and copper are actually the same material.",
+      "That all lustrous materials look identical.",
+      "That each material has its own unique, inherent nature and properties."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Synthesizing Concepts",
+    "topic": "Objects and Materials",
     "complexity_score": 3
   },
   {
-    "question": "A round pizza is cut into 8 perfectly equal slices. What is the angle of each slice?",
-    "correct": "45°",
+    "question": "A new object is discovered. It is dull, cannot be compressed, and does not dissolve in water. How would you describe its properties based on the lesson's terms?",
+    "correct": "Non-lustrous, hard, and insoluble.",
     "options": [
-      "60°",
-      "30°",
-      "45°",
-      "90°"
+      "Lustrous, soft, and soluble.",
+      "Non-lustrous, hard, and insoluble.",
+      "Lustrous, hard, and miscible.",
+      "Non-lustrous, soft, and immiscible."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Extrapolating Concepts",
+    "topic": "Properties of Materials",
     "complexity_score": 3
   },
   {
-    "question": "The teacher states, 'In math, we want accuracy.' Which action demonstrates this principle when working with angles?",
-    "correct": "Carefully using a protractor to find the exact degree measure.",
+    "question": "If you needed to build a strong, waterproof shelter, which property of a material would be LEAST important to consider from the list discussed?",
+    "correct": "Lustre (whether it's shiny or not).",
     "options": [
-      "Making a reasonable assumption about the angle's size.",
-      "Drawing the angle as neatly as possible without measuring.",
-      "Asking a friend what they think the angle is.",
-      "Carefully using a protractor to find the exact degree measure."
+      "Hardness (its ability to resist compression).",
+      "Solubility (whether it dissolves in water).",
+      "Lustre (whether it's shiny or not).",
+      "Texture (whether it's hard or soft)."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition in Math",
+    "topic": "Properties and Purpose",
     "complexity_score": 3
   },
   {
-    "question": "Two angles, ∠BAC and ∠CAE, are adjacent and form a straight line. If ∠BAC is 90°, what must ∠CAE be?",
-    "correct": "90°",
+    "question": "Imagine you are an inventor. Why is understanding the properties of materials essential BEFORE you start building something new?",
+    "correct": "To ensure the chosen material can successfully perform the intended function of the object.",
     "options": [
-      "45°",
-      "180°",
-      "270°",
-      "90°"
+      "Because all new inventions must be shiny.",
+      "To make sure the invention is easy to classify in a library.",
+      "Because the purpose of an object changes its material properties.",
+      "To ensure the chosen material can successfully perform the intended function of the object."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Properties of Angles",
+    "topic": "Properties and Purpose",
     "complexity_score": 3
   }
 ]
