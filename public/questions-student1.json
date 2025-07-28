@@ -1,282 +1,282 @@
 [
   {
-    "question": "Which word correctly completes the sentence: 'She ___ not write my name when she is the monitor.'?",
-    "correct": "does",
+    "question": "What is the primary meaning of 'classification' as discussed in the lesson?",
+    "correct": "Creating categories and grouping similar objects",
     "options": [
-      "do",
-      "is",
-      "does",
-      "don't"
+      "Naming every object individually",
+      "Making all objects look the same",
+      "Creating categories and grouping similar objects",
+      "Finding the location of a single item"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English Grammar - Subject-Verb Agreement",
+    "topic": "Advantages of Classification",
     "complexity_score": 1
   },
   {
-    "question": "What is the official reference point for measuring longitude, also called the 'Greenwich Meridian'?",
-    "correct": "The Prime Meridian",
+    "question": "Which of the following is an example of a 'lustrous' material mentioned in class?",
+    "correct": "Steel",
     "options": [
-      "The Equator",
-      "The International Date Line",
-      "The Prime Meridian",
-      "The North Pole"
+      "Wood",
+      "Paper",
+      "Steel",
+      "Rubber"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geography - Longitude",
+    "topic": "Properties of Materials: Appearance",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence gives a general suggestion or advice?",
-    "correct": "You should visit the doctor.",
+    "question": "A material that can be easily compressed, like a cotton ball, is described as:",
+    "correct": "Soft",
     "options": [
-      "You must visit the doctor.",
-      "You can visit the doctor.",
-      "You should visit the doctor.",
-      "You will visit the doctor."
+      "Hard",
+      "Lustrous",
+      "Soft",
+      "Insoluble"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English Grammar - Modal Verbs",
+    "topic": "Properties of Materials: Texture",
     "complexity_score": 1
   },
   {
-    "question": "In the sentence 'My sister and I study in the same school,' why is the verb 'study' used instead of 'studies'?",
-    "correct": "'My sister and I' is a plural subject.",
+    "question": "According to the lesson, what is the key property of materials like aluminum and steel that makes them good for cooking vessels?",
+    "correct": "They allow heat to pass through them easily",
     "options": [
-      "It is a rule for sisters.",
-      "The school is plural.",
-      "'My sister and I' is a plural subject.",
-      "The sentence is in the past tense."
+      "They are very shiny",
+      "They are difficult to find",
+      "They allow heat to pass through them easily",
+      "They dissolve in water"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English Grammar - Subject-Verb Agreement",
+    "topic": "Properties of Materials: Application",
     "complexity_score": 1
   },
   {
-    "question": "Longitude measures the distance eastward or westward from what starting point?",
-    "correct": "The Prime Meridian (0 degrees)",
+    "question": "Liquids that can mix together completely, like milk and water, are called:",
+    "correct": "Miscible liquids",
     "options": [
-      "The Equator (0 degrees)",
-      "The nearest ocean",
-      "The Prime Meridian (0 degrees)",
-      "The North Pole (90 degrees)"
+      "Immiscible liquids",
+      "Soluble liquids",
+      "Miscible liquids",
+      "Insoluble liquids"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geography - Longitude",
+    "topic": "Properties of Materials: Solubility",
     "complexity_score": 1
   },
   {
-    "question": "What modal verb would you use to express a strong obligation or necessity, like a rule you cannot break?",
-    "correct": "must",
+    "question": "Which of these is NOT one of the four main advantages of classification discussed?",
+    "correct": "It makes objects more expensive",
     "options": [
-      "should",
-      "can",
-      "might",
-      "must"
+      "It helps in identification",
+      "It helps in locating things",
+      "It makes it easier to study properties",
+      "It makes objects more expensive"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English Grammar - Modal Verbs",
+    "topic": "Advantages of Classification",
     "complexity_score": 1
   },
   {
-    "question": "The teacher corrected 'When she become monitor, she don't write my name' to 'When she becomes monitor, she does not write my name.' What is the main grammar rule being applied?",
-    "correct": "Using the correct verb form for a singular third-person subject (she).",
+    "question": "The teacher used the example of organizing a library to illustrate which major benefit of classification?",
+    "correct": "It helps us to sort things out and find them easily",
     "options": [
-      "Changing the sentence to the past tense.",
-      "Making the sentence more formal.",
-      "Using the correct verb form for a singular third-person subject (she).",
-      "Adding more words to make it longer."
+      "It proves that all books are the same",
+      "It makes books more lustrous",
+      "It helps us to sort things out and find them easily",
+      "It changes the material of the books"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English Grammar - Subject-Verb Agreement",
+    "topic": "Advantages of Classification",
     "complexity_score": 2
   },
   {
-    "question": "If you wanted to talk about something you were able to do in the past but didn't, which phrase is correct?",
-    "correct": "I could have gone to the party.",
+    "question": "Why would it be a bad idea to make a laptop computer out of glass, based on the principles discussed?",
+    "correct": "Glass lacks the right properties (like durability) for a laptop's purpose",
     "options": [
-      "I could go to the party.",
-      "I can have gone to the party.",
-      "I could have gone to the a party.",
-      "I can go to the party."
+      "Glass is too lustrous",
+      "Glass is soluble in water",
+      "Glass lacks the right properties (like durability) for a laptop's purpose",
+      "Glass cannot be classified"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English Grammar - Modal Verbs (Past)",
+    "topic": "Choosing Materials",
     "complexity_score": 2
   },
   {
-    "question": "Based on the discussion, what does it mean to show 'partiality' as a class monitor?",
-    "correct": "Treating your friends differently and not enforcing rules for them.",
+    "question": "A shirt with plastic buttons is a good example of which concept?",
+    "correct": "An object can be made of different materials",
     "options": [
-      "Making sure everyone is included in games.",
-      "Writing down the names of everyone who talks.",
-      "Treating your friends differently and not enforcing rules for them.",
-      "Helping your sister with her homework."
+      "All objects are made from one material",
+      "Many objects can be made from the same material",
+      "An object can be made of different materials",
+      "Materials have a soft texture"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Ethics - Fairness",
+    "topic": "Objects and Materials",
     "complexity_score": 2
   },
   {
-    "question": "The teacher suggested writing on a new topic like 'education' instead of 'my sister' or 'my brother'. What was the main goal of this suggestion?",
-    "correct": "To encourage creativity and explore different writing styles.",
+    "question": "If you try to mix oil and water, they will separate. This makes them:",
+    "correct": "Immiscible liquids",
     "options": [
-      "Because the teacher doesn't like family stories.",
-      "Because 'education' is a harder topic.",
-      "To encourage creativity and explore different writing styles.",
-      "To make the homework longer."
+      "Miscible liquids",
+      "Soluble solids",
+      "Soft materials",
+      "Immiscible liquids"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Writing Skills - Creativity",
+    "topic": "Properties of Materials: Solubility",
     "complexity_score": 2
   },
   {
-    "question": "The sentence 'You should have taken your lunch on time' implies that...",
-    "correct": "You did not take your lunch on time, and it would have been a good idea if you did.",
+    "question": "A student argues that a wooden table is shining, so it must be lustrous. What is the most likely reason it appears to be shining?",
+    "correct": "It has been coated with a lustrous polish",
     "options": [
-      "You will take your lunch on time tomorrow.",
-      "You must take your lunch on time every day.",
-      "You did not take your lunch on time, and it would have been a good idea if you did.",
-      "You might take your lunch on time later."
+      "All wood is naturally lustrous",
+      "The table is actually made of metal",
+      "It has been coated with a lustrous polish",
+      "Shining is the same as being soft"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English Grammar - Modal Verbs (Past)",
+    "topic": "Properties of Materials: Appearance",
     "complexity_score": 2
   },
   {
-    "question": "Why is it necessary for the whole world to agree that the Prime Meridian is at Greenwich, London?",
-    "correct": "To have a universal standard for maps, time zones, and navigation.",
+    "question": "When deciding what material to use for an object, what are the two most important factors to consider?",
+    "correct": "The properties of the material and the purpose of the object",
     "options": [
-      "Because London is the biggest city in the world.",
-      "To make travel to England easier.",
-      "To have a universal standard for maps, time zones, and navigation.",
-      "Because the Queen of England decided it."
+      "The color and the weight of the material",
+      "The properties of the material and the purpose of the object",
+      "The name of the material and its location",
+      "Whether the material is hard or soft only"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Geography - Global Standards",
+    "topic": "Choosing Materials",
     "complexity_score": 2
   },
   {
-    "question": "What is the difference in meaning between 'I used to play cricket' and 'I play cricket'?",
-    "correct": "'Used to play' is a past habit that is no longer true; 'play' is a current habit.",
+    "question": "The teacher explained that wood can be used to make a chair, a bed, and a shelf. This demonstrates that:",
+    "correct": "Many different objects can be made from the same material",
     "options": [
-      "There is no difference in meaning.",
-      "'Used to play' is more formal than 'play'.",
-      "'Used to play' means you were on a team; 'play' means you play for fun.",
-      "'Used to play' is a past habit that is no longer true; 'play' is a current habit."
+      "Wood is a lustrous material",
+      "An object can only be made from one material",
+      "Many different objects can be made from the same material",
+      "Wood is a soft material"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English Grammar - Tense",
+    "topic": "Objects and Materials",
     "complexity_score": 2
   },
   {
-    "question": "When the student says 'We are parking partners', what real-world action are they describing?",
-    "correct": "They walk to their car together after school.",
+    "question": "The lesson states classification helps us 'observe any pattern in this properties.' Which example best illustrates this?",
+    "correct": "Noticing that all objects in the 'metal' group are lustrous",
     "options": [
-      "They own a parking lot.",
-      "They help park cars for the teachers.",
-      "They walk to their car together after school.",
-      "They share a parking spot."
+      "Finding a specific book in a library",
+      "Realizing a shirt has plastic buttons",
+      "Noticing that all objects in the 'metal' group are lustrous",
+      "Mixing sugar in water"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English - Figurative Language",
+    "topic": "Advantages of Classification",
     "complexity_score": 2
   },
   {
-    "question": "The teacher states that a leader 'sees everyone as equal.' How does this idea conflict with the student's actions as a monitor?",
-    "correct": "The student admitted to not writing her sister's name, which is unequal treatment.",
+    "question": "You are designing a chair for a hospital patient. Based on the class discussion, why might plastic be a better choice than a fabric-covered metal frame?",
+    "correct": "Plastic is easier to clean and won't rust like some metals",
     "options": [
-      "It doesn't conflict, because a leader should protect their family.",
-      "The student sees everyone as equal, but her sister does not.",
-      "The student admitted to not writing her sister's name, which is unequal treatment.",
-      "A leader should see their friends as more important than others."
+      "Plastic is heavier and more expensive",
+      "Fabric is more lustrous than plastic",
+      "Plastic is easier to clean and won't rust like some metals",
+      "Metal is always a soft material"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Ethics - Leadership",
+    "topic": "Choosing Materials",
     "complexity_score": 3
   },
   {
-    "question": "The teacher says, 'Longitude is a measure of the distance... measured in degrees westward or eastward.' Why are 'westward' and 'eastward' the key directions for longitude?",
-    "correct": "Because longitude lines run north-south, so movement is measured east or west away from the Prime Meridian.",
+    "question": "A scientist discovers a new material. It does not shine, it cannot be compressed, and it dissolves in water. How would you describe its properties using terms from the lesson?",
+    "correct": "Non-lustrous, hard, and soluble",
     "options": [
-      "Because the Earth only spins west and east.",
-      "Because those are the only two directions on a compass.",
-      "Because longitude lines run north-south, so movement is measured east or west away from the Prime Meridian.",
-      "Because the sun rises in the east and sets in the west."
+      "Lustrous, soft, and soluble",
+      "Non-lustrous, hard, and soluble",
+      "Non-lustrous, soft, and immiscible",
+      "Lustrous, hard, and insoluble"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Geography - Critical Thinking",
+    "topic": "Properties of Materials",
     "complexity_score": 3
   },
   {
-    "question": "Consider the two sentences: 1. 'You should visit the doctor.' 2. 'You must visit the doctor.' In which situation would sentence 2 be more appropriate?",
-    "correct": "When the person has a very serious injury and needs immediate medical attention.",
+    "question": "The teacher suggested a two-layer classification for library books: first by subject, then alphabetically. What is the main advantage of this two-layer system over a single-layer system?",
+    "correct": "It makes the search process much faster and more specific",
     "options": [
-      "When the person has a minor cold.",
-      "When the person is asking for an opinion on what to do.",
-      "When the person has a very serious injury and needs immediate medical attention.",
-      "When you are not sure if the doctor's clinic is open."
+      "It makes the books heavier",
+      "It proves that all math books are the same",
+      "It makes the search process much faster and more specific",
+      "It changes the appearance of the books"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "English Grammar - Nuance",
+    "topic": "Advantages of Classification",
     "complexity_score": 3
   },
   {
-    "question": "Why is it a problem for a student's learning if they believe 'my sister is the monitor, she will not write my name'?",
-    "correct": "It encourages them to misbehave because they believe there are no consequences.",
+    "question": "The teacher asked, 'Why does copper look different from gold?' What is the most fundamental scientific reason discussed?",
+    "correct": "They are fundamentally different materials with different natures",
     "options": [
-      "It's not a problem, it shows they have a strong family bond.",
-      "It causes problems for the teacher, but not the student.",
-      "It encourages them to misbehave because they believe there are no consequences.",
-      "It means they will do their homework more carefully."
+      "Gold is used for jewelry and copper is used for wires",
+      "One is lustrous and the other is not",
+      "They are fundamentally different materials with different natures",
+      "They are found in different locations"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Ethics - Cause and Effect",
+    "topic": "Properties of Materials: Appearance",
     "complexity_score": 3
   },
   {
-    "question": "The teacher corrects the spelling of 'reference' and 'standard'. Why are correctly spelled, universally understood words like these essential for subjects like geography?",
-    "correct": "So that scientists and students all over the world can communicate precisely without confusion.",
+    "question": "You need to create a container for a microwave oven. Based on the discussion, you cannot use steel. What combination of PROPERTIES must the new material have?",
+    "correct": "It must withstand high temperatures and not react to microwaves",
     "options": [
-      "So that the textbook looks nicer.",
-      "Because English teachers like correct spelling.",
-      "So that scientists and students all over the world can communicate precisely without confusion.",
-      "Because they are hard words to learn."
+      "It must be lustrous and soft",
+      "It must be soluble and hard",
+      "It must be immiscible and lustrous",
+      "It must withstand high temperatures and not react to microwaves"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cross-Curricular Skills - Precision",
+    "topic": "Choosing Materials",
     "complexity_score": 3
   },
   {
-    "question": "If you wanted to express regret about not studying for a test, which sentence correctly uses a modal verb to show this?",
-    "correct": "I should have studied harder.",
+    "question": "If you organize your computer files first by subject (e.g., 'School', 'Games', 'Music') and then by date within each folder, what principle from the lesson are you applying?",
+    "correct": "Multi-layer classification for efficient sorting",
     "options": [
-      "I must have studied harder.",
-      "I could study harder.",
-      "I should have studied harder.",
-      "I might have studied harder."
+      "The property of solubility",
+      "The difference between miscible and immiscible liquids",
+      "The property of appearance (lustre)",
+      "Multi-layer classification for efficient sorting"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "English Grammar - Modal Verbs (Regret)",
+    "topic": "Advantages of Classification",
     "complexity_score": 3
   }
 ]
