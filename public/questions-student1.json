@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, what is the definition of an object?",
-    "correct": "Anything that can be seen or touched",
+    "question": "Which word correctly completes the sentence: 'She ___ not write my name when she is the monitor.'?",
+    "correct": "does",
     "options": [
-      "Anything that is very big",
-      "Only things made in a factory",
-      "Anything that can be seen or touched",
-      "Only things with bright colors"
+      "do",
+      "is",
+      "does",
+      "don't"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Properties of Matter",
+    "topic": "English Grammar - Subject-Verb Agreement",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence is grammatically correct based on the subject-verb agreement rule discussed?",
-    "correct": "I like his movies.",
+    "question": "What is the official reference point for measuring longitude, also called the 'Greenwich Meridian'?",
+    "correct": "The Prime Meridian",
     "options": [
-      "I likes his movies.",
-      "He like his movies.",
-      "I like his movies.",
-      "She like his movies."
+      "The Equator",
+      "The International Date Line",
+      "The Prime Meridian",
+      "The North Pole"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Grammar: Subject-Verb Agreement",
+    "topic": "Geography - Longitude",
     "complexity_score": 1
   },
   {
-    "question": "The property of an object dissolving in a liquid is called...",
-    "correct": "Solubility",
+    "question": "Which sentence gives a general suggestion or advice?",
+    "correct": "You should visit the doctor.",
     "options": [
-      "Appearance",
-      "Variety",
-      "Solubility",
-      "Shape"
+      "You must visit the doctor.",
+      "You can visit the doctor.",
+      "You should visit the doctor.",
+      "You will visit the doctor."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Properties of Matter",
+    "topic": "English Grammar - Modal Verbs",
     "complexity_score": 1
   },
   {
-    "question": "How do you correctly spell the word for a person, place, or thing that is very attractive to look at?",
-    "correct": "Beautiful",
+    "question": "In the sentence 'My sister and I study in the same school,' why is the verb 'study' used instead of 'studies'?",
+    "correct": "'My sister and I' is a plural subject.",
     "options": [
-      "Beutiful",
-      "Bea-u-tiful",
-      "Beautiful",
-      "Beutefull"
+      "It is a rule for sisters.",
+      "The school is plural.",
+      "'My sister and I' is a plural subject.",
+      "The sentence is in the past tense."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Spelling",
+    "topic": "English Grammar - Subject-Verb Agreement",
     "complexity_score": 1
   },
   {
-    "question": "When telling a story about something that happened yesterday, you should change the verb 'go' to...",
-    "correct": "went",
+    "question": "Longitude measures the distance eastward or westward from what starting point?",
+    "correct": "The Prime Meridian (0 degrees)",
     "options": [
-      "gone",
-      "goed",
-      "went",
-      "going"
+      "The Equator (0 degrees)",
+      "The nearest ocean",
+      "The Prime Meridian (0 degrees)",
+      "The North Pole (90 degrees)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Grammar: Past Tense",
+    "topic": "Geography - Longitude",
     "complexity_score": 1
   },
   {
-    "question": "What is the correct spelling for the feeling of being certain that something is true?",
-    "correct": "Belief",
+    "question": "What modal verb would you use to express a strong obligation or necessity, like a rule you cannot break?",
+    "correct": "must",
     "options": [
-      "Beleif",
-      "Belief",
-      "Bileef",
-      "Bileif"
+      "should",
+      "can",
+      "might",
+      "must"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Spelling",
+    "topic": "English Grammar - Modal Verbs",
     "complexity_score": 1
   },
   {
-    "question": "Using the 'advanced' grammar form taught, how would you change the sentence 'I don't need to prepare for the lecture'?",
-    "correct": "I need not prepare for the lecture.",
+    "question": "The teacher corrected 'When she become monitor, she don't write my name' to 'When she becomes monitor, she does not write my name.' What is the main grammar rule being applied?",
+    "correct": "Using the correct verb form for a singular third-person subject (she).",
     "options": [
-      "I need to not prepare for the lecture.",
-      "I not need prepare for the lecture.",
-      "I need not prepare for the lecture.",
-      "I need not to prepare for the lecture."
+      "Changing the sentence to the past tense.",
+      "Making the sentence more formal.",
+      "Using the correct verb form for a singular third-person subject (she).",
+      "Adding more words to make it longer."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Modal Verbs (Need)",
+    "topic": "English Grammar - Subject-Verb Agreement",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly uses the past tense to describe a memory?",
-    "correct": "We decided to go for dinner.",
+    "question": "If you wanted to talk about something you were able to do in the past but didn't, which phrase is correct?",
+    "correct": "I could have gone to the party.",
     "options": [
-      "We decide to go for dinner.",
-      "We decided to go for dinner.",
-      "We are deciding to go for dinner.",
-      "We will decide to go for dinner."
+      "I could go to the party.",
+      "I can have gone to the party.",
+      "I could have gone to the a party.",
+      "I can go to the party."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Past Tense",
+    "topic": "English Grammar - Modal Verbs (Past)",
     "complexity_score": 2
   },
   {
-    "question": "What is the correct spelling for a group of people living in the same place or having a particular characteristic in common?",
-    "correct": "Community",
+    "question": "Based on the discussion, what does it mean to show 'partiality' as a class monitor?",
+    "correct": "Treating your friends differently and not enforcing rules for them.",
     "options": [
-      "Comunity",
-      "Communidy",
-      "Comunitee",
-      "Community"
+      "Making sure everyone is included in games.",
+      "Writing down the names of everyone who talks.",
+      "Treating your friends differently and not enforcing rules for them.",
+      "Helping your sister with her homework."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Spelling",
+    "topic": "Ethics - Fairness",
     "complexity_score": 2
   },
   {
-    "question": "Based on the lesson, what is the 'advanced' way to ask the question, 'Do you dare to play cricket?'",
-    "correct": "Dare you play cricket?",
+    "question": "The teacher suggested writing on a new topic like 'education' instead of 'my sister' or 'my brother'. What was the main goal of this suggestion?",
+    "correct": "To encourage creativity and explore different writing styles.",
     "options": [
-      "Do you dare play cricket?",
-      "Dare you to play cricket?",
-      "Dare you play cricket?",
-      "You dare play cricket?"
+      "Because the teacher doesn't like family stories.",
+      "Because 'education' is a harder topic.",
+      "To encourage creativity and explore different writing styles.",
+      "To make the homework longer."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Modal Verbs (Dare)",
+    "topic": "Writing Skills - Creativity",
     "complexity_score": 2
   },
   {
-    "question": "The food ingredient 'Maida' was described in the lesson as...",
-    "correct": "Refined wheat flour",
+    "question": "The sentence 'You should have taken your lunch on time' implies that...",
+    "correct": "You did not take your lunch on time, and it would have been a good idea if you did.",
     "options": [
-      "A type of sugar",
-      "Refined wheat flour",
-      "Semolina",
-      "A kind of spice"
+      "You will take your lunch on time tomorrow.",
+      "You must take your lunch on time every day.",
+      "You did not take your lunch on time, and it would have been a good idea if you did.",
+      "You might take your lunch on time later."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "General Knowledge",
+    "topic": "English Grammar - Modal Verbs (Past)",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence best applies the concept of solubility as discussed?",
-    "correct": "If I give the sugar more time, maybe more of it will dissolve in the water.",
+    "question": "Why is it necessary for the whole world to agree that the Prime Meridian is at Greenwich, London?",
+    "correct": "To have a universal standard for maps, time zones, and navigation.",
     "options": [
-      "The rock is not soluble because it is too hard.",
-      "If I give the sugar more time, maybe more of it will dissolve in the water.",
-      "The shape of the cup affects its solubility.",
-      "Solubility means the object is colorful."
+      "Because London is the biggest city in the world.",
+      "To make travel to England easier.",
+      "To have a universal standard for maps, time zones, and navigation.",
+      "Because the Queen of England decided it."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Properties of Matter",
+    "topic": "Geography - Global Standards",
     "complexity_score": 2
   },
   {
-    "question": "How do you correctly spell the power of the mind to think, understand, and learn?",
-    "correct": "Knowledge",
+    "question": "What is the difference in meaning between 'I used to play cricket' and 'I play cricket'?",
+    "correct": "'Used to play' is a past habit that is no longer true; 'play' is a current habit.",
     "options": [
-      "Nowledge",
-      "Knowlege",
-      "Knowledge",
-      "Knoledge"
+      "There is no difference in meaning.",
+      "'Used to play' is more formal than 'play'.",
+      "'Used to play' means you were on a team; 'play' means you play for fun.",
+      "'Used to play' is a past habit that is no longer true; 'play' is a current habit."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Spelling",
+    "topic": "English Grammar - Tense",
     "complexity_score": 2
   },
   {
-    "question": "If you are telling a story about a fun day, why is it better to say 'We were talking' instead of 'We are talking'?",
-    "correct": "Because the event happened in the past.",
+    "question": "When the student says 'We are parking partners', what real-world action are they describing?",
+    "correct": "They walk to their car together after school.",
     "options": [
-      "Because 'were' sounds more formal.",
-      "Because the event happened in the past.",
-      "Because more than one person was talking.",
-      "It doesn't matter which one you use."
+      "They own a parking lot.",
+      "They help park cars for the teachers.",
+      "They walk to their car together after school.",
+      "They share a parking spot."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Past Tense",
+    "topic": "English - Figurative Language",
     "complexity_score": 2
   },
   {
-    "question": "What is the correct spelling for a favorable or advantageous circumstance?",
-    "correct": "Opportunity",
+    "question": "The teacher states that a leader 'sees everyone as equal.' How does this idea conflict with the student's actions as a monitor?",
+    "correct": "The student admitted to not writing her sister's name, which is unequal treatment.",
     "options": [
-      "Oportunity",
-      "Opportunity",
-      "Oppertunity",
-      "Oportunety"
+      "It doesn't conflict, because a leader should protect their family.",
+      "The student sees everyone as equal, but her sister does not.",
+      "The student admitted to not writing her sister's name, which is unequal treatment.",
+      "A leader should see their friends as more important than others."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Spelling",
+    "topic": "Ethics - Leadership",
     "complexity_score": 3
   },
   {
-    "question": "The teacher explained that in the 'advanced form', 'need' and 'dare' act like helping verbs. Which sentence correctly follows this rule for a negative statement?",
-    "correct": "He dare not challenge the champion.",
+    "question": "The teacher says, 'Longitude is a measure of the distance... measured in degrees westward or eastward.' Why are 'westward' and 'eastward' the key directions for longitude?",
+    "correct": "Because longitude lines run north-south, so movement is measured east or west away from the Prime Meridian.",
     "options": [
-      "He doesn't dare to challenge the champion.",
-      "He dare not to challenge the champion.",
-      "He dare not challenge the champion.",
-      "He dares not challenge the champion."
+      "Because the Earth only spins west and east.",
+      "Because those are the only two directions on a compass.",
+      "Because longitude lines run north-south, so movement is measured east or west away from the Prime Meridian.",
+      "Because the sun rises in the east and sets in the west."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammar: Modal Verbs (Dare)",
+    "topic": "Geography - Critical Thinking",
     "complexity_score": 3
   },
   {
-    "question": "When Anaya said, 'my week is giving nicely', the teacher corrected her to 'my week went nicely'. What is the fundamental reason for this correction?",
-    "correct": "To accurately place the event in time (the past).",
+    "question": "Consider the two sentences: 1. 'You should visit the doctor.' 2. 'You must visit the doctor.' In which situation would sentence 2 be more appropriate?",
+    "correct": "When the person has a very serious injury and needs immediate medical attention.",
     "options": [
-      "To use a more complex vocabulary word.",
-      "To avoid repeating the word 'is'.",
-      "To accurately place the event in time (the past).",
-      "To make the sentence sound more positive."
+      "When the person has a minor cold.",
+      "When the person is asking for an opinion on what to do.",
+      "When the person has a very serious injury and needs immediate medical attention.",
+      "When you are not sure if the doctor's clinic is open."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammar: Tense Analysis",
+    "topic": "English Grammar - Nuance",
     "complexity_score": 3
   },
   {
-    "question": "What is the correct spelling for a person employed to help with correspondence, keep records, and make appointments?",
-    "correct": "Secretary",
+    "question": "Why is it a problem for a student's learning if they believe 'my sister is the monitor, she will not write my name'?",
+    "correct": "It encourages them to misbehave because they believe there are no consequences.",
     "options": [
-      "Secratary",
-      "Secretery",
-      "Secratery",
-      "Secretary"
+      "It's not a problem, it shows they have a strong family bond.",
+      "It causes problems for the teacher, but not the student.",
+      "It encourages them to misbehave because they believe there are no consequences.",
+      "It means they will do their homework more carefully."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Spelling",
+    "topic": "Ethics - Cause and Effect",
     "complexity_score": 3
   },
   {
-    "question": "Based on the speech practice, what is the primary purpose of an introduction like 'First of all, I pay my deep respects to my respected teacher...'?",
-    "correct": "To capture the audience's attention and establish a formal tone.",
+    "question": "The teacher corrects the spelling of 'reference' and 'standard'. Why are correctly spelled, universally understood words like these essential for subjects like geography?",
+    "correct": "So that scientists and students all over the world can communicate precisely without confusion.",
     "options": [
-      "To make the speech as long as possible.",
-      "To list all the people you know.",
-      "To capture the audience's attention and establish a formal tone.",
-      "To prove you are not nervous."
+      "So that the textbook looks nicer.",
+      "Because English teachers like correct spelling.",
+      "So that scientists and students all over the world can communicate precisely without confusion.",
+      "Because they are hard words to learn."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Communication Skills",
+    "topic": "Cross-Curricular Skills - Precision",
     "complexity_score": 3
   },
   {
-    "question": "The lesson contrasted the common phrase 'I don't need to go' with the advanced form 'I need not go'. What key grammatical element is REMOVED in the advanced form?",
-    "correct": "The word 'to' after the modal verb.",
+    "question": "If you wanted to express regret about not studying for a test, which sentence correctly uses a modal verb to show this?",
+    "correct": "I should have studied harder.",
     "options": [
-      "The subject 'I'.",
-      "The main verb 'go'.",
-      "The negative word 'not'.",
-      "The word 'to' after the modal verb."
+      "I must have studied harder.",
+      "I could study harder.",
+      "I should have studied harder.",
+      "I might have studied harder."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammar: Modal Verbs (Need)",
+    "topic": "English Grammar - Modal Verbs (Regret)",
     "complexity_score": 3
   }
 ]
