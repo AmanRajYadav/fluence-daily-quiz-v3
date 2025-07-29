@@ -1,250 +1,250 @@
 [
   {
-    "question": "What is the primary meaning of 'classification' as discussed in the lesson?",
-    "correct": "Creating categories and grouping similar objects together.",
+    "question": "In the story, what does the word 'miser' mean?",
+    "correct": "Someone who loves to save money but hates to spend it",
     "options": [
-      "Making objects look more stylish and fancy.",
-      "Studying the history of different materials.",
-      "Creating categories and grouping similar objects together.",
-      "Listing all objects in alphabetical order."
+      "A person who works in a garden",
+      "Someone who is very unlucky",
+      "A wise neighbor who gives good advice",
+      "Someone who loves to save money but hates to spend it"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Classification",
+    "topic": "Reading Comprehension",
     "complexity_score": 1
   },
   {
-    "question": "Which term describes a material that has a natural shine, like steel or gold?",
-    "correct": "Lustrous",
+    "question": "What is the definition of a 'conductor' of heat?",
+    "correct": "A material that allows heat to pass through it easily",
     "options": [
-      "Soluble",
-      "Texture",
-      "Lustrous",
-      "Non-lustrous"
+      "A material that shines brightly",
+      "A material that dissolves in water",
+      "A material that does not allow heat to pass through it",
+      "A material that allows heat to pass through it easily"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Properties of Materials - Appearance",
+    "topic": "Properties of Materials",
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, materials that can be easily compressed are called...",
-    "correct": "Soft",
+    "question": "According to the lesson, what are the vertical lines on a map called?",
+    "correct": "Longitude",
     "options": [
-      "Hard",
-      "Dense",
-      "Soft",
-      "Insoluble"
+      "Latitude",
+      "Equator",
+      "Coordinates",
+      "Longitude"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Properties of Materials - Texture",
+    "topic": "Geography Concepts",
     "complexity_score": 1
   },
   {
-    "question": "What are liquids, like milk and water, that can mix together completely called?",
-    "correct": "Miscible liquids",
+    "question": "The ability of a substance, like sugar, to dissolve in a liquid is called...",
+    "correct": "Solubility",
     "options": [
-      "Immiscible liquids",
-      "Soluble liquids",
-      "Miscible liquids",
-      "Lustrous liquids"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Properties of Materials - Solubility",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which of these is a key advantage of classification mentioned in the class?",
-    "correct": "It helps in the identification and location of things.",
-    "options": [
-      "It makes objects heavier.",
-      "It changes the color of materials.",
-      "It helps in the identification and location of things.",
-      "It combines all materials into one."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Classification",
-    "complexity_score": 1
-  },
-  {
-    "question": "A material that does not shine, such as wood or rubber, is described as...",
-    "correct": "Non-lustrous",
-    "options": [
-      "Lustrous",
-      "Hard",
-      "Miscible",
-      "Non-lustrous"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Properties of Materials - Appearance",
-    "complexity_score": 1
-  },
-  {
-    "question": "Why is a library used as a great example of classification?",
-    "correct": "Because it allows thousands of books to be sorted and found easily.",
-    "options": [
-      "Because all library books are made of the same material.",
-      "Because libraries are always shiny and lustrous.",
-      "Because it allows thousands of books to be sorted and found easily.",
-      "Because books in a library cannot be compressed."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Classification",
-    "complexity_score": 2
-  },
-  {
-    "question": "Based on the lesson, why are most cooking vessels made of steel and not paper?",
-    "correct": "Steel allows heat to pass through it, while paper would catch fire.",
-    "options": [
-      "Steel is shinier and looks better in the kitchen.",
-      "Paper is too soft to hold food.",
-      "Steel allows heat to pass through it, while paper would catch fire.",
-      "Steel is insoluble in water, but paper is soluble."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Properties and Purpose",
-    "complexity_score": 2
-  },
-  {
-    "question": "A student organizes their computer files into folders named 'School', 'Games', and 'Pictures'. Which scientific principle from the lesson are they applying?",
-    "correct": "Classification",
-    "options": [
+      "Density",
       "Lustre",
-      "Solubility",
-      "Classification",
-      "Density"
+      "Conductivity",
+      "Solubility"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Properties of Materials",
+    "complexity_score": 1
+  },
+  {
+    "question": "What are the two common things that ALL materials have?",
+    "correct": "They all have mass and occupy space (volume)",
+    "options": [
+      "They are all shiny and hard",
+      "They all sink in water and are magnetic",
+      "They can all be seen through and conduct electricity",
+      "They all have mass and occupy space (volume)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Properties of Materials",
+    "complexity_score": 1
+  },
+  {
+    "question": "On a chessboard, if '4' represents latitude and 'D' represents longitude, what is '4D'?",
+    "correct": "A coordinate",
+    "options": [
+      "A type of chess piece",
+      "The color of the square",
+      "A game rule",
+      "A coordinate"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Geography Concepts",
+    "complexity_score": 1
+  },
+  {
+    "question": "Why did the neighbor advise the miser to put a stone in the hole where the gold used to be?",
+    "correct": "Because the miser only looked at his gold and never used it, so a stone would serve the same purpose.",
+    "options": [
+      "Because the stone was more valuable than the gold.",
+      "To trick the thief into stealing a worthless stone.",
+      "Because the neighbor wanted the gold for himself.",
+      "Because the miser only looked at his gold and never used it, so a stone would serve the same purpose."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Classification",
+    "topic": "Reading Comprehension",
     "complexity_score": 2
   },
   {
-    "question": "If you mix cooking oil and water together in a glass, they quickly separate into two distinct layers. This demonstrates that they are...",
-    "correct": "Immiscible liquids",
+    "question": "If an object sinks in water, what can we conclude about its density?",
+    "correct": "It is more dense than water.",
     "options": [
-      "Miscible liquids",
-      "Soluble materials",
-      "Soft materials",
-      "Immiscible liquids"
+      "It is less dense than water.",
+      "It has the same density as water.",
+      "Its density cannot be determined from this information.",
+      "It is more dense than water."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Properties of Materials - Solubility",
+    "topic": "Properties of Materials",
     "complexity_score": 2
   },
   {
-    "question": "A t-shirt is made from cotton fabric and has plastic buttons. What important idea about objects does this example show?",
-    "correct": "An object can be made from different materials.",
+    "question": "The tutor explained that in a completely empty room, the volume is high. What does this imply about the room's density?",
+    "correct": "The density is very low.",
     "options": [
-      "All materials are soft.",
-      "Many objects can be made from the same material.",
-      "An object can be made from different materials.",
-      "All materials are non-lustrous."
+      "The density is very high.",
+      "The density is equal to the volume.",
+      "The density does not change.",
+      "The density is very low."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Objects and Materials",
+    "topic": "Properties of Materials",
     "complexity_score": 2
   },
   {
-    "question": "The lesson mentioned that a chair for a hospital patient might be made of plastic. Why would this be a better choice than a chair made of cloth?",
-    "correct": "Because plastic is non-porous and easier to clean regularly.",
+    "question": "How did the miser in the story spend his time in the garden every day?",
+    "correct": "He would dig up his gold and embrace it.",
     "options": [
-      "Because plastic is more lustrous than cloth.",
-      "Because cloth is harder than plastic.",
-      "Because plastic is non-porous and easier to clean regularly.",
-      "Because plastic is always transparent."
+      "He was planting flowers and vegetables.",
+      "He was counting his money out in the open.",
+      "He was building a fence to protect his property.",
+      "He would dig up his gold and embrace it."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Properties and Purpose",
+    "topic": "Reading Comprehension",
     "complexity_score": 2
   },
   {
-    "question": "If you try to dissolve sand in water and it just sinks to the bottom without mixing, what property is the sand demonstrating?",
-    "correct": "Insolubility",
+    "question": "A small, heavy phone sinks in water, while a large, light piece of paper floats. What does this demonstrate about mass and volume?",
+    "correct": "An object with less volume can have more mass.",
     "options": [
-      "Hardness",
-      "Lustre",
-      "Insolubility",
-      "Softness"
+      "Objects with more mass always have more volume.",
+      "Mass and volume are the exact same thing.",
+      "Only objects with low mass can float.",
+      "An object with less volume can have more mass."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Properties of Materials - Solubility",
+    "topic": "Properties of Materials",
     "complexity_score": 2
   },
   {
-    "question": "The lesson pointed out that both wood and rubber have a common property. What is it?",
-    "correct": "They are both non-lustrous.",
+    "question": "The tutor explained that the Earth rotates 360° in 24 hours. How many degrees does the Earth rotate in just one hour?",
+    "correct": "15 degrees",
     "options": [
-      "They are both very soft.",
-      "They are both soluble in water.",
-      "They both have a shiny appearance.",
-      "They are both non-lustrous."
+      "30 degrees",
+      "24 degrees",
+      "360 degrees",
+      "15 degrees"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Properties of Materials - Appearance",
+    "topic": "Geography & Math",
     "complexity_score": 2
   },
   {
-    "question": "What are the two most important things to consider when choosing a material to make a specific object, according to the class discussion?",
-    "correct": "The properties of the material and the purpose of the object.",
+    "question": "A material that does NOT allow heat to pass through it, like the plastic handle on a hot pan, is called...",
+    "correct": "An insulator",
     "options": [
-      "The color of the material and its weight.",
-      "The properties of the material and the purpose of the object.",
-      "The name of the material and the country it comes from.",
-      "The cost of the material and its shininess."
+      "A conductor",
+      "A solute",
+      "Lustrous",
+      "An insulator"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Properties of Materials",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the key difference between the 'old' way of answering reading questions (for classes 1-5) and the 'new' way required for class 6th?",
+    "correct": "The new way requires understanding the full meaning, while the old way was just about finding matching sentences.",
+    "options": [
+      "The new way is to copy the answer directly from the text.",
+      "The old way required writing answers in your own words.",
+      "There is no difference between the two methods.",
+      "The new way requires understanding the full meaning, while the old way was just about finding matching sentences."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Metacognition & Learning",
+    "complexity_score": 2
+  },
+  {
+    "question": "The tutor said that in advanced reading passages, the answers are 'invisible'. What does this most likely mean?",
+    "correct": "The answers must be inferred by understanding the context, not just found in a single sentence.",
+    "options": [
+      "The answers are written in a special ink that you cannot see.",
+      "The answers are not actually in the story and you have to guess.",
+      "The answers are always in the title of the story.",
+      "The answers must be inferred by understanding the context, not just found in a single sentence."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Properties and Purpose",
+    "topic": "Metacognition & Learning",
     "complexity_score": 3
   },
   {
-    "question": "The teacher organized books first by subject (e.g., Math, Science) and then alphabetically by title. What does this multi-level organization demonstrate?",
-    "correct": "Classification can have multiple layers for more precise sorting.",
+    "question": "If the Prime Meridian is at 0° longitude, and a city is at 45° East longitude, what is the time difference between that city and the Prime Meridian?",
+    "correct": "The city is 3 hours ahead.",
     "options": [
-      "Alphabetical order is the only way to classify things.",
-      "All science books are more important than math books.",
-      "Classification can have multiple layers for more precise sorting.",
-      "Classification only works for non-lustrous objects."
+      "The city is 3 hours behind.",
+      "There is no time difference.",
+      "The city is 45 hours ahead.",
+      "The city is 3 hours ahead."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Classification",
+    "topic": "Geography & Math",
     "complexity_score": 3
   },
   {
-    "question": "The teacher explained that gold looks different from copper because 'gold is gold and copper is copper.' What fundamental idea does this convey?",
-    "correct": "That each material has its own unique, inherent nature and properties.",
+    "question": "The tutor explained that India's time is 5.5 hours ahead of Greenwich Mean Time (GMT). This is a direct result of India's...",
+    "correct": "Longitude",
     "options": [
-      "That the use of a material determines its appearance.",
-      "That gold and copper are actually the same material.",
-      "That all lustrous materials look identical.",
-      "That each material has its own unique, inherent nature and properties."
+      "Latitude",
+      "Population density",
+      "Total land area",
+      "Longitude"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Objects and Materials",
+    "topic": "Geography Concepts",
     "complexity_score": 3
   },
   {
-    "question": "A new object is discovered. It is dull, cannot be compressed, and does not dissolve in water. How would you describe its properties based on the lesson's terms?",
-    "correct": "Non-lustrous, hard, and insoluble.",
+    "question": "The lesson described two rooms of the exact same size (same volume). One is full of furniture and the other is empty. This was an analogy to explain...",
+    "correct": "How density relates to the amount of matter packed into a space.",
     "options": [
-      "Lustrous, soft, and soluble.",
-      "Non-lustrous, hard, and insoluble.",
-      "Lustrous, hard, and miscible.",
-      "Non-lustrous, soft, and immiscible."
+      "How to measure the length of a room.",
+      "The difference between magnetic and non-magnetic materials.",
+      "Why some materials are soluble.",
+      "How density relates to the amount of matter packed into a space."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
@@ -252,31 +252,31 @@
     "complexity_score": 3
   },
   {
-    "question": "If you needed to build a strong, waterproof shelter, which property of a material would be LEAST important to consider from the list discussed?",
-    "correct": "Lustre (whether it's shiny or not).",
+    "question": "Why is 'just finding answers by looking at the sentence' a flawed strategy for complex texts?",
+    "correct": "Because complex texts require you to understand the author's purpose and connect ideas, which are not always stated directly.",
     "options": [
-      "Hardness (its ability to resist compression).",
-      "Solubility (whether it dissolves in water).",
-      "Lustre (whether it's shiny or not).",
-      "Texture (whether it's hard or soft)."
+      "Because the sentences in complex texts are too long to read.",
+      "Because teachers will mark it wrong even if the sentence is correct.",
+      "Because it is faster to just guess the answer.",
+      "Because complex texts require you to understand the author's purpose and connect ideas, which are not always stated directly."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Properties and Purpose",
+    "topic": "Metacognition & Learning",
     "complexity_score": 3
   },
   {
-    "question": "Imagine you are an inventor. Why is understanding the properties of materials essential BEFORE you start building something new?",
-    "correct": "To ensure the chosen material can successfully perform the intended function of the object.",
+    "question": "The tutor used a chessboard to explain coordinates. What is the most important similarity between a chessboard grid and the Earth's grid of latitude and longitude?",
+    "correct": "Both systems use intersecting horizontal and vertical lines to identify an exact, unique location.",
     "options": [
-      "Because all new inventions must be shiny.",
-      "To make sure the invention is easy to classify in a library.",
-      "Because the purpose of an object changes its material properties.",
-      "To ensure the chosen material can successfully perform the intended function of the object."
+      "Both systems have 64 squares and are used for a game.",
+      "Both systems are used to measure time differences.",
+      "Both systems have pieces that can only move in certain directions.",
+      "Both systems use intersecting horizontal and vertical lines to identify an exact, unique location."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Properties and Purpose",
+    "topic": "Geography Concepts",
     "complexity_score": 3
   }
 ]
