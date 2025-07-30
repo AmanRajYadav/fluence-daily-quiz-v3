@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the sentence, 'When she becomes monitor, she ___ not write my name,' which word correctly fills the blank?",
-    "correct": "does",
+    "question": "According to the lesson, what is the primary definition of a map?",
+    "correct": "A representation or a drawing of an area",
     "options": [
-      "do",
-      "is",
-      "does",
-      "don't"
+      "A photograph taken from a satellite",
+      "A representation or a drawing of an area",
+      "A physical model of a city",
+      "A list of directions to a place"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement",
+    "topic": "Definition of a Map",
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, the Prime Meridian is also called the...",
-    "correct": "Greenwich Meridian",
+    "question": "Which of the following is an example of a 'small area' that a map can show?",
+    "correct": "A village or a town",
     "options": [
-      "Equator Meridian",
-      "London Meridian",
-      "International Meridian",
-      "Greenwich Meridian"
+      "A continent",
+      "The entire world",
+      "A village or a town",
+      "A country"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geography",
+    "topic": "Map Scale",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence shows a basic ability in the present?",
-    "correct": "I can play cricket.",
+    "question": "What kind of perspective does a map give you, as described in the class?",
+    "correct": "As if you are viewing it from the top",
     "options": [
-      "I should play cricket.",
-      "I would play cricket.",
-      "I can play cricket.",
-      "I might play cricket."
+      "As if you are standing on the street",
+      "As if you are looking at it from the side",
+      "As if you are underground",
+      "As if you are viewing it from the top"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Modal Verbs",
+    "topic": "Map Perspective",
     "complexity_score": 1
   },
   {
-    "question": "The lesson explained that longitude is measured in degrees...",
-    "correct": "Westward or Eastward",
+    "question": "A map of a district or a state would be considered a representation of what kind of area?",
+    "correct": "A bigger area",
     "options": [
-      "Northward or Southward",
-      "Upward or Downward",
-      "Westward or Eastward",
-      "Inward or Outward"
+      "A small area",
+      "A bigger area",
+      "A very large area",
+      "A micro area"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geography",
+    "topic": "Map Scale",
     "complexity_score": 1
   },
   {
-    "question": "What is the correct way to say 'He might not be doing it today'?",
-    "correct": "It might not be done today.",
+    "question": "Which of these is given as an example of a 'very large area' a map can represent?",
+    "correct": "The whole world",
     "options": [
-      "He might not doing today.",
-      "It might not be done today.",
-      "He might not to do today.",
-      "It might don't do today."
+      "A school campus",
+      "A single town",
+      "A local park",
+      "The whole world"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Modal Verbs",
+    "topic": "Map Scale",
     "complexity_score": 1
   },
   {
-    "question": "According to the dictation passage, what is the reference point for measuring longitude?",
-    "correct": "Prime Meridian",
+    "question": "The lesson explains that a map is a 'representation'. What does this mean?",
+    "correct": "It's a drawing that stands for a real place",
     "options": [
-      "Equator",
-      "North Pole",
-      "Prime Meridian",
-      "London"
+      "It is the actual place itself",
+      "It's a drawing that stands for a real place",
+      "It's an exact-size copy of a place",
+      "It is always a photograph"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geography",
+    "topic": "Definition of a Map",
     "complexity_score": 1
   },
   {
-    "question": "To express a past action that you were able to do, which sentence is correct?",
-    "correct": "I could not go to school.",
+    "question": "If you wanted to create a map of your house and your neighbor's house, which category of area would it fall into?",
+    "correct": "A small area",
     "options": [
-      "I can not went to school.",
-      "I could not go to school.",
-      "I cannot had gone to school.",
-      "I could to not go to school."
+      "A very large area",
+      "A bigger area",
+      "A small area",
+      "A global area"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs (Past)",
+    "topic": "Map Application",
     "complexity_score": 2
   },
   {
-    "question": "Based on the discussion, what does 'partiality' mean when a class monitor does it?",
-    "correct": "Treating friends differently and better than other students.",
+    "question": "Why is it possible for a map to show 'the whole world' on a piece of paper?",
+    "correct": "Because it is a scaled-down drawing, not the actual size",
     "options": [
-      "Writing down everyone's name who talks.",
-      "Treating friends differently and better than other students.",
-      "Making sure the classroom is quiet.",
-      "Asking the teacher for help."
+      "Because the world is actually very small",
+      "Because paper can stretch to any size",
+      "Because it only shows the names of countries",
+      "Because it is a scaled-down drawing, not the actual size"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Ethics & Vocabulary",
+    "topic": "Concept of Representation",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly talks about a possibility in the past that didn't happen?",
-    "correct": "I could have gone to the party.",
+    "question": "A map of a country like India and a map of a single city are different because they represent...",
+    "correct": "different sizes of areas.",
     "options": [
-      "I could go to the party.",
-      "I could have went to the party.",
-      "I could have gone to the party.",
-      "I can have gone to the party."
+      "...different types of people.",
+      "...different planets.",
+      "...different sizes of areas.",
+      "...different time periods."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs (Past Perfect)",
+    "topic": "Comparing Map Scales",
     "complexity_score": 2
   },
   {
-    "question": "If you want to give someone advice about their health, which sentence is most appropriate?",
-    "correct": "You should visit the doctor.",
+    "question": "The phrase 'viewing it from the top' suggests that on a map, you would see the...",
+    "correct": "roofs of houses and the layout of streets.",
     "options": [
-      "You can visit the doctor.",
-      "You must visit the doctor.",
-      "You might visit the doctor.",
-      "You should visit the doctor."
+      "...doors and windows of buildings.",
+      "...people walking on the sidewalks.",
+      "...roofs of houses and the layout of streets.",
+      "...insides of the buildings."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs (Advice)",
+    "topic": "Map Perspective",
     "complexity_score": 2
   },
   {
-    "question": "The teacher explained that a good leader sees everyone as...",
-    "correct": "equal",
+    "question": "Which of these items would NOT be considered a map, based on the definition from the lesson?",
+    "correct": "A story written about a trip to a town",
     "options": [
-      "family",
-      "competition",
-      "equal",
-      "followers"
+      "A drawing of your school's layout",
+      "A floor plan of your apartment",
+      "A story written about a trip to a town",
+      "A globe showing all the continents"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Ethics & Leadership",
+    "topic": "Definition of a Map",
     "complexity_score": 2
   },
   {
-    "question": "To talk about a past habit that you no longer have, you would say:",
-    "correct": "I used to play cricket.",
+    "question": "A map's 'components' are its different parts. Based on the lesson, what are the most fundamental components being discussed?",
+    "correct": "The area being represented and the perspective of the drawing",
     "options": [
-      "I am used to play cricket.",
-      "I was play cricket.",
-      "I have played cricket.",
-      "I used to play cricket."
+      "The color of the paper and the type of pen used",
+      "The area being represented and the perspective of the drawing",
+      "The name of the map maker and the date it was made",
+      "The price of the map and the store where it was sold"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Past Habits (used to)",
+    "topic": "Map Components",
     "complexity_score": 2
   },
   {
-    "question": "New York's longitude is 74° W (West) and Delhi's is 77° E (East). What does this tell us?",
-    "correct": "They are on opposite sides of the Prime Meridian.",
+    "question": "If you have a map of your state and a map of your town, which map would show your house in greater detail?",
+    "correct": "The map of your town",
     "options": [
-      "New York is closer to the North Pole than Delhi.",
-      "They are in the same time zone.",
-      "Delhi is warmer than New York.",
-      "They are on opposite sides of the Prime Meridian."
+      "The map of your state",
+      "The map of your town",
+      "Both would show the same level of detail",
+      "Neither would show your house"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Geography Application",
-    "complexity_score": 2
-  },
-  {
-    "question": "How do you turn 'I would like to drink water' into a negative statement?",
-    "correct": "I would not like to drink water.",
-    "options": [
-      "I would like to not drink water.",
-      "I would not like to drink water.",
-      "I not would like to drink water.",
-      "I don't would like to drink water."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Modal Verbs (Negative)",
-    "complexity_score": 2
-  },
-  {
-    "question": "Why is it a problem if a monitor doesn't write down their sister's name for talking?",
-    "correct": "It is unfair to others and encourages the sister to misbehave.",
-    "options": [
-      "Because the sister might get mad at the monitor.",
-      "It is a good way to show you love your sister.",
-      "Because the teacher will not trust the monitor anymore.",
-      "It is unfair to others and encourages the sister to misbehave."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Ethical Analysis",
+    "topic": "Map Scale and Detail",
     "complexity_score": 3
   },
   {
-    "question": "The sentence 'You should have taken lunch on time' means...",
-    "correct": "You did not take lunch on time, and it was a mistake.",
+    "question": "The lesson mentions representing areas from a village, to a district, to the whole world. What key idea about maps does this progression demonstrate?",
+    "correct": "Maps can be created at many different scales",
     "options": [
-      "You will take lunch on time in the future.",
-      "You might take lunch on time.",
-      "You are taking lunch on time right now.",
-      "You did not take lunch on time, and it was a mistake."
+      "Maps are only useful for large areas",
+      "Only one map can exist for each place",
+      "Villages are more important than the world",
+      "Maps can be created at many different scales"
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs (Past Regret/Advice)",
+    "topic": "Concept of Scale",
     "complexity_score": 3
   },
   {
-    "question": "Why is the verb 'gone' used in 'I could have gone' instead of 'went' or 'go'?",
-    "correct": "The 'have' requires the third form (past participle) of the verb.",
+    "question": "Why is 'a map is a representation' a more accurate statement than 'a map is a picture'?",
+    "correct": "Because 'representation' implies it's a symbolic drawing with a specific purpose and scale",
     "options": [
-      "Because the action is in the future.",
-      "Because 'could' is a past tense verb.",
-      "The 'have' requires the third form (past participle) of the verb.",
-      "It is an irregular verb."
+      "Because maps are never in color like pictures are",
+      "Because 'picture' means it was taken with a camera",
+      "Because 'representation' implies it's a symbolic drawing with a specific purpose and scale",
+      "Because maps can only show drawings, not photos"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammar Rules",
-    "complexity_score": 3
+    "topic": "Analysis of Terminology",
+    "complexity_score": 4
   },
   {
-    "question": "What is the most important quality of a leader, based on the discussion about the class monitor?",
-    "correct": "Seeing everyone as equal and being impartial.",
+    "question": "If an ant drew a map of a single floor tile from its 'top-down' perspective, would this fit the definition of a map discussed in class?",
+    "correct": "Yes, because it's a representation of a specific area from a top-down view",
     "options": [
-      "Being the smartest person in the class.",
-      "Having many friends and being popular.",
-      "Being strong and telling people what to do.",
-      "Seeing everyone as equal and being impartial."
+      "No, because the area is too small to be a map",
+      "No, because ants cannot draw",
+      "Yes, because it's a representation of a specific area from a top-down view",
+      "No, because maps must show villages or larger areas"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Leadership Principles",
-    "complexity_score": 3
+    "topic": "Conceptual Application",
+    "complexity_score": 4
   },
   {
-    "question": "The teacher suggested the student stop writing only about 'my sister' or 'my brother.' What was the main purpose of this advice?",
-    "correct": "To encourage creativity and push the student to explore new ideas.",
+    "question": "What is a major limitation of a map based on the 'viewing it from the top' perspective?",
+    "correct": "It cannot show the height of buildings or mountains accurately",
     "options": [
-      "Because the teacher was bored of those topics.",
-      "To encourage creativity and push the student to explore new ideas.",
-      "Because writing about family is wrong.",
-      "To make the homework harder to complete."
+      "It cannot show roads or rivers",
+      "It cannot be used for navigation",
+      "It is always inaccurate",
+      "It cannot show the height of buildings or mountains accurately"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition & Creativity",
-    "complexity_score": 3
+    "topic": "Critical Analysis of Perspective",
+    "complexity_score": 4
   },
   {
-    "question": "If you are at the 0° longitude line (Prime Meridian) and you travel to Tokyo (140° E), what does this mean?",
-    "correct": "You have traveled Eastward a significant distance around the globe.",
+    "question": "Two maps show the same country. One is on a small postcard, and the other is on a large wall poster. What must be different between these two representations?",
+    "correct": "The scale and the level of detail they can display",
     "options": [
-      "You have traveled towards the North Pole.",
-      "You are now closer to New York.",
-      "You have traveled Eastward a significant distance around theglobe.",
-      "You have crossed the Equator."
+      "The country they are showing",
+      "The top-down perspective",
+      "The scale and the level of detail they can display",
+      "The fact that one is a drawing and the other is not"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Geography Synthesis",
-    "complexity_score": 3
+    "topic": "Advanced Scale Concepts",
+    "complexity_score": 5
+  },
+  {
+    "question": "The lesson heading is 'A map and its components'. What can you infer is the main goal of this chapter?",
+    "correct": "To break down what a map is and understand its different parts and features",
+    "options": [
+      "To learn how to draw a map of the whole world",
+      "To memorize the names of all map components",
+      "To prove that maps are better than globes",
+      "To break down what a map is and understand its different parts and features"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Metacognitive Analysis",
+    "complexity_score": 5
+  },
+  {
+    "question": "If you are 'viewing the surface from the top', what are you most likely IGNORING about the area being mapped?",
+    "correct": "What is happening inside the buildings or underground",
+    "options": [
+      "The location of major roads",
+      "The shape of the country's border",
+      "The names of cities and towns",
+      "What is happening inside the buildings or underground"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Inferential Thinking",
+    "complexity_score": 5
   }
 ]
