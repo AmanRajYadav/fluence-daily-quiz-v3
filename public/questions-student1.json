@@ -1,12 +1,12 @@
 [
   {
-    "question": "According to the lesson, what is the primary definition of a map?",
-    "correct": "A representation or a drawing of an area",
+    "question": "According to the lesson, what is the main definition of a map?",
+    "correct": "A representation or a drawing",
     "options": [
-      "A photograph taken from a satellite",
-      "A representation or a drawing of an area",
-      "A physical model of a city",
-      "A list of directions to a place"
+      "A photograph of a place",
+      "A list of directions",
+      "A representation or a drawing",
+      "A globe of the world"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -14,13 +14,27 @@
     "complexity_score": 1
   },
   {
-    "question": "Which of the following is an example of a 'small area' that a map can show?",
+    "question": "The lesson's dictation was from a chapter titled 'A map and its...'",
+    "correct": "components",
+    "options": [
+      "colors",
+      "components",
+      "countries",
+      "compass"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Lesson Content",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which of these is an example of a 'small area' that a map can show?",
     "correct": "A village or a town",
     "options": [
       "A continent",
-      "The entire world",
+      "The whole world",
       "A village or a town",
-      "A country"
+      "A country like India"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -28,13 +42,13 @@
     "complexity_score": 1
   },
   {
-    "question": "What kind of perspective does a map give you, as described in the class?",
-    "correct": "As if you are viewing it from the top",
+    "question": "When you look at a map, from what perspective are you viewing the surface?",
+    "correct": "From the top",
     "options": [
-      "As if you are standing on the street",
-      "As if you are looking at it from the side",
-      "As if you are underground",
-      "As if you are viewing it from the top"
+      "From the side",
+      "From underneath",
+      "From an angle",
+      "From the top"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -42,27 +56,13 @@
     "complexity_score": 1
   },
   {
-    "question": "A map of a district or a state would be considered a representation of what kind of area?",
-    "correct": "A bigger area",
-    "options": [
-      "A small area",
-      "A bigger area",
-      "A very large area",
-      "A micro area"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Map Scale",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which of these is given as an example of a 'very large area' a map can represent?",
+    "question": "What is an example of a 'very large area' a map can represent?",
     "correct": "The whole world",
     "options": [
-      "A school campus",
+      "Your district",
       "A single town",
-      "A local park",
-      "The whole world"
+      "The whole world",
+      "A village"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -70,69 +70,55 @@
     "complexity_score": 1
   },
   {
-    "question": "The lesson explains that a map is a 'representation'. What does this mean?",
-    "correct": "It's a drawing that stands for a real place",
+    "question": "Which word from the lesson means 'a drawing that shows what something is like'?",
+    "correct": "Representation",
     "options": [
-      "It is the actual place itself",
-      "It's a drawing that stands for a real place",
-      "It's an exact-size copy of a place",
-      "It is always a photograph"
+      "Component",
+      "District",
+      "Representation",
+      "Bracket"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Definition of a Map",
+    "topic": "Vocabulary",
     "complexity_score": 1
   },
   {
-    "question": "If you wanted to create a map of your house and your neighbor's house, which category of area would it fall into?",
-    "correct": "A small area",
+    "question": "If you wanted to create a drawing of your school as seen by a bird flying overhead, what would you be making?",
+    "correct": "A map",
     "options": [
-      "A very large area",
-      "A bigger area",
-      "A small area",
-      "A global area"
+      "A photograph",
+      "A blueprint",
+      "A list",
+      "A map"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Map Application",
+    "topic": "Application of Concepts",
     "complexity_score": 2
   },
   {
-    "question": "Why is it possible for a map to show 'the whole world' on a piece of paper?",
-    "correct": "Because it is a scaled-down drawing, not the actual size",
+    "question": "Why can a map show both a tiny village and the entire world?",
+    "correct": "Because maps can be drawn to represent areas of different sizes.",
     "options": [
-      "Because the world is actually very small",
-      "Because paper can stretch to any size",
-      "Because it only shows the names of countries",
-      "Because it is a scaled-down drawing, not the actual size"
+      "Because all villages are part of the world.",
+      "Because maps use different colors for different places.",
+      "Because maps can be folded to become smaller.",
+      "Because maps can be drawn to represent areas of different sizes."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Concept of Representation",
+    "topic": "Map Scale",
     "complexity_score": 2
   },
   {
-    "question": "A map of a country like India and a map of a single city are different because they represent...",
-    "correct": "different sizes of areas.",
+    "question": "The phrase 'as if you are viewing it from the top' helps explain why...",
+    "correct": "objects on a map look flat.",
     "options": [
-      "...different types of people.",
-      "...different planets.",
-      "...different sizes of areas.",
-      "...different time periods."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Comparing Map Scales",
-    "complexity_score": 2
-  },
-  {
-    "question": "The phrase 'viewing it from the top' suggests that on a map, you would see the...",
-    "correct": "roofs of houses and the layout of streets.",
-    "options": [
-      "...doors and windows of buildings.",
-      "...people walking on the sidewalks.",
-      "...roofs of houses and the layout of streets.",
-      "...insides of the buildings."
+      "maps are always printed on paper.",
+      "objects on a map look flat.",
+      "maps are hard to read.",
+      "maps can only show small areas."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -140,143 +126,157 @@
     "complexity_score": 2
   },
   {
-    "question": "Which of these items would NOT be considered a map, based on the definition from the lesson?",
-    "correct": "A story written about a trip to a town",
+    "question": "A map of a 'district or state' would be considered a representation of a...",
+    "correct": "bigger area.",
     "options": [
-      "A drawing of your school's layout",
-      "A floor plan of your apartment",
-      "A story written about a trip to a town",
-      "A globe showing all the continents"
+      "small area.",
+      "very large area.",
+      "bigger area.",
+      "global area."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Map Scale",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the key difference between a map of your town and a photograph of your town taken from an airplane?",
+    "correct": "A map is a simplified drawing, while a photo shows every detail.",
+    "options": [
+      "There is no difference.",
+      "A map uses color, but a photograph does not.",
+      "A map is a simplified drawing, while a photo shows every detail.",
+      "A photograph is always bigger than a map."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
     "topic": "Definition of a Map",
-    "complexity_score": 2
-  },
-  {
-    "question": "A map's 'components' are its different parts. Based on the lesson, what are the most fundamental components being discussed?",
-    "correct": "The area being represented and the perspective of the drawing",
-    "options": [
-      "The color of the paper and the type of pen used",
-      "The area being represented and the perspective of the drawing",
-      "The name of the map maker and the date it was made",
-      "The price of the map and the store where it was sold"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Map Components",
-    "complexity_score": 2
-  },
-  {
-    "question": "If you have a map of your state and a map of your town, which map would show your house in greater detail?",
-    "correct": "The map of your town",
-    "options": [
-      "The map of your state",
-      "The map of your town",
-      "Both would show the same level of detail",
-      "Neither would show your house"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Map Scale and Detail",
     "complexity_score": 3
   },
   {
-    "question": "The lesson mentions representing areas from a village, to a district, to the whole world. What key idea about maps does this progression demonstrate?",
-    "correct": "Maps can be created at many different scales",
+    "question": "The lesson mentions that 'components' are the parts of a map. Which of the following is most likely a 'component' of a map?",
+    "correct": "A key or legend that explains symbols",
     "options": [
-      "Maps are only useful for large areas",
-      "Only one map can exist for each place",
-      "Villages are more important than the world",
-      "Maps can be created at many different scales"
+      "The price of the map",
+      "The name of the person who drew it",
+      "A key or legend that explains symbols",
+      "The paper it is printed on"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Concept of Scale",
+    "topic": "Analysis",
     "complexity_score": 3
   },
   {
-    "question": "Why is 'a map is a representation' a more accurate statement than 'a map is a picture'?",
-    "correct": "Because 'representation' implies it's a symbolic drawing with a specific purpose and scale",
+    "question": "Which of these tasks would be MOST difficult to do using a map that shows the 'whole world'?",
+    "correct": "Finding the location of your house",
     "options": [
-      "Because maps are never in color like pictures are",
-      "Because 'picture' means it was taken with a camera",
-      "Because 'representation' implies it's a symbolic drawing with a specific purpose and scale",
-      "Because maps can only show drawings, not photos"
+      "Comparing the size of two continents",
+      "Finding the location of India",
+      "Seeing the shape of the oceans",
+      "Finding the location of your house"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Application of Map Scale",
+    "complexity_score": 3
+  },
+  {
+    "question": "The teacher had to break down the spelling of 'components' (com-po-nents). This strategy works by focusing on...",
+    "correct": "the sounds each part of the word makes.",
+    "options": [
+      "the definition of the word.",
+      "the sounds each part of the word makes.",
+      "how many letters are in the word.",
+      "a different word that means the same thing."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Metacognition (Learning Strategies)",
+    "complexity_score": 2
+  },
+  {
+    "question": "Based on the lesson, what is the primary function of a map?",
+    "correct": "To visually represent a physical area on a flat surface.",
+    "options": [
+      "To tell a story about a place.",
+      "To visually represent a physical area on a flat surface.",
+      "To list all the people who live in a town.",
+      "To show the weather of a specific region."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analysis of Terminology",
+    "topic": "Critical Thinking",
     "complexity_score": 4
   },
   {
-    "question": "If an ant drew a map of a single floor tile from its 'top-down' perspective, would this fit the definition of a map discussed in class?",
-    "correct": "Yes, because it's a representation of a specific area from a top-down view",
+    "question": "Why is it impossible for a map of a town to be a perfect, 100% accurate 'representation' of the real town?",
+    "correct": "It must shrink a 3D space onto a 2D surface, losing some detail.",
     "options": [
-      "No, because the area is too small to be a map",
-      "No, because ants cannot draw",
-      "Yes, because it's a representation of a specific area from a top-down view",
-      "No, because maps must show villages or larger areas"
+      "Because the people who draw maps always make mistakes.",
+      "Because towns change too quickly to be mapped.",
+      "It must shrink a 3D space onto a 2D surface, losing some detail.",
+      "Because paper is not strong enough to hold a real town."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Conceptual Application",
-    "complexity_score": 4
-  },
-  {
-    "question": "What is a major limitation of a map based on the 'viewing it from the top' perspective?",
-    "correct": "It cannot show the height of buildings or mountains accurately",
-    "options": [
-      "It cannot show roads or rivers",
-      "It cannot be used for navigation",
-      "It is always inaccurate",
-      "It cannot show the height of buildings or mountains accurately"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Critical Analysis of Perspective",
-    "complexity_score": 4
-  },
-  {
-    "question": "Two maps show the same country. One is on a small postcard, and the other is on a large wall poster. What must be different between these two representations?",
-    "correct": "The scale and the level of detail they can display",
-    "options": [
-      "The country they are showing",
-      "The top-down perspective",
-      "The scale and the level of detail they can display",
-      "The fact that one is a drawing and the other is not"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Advanced Scale Concepts",
+    "topic": "Limitations of Maps",
     "complexity_score": 5
   },
   {
-    "question": "The lesson heading is 'A map and its components'. What can you infer is the main goal of this chapter?",
-    "correct": "To break down what a map is and understand its different parts and features",
+    "question": "The concept of a map representing a 'small area' or a 'very large area' is most closely related to the idea of...",
+    "correct": "Scale",
     "options": [
-      "To learn how to draw a map of the whole world",
-      "To memorize the names of all map components",
-      "To prove that maps are better than globes",
-      "To break down what a map is and understand its different parts and features"
+      "Direction",
+      "Symbols",
+      "Color",
+      "Scale"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognitive Analysis",
+    "topic": "Connecting Concepts",
+    "complexity_score": 4
+  },
+  {
+    "question": "If a map is a 'representation,' what does this imply about the information it presents?",
+    "correct": "It is simplified and selective to be useful.",
+    "options": [
+      "It is always completely true and without error.",
+      "It contains every single detail of the area.",
+      "It is simplified and selective to be useful.",
+      "It is only an artistic opinion."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Analysis of Definitions",
+    "complexity_score": 4
+  },
+  {
+    "question": "The teacher states, 'in a map, you look at the surface as if you are viewing it from the top.' This perspective is essential for...",
+    "correct": "understanding the spatial relationship between different objects.",
+    "options": [
+      "seeing the color of the buildings.",
+      "counting all the trees in a forest.",
+      "understanding the spatial relationship between different objects.",
+      "knowing the temperature of the area."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Purpose of Perspective",
     "complexity_score": 5
   },
   {
-    "question": "If you are 'viewing the surface from the top', what are you most likely IGNORING about the area being mapped?",
-    "correct": "What is happening inside the buildings or underground",
+    "question": "How does the leadership quality of 'no partiality' relate to being a good map-maker?",
+    "correct": "A good map-maker represents all areas accurately without favoring one over another.",
     "options": [
-      "The location of major roads",
-      "The shape of the country's border",
-      "The names of cities and towns",
-      "What is happening inside the buildings or underground"
+      "It doesn't relate at all.",
+      "A good map-maker only draws the important parts of a town.",
+      "A good map-maker represents all areas accurately without favoring one over another.",
+      "A map-maker must treat all colors equally."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Inferential Thinking",
+    "topic": "Analogical Reasoning",
     "complexity_score": 5
   }
 ]
