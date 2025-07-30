@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the story, what does the word 'miser' mean?",
-    "correct": "Someone who loves to save money but hates to spend it",
+    "question": "What is the correct value for the square of 9?",
+    "correct": "81",
     "options": [
-      "A person who works in a garden",
-      "Someone who is very unlucky",
-      "A wise neighbor who gives good advice",
-      "Someone who loves to save money but hates to spend it"
+      "18",
+      "90",
+      "81",
+      "9"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Reading Comprehension",
+    "topic": "Basic Arithmetic",
     "complexity_score": 1
   },
   {
-    "question": "What is the definition of a 'conductor' of heat?",
-    "correct": "A material that allows heat to pass through it easily",
+    "question": "In geometry, what is a 'point'?",
+    "correct": "An exact location in space with no size or dimension.",
     "options": [
-      "A material that shines brightly",
-      "A material that dissolves in water",
-      "A material that does not allow heat to pass through it",
-      "A material that allows heat to pass through it easily"
+      "A small dot drawn with a pencil.",
+      "The shortest distance between two locations.",
+      "An exact location in space with no size or dimension.",
+      "A line that stops."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Properties of Materials",
+    "topic": "Geometric Definitions",
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, what are the vertical lines on a map called?",
-    "correct": "Longitude",
+    "question": "What is the result of 87 minus 24?",
+    "correct": "63",
     "options": [
-      "Latitude",
-      "Equator",
-      "Coordinates",
-      "Longitude"
+      "63",
+      "53",
+      "111",
+      "64"
     ],
     "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Basic Arithmetic",
+    "complexity_score": 1
+  },
+  {
+    "question": "What number value represents the longitude of the Prime Meridian, which passes through Greenwich?",
+    "correct": "0 degrees",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "0 degrees",
+      "360 degrees"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Geography",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which of these best describes a 'line' in geometry?",
+    "correct": "A straight path that continues forever in both directions.",
+    "options": [
+      "A straight path with two endpoints.",
+      "A curved path.",
+      "A straight path that continues forever in both directions.",
+      "A single location in space."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Geometric Definitions",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which of these best describes a 'line segment'?",
+    "correct": "A part of a line with two distinct endpoints.",
+    "options": [
+      "A line that goes on forever.",
+      "A part of a line with two distinct endpoints.",
+      "A dot on a page.",
+      "A curved shape."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Geometric Definitions",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the main difference between a line and a line segment?",
+    "correct": "A line is infinite, while a line segment has a fixed length.",
+    "options": [
+      "A line is straight, while a line segment is curved.",
+      "A line has one endpoint, while a line segment has two.",
+      "There is no difference.",
+      "A line is infinite, while a line segment has a fixed length."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Geometric Comparisons",
+    "complexity_score": 2
+  },
+  {
+    "question": "If it is 4 o'clock, what will the angle be between the minute hand and the hour hand after exactly 2 hours (at 6 o'clock)?",
+    "correct": "180 degrees",
+    "options": [
+      "90 degrees",
+      "120 degrees",
+      "180 degrees",
+      "60 degrees"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Angles and Time",
+    "complexity_score": 2
+  },
+  {
+    "question": "What would be the next number in the pattern: 7, 14, 21, 28, ...?",
+    "correct": "35",
+    "options": [
+      "34",
+      "35",
+      "29",
+      "42"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Number Patterns",
+    "complexity_score": 2
+  },
+  {
+    "question": "The Guardian in the 'Forest of Lines and Angles' has friends named Point, Line, and Line Segment. If you wanted to measure the distance between two of her friends, which one would you be measuring?",
+    "correct": "A line segment",
+    "options": [
+      "A point",
+      "A line",
+      "A ray",
+      "A line segment"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Applied Geometry",
+    "complexity_score": 3
+  },
+  {
+    "question": "The Prime Meridian is the starting point for measuring longitude. What is its primary purpose in global navigation and timekeeping?",
+    "correct": "It serves as the universal reference line for all other longitudes and time zones.",
+    "options": [
+      "It is the longest line on Earth.",
+      "It marks the hottest part of the planet.",
+      "It separates the Northern and Southern Hemispheres.",
+      "It serves as the universal reference line for all other longitudes and time zones."
+    ],
+    "difficulty": "medium",
     "questionType": "mcq",
     "topic": "Geography Concepts",
-    "complexity_score": 1
+    "complexity_score": 3
   },
   {
-    "question": "The ability of a substance, like sugar, to dissolve in a liquid is called...",
-    "correct": "Solubility",
+    "question": "An edge of a book is a real-world example of what geometric concept?",
+    "correct": "A line segment",
     "options": [
-      "Density",
-      "Lustre",
-      "Conductivity",
-      "Solubility"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Properties of Materials",
-    "complexity_score": 1
-  },
-  {
-    "question": "What are the two common things that ALL materials have?",
-    "correct": "They all have mass and occupy space (volume)",
-    "options": [
-      "They are all shiny and hard",
-      "They all sink in water and are magnetic",
-      "They can all be seen through and conduct electricity",
-      "They all have mass and occupy space (volume)"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Properties of Materials",
-    "complexity_score": 1
-  },
-  {
-    "question": "On a chessboard, if '4' represents latitude and 'D' represents longitude, what is '4D'?",
-    "correct": "A coordinate",
-    "options": [
-      "A type of chess piece",
-      "The color of the square",
-      "A game rule",
-      "A coordinate"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Geography Concepts",
-    "complexity_score": 1
-  },
-  {
-    "question": "Why did the neighbor advise the miser to put a stone in the hole where the gold used to be?",
-    "correct": "Because the miser only looked at his gold and never used it, so a stone would serve the same purpose.",
-    "options": [
-      "Because the stone was more valuable than the gold.",
-      "To trick the thief into stealing a worthless stone.",
-      "Because the neighbor wanted the gold for himself.",
-      "Because the miser only looked at his gold and never used it, so a stone would serve the same purpose."
+      "A point",
+      "A line",
+      "A ray",
+      "A line segment"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Reading Comprehension",
+    "topic": "Applied Geometry",
     "complexity_score": 2
   },
   {
-    "question": "If an object sinks in water, what can we conclude about its density?",
-    "correct": "It is more dense than water.",
+    "question": "A beam of light from a flashlight that continues endlessly into space is most like which geometric figure?",
+    "correct": "A ray",
     "options": [
-      "It is less dense than water.",
-      "It has the same density as water.",
-      "Its density cannot be determined from this information.",
-      "It is more dense than water."
+      "A point",
+      "A line segment",
+      "A ray",
+      "A line"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Properties of Materials",
-    "complexity_score": 2
+    "topic": "Geometric Comparisons",
+    "complexity_score": 3
   },
   {
-    "question": "The tutor explained that in a completely empty room, the volume is high. What does this imply about the room's density?",
-    "correct": "The density is very low.",
+    "question": "If a pattern increases by the same amount each time, and the first four numbers are 11, 19, 27, 35, what is the rule?",
+    "correct": "Add 8",
     "options": [
-      "The density is very high.",
-      "The density is equal to the volume.",
-      "The density does not change.",
-      "The density is very low."
+      "Add 11",
+      "Multiply by 2",
+      "Add 8",
+      "Subtract 8"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Properties of Materials",
-    "complexity_score": 2
+    "topic": "Number Patterns",
+    "complexity_score": 3
   },
   {
-    "question": "How did the miser in the story spend his time in the garden every day?",
-    "correct": "He would dig up his gold and embrace it.",
+    "question": "Which of the following statements is FALSE?",
+    "correct": "A line has two endpoints.",
     "options": [
-      "He was planting flowers and vegetables.",
-      "He was counting his money out in the open.",
-      "He was building a fence to protect his property.",
-      "He would dig up his gold and embrace it."
+      "A point has no dimensions.",
+      "A line has two endpoints.",
+      "A line segment is a part of a line.",
+      "A line goes on infinitely in two directions."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Reading Comprehension",
-    "complexity_score": 2
+    "topic": "Geometric Analysis",
+    "complexity_score": 4
   },
   {
-    "question": "A small, heavy phone sinks in water, while a large, light piece of paper floats. What does this demonstrate about mass and volume?",
-    "correct": "An object with less volume can have more mass.",
-    "options": [
-      "Objects with more mass always have more volume.",
-      "Mass and volume are the exact same thing.",
-      "Only objects with low mass can float.",
-      "An object with less volume can have more mass."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Properties of Materials",
-    "complexity_score": 2
-  },
-  {
-    "question": "The tutor explained that the Earth rotates 360° in 24 hours. How many degrees does the Earth rotate in just one hour?",
-    "correct": "15 degrees",
+    "question": "A clock is a circle of 360 degrees. If the hour hand moves from 12 to 3, how many degrees has it rotated?",
+    "correct": "90 degrees",
     "options": [
       "30 degrees",
-      "24 degrees",
-      "360 degrees",
-      "15 degrees"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Geography & Math",
-    "complexity_score": 2
-  },
-  {
-    "question": "A material that does NOT allow heat to pass through it, like the plastic handle on a hot pan, is called...",
-    "correct": "An insulator",
-    "options": [
-      "A conductor",
-      "A solute",
-      "Lustrous",
-      "An insulator"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Properties of Materials",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the key difference between the 'old' way of answering reading questions (for classes 1-5) and the 'new' way required for class 6th?",
-    "correct": "The new way requires understanding the full meaning, while the old way was just about finding matching sentences.",
-    "options": [
-      "The new way is to copy the answer directly from the text.",
-      "The old way required writing answers in your own words.",
-      "There is no difference between the two methods.",
-      "The new way requires understanding the full meaning, while the old way was just about finding matching sentences."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Metacognition & Learning",
-    "complexity_score": 2
-  },
-  {
-    "question": "The tutor said that in advanced reading passages, the answers are 'invisible'. What does this most likely mean?",
-    "correct": "The answers must be inferred by understanding the context, not just found in a single sentence.",
-    "options": [
-      "The answers are written in a special ink that you cannot see.",
-      "The answers are not actually in the story and you have to guess.",
-      "The answers are always in the title of the story.",
-      "The answers must be inferred by understanding the context, not just found in a single sentence."
+      "60 degrees",
+      "90 degrees",
+      "120 degrees"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition & Learning",
-    "complexity_score": 3
+    "topic": "Angles and Time",
+    "complexity_score": 4
   },
   {
-    "question": "If the Prime Meridian is at 0° longitude, and a city is at 45° East longitude, what is the time difference between that city and the Prime Meridian?",
-    "correct": "The city is 3 hours ahead.",
+    "question": "If you draw two separate points on a piece of paper, how many distinct straight lines can you draw that pass through BOTH points?",
+    "correct": "Exactly one",
     "options": [
-      "The city is 3 hours behind.",
-      "There is no time difference.",
-      "The city is 45 hours ahead.",
-      "The city is 3 hours ahead."
+      "Zero",
+      "Exactly one",
+      "Exactly two",
+      "An infinite number"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Geography & Math",
-    "complexity_score": 3
+    "topic": "Geometric Principles",
+    "complexity_score": 4
   },
   {
-    "question": "The tutor explained that India's time is 5.5 hours ahead of Greenwich Mean Time (GMT). This is a direct result of India's...",
-    "correct": "Longitude",
+    "question": "Why is it impossible to measure the 'length' of a geometric line?",
+    "correct": "Because a line extends infinitely in both directions and has no end.",
     "options": [
-      "Latitude",
-      "Population density",
-      "Total land area",
-      "Longitude"
+      "Because we don't have a long enough ruler.",
+      "Because a line is too thin to be measured.",
+      "Because a line is actually a collection of points.",
+      "Because a line extends infinitely in both directions and has no end."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Geography Concepts",
-    "complexity_score": 3
+    "topic": "Conceptual Geometry",
+    "complexity_score": 4
   },
   {
-    "question": "The lesson described two rooms of the exact same size (same volume). One is full of furniture and the other is empty. This was an analogy to explain...",
-    "correct": "How density relates to the amount of matter packed into a space.",
+    "question": "A city is located at 30° West longitude. Another city is at 20° East longitude. What is the total difference in degrees of longitude between them?",
+    "correct": "50 degrees",
     "options": [
-      "How to measure the length of a room.",
-      "The difference between magnetic and non-magnetic materials.",
-      "Why some materials are soluble.",
-      "How density relates to the amount of matter packed into a space."
+      "10 degrees",
+      "50 degrees",
+      "30 degrees",
+      "20 degrees"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Properties of Materials",
-    "complexity_score": 3
+    "topic": "Geography Calculation",
+    "complexity_score": 5
   },
   {
-    "question": "Why is 'just finding answers by looking at the sentence' a flawed strategy for complex texts?",
-    "correct": "Because complex texts require you to understand the author's purpose and connect ideas, which are not always stated directly.",
+    "question": "If you start with the number 100, subtract the square of 9, and then add the result of (7 x 5), what is your final answer?",
+    "correct": "54",
     "options": [
-      "Because the sentences in complex texts are too long to read.",
-      "Because teachers will mark it wrong even if the sentence is correct.",
-      "Because it is faster to just guess the answer.",
-      "Because complex texts require you to understand the author's purpose and connect ideas, which are not always stated directly."
+      "19",
+      "54",
+      "46",
+      "24"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition & Learning",
-    "complexity_score": 3
-  },
-  {
-    "question": "The tutor used a chessboard to explain coordinates. What is the most important similarity between a chessboard grid and the Earth's grid of latitude and longitude?",
-    "correct": "Both systems use intersecting horizontal and vertical lines to identify an exact, unique location.",
-    "options": [
-      "Both systems have 64 squares and are used for a game.",
-      "Both systems are used to measure time differences.",
-      "Both systems have pieces that can only move in certain directions.",
-      "Both systems use intersecting horizontal and vertical lines to identify an exact, unique location."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Geography Concepts",
-    "complexity_score": 3
+    "topic": "Multi-step Arithmetic",
+    "complexity_score": 5
   }
 ]
