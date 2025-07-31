@@ -1,40 +1,68 @@
 [
   {
-    "question": "What is the name of the reference line for longitude, which passes through Greenwich, London?",
-    "correct": "The Prime Meridian",
-    "options": [
-      "The Equator",
-      "The Tropic of Cancer",
-      "The Prime Meridian",
-      "The International Date Line"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Longitude and Latitude",
-    "complexity_score": 1
-  },
-  {
-    "question": "Latitude is the measurement of a place's distance from which reference line?",
+    "question": "What is the name of the imaginary line that runs horizontally around the middle of the Earth at 0 degrees latitude?",
     "correct": "The Equator",
     "options": [
       "The Prime Meridian",
+      "The Tropic of Cancer",
       "The Equator",
-      "The North Pole",
       "The International Date Line"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Longitude and Latitude",
+    "topic": "Latitude and Longitude Basics",
     "complexity_score": 1
   },
   {
-    "question": "The Earth rotates approximately how many degrees every hour?",
+    "question": "The Prime Meridian, which is the reference line for longitude, passes through which city?",
+    "correct": "Greenwich, UK",
+    "options": [
+      "Paris, France",
+      "Ujjain, India",
+      "Greenwich, UK",
+      "New York, USA"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Latitude and Longitude Basics",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the maximum value for latitude, which is found at the North and South Poles?",
+    "correct": "90 degrees",
+    "options": [
+      "180 degrees",
+      "360 degrees",
+      "45 degrees",
+      "90 degrees"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Latitude and Longitude Basics",
+    "complexity_score": 1
+  },
+  {
+    "question": "In the class activity using Google Earth, what two pieces of information were needed to find an exact location like Ujjain?",
+    "correct": "A latitude coordinate and a longitude coordinate",
+    "options": [
+      "A city name and a country name",
+      "A latitude coordinate and a longitude coordinate",
+      "A direction (North/South) and a distance in kilometers",
+      "A time zone and a map scale"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Coordinates",
+    "complexity_score": 1
+  },
+  {
+    "question": "How many degrees does the Earth rotate in approximately one hour?",
     "correct": "15 degrees",
     "options": [
-      "10 degrees",
+      "1 degree",
+      "4 degrees",
       "15 degrees",
-      "30 degrees",
-      "1 degree"
+      "30 degrees"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -42,69 +70,69 @@
     "complexity_score": 1
   },
   {
-    "question": "In which ancient Indian city was a prime meridian once considered for astronomical calculations?",
-    "correct": "Ujjain",
+    "question": "As discussed for map making, if 1 centimeter on a map represents 100 kilometers in reality, what is this relationship called?",
+    "correct": "The scale",
     "options": [
-      "Delhi",
-      "Mumbai",
-      "Ujjain",
-      "Kolkata"
+      "The coordinates",
+      "The legend",
+      "The scale",
+      "The compass rose"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "History of Navigation",
+    "topic": "Map Skills",
     "complexity_score": 1
   },
   {
-    "question": "Longitude is measured as a full circle, totaling how many degrees?",
-    "correct": "360 degrees",
-    "options": [
-      "90 degrees",
-      "180 degrees",
-      "360 degrees",
-      "100 degrees"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Longitude and Latitude",
-    "complexity_score": 1
-  },
-  {
-    "question": "If a ship starts at 20° North, 70° East and sails to 25° North, 75° East, what general direction is it traveling?",
+    "question": "A ship starts at 20°N, 70°E and sails to a new position at 25°N, 75°E. In which general direction did the ship travel?",
     "correct": "Northeast",
     "options": [
       "Southwest",
       "Southeast",
-      "Northeast",
-      "Northwest"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Navigation with Coordinates",
-    "complexity_score": 1
-  },
-  {
-    "question": "If a city is at 60° East longitude, and it takes 2 hours for the sunrise to reach a new longitude, how many degrees has the Earth rotated?",
-    "correct": "30 degrees",
-    "options": [
-      "15 degrees",
-      "60 degrees",
-      "30 degrees",
-      "90 degrees"
+      "Northwest",
+      "Northeast"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Earth's Rotation and Time",
+    "topic": "Applying Coordinates",
     "complexity_score": 2
   },
   {
-    "question": "A treasure map shows coordinates of 40° North, 100° West. In which continent would you begin your search?",
+    "question": "If it is 12:00 PM (Noon) in the ancient Indian city of Ujjain (approx. 75°E), what would be the approximate time at the Prime Meridian (0°)?",
+    "correct": "7:00 AM",
+    "options": [
+      "5:00 PM",
+      "7:00 PM",
+      "7:00 AM",
+      "12:00 PM (Noon)"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Time Zone Calculation",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why can longitude values go up to 360 degrees, while latitude values can only go up to 90 degrees?",
+    "correct": "Longitude measures a full circle around the Earth, while latitude measures from the Equator to a pole.",
+    "options": [
+      "Longitude is more important than latitude for navigation.",
+      "The Earth is wider than it is tall.",
+      "Longitude measures a full circle around the Earth, while latitude measures from the Equator to a pole.",
+      "It's an old rule from ancient maps that was never changed."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Conceptual Understanding of Latitude and Longitude",
+    "complexity_score": 2
+  },
+  {
+    "question": "Based on the lesson, if you are told to find a location at 40°N, 100°W, which continent would you be searching in?",
     "correct": "North America",
     "options": [
       "South America",
       "Europe",
-      "Asia",
-      "North America"
+      "North America",
+      "Asia"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -112,171 +140,143 @@
     "complexity_score": 2
   },
   {
-    "question": "If 1 cm on a map represents 100 km in reality, what is the actual distance between two cities that are 3 cm apart on the map?",
-    "correct": "300 km",
+    "question": "A city at 60°E longitude experiences the sunrise. After the Earth rotates for two hours (30°), which longitude is now experiencing sunrise?",
+    "correct": "30°E",
     "options": [
-      "30 km",
-      "103 km",
-      "3 km",
-      "300 km"
+      "90°E",
+      "60°E",
+      "30°E",
+      "30°W"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Map Scaling",
+    "topic": "Earth's Rotation and Time",
+    "complexity_score": 3
+  },
+  {
+    "question": "How are degrees of longitude and hours of time fundamentally connected?",
+    "correct": "Earth's constant rotation means a specific number of degrees equals a specific amount of time.",
+    "options": [
+      "They are two separate systems that happen to use similar numbers.",
+      "The length of an hour was decided based on the size of the Earth.",
+      "Earth's constant rotation means a specific number of degrees equals a specific amount of time.",
+      "Clocks were invented by people who were also mapmakers."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Time Zones",
     "complexity_score": 2
   },
   {
-    "question": "What is the name of the longitude line that is exactly opposite the Prime Meridian (0° longitude)?",
+    "question": "A riddle in the class mentioned the line opposite to the Prime Meridian. What is the name of this line, located at approximately 180° longitude?",
     "correct": "The International Date Line",
     "options": [
       "The Equator",
-      "The Prime Meridian",
       "The International Date Line",
-      "The Tropic of Capricorn"
+      "The Tropic of Capricorn",
+      "The Anti-Meridian"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Longitude and Latitude",
+    "topic": "Geographic Features",
     "complexity_score": 2
   },
   {
-    "question": "Why can latitude only have a maximum value of 90° North or 90° South, while longitude goes up to 360°?",
-    "correct": "Because latitude is measured from the Equator to the poles, which is a quarter of a circle.",
+    "question": "If you have a map with a scale of 1 cm = 50 km, and two places are 4.5 cm apart, what is the actual distance?",
+    "correct": "225 km",
     "options": [
-      "Because the Earth is wider than it is tall.",
-      "Because latitude is measured from the Equator to the poles, which is a quarter of a circle.",
-      "Because historical mapmakers decided it that way.",
-      "Because longitude lines are longer than latitude lines."
+      "450 km",
+      "54.5 km",
+      "225 km",
+      "112.5 km"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Longitude and Latitude",
+    "topic": "Map Skills",
+    "complexity_score": 2
+  },
+  {
+    "question": "An ancient treasure map claims a chest is buried at 25°N, 190°E. Why is this location impossible to plot on a standard world map?",
+    "correct": "Longitude only goes up to 180° East or West.",
+    "options": [
+      "Latitude cannot be 25° North.",
+      "Treasure chests are not found at those coordinates.",
+      "The East can't be paired with the North.",
+      "Longitude only goes up to 180° East or West."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Critical Analysis of Coordinates",
     "complexity_score": 3
   },
   {
-    "question": "The time at the Prime Meridian (0° longitude) is 12:00 PM (Noon). What is the time at a location 40° East longitude? (Remember: 1° = 4 minutes)",
-    "correct": "2:40 PM",
+    "question": "If it is 5:00 PM at 45°E longitude, what would the time be at 15°W longitude?",
+    "correct": "1:00 PM",
     "options": [
-      "12:40 PM",
-      "2:40 PM",
-      "4:00 PM",
-      "9:20 AM"
+      "9:00 PM",
+      "1:00 PM",
+      "1:00 AM",
+      "8:00 PM"
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Calculating Time Zones",
+    "topic": "Advanced Time Zone Calculation",
+    "complexity_score": 4
+  },
+  {
+    "question": "Why is it more practical for a large country like India to have one Indian Standard Time (IST) instead of each city using its local time based on the sun?",
+    "correct": "It simplifies schedules for trains, flights, and business, avoiding nationwide confusion.",
+    "options": [
+      "It's too difficult to calculate the local time for every city.",
+      "It saves the government money on clocks.",
+      "The sun rises at the same time everywhere in India.",
+      "It simplifies schedules for trains, flights, and business, avoiding nationwide confusion."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Application of Time Zones",
     "complexity_score": 3
   },
   {
-    "question": "A point in geometry is a fundamental concept because:",
-    "correct": "It has a position but no size (length, width, or height).",
+    "question": "Two cities, Cairo (30°N) and Cape Town (34°S), are both located near the 30°E line of longitude. Which of the following is true about their local time?",
+    "correct": "Their local time will be approximately the same.",
     "options": [
-      "It is always drawn with a sharp pencil.",
-      "It has a position but no size (length, width, or height).",
-      "It connects two lines together.",
-      "It can only be at the center of a circle."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Geometry Basics",
-    "complexity_score": 2
-  },
-  {
-    "question": "A line extends infinitely in both directions. What is the name for a part of a line that has one starting point and extends infinitely in one direction?",
-    "correct": "A ray",
-    "options": [
-      "A line segment",
-      "An angle",
-      "A point",
-      "A ray"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Geometry Basics",
-    "complexity_score": 2
-  },
-  {
-    "question": "The time in Ujjain (approx. 75° East) is 12:00 PM (Noon). What would the approximate time be at the Prime Meridian (0° longitude)?",
-    "correct": "7:00 AM",
-    "options": [
-      "5:00 PM",
-      "12:00 PM",
-      "7:00 AM",
-      "5:00 AM"
+      "Cairo will be several hours ahead of Cape Town.",
+      "Cape Town will be several hours ahead of Cairo.",
+      "Their local time will be approximately the same.",
+      "Their time depends on the season, not longitude."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Calculating Time Zones",
+    "topic": "Longitude vs. Latitude in Time",
     "complexity_score": 4
   },
   {
-    "question": "A place at 60° East experiences sunrise. After the Earth rotates 30 degrees, which longitude is now experiencing sunrise?",
-    "correct": "30° East",
+    "question": "The teacher explained that Ujjain was used as a reference point (an ancient prime meridian) by Indian astronomers. What does this imply about their understanding of the Earth?",
+    "correct": "They understood the Earth was a sphere and needed a zero-point for calculations.",
     "options": [
-      "90° East",
-      "60° East",
-      "30° East",
-      "30° West"
+      "They believed Ujjain was the center of the universe.",
+      "They understood the Earth was a sphere and needed a zero-point for calculations.",
+      "They only used maps that showed India.",
+      "They did not know about Greenwich, UK."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Earth's Rotation and Time",
+    "topic": "Historical Context of Geography",
     "complexity_score": 4
   },
   {
-    "question": "Why is it more practical for a large country like India to have one standard time (IST) rather than multiple local times based on longitude?",
-    "correct": "To avoid confusion and simplify coordination for things like train schedules and business.",
+    "question": "If a location is at 0° latitude and 0° longitude, where is it?",
+    "correct": "At the intersection of the Equator and the Prime Meridian",
     "options": [
-      "Because the sun rises at the same time everywhere in India.",
-      "To avoid confusion and simplify coordination for things like train schedules and business.",
-      "Because all of India is on the same longitude.",
-      "It is a law left over from ancient astronomers."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Time Zones and Society",
-    "complexity_score": 4
-  },
-  {
-    "question": "You are at the intersection of 0° latitude and 0° longitude. Where are you?",
-    "correct": "In the Atlantic Ocean",
-    "options": [
-      "In Greenwich, London",
       "At the North Pole",
-      "In the Atlantic Ocean",
-      "In the center of Africa"
+      "At the South Pole",
+      "At the center of the Earth",
+      "At the intersection of the Equator and the Prime Meridian"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Applying Coordinates",
+    "topic": "Synthesizing Concepts",
     "complexity_score": 3
-  },
-  {
-    "question": "An angle is acute. When you multiply its measure by 4, it is still acute. When you multiply its measure by 5, it becomes obtuse. Which of the following could be its measure?",
-    "correct": "20 degrees",
-    "options": [
-      "15 degrees",
-      "25 degrees",
-      "20 degrees",
-      "10 degrees"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Angle Properties",
-    "complexity_score": 4
-  },
-  {
-    "question": "If Ujjain (approx. 75°E) is 5 hours ahead of the Prime Meridian (0°), what would be the time at a city located at 75°W, if the time in Ujjain is 12:00 PM (Noon)?",
-    "correct": "2:00 AM",
-    "options": [
-      "7:00 AM",
-      "10:00 PM",
-      "5:00 PM",
-      "2:00 AM"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Calculating Time Zones",
-    "complexity_score": 5
   }
 ]
