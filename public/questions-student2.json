@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the correct value for the square of 9?",
-    "correct": "81",
+    "question": "What is the name of the reference line for longitude, which passes through Greenwich, London?",
+    "correct": "The Prime Meridian",
     "options": [
-      "18",
-      "90",
-      "81",
-      "9"
+      "The Equator",
+      "The Tropic of Cancer",
+      "The Prime Meridian",
+      "The International Date Line"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Basic Arithmetic",
+    "topic": "Longitude and Latitude",
     "complexity_score": 1
   },
   {
-    "question": "In geometry, what is a 'point'?",
-    "correct": "An exact location in space with no size or dimension.",
+    "question": "Latitude is the measurement of a place's distance from which reference line?",
+    "correct": "The Equator",
     "options": [
-      "A small dot drawn with a pencil.",
-      "The shortest distance between two locations.",
-      "An exact location in space with no size or dimension.",
-      "A line that stops."
+      "The Prime Meridian",
+      "The Equator",
+      "The North Pole",
+      "The International Date Line"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geometric Definitions",
+    "topic": "Longitude and Latitude",
     "complexity_score": 1
   },
   {
-    "question": "What is the result of 87 minus 24?",
-    "correct": "63",
-    "options": [
-      "63",
-      "53",
-      "111",
-      "64"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Basic Arithmetic",
-    "complexity_score": 1
-  },
-  {
-    "question": "What number value represents the longitude of the Prime Meridian, which passes through Greenwich?",
-    "correct": "0 degrees",
-    "options": [
-      "90 degrees",
-      "180 degrees",
-      "0 degrees",
-      "360 degrees"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Geography",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which of these best describes a 'line' in geometry?",
-    "correct": "A straight path that continues forever in both directions.",
-    "options": [
-      "A straight path with two endpoints.",
-      "A curved path.",
-      "A straight path that continues forever in both directions.",
-      "A single location in space."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Geometric Definitions",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which of these best describes a 'line segment'?",
-    "correct": "A part of a line with two distinct endpoints.",
-    "options": [
-      "A line that goes on forever.",
-      "A part of a line with two distinct endpoints.",
-      "A dot on a page.",
-      "A curved shape."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Geometric Definitions",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the main difference between a line and a line segment?",
-    "correct": "A line is infinite, while a line segment has a fixed length.",
-    "options": [
-      "A line is straight, while a line segment is curved.",
-      "A line has one endpoint, while a line segment has two.",
-      "There is no difference.",
-      "A line is infinite, while a line segment has a fixed length."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Geometric Comparisons",
-    "complexity_score": 2
-  },
-  {
-    "question": "If it is 4 o'clock, what will the angle be between the minute hand and the hour hand after exactly 2 hours (at 6 o'clock)?",
-    "correct": "180 degrees",
-    "options": [
-      "90 degrees",
-      "120 degrees",
-      "180 degrees",
-      "60 degrees"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Angles and Time",
-    "complexity_score": 2
-  },
-  {
-    "question": "What would be the next number in the pattern: 7, 14, 21, 28, ...?",
-    "correct": "35",
-    "options": [
-      "34",
-      "35",
-      "29",
-      "42"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Number Patterns",
-    "complexity_score": 2
-  },
-  {
-    "question": "The Guardian in the 'Forest of Lines and Angles' has friends named Point, Line, and Line Segment. If you wanted to measure the distance between two of her friends, which one would you be measuring?",
-    "correct": "A line segment",
-    "options": [
-      "A point",
-      "A line",
-      "A ray",
-      "A line segment"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Applied Geometry",
-    "complexity_score": 3
-  },
-  {
-    "question": "The Prime Meridian is the starting point for measuring longitude. What is its primary purpose in global navigation and timekeeping?",
-    "correct": "It serves as the universal reference line for all other longitudes and time zones.",
-    "options": [
-      "It is the longest line on Earth.",
-      "It marks the hottest part of the planet.",
-      "It separates the Northern and Southern Hemispheres.",
-      "It serves as the universal reference line for all other longitudes and time zones."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Geography Concepts",
-    "complexity_score": 3
-  },
-  {
-    "question": "An edge of a book is a real-world example of what geometric concept?",
-    "correct": "A line segment",
-    "options": [
-      "A point",
-      "A line",
-      "A ray",
-      "A line segment"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Applied Geometry",
-    "complexity_score": 2
-  },
-  {
-    "question": "A beam of light from a flashlight that continues endlessly into space is most like which geometric figure?",
-    "correct": "A ray",
-    "options": [
-      "A point",
-      "A line segment",
-      "A ray",
-      "A line"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Geometric Comparisons",
-    "complexity_score": 3
-  },
-  {
-    "question": "If a pattern increases by the same amount each time, and the first four numbers are 11, 19, 27, 35, what is the rule?",
-    "correct": "Add 8",
-    "options": [
-      "Add 11",
-      "Multiply by 2",
-      "Add 8",
-      "Subtract 8"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Number Patterns",
-    "complexity_score": 3
-  },
-  {
-    "question": "Which of the following statements is FALSE?",
-    "correct": "A line has two endpoints.",
-    "options": [
-      "A point has no dimensions.",
-      "A line has two endpoints.",
-      "A line segment is a part of a line.",
-      "A line goes on infinitely in two directions."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Geometric Analysis",
-    "complexity_score": 4
-  },
-  {
-    "question": "A clock is a circle of 360 degrees. If the hour hand moves from 12 to 3, how many degrees has it rotated?",
-    "correct": "90 degrees",
-    "options": [
-      "30 degrees",
-      "60 degrees",
-      "90 degrees",
-      "120 degrees"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Angles and Time",
-    "complexity_score": 4
-  },
-  {
-    "question": "If you draw two separate points on a piece of paper, how many distinct straight lines can you draw that pass through BOTH points?",
-    "correct": "Exactly one",
-    "options": [
-      "Zero",
-      "Exactly one",
-      "Exactly two",
-      "An infinite number"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Geometric Principles",
-    "complexity_score": 4
-  },
-  {
-    "question": "Why is it impossible to measure the 'length' of a geometric line?",
-    "correct": "Because a line extends infinitely in both directions and has no end.",
-    "options": [
-      "Because we don't have a long enough ruler.",
-      "Because a line is too thin to be measured.",
-      "Because a line is actually a collection of points.",
-      "Because a line extends infinitely in both directions and has no end."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Conceptual Geometry",
-    "complexity_score": 4
-  },
-  {
-    "question": "A city is located at 30° West longitude. Another city is at 20° East longitude. What is the total difference in degrees of longitude between them?",
-    "correct": "50 degrees",
+    "question": "The Earth rotates approximately how many degrees every hour?",
+    "correct": "15 degrees",
     "options": [
       "10 degrees",
-      "50 degrees",
+      "15 degrees",
       "30 degrees",
-      "20 degrees"
+      "1 degree"
     ],
-    "difficulty": "hard",
+    "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geography Calculation",
-    "complexity_score": 5
+    "topic": "Earth's Rotation and Time",
+    "complexity_score": 1
   },
   {
-    "question": "If you start with the number 100, subtract the square of 9, and then add the result of (7 x 5), what is your final answer?",
-    "correct": "54",
+    "question": "In which ancient Indian city was a prime meridian once considered for astronomical calculations?",
+    "correct": "Ujjain",
     "options": [
-      "19",
-      "54",
-      "46",
-      "24"
+      "Delhi",
+      "Mumbai",
+      "Ujjain",
+      "Kolkata"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "History of Navigation",
+    "complexity_score": 1
+  },
+  {
+    "question": "Longitude is measured as a full circle, totaling how many degrees?",
+    "correct": "360 degrees",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "360 degrees",
+      "100 degrees"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Longitude and Latitude",
+    "complexity_score": 1
+  },
+  {
+    "question": "If a ship starts at 20° North, 70° East and sails to 25° North, 75° East, what general direction is it traveling?",
+    "correct": "Northeast",
+    "options": [
+      "Southwest",
+      "Southeast",
+      "Northeast",
+      "Northwest"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Navigation with Coordinates",
+    "complexity_score": 1
+  },
+  {
+    "question": "If a city is at 60° East longitude, and it takes 2 hours for the sunrise to reach a new longitude, how many degrees has the Earth rotated?",
+    "correct": "30 degrees",
+    "options": [
+      "15 degrees",
+      "60 degrees",
+      "30 degrees",
+      "90 degrees"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Earth's Rotation and Time",
+    "complexity_score": 2
+  },
+  {
+    "question": "A treasure map shows coordinates of 40° North, 100° West. In which continent would you begin your search?",
+    "correct": "North America",
+    "options": [
+      "South America",
+      "Europe",
+      "Asia",
+      "North America"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Applying Coordinates",
+    "complexity_score": 2
+  },
+  {
+    "question": "If 1 cm on a map represents 100 km in reality, what is the actual distance between two cities that are 3 cm apart on the map?",
+    "correct": "300 km",
+    "options": [
+      "30 km",
+      "103 km",
+      "3 km",
+      "300 km"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Map Scaling",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the name of the longitude line that is exactly opposite the Prime Meridian (0° longitude)?",
+    "correct": "The International Date Line",
+    "options": [
+      "The Equator",
+      "The Prime Meridian",
+      "The International Date Line",
+      "The Tropic of Capricorn"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Longitude and Latitude",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why can latitude only have a maximum value of 90° North or 90° South, while longitude goes up to 360°?",
+    "correct": "Because latitude is measured from the Equator to the poles, which is a quarter of a circle.",
+    "options": [
+      "Because the Earth is wider than it is tall.",
+      "Because latitude is measured from the Equator to the poles, which is a quarter of a circle.",
+      "Because historical mapmakers decided it that way.",
+      "Because longitude lines are longer than latitude lines."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Longitude and Latitude",
+    "complexity_score": 3
+  },
+  {
+    "question": "The time at the Prime Meridian (0° longitude) is 12:00 PM (Noon). What is the time at a location 40° East longitude? (Remember: 1° = 4 minutes)",
+    "correct": "2:40 PM",
+    "options": [
+      "12:40 PM",
+      "2:40 PM",
+      "4:00 PM",
+      "9:20 AM"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Calculating Time Zones",
+    "complexity_score": 3
+  },
+  {
+    "question": "A point in geometry is a fundamental concept because:",
+    "correct": "It has a position but no size (length, width, or height).",
+    "options": [
+      "It is always drawn with a sharp pencil.",
+      "It has a position but no size (length, width, or height).",
+      "It connects two lines together.",
+      "It can only be at the center of a circle."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Geometry Basics",
+    "complexity_score": 2
+  },
+  {
+    "question": "A line extends infinitely in both directions. What is the name for a part of a line that has one starting point and extends infinitely in one direction?",
+    "correct": "A ray",
+    "options": [
+      "A line segment",
+      "An angle",
+      "A point",
+      "A ray"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Geometry Basics",
+    "complexity_score": 2
+  },
+  {
+    "question": "The time in Ujjain (approx. 75° East) is 12:00 PM (Noon). What would the approximate time be at the Prime Meridian (0° longitude)?",
+    "correct": "7:00 AM",
+    "options": [
+      "5:00 PM",
+      "12:00 PM",
+      "7:00 AM",
+      "5:00 AM"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Multi-step Arithmetic",
+    "topic": "Calculating Time Zones",
+    "complexity_score": 4
+  },
+  {
+    "question": "A place at 60° East experiences sunrise. After the Earth rotates 30 degrees, which longitude is now experiencing sunrise?",
+    "correct": "30° East",
+    "options": [
+      "90° East",
+      "60° East",
+      "30° East",
+      "30° West"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Earth's Rotation and Time",
+    "complexity_score": 4
+  },
+  {
+    "question": "Why is it more practical for a large country like India to have one standard time (IST) rather than multiple local times based on longitude?",
+    "correct": "To avoid confusion and simplify coordination for things like train schedules and business.",
+    "options": [
+      "Because the sun rises at the same time everywhere in India.",
+      "To avoid confusion and simplify coordination for things like train schedules and business.",
+      "Because all of India is on the same longitude.",
+      "It is a law left over from ancient astronomers."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Time Zones and Society",
+    "complexity_score": 4
+  },
+  {
+    "question": "You are at the intersection of 0° latitude and 0° longitude. Where are you?",
+    "correct": "In the Atlantic Ocean",
+    "options": [
+      "In Greenwich, London",
+      "At the North Pole",
+      "In the Atlantic Ocean",
+      "In the center of Africa"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Applying Coordinates",
+    "complexity_score": 3
+  },
+  {
+    "question": "An angle is acute. When you multiply its measure by 4, it is still acute. When you multiply its measure by 5, it becomes obtuse. Which of the following could be its measure?",
+    "correct": "20 degrees",
+    "options": [
+      "15 degrees",
+      "25 degrees",
+      "20 degrees",
+      "10 degrees"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Angle Properties",
+    "complexity_score": 4
+  },
+  {
+    "question": "If Ujjain (approx. 75°E) is 5 hours ahead of the Prime Meridian (0°), what would be the time at a city located at 75°W, if the time in Ujjain is 12:00 PM (Noon)?",
+    "correct": "2:00 AM",
+    "options": [
+      "7:00 AM",
+      "10:00 PM",
+      "5:00 PM",
+      "2:00 AM"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Calculating Time Zones",
     "complexity_score": 5
   }
 ]
