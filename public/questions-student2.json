@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the name of the imaginary line that runs horizontally around the middle of the Earth at 0 degrees latitude?",
-    "correct": "The Equator",
+    "question": "What are the naturally occurring magnets, used by sailors in ancient times, called?",
+    "correct": "Lodestones",
     "options": [
-      "The Prime Meridian",
-      "The Tropic of Cancer",
-      "The Equator",
-      "The International Date Line"
+      "Compass stones",
+      "Iron rocks",
+      "Lodestones",
+      "Earth magnets"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Latitude and Longitude Basics",
+    "topic": "Magnets and their Properties",
     "complexity_score": 1
   },
   {
-    "question": "The Prime Meridian, which is the reference line for longitude, passes through which city?",
-    "correct": "Greenwich, UK",
+    "question": "According to the lesson, what are the two ends of a bar magnet called?",
+    "correct": "Poles",
     "options": [
-      "Paris, France",
-      "Ujjain, India",
-      "Greenwich, UK",
-      "New York, USA"
+      "Points",
+      "Terminals",
+      "Edges",
+      "Poles"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Latitude and Longitude Basics",
+    "topic": "Magnets and their Properties",
     "complexity_score": 1
   },
   {
-    "question": "What is the maximum value for latitude, which is found at the North and South Poles?",
-    "correct": "90 degrees",
+    "question": "Which of these materials was identified in the class as being magnetic?",
+    "correct": "Iron",
     "options": [
-      "180 degrees",
-      "360 degrees",
-      "45 degrees",
-      "90 degrees"
+      "Wood",
+      "Rubber",
+      "Iron",
+      "Plastic"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Latitude and Longitude Basics",
+    "topic": "Magnets and their Properties",
     "complexity_score": 1
   },
   {
-    "question": "In the class activity using Google Earth, what two pieces of information were needed to find an exact location like Ujjain?",
-    "correct": "A latitude coordinate and a longitude coordinate",
+    "question": "In the story, what device did Reshma learn that sailors used for direction when the sky was cloudy?",
+    "correct": "A magnetic compass",
     "options": [
-      "A city name and a country name",
-      "A latitude coordinate and a longitude coordinate",
-      "A direction (North/South) and a distance in kilometers",
-      "A time zone and a map scale"
+      "A telescope",
+      "A map made of stars",
+      "A magnetic compass",
+      "A special kind of bird"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Coordinates",
+    "topic": "Magnets and their Properties",
     "complexity_score": 1
   },
   {
-    "question": "How many degrees does the Earth rotate in approximately one hour?",
-    "correct": "15 degrees",
+    "question": "Materials that are NOT attracted to a magnet, like glass or cloth, are called what?",
+    "correct": "Non-magnetic materials",
     "options": [
-      "1 degree",
-      "4 degrees",
-      "15 degrees",
-      "30 degrees"
+      "Magnetic materials",
+      "Insulators",
+      "Non-magnetic materials",
+      "Artificial materials"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Earth's Rotation and Time",
+    "topic": "Magnets and their Properties",
     "complexity_score": 1
   },
   {
-    "question": "As discussed for map making, if 1 centimeter on a map represents 100 kilometers in reality, what is this relationship called?",
-    "correct": "The scale",
+    "question": "What are magnets made by humans, such as those found in toys and speakers, called?",
+    "correct": "Artificial magnets",
     "options": [
-      "The coordinates",
-      "The legend",
-      "The scale",
-      "The compass rose"
+      "Lodestones",
+      "Natural magnets",
+      "Artificial magnets",
+      "Temporary magnets"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Map Skills",
+    "topic": "Magnets and their Properties",
     "complexity_score": 1
   },
   {
-    "question": "A ship starts at 20°N, 70°E and sails to a new position at 25°N, 75°E. In which general direction did the ship travel?",
-    "correct": "Northeast",
+    "question": "Why do iron filings tend to stick most densely to the ends of a bar magnet?",
+    "correct": "The magnetic force is strongest at the poles.",
     "options": [
-      "Southwest",
-      "Southeast",
-      "Northwest",
-      "Northeast"
+      "The ends are stickier than the middle.",
+      "The middle of the magnet repels iron.",
+      "The magnetic force is strongest at the poles.",
+      "The ends are heavier."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Applying Coordinates",
-    "complexity_score": 2
+    "topic": "Magnets and their Properties",
+    "complexity_score": 1
   },
   {
-    "question": "If it is 12:00 PM (Noon) in the ancient Indian city of Ujjain (approx. 75°E), what would be the approximate time at the Prime Meridian (0°)?",
-    "correct": "7:00 AM",
+    "question": "In the story of Reshma, why couldn't the sailors use stars to find their direction?",
+    "correct": "A storm created an overcast sky, hiding the stars.",
     "options": [
-      "5:00 PM",
-      "7:00 PM",
-      "7:00 AM",
-      "12:00 PM (Noon)"
+      "They forgot how to read the stars.",
+      "They were in the southern hemisphere.",
+      "It was daytime.",
+      "A storm created an overcast sky, hiding the stars."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Time Zone Calculation",
-    "complexity_score": 2
+    "topic": "Magnets and their Properties",
+    "complexity_score": 1
   },
   {
-    "question": "Why can longitude values go up to 360 degrees, while latitude values can only go up to 90 degrees?",
-    "correct": "Longitude measures a full circle around the Earth, while latitude measures from the Equator to a pole.",
+    "question": "What did the experiment with iron filings demonstrate about the area around a magnet?",
+    "correct": "It has an invisible field of force that forms a pattern.",
     "options": [
-      "Longitude is more important than latitude for navigation.",
-      "The Earth is wider than it is tall.",
-      "Longitude measures a full circle around the Earth, while latitude measures from the Equator to a pole.",
-      "It's an old rule from ancient maps that was never changed."
+      "Magnets are only powerful when touching an object.",
+      "Magnets are hot.",
+      "Iron filings are not magnetic.",
+      "It has an invisible field of force that forms a pattern."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Conceptual Understanding of Latitude and Longitude",
-    "complexity_score": 2
+    "topic": "Magnets and their Properties",
+    "complexity_score": 1
   },
   {
-    "question": "Based on the lesson, if you are told to find a location at 40°N, 100°W, which continent would you be searching in?",
-    "correct": "North America",
+    "question": "Based on the lesson, what is the key difference between the term 'human' and 'human being'?",
+    "correct": "'Human' refers to the species, while 'human being' includes a person's identity and dignity.",
     "options": [
-      "South America",
-      "Europe",
-      "North America",
-      "Asia"
+      "There is no difference; they are exactly the same.",
+      "'Human' is a scientific term and 'human being' is not.",
+      "'Human' refers to the species, while 'human being' includes a person's identity and dignity.",
+      "'Human being' refers to someone who is alive, and 'human' refers to someone who is not."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Applying Coordinates",
-    "complexity_score": 2
+    "topic": "Magnets and their Properties",
+    "complexity_score": 1
   },
   {
-    "question": "A city at 60°E longitude experiences the sunrise. After the Earth rotates for two hours (30°), which longitude is now experiencing sunrise?",
-    "correct": "30°E",
+    "question": "If you have a bar magnet and a ring magnet, will the iron filings create the same pattern around both?",
+    "correct": "No, the pattern of the magnetic field is different for different shapes.",
     "options": [
-      "90°E",
-      "60°E",
-      "30°E",
-      "30°W"
+      "Yes, all magnets create the exact same pattern.",
+      "No, the pattern of the magnetic field is different for different shapes.",
+      "Only if they are the same size.",
+      "The ring magnet will not attract iron filings."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Earth's Rotation and Time",
-    "complexity_score": 3
+    "topic": "Magnets and their Properties",
+    "complexity_score": 1
   },
   {
-    "question": "How are degrees of longitude and hours of time fundamentally connected?",
-    "correct": "Earth's constant rotation means a specific number of degrees equals a specific amount of time.",
+    "question": "What happens to the poles if you break a bar magnet in half?",
+    "correct": "You get two smaller magnets, each with its own north and south pole.",
     "options": [
-      "They are two separate systems that happen to use similar numbers.",
-      "The length of an hour was decided based on the size of the Earth.",
-      "Earth's constant rotation means a specific number of degrees equals a specific amount of time.",
-      "Clocks were invented by people who were also mapmakers."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Time Zones",
-    "complexity_score": 2
-  },
-  {
-    "question": "A riddle in the class mentioned the line opposite to the Prime Meridian. What is the name of this line, located at approximately 180° longitude?",
-    "correct": "The International Date Line",
-    "options": [
-      "The Equator",
-      "The International Date Line",
-      "The Tropic of Capricorn",
-      "The Anti-Meridian"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Geographic Features",
-    "complexity_score": 2
-  },
-  {
-    "question": "If you have a map with a scale of 1 cm = 50 km, and two places are 4.5 cm apart, what is the actual distance?",
-    "correct": "225 km",
-    "options": [
-      "450 km",
-      "54.5 km",
-      "225 km",
-      "112.5 km"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Map Skills",
-    "complexity_score": 2
-  },
-  {
-    "question": "An ancient treasure map claims a chest is buried at 25°N, 190°E. Why is this location impossible to plot on a standard world map?",
-    "correct": "Longitude only goes up to 180° East or West.",
-    "options": [
-      "Latitude cannot be 25° North.",
-      "Treasure chests are not found at those coordinates.",
-      "The East can't be paired with the North.",
-      "Longitude only goes up to 180° East or West."
+      "One piece becomes the north pole and the other becomes the south pole.",
+      "The pieces are no longer magnetic.",
+      "You get two smaller magnets, each with its own north and south pole.",
+      "Both pieces become north poles."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Critical Analysis of Coordinates",
-    "complexity_score": 3
+    "topic": "Magnets and their Properties",
+    "complexity_score": 1
   },
   {
-    "question": "If it is 5:00 PM at 45°E longitude, what would the time be at 15°W longitude?",
-    "correct": "1:00 PM",
+    "question": "The lesson states that a single north pole or south pole cannot exist by itself. What does this imply?",
+    "correct": "Magnetic poles always exist in pairs.",
     "options": [
-      "9:00 PM",
-      "1:00 PM",
-      "1:00 AM",
-      "8:00 PM"
+      "Magnets lose their power if you find one pole.",
+      "Magnetic poles always exist in pairs.",
+      "You can only have a north pole or a south pole, but not both.",
+      "Scientists are still trying to find a single pole."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Advanced Time Zone Calculation",
-    "complexity_score": 4
+    "topic": "Magnets and their Properties",
+    "complexity_score": 1
   },
   {
-    "question": "Why is it more practical for a large country like India to have one Indian Standard Time (IST) instead of each city using its local time based on the sun?",
-    "correct": "It simplifies schedules for trains, flights, and business, avoiding nationwide confusion.",
+    "question": "The teacher mentioned that a speaker contains a magnet. Why might bringing another strong magnet close to a speaker damage it?",
+    "correct": "The external magnetic field can interfere with the internal magnet's function.",
     "options": [
-      "It's too difficult to calculate the local time for every city.",
-      "It saves the government money on clocks.",
-      "The sun rises at the same time everywhere in India.",
-      "It simplifies schedules for trains, flights, and business, avoiding nationwide confusion."
+      "Two magnets will always shatter when they get close.",
+      "The speaker's plastic will melt.",
+      "The external magnetic field can interfere with the internal magnet's function.",
+      "Magnets absorb sound waves."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Application of Time Zones",
-    "complexity_score": 3
+    "topic": "Magnets and their Properties",
+    "complexity_score": 1
   },
   {
-    "question": "Two cities, Cairo (30°N) and Cape Town (34°S), are both located near the 30°E line of longitude. Which of the following is true about their local time?",
-    "correct": "Their local time will be approximately the same.",
+    "question": "Reshma's journey to learn about magnets began after she simply noticed them in everyday objects. What does this tell us about scientific discovery?",
+    "correct": "It often begins with simple curiosity and observation of the world.",
     "options": [
-      "Cairo will be several hours ahead of Cape Town.",
-      "Cape Town will be several hours ahead of Cairo.",
-      "Their local time will be approximately the same.",
-      "Their time depends on the season, not longitude."
+      "You need expensive equipment to make any discovery.",
+      "All scientific discoveries are made by accident.",
+      "It often begins with simple curiosity and observation of the world.",
+      "Scientific discovery is only possible in a library."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Longitude vs. Latitude in Time",
-    "complexity_score": 4
+    "topic": "Magnets and their Properties",
+    "complexity_score": 1
   },
   {
-    "question": "The teacher explained that Ujjain was used as a reference point (an ancient prime meridian) by Indian astronomers. What does this imply about their understanding of the Earth?",
-    "correct": "They understood the Earth was a sphere and needed a zero-point for calculations.",
+    "question": "Why is it more scientific to test if a copper wire is magnetic with a magnet, rather than just assuming it isn't?",
+    "correct": "Direct observation and experimentation are necessary to confirm a scientific fact.",
     "options": [
-      "They believed Ujjain was the center of the universe.",
-      "They understood the Earth was a sphere and needed a zero-point for calculations.",
-      "They only used maps that showed India.",
-      "They did not know about Greenwich, UK."
+      "All metals are magnetic, so there is no need to test.",
+      "Guessing is faster and usually correct.",
+      "Copper is too expensive to use in experiments.",
+      "Direct observation and experimentation are necessary to confirm a scientific fact."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Historical Context of Geography",
-    "complexity_score": 4
+    "topic": "Magnets and their Properties",
+    "complexity_score": 1
   },
   {
-    "question": "If a location is at 0° latitude and 0° longitude, where is it?",
-    "correct": "At the intersection of the Equator and the Prime Meridian",
+    "question": "Based on the lesson, what is a major advantage of artificial magnets over natural lodestones?",
+    "correct": "They can be made in various specific shapes and strengths for different uses.",
     "options": [
-      "At the North Pole",
-      "At the South Pole",
-      "At the center of the Earth",
-      "At the intersection of the Equator and the Prime Meridian"
+      "They are much older than lodestones.",
+      "They are found in nature more easily.",
+      "They only have one pole, which is more useful.",
+      "They can be made in various specific shapes and strengths for different uses."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Synthesizing Concepts",
-    "complexity_score": 3
+    "topic": "Magnets and their Properties",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which set of materials contains ONLY magnetic items mentioned or inferred in the lesson?",
+    "correct": "An iron nail, a steel paperclip, a cobalt piece",
+    "options": [
+      "A wooden plank, a rubber band, a glass marble",
+      "An iron nail, a steel paperclip, a cobalt piece",
+      "A copper wire, a plastic ruler, a paper sheet",
+      "A wax candle, a cloth, an aluminum pin"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Magnets and their Properties",
+    "complexity_score": 1
+  },
+  {
+    "question": "What conclusion did you draw from the activity where different objects were brought near a magnet?",
+    "correct": "Some materials, like iron, are attracted to magnets, while others, like wood and plastic, are not.",
+    "options": [
+      "All objects are attracted to magnets.",
+      "Only heavy objects are attracted to magnets.",
+      "Some materials, like iron, are attracted to magnets, while others, like wood and plastic, are not.",
+      "Magnets only attract other magnets."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Magnets and their Properties",
+    "complexity_score": 1
+  },
+  {
+    "question": "Based on the \"human being\" discussion, why might we refer to a respected historical figure who is no longer alive as a 'great human being'?",
+    "correct": "Because their identity, dignity, and impact are what 'human being' refers to, and that continues after death.",
+    "options": [
+      "It's just a grammatical mistake.",
+      "The term 'human' can only be used for living people.",
+      "Because their identity, dignity, and impact are what 'human being' refers to, and that continues after death.",
+      "It is a scientific classification for historical figures."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Magnets and their Properties",
+    "complexity_score": 1
   }
 ]
