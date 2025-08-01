@@ -1,282 +1,282 @@
 [
   {
-    "question": "What are the naturally occurring magnets, used by sailors in ancient times, called?",
-    "correct": "Lodestones",
+    "question": "What is the name for the naturally occurring magnets discovered in ancient times?",
+    "correct": "Loadstones",
     "options": [
-      "Compass stones",
-      "Iron rocks",
-      "Lodestones",
-      "Earth magnets"
+      "Bar magnets",
+      "Ring stones",
+      "Loadstones",
+      "Compass rocks"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Magnets and their Properties",
+    "topic": "History of Magnets",
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, what are the two ends of a bar magnet called?",
-    "correct": "Poles",
-    "options": [
-      "Points",
-      "Terminals",
-      "Edges",
-      "Poles"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which of these materials was identified in the class as being magnetic?",
-    "correct": "Iron",
-    "options": [
-      "Wood",
-      "Rubber",
-      "Iron",
-      "Plastic"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
-  },
-  {
-    "question": "In the story, what device did Reshma learn that sailors used for direction when the sky was cloudy?",
+    "question": "In the story, what device did Reshma learn that sailors used to find directions during a storm?",
     "correct": "A magnetic compass",
     "options": [
-      "A telescope",
-      "A map made of stars",
+      "A star chart",
+      "A digital compass",
       "A magnetic compass",
-      "A special kind of bird"
+      "A loadstone"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Magnets and their Properties",
+    "topic": "Applications of Magnets",
     "complexity_score": 1
   },
   {
-    "question": "Materials that are NOT attracted to a magnet, like glass or cloth, are called what?",
+    "question": "What are the materials that are NOT attracted to a magnet called?",
     "correct": "Non-magnetic materials",
     "options": [
       "Magnetic materials",
-      "Insulators",
+      "Metal materials",
       "Non-magnetic materials",
-      "Artificial materials"
+      "Loadstone materials"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Magnets and their Properties",
+    "topic": "Magnetic Properties",
     "complexity_score": 1
   },
   {
-    "question": "What are magnets made by humans, such as those found in toys and speakers, called?",
+    "question": "What are the two ends of a bar magnet called?",
+    "correct": "Poles",
+    "options": [
+      "Points",
+      "Tips",
+      "Poles",
+      "Ends"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Poles of a Magnet",
+    "complexity_score": 1
+  },
+  {
+    "question": "Based on the lesson, which of these items would likely be attracted to a magnet?",
+    "correct": "Iron nail",
+    "options": [
+      "Wooden plank",
+      "Plastic ruler",
+      "Rubber eraser",
+      "Iron nail"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Magnetic vs. Non-Magnetic Materials",
+    "complexity_score": 1
+  },
+  {
+    "question": "Magnets found in school labs and toys are typically which type?",
     "correct": "Artificial magnets",
     "options": [
-      "Lodestones",
       "Natural magnets",
+      "Loadstones",
       "Artificial magnets",
-      "Temporary magnets"
+      "Compass magnets"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Magnets and their Properties",
+    "topic": "Types of Magnets",
     "complexity_score": 1
   },
   {
-    "question": "Why do iron filings tend to stick most densely to the ends of a bar magnet?",
-    "correct": "The magnetic force is strongest at the poles.",
+    "question": "Why couldn't the sailors in Reshma's story use the stars to find their way?",
+    "correct": "The sky was overcast with clouds from a storm.",
     "options": [
-      "The ends are stickier than the middle.",
-      "The middle of the magnet repels iron.",
-      "The magnetic force is strongest at the poles.",
-      "The ends are heavier."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
-  },
-  {
-    "question": "In the story of Reshma, why couldn't the sailors use stars to find their direction?",
-    "correct": "A storm created an overcast sky, hiding the stars.",
-    "options": [
-      "They forgot how to read the stars.",
-      "They were in the southern hemisphere.",
+      "They forgot their star charts.",
       "It was daytime.",
-      "A storm created an overcast sky, hiding the stars."
+      "The sky was overcast with clouds from a storm.",
+      "They didn't know how to read the stars."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
+    "topic": "Applications of Magnets",
+    "complexity_score": 2
   },
   {
-    "question": "What did the experiment with iron filings demonstrate about the area around a magnet?",
-    "correct": "It has an invisible field of force that forms a pattern.",
+    "question": "In the iron filings experiment, where did most of the filings stick to the bar magnet?",
+    "correct": "Near the two ends (poles)",
     "options": [
-      "Magnets are only powerful when touching an object.",
-      "Magnets are hot.",
-      "Iron filings are not magnetic.",
-      "It has an invisible field of force that forms a pattern."
+      "Uniformly all over the magnet",
+      "Only in the exact middle",
+      "Near the two ends (poles)",
+      "They did not stick at all"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
+    "topic": "Magnetic Fields",
+    "complexity_score": 2
   },
   {
-    "question": "Based on the lesson, what is the key difference between the term 'human' and 'human being'?",
-    "correct": "'Human' refers to the species, while 'human being' includes a person's identity and dignity.",
+    "question": "What happens if you break a bar magnet in half?",
+    "correct": "You get two smaller magnets, each with its own North and South pole.",
     "options": [
-      "There is no difference; they are exactly the same.",
-      "'Human' is a scientific term and 'human being' is not.",
-      "'Human' refers to the species, while 'human being' includes a person's identity and dignity.",
-      "'Human being' refers to someone who is alive, and 'human' refers to someone who is not."
+      "One piece becomes the North pole and the other becomes the South pole.",
+      "The pieces lose their magnetism.",
+      "You get two smaller magnets, each with its own North and South pole.",
+      "Only one of the pieces remains a magnet."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
+    "topic": "Poles of a Magnet",
+    "complexity_score": 2
   },
   {
-    "question": "If you have a bar magnet and a ring magnet, will the iron filings create the same pattern around both?",
-    "correct": "No, the pattern of the magnetic field is different for different shapes.",
+    "question": "The conclusion from the activity of testing different objects was that materials like iron are magnetic, while materials like wood and rubber are not. What scientific skill does drawing this conclusion demonstrate?",
+    "correct": "Analyzing experimental results",
     "options": [
-      "Yes, all magnets create the exact same pattern.",
-      "No, the pattern of the magnetic field is different for different shapes.",
-      "Only if they are the same size.",
-      "The ring magnet will not attract iron filings."
+      "Making a prediction",
+      "Following instructions",
+      "Memorizing facts",
+      "Analyzing experimental results"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
+    "topic": "Scientific Method",
+    "complexity_score": 2
   },
   {
-    "question": "What happens to the poles if you break a bar magnet in half?",
-    "correct": "You get two smaller magnets, each with its own north and south pole.",
+    "question": "The teacher mentioned that a speaker contains a ring magnet. Why might a magnet be a necessary part of a speaker?",
+    "correct": "It interacts with other components to help create sound vibrations.",
     "options": [
-      "One piece becomes the north pole and the other becomes the south pole.",
-      "The pieces are no longer magnetic.",
-      "You get two smaller magnets, each with its own north and south pole.",
-      "Both pieces become north poles."
+      "To make the speaker stick to a metal shelf.",
+      "It interacts with other components to help create sound vibrations.",
+      "To make the speaker look interesting.",
+      "To keep the speaker box closed."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Applications of Magnets",
+    "complexity_score": 2
+  },
+  {
+    "question": "The iron filings formed a specific pattern around the magnet. What does this pattern visually represent?",
+    "correct": "The invisible magnetic field lines",
+    "options": [
+      "The magnet's temperature",
+      "The air currents in the room",
+      "The invisible magnetic field lines",
+      "The chemical composition of the magnet"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Magnetic Fields",
+    "complexity_score": 2
+  },
+  {
+    "question": "Besides iron, which two other metals were mentioned as being magnetic materials?",
+    "correct": "Nickel and Cobalt",
+    "options": [
+      "Copper and Aluminum",
+      "Gold and Silver",
+      "Nickel and Cobalt",
+      "Steel and Brass"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Magnetic Properties",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why was Reshma's curiosity to learn more about magnets described as 'the best quality a student can have'?",
+    "correct": "Because curiosity drives a person to search for knowledge and learn.",
+    "options": [
+      "Because it helps students finish homework faster.",
+      "Because curiosity drives a person to search for knowledge and learn.",
+      "Because it makes stories more interesting to write.",
+      "Because it is required for using the internet."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Learning Process",
+    "complexity_score": 2
+  },
+  {
+    "question": "Based on the iron filings video, what can you infer about the strength of the magnetic force at different parts of the magnet?",
+    "correct": "The force is strongest at the poles and weakest in the middle.",
+    "options": [
+      "The force is equally strong everywhere.",
+      "The force is weakest at the poles and strongest in the middle.",
+      "The force is strongest at the poles and weakest in the middle.",
+      "The force only exists at the North pole."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
+    "topic": "Magnetic Fields",
+    "complexity_score": 3
   },
   {
-    "question": "The lesson states that a single north pole or south pole cannot exist by itself. What does this imply?",
-    "correct": "Magnetic poles always exist in pairs.",
+    "question": "The lesson states a single magnetic pole (like only a North pole) cannot exist by itself. What does this fundamental rule imply?",
+    "correct": "Magnetism is an inherently dualistic force.",
     "options": [
-      "Magnets lose their power if you find one pole.",
-      "Magnetic poles always exist in pairs.",
-      "You can only have a north pole or a south pole, but not both.",
-      "Scientists are still trying to find a single pole."
+      "Scientists have not looked hard enough for one.",
+      "Artificial magnets are not as good as natural ones.",
+      "Magnets are always sold in pairs.",
+      "Magnetism is an inherently dualistic force."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
+    "topic": "Poles of a Magnet",
+    "complexity_score": 3
   },
   {
-    "question": "The teacher mentioned that a speaker contains a magnet. Why might bringing another strong magnet close to a speaker damage it?",
-    "correct": "The external magnetic field can interfere with the internal magnet's function.",
+    "question": "If you have two bar magnets and the iron filings between them seem to push away from each other in the middle, what could you conclude about how the magnets are placed?",
+    "correct": "Like poles (e.g., North and North) are facing each other.",
     "options": [
-      "Two magnets will always shatter when they get close.",
-      "The speaker's plastic will melt.",
-      "The external magnetic field can interfere with the internal magnet's function.",
-      "Magnets absorb sound waves."
+      "Opposite poles (North and South) are facing each other.",
+      "One magnet is much stronger than the other.",
+      "Like poles (e.g., North and North) are facing each other.",
+      "The magnets are not working properly."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
+    "topic": "Magnetic Fields",
+    "complexity_score": 3
   },
   {
-    "question": "Reshma's journey to learn about magnets began after she simply noticed them in everyday objects. What does this tell us about scientific discovery?",
-    "correct": "It often begins with simple curiosity and observation of the world.",
+    "question": "Why is it important to physically test materials like copper wire with a magnet, rather than just assuming they are non-magnetic?",
+    "correct": "Scientific conclusions require evidence from observation and experimentation.",
     "options": [
-      "You need expensive equipment to make any discovery.",
-      "All scientific discoveries are made by accident.",
-      "It often begins with simple curiosity and observation of the world.",
-      "Scientific discovery is only possible in a library."
+      "Because the book might be wrong.",
+      "Scientific conclusions require evidence from observation and experimentation.",
+      "To prove the teacher's prediction is incorrect.",
+      "Because copper can sometimes be magnetic."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
+    "topic": "Scientific Method",
+    "complexity_score": 3
   },
   {
-    "question": "Why is it more scientific to test if a copper wire is magnetic with a magnet, rather than just assuming it isn't?",
-    "correct": "Direct observation and experimentation are necessary to confirm a scientific fact.",
+    "question": "The class saw that magnets with different shapes (bar, ring, etc.) created different iron filing patterns. What does this suggest about magnetic fields?",
+    "correct": "The shape of a magnet influences the shape of its magnetic field.",
     "options": [
-      "All metals are magnetic, so there is no need to test.",
-      "Guessing is faster and usually correct.",
-      "Copper is too expensive to use in experiments.",
-      "Direct observation and experimentation are necessary to confirm a scientific fact."
+      "Only bar magnets have a true magnetic field.",
+      "The shape of a magnet influences the shape of its magnetic field.",
+      "Round magnets are stronger than bar magnets.",
+      "The iron filings are arranging themselves randomly."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
+    "topic": "Magnetic Fields",
+    "complexity_score": 3
   },
   {
-    "question": "Based on the lesson, what is a major advantage of artificial magnets over natural lodestones?",
-    "correct": "They can be made in various specific shapes and strengths for different uses.",
+    "question": "Your question about the difference between 'human' and 'human being' shows you think about a word's deeper meaning. How is this similar to a scientist studying a magnet?",
+    "correct": "Both look beyond the surface appearance to understand the underlying properties and principles.",
     "options": [
-      "They are much older than lodestones.",
-      "They are found in nature more easily.",
-      "They only have one pole, which is more useful.",
-      "They can be made in various specific shapes and strengths for different uses."
+      "Scientists also study language.",
+      "Both are trying to get the right answer for a test.",
+      "Both look beyond the surface appearance to understand the underlying properties and principles.",
+      "It is not similar at all."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which set of materials contains ONLY magnetic items mentioned or inferred in the lesson?",
-    "correct": "An iron nail, a steel paperclip, a cobalt piece",
-    "options": [
-      "A wooden plank, a rubber band, a glass marble",
-      "An iron nail, a steel paperclip, a cobalt piece",
-      "A copper wire, a plastic ruler, a paper sheet",
-      "A wax candle, a cloth, an aluminum pin"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
-  },
-  {
-    "question": "What conclusion did you draw from the activity where different objects were brought near a magnet?",
-    "correct": "Some materials, like iron, are attracted to magnets, while others, like wood and plastic, are not.",
-    "options": [
-      "All objects are attracted to magnets.",
-      "Only heavy objects are attracted to magnets.",
-      "Some materials, like iron, are attracted to magnets, while others, like wood and plastic, are not.",
-      "Magnets only attract other magnets."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
-  },
-  {
-    "question": "Based on the \"human being\" discussion, why might we refer to a respected historical figure who is no longer alive as a 'great human being'?",
-    "correct": "Because their identity, dignity, and impact are what 'human being' refers to, and that continues after death.",
-    "options": [
-      "It's just a grammatical mistake.",
-      "The term 'human' can only be used for living people.",
-      "Because their identity, dignity, and impact are what 'human being' refers to, and that continues after death.",
-      "It is a scientific classification for historical figures."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Magnets and their Properties",
-    "complexity_score": 1
+    "topic": "Nature of Inquiry",
+    "complexity_score": 3
   }
 ]
