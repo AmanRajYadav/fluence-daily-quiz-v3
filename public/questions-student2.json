@@ -1,12 +1,82 @@
 [
   {
-    "question": "What is the name for the naturally occurring magnets discovered in ancient times?",
-    "correct": "Loadstones",
+    "question": "What is the name for a naturally occurring magnet, often found in magnetite rocks?",
+    "correct": "Lodestone",
     "options": [
-      "Bar magnets",
-      "Ring stones",
-      "Loadstones",
-      "Compass rocks"
+      "Iron stone",
+      "Bar magnet",
+      "Lodestone",
+      "Electromagnet"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Natural and Artificial Magnets",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the property of a magnet that causes it to attract substances like iron?",
+    "correct": "Attractive property",
+    "options": [
+      "Directive property",
+      "Repulsive property",
+      "Lustrous property",
+      "Attractive property"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Properties of Magnets",
+    "complexity_score": 1
+  },
+  {
+    "question": "According to the lesson, which of these professionals uses a magnetic compass for navigation?",
+    "correct": "Sailors and pilots",
+    "options": [
+      "Chefs and bakers",
+      "Farmers and gardeners",
+      "Sailors and pilots",
+      "Teachers and librarians"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Applications of Magnets",
+    "complexity_score": 1
+  },
+  {
+    "question": "The process of making a magnetic substance, like an iron bar, into a magnet is called:",
+    "correct": "Magnetization",
+    "options": [
+      "Attraction",
+      "Repulsion",
+      "Magnetization",
+      "Direction"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Magnetization",
+    "complexity_score": 1
+  },
+  {
+    "question": "If you suspend a bar magnet from a thread so it can swing freely, in which direction will it align itself?",
+    "correct": "North-South",
+    "options": [
+      "East-West",
+      "Up-Down",
+      "North-South",
+      "In a random direction"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Directive Property of Magnets",
+    "complexity_score": 1
+  },
+  {
+    "question": "According to the legend discussed, who was the shepherd that discovered the first natural magnet (lodestone)?",
+    "correct": "Magnes",
+    "options": [
+      "Magneto",
+      "Magnus",
+      "Aristotle",
+      "Magnes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -14,269 +84,199 @@
     "complexity_score": 1
   },
   {
-    "question": "In the story, what device did Reshma learn that sailors used to find directions during a storm?",
-    "correct": "A magnetic compass",
+    "question": "If you bring an iron nail close to a powerful magnet, the nail becomes a temporary magnet and can attract another nail. Why does this happen?",
+    "correct": "The first nail becomes temporarily magnetized by induction.",
     "options": [
-      "A star chart",
-      "A digital compass",
-      "A magnetic compass",
-      "A loadstone"
+      "The second nail is naturally magnetic.",
+      "The first nail becomes temporarily magnetized by induction.",
+      "Gravity pulls the two nails together.",
+      "The nails get warm and stick together."
     ],
-    "difficulty": "easy",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Applications of Magnets",
-    "complexity_score": 1
+    "topic": "Magnetic Induction",
+    "complexity_score": 2
   },
   {
-    "question": "What are the materials that are NOT attracted to a magnet called?",
-    "correct": "Non-magnetic materials",
+    "question": "Why is repulsion considered the 'sure test' for magnetism, while attraction is not?",
+    "correct": "Because a magnet can attract a non-magnetic substance, but only another magnet can repel it.",
     "options": [
-      "Magnetic materials",
-      "Metal materials",
-      "Non-magnetic materials",
-      "Loadstone materials"
+      "Because repulsion is a stronger force than attraction.",
+      "Because attraction only works with North poles.",
+      "Because a magnet can attract a non-magnetic substance, but only another magnet can repel it.",
+      "Because all metal objects can repel magnets."
     ],
-    "difficulty": "easy",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnetic Properties",
-    "complexity_score": 1
+    "topic": "Testing for Magnetism",
+    "complexity_score": 3
   },
   {
-    "question": "What are the two ends of a bar magnet called?",
-    "correct": "Poles",
+    "question": "What is the primary reason a freely suspended magnet aligns itself with the Earth's North-South direction?",
+    "correct": "Because the Earth itself acts like a giant magnet.",
     "options": [
-      "Points",
-      "Tips",
-      "Poles",
-      "Ends"
+      "Because of the Sun's gravitational pull.",
+      "Because the Earth itself acts like a giant magnet.",
+      "Because of the wind currents in the atmosphere.",
+      "Because all objects naturally point North."
     ],
-    "difficulty": "easy",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Poles of a Magnet",
-    "complexity_score": 1
+    "topic": "Earth's Magnetism",
+    "complexity_score": 2
   },
   {
-    "question": "Based on the lesson, which of these items would likely be attracted to a magnet?",
-    "correct": "Iron nail",
+    "question": "When storing bar magnets, 'keepers' (soft iron pieces) are placed across their ends. What is the purpose of these keepers?",
+    "correct": "To preserve the magnet's strength by forming a closed loop.",
     "options": [
-      "Wooden plank",
-      "Plastic ruler",
-      "Rubber eraser",
-      "Iron nail"
+      "To make the magnets look organized.",
+      "To increase the magnet's strength.",
+      "To prevent the magnets from rusting.",
+      "To preserve the magnet's strength by forming a closed loop."
     ],
-    "difficulty": "easy",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnetic vs. Non-Magnetic Materials",
-    "complexity_score": 1
+    "topic": "Storing Magnets",
+    "complexity_score": 2
   },
   {
-    "question": "Magnets found in school labs and toys are typically which type?",
-    "correct": "Artificial magnets",
+    "question": "What happens when the North pole of one magnet is brought close to the North pole of another magnet?",
+    "correct": "They repel each other.",
     "options": [
-      "Natural magnets",
-      "Loadstones",
-      "Artificial magnets",
-      "Compass magnets"
+      "They attract each other.",
+      "They repel each other.",
+      "They lose their magnetism.",
+      "Nothing happens."
     ],
-    "difficulty": "easy",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Types of Magnets",
-    "complexity_score": 1
+    "topic": "Magnetic Poles",
+    "complexity_score": 2
   },
   {
-    "question": "Why couldn't the sailors in Reshma's story use the stars to find their way?",
-    "correct": "The sky was overcast with clouds from a storm.",
+    "question": "The lesson mentioned that a school bell can use an electromagnet. How does it work?",
+    "correct": "Electricity creates a temporary magnetic field that attracts a hammer to strike the bell.",
     "options": [
-      "They forgot their star charts.",
-      "It was daytime.",
-      "The sky was overcast with clouds from a storm.",
-      "They didn't know how to read the stars."
+      "The button is a permanent magnet that is pushed.",
+      "Sound waves are converted into magnetism.",
+      "Electricity creates a temporary magnetic field that attracts a hammer to strike the bell.",
+      "The bell is made of lodestone and rings naturally."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
     "topic": "Applications of Magnets",
-    "complexity_score": 2
+    "complexity_score": 3
   },
   {
-    "question": "In the iron filings experiment, where did most of the filings stick to the bar magnet?",
-    "correct": "Near the two ends (poles)",
+    "question": "If you have two identical-looking bars, one is an iron bar and one is a magnet, how could you identify the magnet without any other equipment?",
+    "correct": "This is impossible; you need a third object (another magnet or magnetic substance).",
     "options": [
-      "Uniformly all over the magnet",
-      "Only in the exact middle",
-      "Near the two ends (poles)",
-      "They did not stick at all"
+      "The magnet will be heavier.",
+      "The magnet will be colder to the touch.",
+      "This is impossible; you need a third object (another magnet or magnetic substance).",
+      "The iron bar will be shinier."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnetic Fields",
+    "topic": "Testing for Magnetism",
+    "complexity_score": 3
+  },
+  {
+    "question": "The property of a magnet to always point in a specific direction when suspended freely is called its:",
+    "correct": "Directive property",
+    "options": [
+      "Attractive property",
+      "Magnetic property",
+      "Directive property",
+      "Compass property"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Properties of Magnets",
     "complexity_score": 2
   },
   {
-    "question": "What happens if you break a bar magnet in half?",
+    "question": "What is the relationship between the Earth's geographic North Pole and its magnetic pole located in that region?",
+    "correct": "The Earth's geographic North Pole is actually a magnetic South pole.",
+    "options": [
+      "They are the exact same thing.",
+      "The Earth's geographic North Pole is also a magnetic North pole.",
+      "The Earth has no magnetic pole at its geographic North Pole.",
+      "The Earth's geographic North Pole is actually a magnetic South pole."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Earth's Magnetism",
+    "complexity_score": 4
+  },
+  {
+    "question": "A compass needle is a small magnet. Why does its North pole point towards the Earth's geographic North?",
+    "correct": "Because it is attracted to the Earth's magnetic South pole, which is near the geographic North.",
+    "options": [
+      "Because it is repelled by the Earth's magnetic North pole, which is near the geographic North.",
+      "Because like poles attract, and the Earth's magnetic North pole is at the geographic North.",
+      "Because it is attracted to the Earth's magnetic South pole, which is near the geographic North.",
+      "Because gravity pulls the needle to point towards the largest land mass."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Earth's Magnetism",
+    "complexity_score": 5
+  },
+  {
+    "question": "The lesson briefly mentioned 'domains' inside a magnet. Why does hammering a magnet cause it to lose its magnetism?",
+    "correct": "The shock misaligns the domains, so they no longer point in the same direction.",
+    "options": [
+      "The hammering chips away the magnetic particles.",
+      "The shock misaligns the domains, so they no longer point in the same direction.",
+      "The hammering heats the magnet, which burns away the magnetism.",
+      "The shock reverses the North and South poles."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Demagnetization",
+    "complexity_score": 4
+  },
+  {
+    "question": "Based on the class discussion, why doesn't a freely suspended magnet align itself in an East-West direction?",
+    "correct": "Because the Earth's magnetic field runs between its North and South poles, not East and West.",
+    "options": [
+      "Because the East-West direction changes too quickly.",
+      "Because magnets are not strong enough to detect the East-West pull.",
+      "Because the Earth's magnetic field runs between its North and South poles, not East and West.",
+      "Because the moon's gravity interferes with East-West alignment."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Earth's Magnetism",
+    "complexity_score": 5
+  },
+  {
+    "question": "If you break a bar magnet in half, what is the result?",
     "correct": "You get two smaller magnets, each with its own North and South pole.",
     "options": [
-      "One piece becomes the North pole and the other becomes the South pole.",
-      "The pieces lose their magnetism.",
+      "You get one piece that is a North pole and one that is a South pole.",
       "You get two smaller magnets, each with its own North and South pole.",
-      "Only one of the pieces remains a magnet."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Poles of a Magnet",
-    "complexity_score": 2
-  },
-  {
-    "question": "The conclusion from the activity of testing different objects was that materials like iron are magnetic, while materials like wood and rubber are not. What scientific skill does drawing this conclusion demonstrate?",
-    "correct": "Analyzing experimental results",
-    "options": [
-      "Making a prediction",
-      "Following instructions",
-      "Memorizing facts",
-      "Analyzing experimental results"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Scientific Method",
-    "complexity_score": 2
-  },
-  {
-    "question": "The teacher mentioned that a speaker contains a ring magnet. Why might a magnet be a necessary part of a speaker?",
-    "correct": "It interacts with other components to help create sound vibrations.",
-    "options": [
-      "To make the speaker stick to a metal shelf.",
-      "It interacts with other components to help create sound vibrations.",
-      "To make the speaker look interesting.",
-      "To keep the speaker box closed."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Applications of Magnets",
-    "complexity_score": 2
-  },
-  {
-    "question": "The iron filings formed a specific pattern around the magnet. What does this pattern visually represent?",
-    "correct": "The invisible magnetic field lines",
-    "options": [
-      "The magnet's temperature",
-      "The air currents in the room",
-      "The invisible magnetic field lines",
-      "The chemical composition of the magnet"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Magnetic Fields",
-    "complexity_score": 2
-  },
-  {
-    "question": "Besides iron, which two other metals were mentioned as being magnetic materials?",
-    "correct": "Nickel and Cobalt",
-    "options": [
-      "Copper and Aluminum",
-      "Gold and Silver",
-      "Nickel and Cobalt",
-      "Steel and Brass"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Magnetic Properties",
-    "complexity_score": 2
-  },
-  {
-    "question": "Why was Reshma's curiosity to learn more about magnets described as 'the best quality a student can have'?",
-    "correct": "Because curiosity drives a person to search for knowledge and learn.",
-    "options": [
-      "Because it helps students finish homework faster.",
-      "Because curiosity drives a person to search for knowledge and learn.",
-      "Because it makes stories more interesting to write.",
-      "Because it is required for using the internet."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Learning Process",
-    "complexity_score": 2
-  },
-  {
-    "question": "Based on the iron filings video, what can you infer about the strength of the magnetic force at different parts of the magnet?",
-    "correct": "The force is strongest at the poles and weakest in the middle.",
-    "options": [
-      "The force is equally strong everywhere.",
-      "The force is weakest at the poles and strongest in the middle.",
-      "The force is strongest at the poles and weakest in the middle.",
-      "The force only exists at the North pole."
+      "Both pieces lose their magnetism.",
+      "One piece remains a magnet, the other becomes a simple piece of iron."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Magnetic Fields",
-    "complexity_score": 3
+    "topic": "Properties of Magnets",
+    "complexity_score": 4
   },
   {
-    "question": "The lesson states a single magnetic pole (like only a North pole) cannot exist by itself. What does this fundamental rule imply?",
-    "correct": "Magnetism is an inherently dualistic force.",
+    "question": "You find a rock and want to know if it's a lodestone. Which of the following observations would be the strongest evidence that it is?",
+    "correct": "It repels one end of a known magnet.",
     "options": [
-      "Scientists have not looked hard enough for one.",
-      "Artificial magnets are not as good as natural ones.",
-      "Magnets are always sold in pairs.",
-      "Magnetism is an inherently dualistic force."
+      "It is dark and heavy.",
+      "It attracts a small iron nail.",
+      "It is found near a volcano.",
+      "It repels one end of a known magnet."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Poles of a Magnet",
-    "complexity_score": 3
-  },
-  {
-    "question": "If you have two bar magnets and the iron filings between them seem to push away from each other in the middle, what could you conclude about how the magnets are placed?",
-    "correct": "Like poles (e.g., North and North) are facing each other.",
-    "options": [
-      "Opposite poles (North and South) are facing each other.",
-      "One magnet is much stronger than the other.",
-      "Like poles (e.g., North and North) are facing each other.",
-      "The magnets are not working properly."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Magnetic Fields",
-    "complexity_score": 3
-  },
-  {
-    "question": "Why is it important to physically test materials like copper wire with a magnet, rather than just assuming they are non-magnetic?",
-    "correct": "Scientific conclusions require evidence from observation and experimentation.",
-    "options": [
-      "Because the book might be wrong.",
-      "Scientific conclusions require evidence from observation and experimentation.",
-      "To prove the teacher's prediction is incorrect.",
-      "Because copper can sometimes be magnetic."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Scientific Method",
-    "complexity_score": 3
-  },
-  {
-    "question": "The class saw that magnets with different shapes (bar, ring, etc.) created different iron filing patterns. What does this suggest about magnetic fields?",
-    "correct": "The shape of a magnet influences the shape of its magnetic field.",
-    "options": [
-      "Only bar magnets have a true magnetic field.",
-      "The shape of a magnet influences the shape of its magnetic field.",
-      "Round magnets are stronger than bar magnets.",
-      "The iron filings are arranging themselves randomly."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Magnetic Fields",
-    "complexity_score": 3
-  },
-  {
-    "question": "Your question about the difference between 'human' and 'human being' shows you think about a word's deeper meaning. How is this similar to a scientist studying a magnet?",
-    "correct": "Both look beyond the surface appearance to understand the underlying properties and principles.",
-    "options": [
-      "Scientists also study language.",
-      "Both are trying to get the right answer for a test.",
-      "Both look beyond the surface appearance to understand the underlying properties and principles.",
-      "It is not similar at all."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Nature of Inquiry",
-    "complexity_score": 3
+    "topic": "Testing for Magnetism",
+    "complexity_score": 5
   }
 ]
