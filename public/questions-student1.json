@@ -1,12 +1,12 @@
 [
   {
-    "question": "In the scene described, where is the fire located?",
-    "correct": "In the fireplace between the sofas",
+    "question": "In the reading passage, where is the scene set?",
+    "correct": "In a drawing room",
     "options": [
-      "In a cupboard",
-      "On the large coffee table",
-      "In the fireplace between the sofas",
-      "Near the crimson curtains"
+      "In a kitchen",
+      "In a bedroom",
+      "Outside by a fire",
+      "In a drawing room"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -14,13 +14,13 @@
     "complexity_score": 1
   },
   {
-    "question": "What items were described as being covered with 'pretty but faded cloth'?",
-    "correct": "The sofas and chairs",
+    "question": "What color were the curtains at the windows originally?",
+    "correct": "Crimson",
     "options": [
-      "The curtains and the cupboard",
-      "The coffee table and the fireplace",
-      "The sofas and chairs",
-      "The windows and the walls"
+      "Bright blue",
+      "Crimson",
+      "Dull green",
+      "Faded yellow"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -28,153 +28,125 @@
     "complexity_score": 1
   },
   {
-    "question": "Which character was first seen reading on a sofa?",
+    "question": "Which character was first seen reading on one of the sofas?",
     "correct": "Meg",
     "options": [
       "Jo",
-      "Shalaya",
       "Meg",
-      "Anaya"
+      "Shalaya",
+      "The teacher"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Reading Comprehension",
+    "topic": "Character Identification",
     "complexity_score": 1
   },
   {
-    "question": "What two items was the character Jo carrying when she walked in?",
+    "question": "What was Jo carrying when she walked into the room?",
     "correct": "A broom and a shovel",
     "options": [
-      "A book and a pen",
-      "Rubber boots and a cape",
+      "A book and a cup",
+      "A pair of boots",
       "A broom and a shovel",
-      "A cup of tea and a plate"
+      "A hooded cape and a bag"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Reading Comprehension",
+    "topic": "Character Identification",
     "complexity_score": 1
   },
   {
-    "question": "What color were the curtains originally?",
-    "correct": "Crimson",
+    "question": "According to the teacher, looking at a student's questions is a good way to assess their what?",
+    "correct": "Their ability and competence",
     "options": [
-      "Faded",
-      "Dull",
-      "Crimson",
-      "Shabby"
+      "Their memory",
+      "Their favorite subject",
+      "Their ability and competence",
+      "Their handwriting"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Reading Comprehension",
+    "topic": "Metacognition & Learning Philosophy",
     "complexity_score": 1
   },
   {
-    "question": "Who does the teacher mention as a favorite author/movie series from their childhood?",
-    "correct": "Harry Potter",
+    "question": "In the student's ideal school, what kind of activities would the junior-most students do?",
+    "correct": "Paintings and competitions",
     "options": [
-      "The Shawshank Redemption",
-      "Star Wars",
-      "Harry Potter",
-      "The Lord of the Rings"
+      "Launch satellites",
+      "Design complex projects",
+      "Paintings and competitions",
+      "Travel to other countries"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Class Discussion",
+    "topic": "Creative School Design",
     "complexity_score": 1
   },
   {
-    "question": "The phrase 'shabby but gentle poverty' suggests the family...",
-    "correct": "values maintaining a dignified appearance despite financial struggles.",
+    "question": "The phrase 'shabby but gentle poverty' is used to describe the room's overall effect. What does this suggest?",
+    "correct": "The family lacks money but maintains a dignified and cozy home.",
     "options": [
-      "is wealthy but pretends to be poor.",
-      "does not care about the appearance of their home.",
-      "values maintaining a dignified appearance despite financial struggles.",
-      "has recently lost all their money."
+      "The family is messy and doesn't care about their home.",
+      "The family is trying to show off wealth they don't have.",
+      "The family has recently become poor and is selling their furniture.",
+      "The family lacks money but maintains a dignified and cozy home."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Literary Inference",
+    "topic": "Literary Analysis",
     "complexity_score": 2
   },
   {
-    "question": "Why did the teacher find it 'boring' to continue with the reading comprehension and decide to switch activities?",
-    "correct": "To increase student engagement and do something more interactive.",
+    "question": "Why did Jo enter the room wearing rubber boots and carrying tools?",
+    "correct": "She was planning to go out for exercise despite the cold.",
     "options": [
-      "Because the student answered all the questions correctly.",
-      "Because the teacher forgot the rest of the story.",
-      "To increase student engagement and do something more interactive.",
-      "Because the text was too difficult for the student."
+      "She was about to clean the fireplace.",
+      "She was dressing up as a superhero.",
+      "She was playing a joke on Meg.",
+      "She was planning to go out for exercise despite the cold."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Learning Process",
+    "topic": "Character Inference",
     "complexity_score": 2
   },
   {
-    "question": "In the student's ideal school, what kind of activities would the 'junior most' children do?",
-    "correct": "Painting and competitions",
+    "question": "What is the primary reason the teacher wants to become a teacher?",
+    "correct": "To change and improve the way students learn.",
     "options": [
-      "Computer activities and physical projects",
-      "Designing interesting projects",
-      "Painting and competitions",
-      "Learning with holograms and VR devices"
+      "Because they love watching movies like Harry Potter.",
+      "To learn from their students and friends.",
+      "To get a job in a school or college.",
+      "To change and improve the way students learn."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Creative Thinking",
+    "topic": "Personal Values & Motivation",
     "complexity_score": 2
   },
   {
-    "question": "The teacher's ideal school would be located in what kind of environment?",
-    "correct": "In the middle of a forest",
+    "question": "What is a major feature of the teacher's ideal school?",
+    "correct": "Using advanced technology like holograms and VR for immersive learning.",
     "options": [
-      "In a busy city",
-      "On a space station",
-      "In the middle of a forest",
-      "Underground"
+      "Having many different buildings for each subject.",
+      "Focusing strictly on exams and getting high marks.",
+      "Using only pens and paper to avoid distractions.",
+      "Using advanced technology like holograms and VR for immersive learning."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Creative Thinking",
+    "topic": "Creative School Design",
     "complexity_score": 2
   },
   {
-    "question": "According to the teacher's philosophy, what is a better indicator of a student's capability?",
-    "correct": "The quality of the questions they ask.",
+    "question": "In the teacher's ideal school, how would students learn mathematics?",
+    "correct": "By using real-world objects.",
     "options": [
-      "Their ability to memorize answers.",
-      "Their final exam scores.",
-      "The quality of the questions they ask.",
-      "How quickly they finish their work."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Metacognition",
-    "complexity_score": 2
-  },
-  {
-    "question": "What piece of clothing did the teacher compare to what superheroes wear?",
-    "correct": "The hooded cape",
-    "options": [
-      "The rubber boots",
-      "The faded cloth",
-      "The crimson curtains",
-      "The hooded cape"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vocabulary & Analogy",
-    "complexity_score": 2
-  },
-  {
-    "question": "The teacher's plan to teach English by taking students to a country where it is spoken is an example of what kind of learning?",
-    "correct": "Immersive and practical learning",
-    "options": [
-      "Rote memorization",
-      "Theoretical learning",
-      "Immersive and practical learning",
-      "Assessment-based learning"
+      "By completing worksheets on paper.",
+      "By using a computer only.",
+      "By reading textbooks.",
+      "By using real-world objects."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -182,41 +154,55 @@
     "complexity_score": 2
   },
   {
-    "question": "What was Jo's reason for going out on a cold day?",
-    "correct": "To get some exercise",
+    "question": "A key difference between the student's and the teacher's school designs is that the student's school is ________, while the teacher's is ________.",
+    "correct": "structured into sections by age; an open school in nature",
     "options": [
-      "To fetch firewood",
-      "To meet a friend",
-      "To get some exercise",
-      "To shovel snow"
+      "small and cozy; very large and industrial",
+      "focused on art; focused only on science",
+      "structured into sections by age; an open school in nature",
+      "located in a city; located on a different planet"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Reading Comprehension",
+    "topic": "Comparative Analysis",
     "complexity_score": 2
   },
   {
-    "question": "What is the most significant difference between the student's and the teacher's ideal schools?",
-    "correct": "The teacher focuses on technology and nature, while the student focuses on age-based curriculum.",
+    "question": "What activity did the teacher propose to make the class more interesting after the reading exercise?",
+    "correct": "A question and answer game where the student also gets to ask questions.",
     "options": [
-      "The student's school is bigger than the teacher's.",
-      "Only the teacher's school has competitions.",
-      "The teacher focuses on technology and nature, while the student focuses on age-based curriculum.",
-      "The student's school is for seniors only."
+      "Watching a part of a Harry Potter movie.",
+      "A vocabulary quiz on the reading passage.",
+      "A question and answer game where the student also gets to ask questions.",
+      "Writing a paragraph about their favorite superhero."
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Comparative Analysis",
-    "complexity_score": 3
+    "topic": "Classroom Dynamics",
+    "complexity_score": 2
   },
   {
-    "question": "The teacher's statement, 'one should look at his or her questions when he want to assess the student,' most closely aligns with which educational principle?",
-    "correct": "Fostering inquiry and critical thinking over rote memorization.",
+    "question": "For which students did the student's ideal school plan include computer activities and physical projects?",
+    "correct": "The middle-level students.",
     "options": [
-      "The importance of standardized testing.",
-      "The need for strict classroom discipline.",
-      "Fostering inquiry and critical thinking over rote memorization.",
-      "The belief that all students learn at the same pace."
+      "The junior-most students.",
+      "The senior-most students.",
+      "The middle-level students.",
+      "All of the students."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Creative School Design",
+    "complexity_score": 2
+  },
+  {
+    "question": "The teacher's decision to switch from the reading comprehension to the Q&A game shows they prioritize...",
+    "correct": "student engagement and intrinsic motivation.",
+    "options": [
+      "following the lesson plan exactly.",
+      "finishing the textbook as quickly as possible.",
+      "giving out rewards for correct answers.",
+      "student engagement and intrinsic motivation."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
@@ -224,41 +210,27 @@
     "complexity_score": 3
   },
   {
-    "question": "The teacher's ideal school, with its focus on learning by doing (e.g., launching a satellite, using computers for computer class), reflects the philosophy of which educator?",
-    "correct": "John Dewey (learning by doing)",
+    "question": "The teacher's philosophy that 'one should look at his or her questions' suggests that true learning is about...",
+    "correct": "developing curiosity and the ability to investigate.",
     "options": [
-      "Socrates (dialectic method)",
-      "Carol Dweck (growth mindset)",
-      "John Dewey (learning by doing)",
-      "Jean Piaget (stages of development)"
+      "memorizing the correct answers for tests.",
+      "being able to answer questions faster than anyone else.",
+      "developing curiosity and the ability to investigate.",
+      "agreeing with the teacher on all topics."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Pedagogical Analysis",
+    "topic": "Metacognition & Learning Philosophy",
     "complexity_score": 3
   },
   {
-    "question": "Why did the teacher pivot the lesson from reading comprehension to a Q&A session where the student had to ask questions?",
-    "correct": "To actively develop the student's ability to formulate questions, which the teacher sees as a key skill.",
+    "question": "What underlying value is shared by both the student's and the teacher's ideal school designs?",
+    "correct": "A belief in hands-on, project-based learning.",
     "options": [
-      "To give the student a break from reading.",
-      "Because the teacher wanted to talk about their favorite movie.",
-      "To actively develop the student's ability to formulate questions, which the teacher sees as a key skill.",
-      "To prepare for an upcoming group discussion test."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Teaching Strategy Analysis",
-    "complexity_score": 3
-  },
-  {
-    "question": "Both the student's and the teacher's school designs emphasize a move away from traditional classrooms towards more...",
-    "correct": "Project-based and hands-on learning",
-    "options": [
-      "Lecture-based instruction",
-      "Exam-focused curriculum",
-      "Project-based and hands-on learning",
-      "Solitary and independent study"
+      "A preference for schools in the middle of a forest.",
+      "An emphasis on passing exams with high marks.",
+      "A requirement for every student to have a laptop.",
+      "A belief in hands-on, project-based learning."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
@@ -266,17 +238,45 @@
     "complexity_score": 3
   },
   {
-    "question": "The initial reading exercise focused on 'what' (details in the room), while the discussion about designing a school focused on 'why' and 'how' (the purpose of education). This shift represents a move towards:",
-    "correct": "Higher-order thinking skills",
+    "question": "Based on the teacher's ideal school, what is their main critique of many current schools?",
+    "correct": "They overemphasize marks and fail to make learning practical and engaging.",
     "options": [
-      "Basic literacy skills",
-      "Grammatical accuracy",
-      "Higher-order thinking skills",
-      "Following instructions"
+      "They do not have enough windows.",
+      "They are too focused on physical activities like sports.",
+      "They use too much technology like computers.",
+      "They overemphasize marks and fail to make learning practical and engaging."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Learning Theory",
+    "topic": "Educational Philosophy",
+    "complexity_score": 3
+  },
+  {
+    "question": "The description of the room with its 'faded' cloths, 'dull' curtains, and 'cheerful fire' is likely intended to establish a story theme about...",
+    "correct": "the importance of inner warmth and character over material wealth.",
+    "options": [
+      "the dangers of living in poverty.",
+      "a family that has lost its fortune and is unhappy.",
+      "the need to redecorate an old house.",
+      "the importance of inner warmth and character over material wealth."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Literary Analysis",
+    "complexity_score": 3
+  },
+  {
+    "question": "The teacher's plan for an ideal English lesson (taking students to an English-speaking country) demonstrates a commitment to which learning principle?",
+    "correct": "Authentic and immersive learning experiences.",
+    "options": [
+      "Rote memorization and repetition.",
+      "Learning through digital games only.",
+      "Independent study with books.",
+      "Authentic and immersive learning experiences."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Educational Philosophy",
     "complexity_score": 3
   }
 ]
