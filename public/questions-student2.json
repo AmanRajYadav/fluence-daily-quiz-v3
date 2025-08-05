@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the name for a naturally occurring magnet, often found in magnetite rocks?",
-    "correct": "Lodestone",
+    "question": "In the lesson, what is the primary definition of a 'Supercell'?",
+    "correct": "A cell containing a number that is larger than the numbers in all of its neighboring (adjacent) cells.",
     "options": [
-      "Iron stone",
-      "Bar magnet",
-      "Lodestone",
-      "Electromagnet"
+      "A cell containing the highest number in the entire table.",
+      "A cell that is colored green.",
+      "A cell containing a number that is larger than the numbers in all of its neighboring (adjacent) cells.",
+      "A cell with an even number."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Natural and Artificial Magnets",
+    "topic": "Supercells",
     "complexity_score": 1
   },
   {
-    "question": "What is the property of a magnet that causes it to attract substances like iron?",
-    "correct": "Attractive property",
+    "question": "In the first puzzle with the children, what did the number '1' mean when a child said it?",
+    "correct": "The child had exactly one neighbor who was taller than them.",
     "options": [
-      "Directive property",
-      "Repulsive property",
-      "Lustrous property",
-      "Attractive property"
+      "The child was the tallest in the group.",
+      "The child was standing in the first position.",
+      "The child had exactly one neighbor who was taller than them.",
+      "The child had one neighbor who was shorter than them."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Properties of Magnets",
+    "topic": "Number Puzzles",
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, which of these professionals uses a magnetic compass for navigation?",
-    "correct": "Sailors and pilots",
+    "question": "According to the discussion, what is one of the main things we use numbers for in our daily lives?",
+    "correct": "For counting objects and organizing things.",
     "options": [
-      "Chefs and bakers",
-      "Farmers and gardeners",
-      "Sailors and pilots",
-      "Teachers and librarians"
+      "Only for solving math homework.",
+      "For creating secret codes that no one can read.",
+      "For counting objects and organizing things.",
+      "Only for playing games."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Applications of Magnets",
+    "topic": "Introduction to Numbers",
     "complexity_score": 1
   },
   {
-    "question": "The process of making a magnetic substance, like an iron bar, into a magnet is called:",
-    "correct": "Magnetization",
+    "question": "What is another word used in the class for a cell's 'neighbors'?",
+    "correct": "Adjacent cells",
     "options": [
-      "Attraction",
-      "Repulsion",
-      "Magnetization",
-      "Direction"
+      "Supercells",
+      "Connected cells",
+      "Adjacent cells",
+      "Pattern cells"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Magnetization",
+    "topic": "Supercells",
     "complexity_score": 1
   },
   {
-    "question": "If you suspend a bar magnet from a thread so it can swing freely, in which direction will it align itself?",
-    "correct": "North-South",
+    "question": "In the children puzzle, could a person standing at the very end of the line ever say the number '2'?",
+    "correct": "No, because a person at the end only has one neighbor.",
     "options": [
-      "East-West",
-      "Up-Down",
-      "North-South",
-      "In a random direction"
+      "Yes, if they are the tallest person.",
+      "Yes, if they are the shortest person.",
+      "No, because a person at the end only has one neighbor.",
+      "No, because the number 2 was not allowed in the game."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Directive Property of Magnets",
+    "topic": "Number Puzzles",
     "complexity_score": 1
   },
   {
-    "question": "According to the legend discussed, who was the shepherd that discovered the first natural magnet (lodestone)?",
-    "correct": "Magnes",
+    "question": "In the children puzzle, what did it mean if a child said the number '0'?",
+    "correct": "They had zero neighbors who were taller than them.",
     "options": [
-      "Magneto",
-      "Magnus",
-      "Aristotle",
-      "Magnes"
+      "They were the shortest person in the line.",
+      "They had zero neighbors.",
+      "They had zero neighbors who were taller than them.",
+      "They didn't know the answer."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "History of Magnets",
+    "topic": "Number Puzzles",
     "complexity_score": 1
   },
   {
-    "question": "If you bring an iron nail close to a powerful magnet, the nail becomes a temporary magnet and can attract another nail. Why does this happen?",
-    "correct": "The first nail becomes temporarily magnetized by induction.",
+    "question": "Using the formula discovered in class, what is the maximum number of supercells possible in a grid with 21 cells?",
+    "correct": "11",
     "options": [
-      "The second nail is naturally magnetic.",
-      "The first nail becomes temporarily magnetized by induction.",
-      "Gravity pulls the two nails together.",
-      "The nails get warm and stick together."
+      "10",
+      "22",
+      "11",
+      "20"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnetic Induction",
+    "topic": "Supercells Formula",
     "complexity_score": 2
   },
   {
-    "question": "Why is repulsion considered the 'sure test' for magnetism, while attraction is not?",
-    "correct": "Because a magnet can attract a non-magnetic substance, but only another magnet can repel it.",
+    "question": "In the children puzzle, how could two children standing next to each other both say the number '1'?",
+    "correct": "Each child has one neighbor (the other child) who is shorter, and one neighbor on their other side who is taller.",
     "options": [
-      "Because repulsion is a stronger force than attraction.",
-      "Because attraction only works with North poles.",
-      "Because a magnet can attract a non-magnetic substance, but only another magnet can repel it.",
-      "Because all metal objects can repel magnets."
+      "This is impossible.",
+      "If they are the exact same height.",
+      "Each child has one neighbor (the other child) who is shorter, and one neighbor on their other side who is taller.",
+      "If one is looking left and the other is looking right."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Testing for Magnetism",
+    "topic": "Number Puzzles",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which of these is a real-world problem mentioned in the class that can be solved using numbers?",
+    "correct": "Measuring the angle of the ground to help water drain away.",
+    "options": [
+      "Deciding what color to paint your room.",
+      "Figuring out what a misprinted certificate says.",
+      "Measuring the angle of the ground to help water drain away.",
+      "Choosing a new trophy."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Introduction to Numbers",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the correct formula to find the maximum number of supercells, where 'n' is the total number of cells?",
+    "correct": "(n + 1) / 2",
+    "options": [
+      "n - 7",
+      "n / 2",
+      "(n + 1) / 2",
+      "n - 1"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Supercells Formula",
+    "complexity_score": 2
+  },
+  {
+    "question": "If a grid has 101 cells, how many maximum supercells can it have according to the class formula?",
+    "correct": "51",
+    "options": [
+      "102",
+      "50",
+      "51",
+      "100"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Supercells Formula",
+    "complexity_score": 2
+  },
+  {
+    "question": "Imagine a 3x3 grid. To make the center cell a 'supercell', what must be true about the number in it?",
+    "correct": "It must be larger than all 8 numbers surrounding it.",
+    "options": [
+      "It must be the number 9.",
+      "It must be larger than the numbers in the corners.",
+      "It must be larger than all 8 numbers surrounding it.",
+      "It must be an odd number."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Supercells",
+    "complexity_score": 2
+  },
+  {
+    "question": "In the first puzzle, a child says the number '2'. What must be true about their position in the line?",
+    "correct": "They must be standing somewhere in the middle, not at an end.",
+    "options": [
+      "They must be at one of the ends of the line.",
+      "They must be the shortest person in the line.",
+      "They must be standing somewhere in the middle, not at an end.",
+      "They must be standing next to the tallest person."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Number Puzzles",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why was the student's initial idea of finding the pattern by doing 'minus 7' for one pair and 'minus 6' for another pair not a valid mathematical pattern?",
+    "correct": "Because a true pattern or formula must use the same rule for every case.",
+    "options": [
+      "Because subtraction is not allowed in patterns.",
+      "Because the numbers were too big.",
+      "Because a true pattern or formula must use the same rule for every case.",
+      "Because the teacher said it was wrong."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Pattern Recognition",
+    "complexity_score": 2
+  },
+  {
+    "question": "If you are trying to arrange 5 children of different heights, why is it impossible for ALL of them to say '0'?",
+    "correct": "Because since all heights are different, there must be at least one pair where one child is taller than their neighbor.",
+    "options": [
+      "Because 0 is not a counting number.",
+      "It is possible if you arrange them from shortest to tallest.",
+      "Because since all heights are different, there must be at least one pair where one child is taller than their neighbor.",
+      "Because someone has to be first in line."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Number Puzzles",
     "complexity_score": 3
   },
   {
-    "question": "What is the primary reason a freely suspended magnet aligns itself with the Earth's North-South direction?",
-    "correct": "Because the Earth itself acts like a giant magnet.",
+    "question": "A student suggests the formula for maximum supercells is `n - 4`. Why is this formula incorrect based on the data from the class (e.g., 9 cells -> 5 supercells)?",
+    "correct": "Because while 9 - 4 = 5 works, the formula fails for other values, like 11 cells (11-4=7, not 6).",
     "options": [
-      "Because of the Sun's gravitational pull.",
-      "Because the Earth itself acts like a giant magnet.",
-      "Because of the wind currents in the atmosphere.",
-      "Because all objects naturally point North."
+      "Because the formula is too simple.",
+      "Because while 9 - 4 = 5 works, the formula fails for other values, like 11 cells (11-4=7, not 6).",
+      "Because you cannot subtract from 'n'.",
+      "Because the correct formula uses division."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Earth's Magnetism",
-    "complexity_score": 2
-  },
-  {
-    "question": "When storing bar magnets, 'keepers' (soft iron pieces) are placed across their ends. What is the purpose of these keepers?",
-    "correct": "To preserve the magnet's strength by forming a closed loop.",
-    "options": [
-      "To make the magnets look organized.",
-      "To increase the magnet's strength.",
-      "To prevent the magnets from rusting.",
-      "To preserve the magnet's strength by forming a closed loop."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Storing Magnets",
-    "complexity_score": 2
-  },
-  {
-    "question": "What happens when the North pole of one magnet is brought close to the North pole of another magnet?",
-    "correct": "They repel each other.",
-    "options": [
-      "They attract each other.",
-      "They repel each other.",
-      "They lose their magnetism.",
-      "Nothing happens."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Magnetic Poles",
-    "complexity_score": 2
-  },
-  {
-    "question": "The lesson mentioned that a school bell can use an electromagnet. How does it work?",
-    "correct": "Electricity creates a temporary magnetic field that attracts a hammer to strike the bell.",
-    "options": [
-      "The button is a permanent magnet that is pushed.",
-      "Sound waves are converted into magnetism.",
-      "Electricity creates a temporary magnetic field that attracts a hammer to strike the bell.",
-      "The bell is made of lodestone and rings naturally."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Applications of Magnets",
+    "topic": "Pattern Recognition",
     "complexity_score": 3
   },
   {
-    "question": "If you have two identical-looking bars, one is an iron bar and one is a magnet, how could you identify the magnet without any other equipment?",
-    "correct": "This is impossible; you need a third object (another magnet or magnetic substance).",
+    "question": "Using the supercell formula in reverse, if a grid configuration has a maximum of 8 supercells, how many total cells (n) must be in that grid?",
+    "correct": "15",
     "options": [
-      "The magnet will be heavier.",
-      "The magnet will be colder to the touch.",
-      "This is impossible; you need a third object (another magnet or magnetic substance).",
-      "The iron bar will be shinier."
+      "16",
+      "14",
+      "15",
+      "17"
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Testing for Magnetism",
+    "topic": "Supercells Formula",
     "complexity_score": 3
   },
   {
-    "question": "The property of a magnet to always point in a specific direction when suspended freely is called its:",
-    "correct": "Directive property",
+    "question": "Consider the task of arranging 5 children so that four of them say '1' and one says '0'. Which arrangement would work?",
+    "correct": "Arrange them by height as: Medium, Tallest, Medium, Tallest, Medium.",
     "options": [
-      "Attractive property",
-      "Magnetic property",
-      "Directive property",
-      "Compass property"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Properties of Magnets",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the relationship between the Earth's geographic North Pole and its magnetic pole located in that region?",
-    "correct": "The Earth's geographic North Pole is actually a magnetic South pole.",
-    "options": [
-      "They are the exact same thing.",
-      "The Earth's geographic North Pole is also a magnetic North pole.",
-      "The Earth has no magnetic pole at its geographic North Pole.",
-      "The Earth's geographic North Pole is actually a magnetic South pole."
+      "Shortest, Tallest, Shortest, Tallest, Shortest.",
+      "Tallest, Shortest, Tallest, Shortest, Tallest.",
+      "Arrange them by height as: Medium, Tallest, Medium, Tallest, Medium.",
+      "This arrangement is impossible to create."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Earth's Magnetism",
-    "complexity_score": 4
+    "topic": "Number Puzzles",
+    "complexity_score": 3
   },
   {
-    "question": "A compass needle is a small magnet. Why does its North pole point towards the Earth's geographic North?",
-    "correct": "Because it is attracted to the Earth's magnetic South pole, which is near the geographic North.",
+    "question": "What is a key difference between the 'neighbors' in the line of children puzzle and the 'neighbors' in the supercell grid puzzle?",
+    "correct": "In the line, a child has at most 2 neighbors (left/right), while in the grid, a cell can have many more (up, down, left, right, diagonals).",
     "options": [
-      "Because it is repelled by the Earth's magnetic North pole, which is near the geographic North.",
-      "Because like poles attract, and the Earth's magnetic North pole is at the geographic North.",
-      "Because it is attracted to the Earth's magnetic South pole, which is near the geographic North.",
-      "Because gravity pulls the needle to point towards the largest land mass."
+      "There is no difference.",
+      "In the line, neighbors can't talk; in the grid, they can.",
+      "In the line, a child has at most 2 neighbors (left/right), while in the grid, a cell can have many more (up, down, left, right, diagonals).",
+      "Neighbors in the line are based on height, while neighbors in the grid are based on size."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Earth's Magnetism",
-    "complexity_score": 5
+    "topic": "Comparing Concepts",
+    "complexity_score": 3
   },
   {
-    "question": "The lesson briefly mentioned 'domains' inside a magnet. Why does hammering a magnet cause it to lose its magnetism?",
-    "correct": "The shock misaligns the domains, so they no longer point in the same direction.",
+    "question": "To get the FEWEST possible supercells in a grid, what general strategy should you follow when placing numbers?",
+    "correct": "Arrange the numbers so that larger numbers are generally next to even larger numbers.",
     "options": [
-      "The hammering chips away the magnetic particles.",
-      "The shock misaligns the domains, so they no longer point in the same direction.",
-      "The hammering heats the magnet, which burns away the magnetism.",
-      "The shock reverses the North and South poles."
+      "Place the smallest numbers in the corners.",
+      "Arrange the numbers randomly.",
+      "Arrange the numbers so that larger numbers are generally next to even larger numbers.",
+      "Create a checkerboard pattern with high and low numbers."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Demagnetization",
-    "complexity_score": 4
-  },
-  {
-    "question": "Based on the class discussion, why doesn't a freely suspended magnet align itself in an East-West direction?",
-    "correct": "Because the Earth's magnetic field runs between its North and South poles, not East and West.",
-    "options": [
-      "Because the East-West direction changes too quickly.",
-      "Because magnets are not strong enough to detect the East-West pull.",
-      "Because the Earth's magnetic field runs between its North and South poles, not East and West.",
-      "Because the moon's gravity interferes with East-West alignment."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Earth's Magnetism",
-    "complexity_score": 5
-  },
-  {
-    "question": "If you break a bar magnet in half, what is the result?",
-    "correct": "You get two smaller magnets, each with its own North and South pole.",
-    "options": [
-      "You get one piece that is a North pole and one that is a South pole.",
-      "You get two smaller magnets, each with its own North and South pole.",
-      "Both pieces lose their magnetism.",
-      "One piece remains a magnet, the other becomes a simple piece of iron."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Properties of Magnets",
-    "complexity_score": 4
-  },
-  {
-    "question": "You find a rock and want to know if it's a lodestone. Which of the following observations would be the strongest evidence that it is?",
-    "correct": "It repels one end of a known magnet.",
-    "options": [
-      "It is dark and heavy.",
-      "It attracts a small iron nail.",
-      "It is found near a volcano.",
-      "It repels one end of a known magnet."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Testing for Magnetism",
-    "complexity_score": 5
+    "topic": "Supercells",
+    "complexity_score": 3
   }
 ]
