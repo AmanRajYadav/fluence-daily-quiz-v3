@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the sentence, 'She apologized to me,' what is the action that happened in the past?",
-    "correct": "apologized",
+    "question": "In the scene described, where is the fire located?",
+    "correct": "In the fireplace between the sofas",
     "options": [
-      "me",
-      "She",
-      "to",
-      "apologized"
+      "In a cupboard",
+      "On the large coffee table",
+      "In the fireplace between the sofas",
+      "Near the crimson curtains"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Simple Past Tense",
+    "topic": "Reading Comprehension",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence correctly states a plan for the future, based on the class discussion?",
-    "correct": "Today, I will do my homework.",
+    "question": "What items were described as being covered with 'pretty but faded cloth'?",
+    "correct": "The sofas and chairs",
     "options": [
-      "Today, I did my homework.",
-      "Today, I am homework.",
-      "Today, I will do my homework.",
-      "Today, I was doing my homework."
+      "The curtains and the cupboard",
+      "The coffee table and the fireplace",
+      "The sofas and chairs",
+      "The windows and the walls"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Simple Future Tense",
+    "topic": "Reading Comprehension",
     "complexity_score": 1
   },
   {
-    "question": "What does the word 'refuse' mean in the sentence, 'She will refuse to do it'?",
-    "correct": "To say no to something",
+    "question": "Which character was first seen reading on a sofa?",
+    "correct": "Meg",
     "options": [
-      "To do something again",
-      "To say no to something",
-      "To be confused about something",
-      "To agree to do something"
+      "Jo",
+      "Shalaya",
+      "Meg",
+      "Anaya"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary",
+    "topic": "Reading Comprehension",
     "complexity_score": 1
   },
   {
-    "question": "Complete the sentence from the lesson: 'Saksham ___ saying something.'",
-    "correct": "was",
+    "question": "What two items was the character Jo carrying when she walked in?",
+    "correct": "A broom and a shovel",
     "options": [
-      "is",
-      "will be",
-      "was",
-      "did"
+      "A book and a pen",
+      "Rubber boots and a cape",
+      "A broom and a shovel",
+      "A cup of tea and a plate"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Past Continuous Tense",
+    "topic": "Reading Comprehension",
     "complexity_score": 1
   },
   {
-    "question": "The transcript mentions 'He is wearing sunglasses.' Which tense is being used here?",
-    "correct": "Present Continuous",
+    "question": "What color were the curtains originally?",
+    "correct": "Crimson",
     "options": [
-      "Simple Past",
-      "Present Continuous",
-      "Simple Future",
-      "Past Perfect"
+      "Faded",
+      "Dull",
+      "Crimson",
+      "Shabby"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Continuous Tense",
+    "topic": "Reading Comprehension",
     "complexity_score": 1
   },
   {
-    "question": "Based on the correction 'I am going TO school,' what word was missing?",
-    "correct": "The preposition 'to'",
+    "question": "Who does the teacher mention as a favorite author/movie series from their childhood?",
+    "correct": "Harry Potter",
     "options": [
-      "The article 'a'",
-      "The preposition 'to'",
-      "The verb 'am'",
-      "The pronoun 'I'"
+      "The Shawshank Redemption",
+      "Star Wars",
+      "Harry Potter",
+      "The Lord of the Rings"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Sentence Structure (Prepositions)",
+    "topic": "Class Discussion",
     "complexity_score": 1
   },
   {
-    "question": "The sentence 'Carol had already eaten the food' is an example of which tense?",
-    "correct": "Past Perfect",
+    "question": "The phrase 'shabby but gentle poverty' suggests the family...",
+    "correct": "values maintaining a dignified appearance despite financial struggles.",
     "options": [
-      "Simple Past",
-      "Past Continuous",
-      "Present Perfect",
-      "Past Perfect"
+      "is wealthy but pretends to be poor.",
+      "does not care about the appearance of their home.",
+      "values maintaining a dignified appearance despite financial struggles.",
+      "has recently lost all their money."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Past Perfect Tense",
+    "topic": "Literary Inference",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly describes an action that was happening over a period of time in the past?",
-    "correct": "We were playing.",
+    "question": "Why did the teacher find it 'boring' to continue with the reading comprehension and decide to switch activities?",
+    "correct": "To increase student engagement and do something more interactive.",
     "options": [
-      "We did play.",
-      "We will play.",
-      "We were playing.",
-      "We have played."
+      "Because the student answered all the questions correctly.",
+      "Because the teacher forgot the rest of the story.",
+      "To increase student engagement and do something more interactive.",
+      "Because the text was too difficult for the student."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Past Continuous Tense",
+    "topic": "Learning Process",
     "complexity_score": 2
   },
   {
-    "question": "In the sentence 'I would have gone to school, but the driver wasn't there,' why didn't the person go to school?",
-    "correct": "Because the driver was absent.",
+    "question": "In the student's ideal school, what kind of activities would the 'junior most' children do?",
+    "correct": "Painting and competitions",
     "options": [
-      "Because they didn't want to go.",
-      "Because they were sick.",
-      "Because the school was closed.",
-      "Because the driver was absent."
+      "Computer activities and physical projects",
+      "Designing interesting projects",
+      "Painting and competitions",
+      "Learning with holograms and VR devices"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Conditional Tenses",
+    "topic": "Creative Thinking",
     "complexity_score": 2
   },
   {
-    "question": "What is the key difference between 'I gave him the book' (Simple Past) and 'I have given him the book' (Present Perfect)?",
-    "correct": "Simple Past refers to a specific finished time; Present Perfect refers to an unspecified time with present relevance.",
+    "question": "The teacher's ideal school would be located in what kind of environment?",
+    "correct": "In the middle of a forest",
     "options": [
-      "There is no difference; they mean the same thing.",
-      "Simple Past is for the future, and Present Perfect is for the past.",
-      "Simple Past refers to a specific finished time; Present Perfect refers to an unspecified time with present relevance.",
-      "Simple Past uses 'gave,' and Present Perfect uses 'gived'."
+      "In a busy city",
+      "On a space station",
+      "In the middle of a forest",
+      "Underground"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Tense Distinction: Simple Past vs Present Perfect",
+    "topic": "Creative Thinking",
+    "complexity_score": 2
+  },
+  {
+    "question": "According to the teacher's philosophy, what is a better indicator of a student's capability?",
+    "correct": "The quality of the questions they ask.",
+    "options": [
+      "Their ability to memorize answers.",
+      "Their final exam scores.",
+      "The quality of the questions they ask.",
+      "How quickly they finish their work."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Metacognition",
+    "complexity_score": 2
+  },
+  {
+    "question": "What piece of clothing did the teacher compare to what superheroes wear?",
+    "correct": "The hooded cape",
+    "options": [
+      "The rubber boots",
+      "The faded cloth",
+      "The crimson curtains",
+      "The hooded cape"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Vocabulary & Analogy",
+    "complexity_score": 2
+  },
+  {
+    "question": "The teacher's plan to teach English by taking students to a country where it is spoken is an example of what kind of learning?",
+    "correct": "Immersive and practical learning",
+    "options": [
+      "Rote memorization",
+      "Theoretical learning",
+      "Immersive and practical learning",
+      "Assessment-based learning"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Educational Philosophy",
+    "complexity_score": 2
+  },
+  {
+    "question": "What was Jo's reason for going out on a cold day?",
+    "correct": "To get some exercise",
+    "options": [
+      "To fetch firewood",
+      "To meet a friend",
+      "To get some exercise",
+      "To shovel snow"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Reading Comprehension",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the most significant difference between the student's and the teacher's ideal schools?",
+    "correct": "The teacher focuses on technology and nature, while the student focuses on age-based curriculum.",
+    "options": [
+      "The student's school is bigger than the teacher's.",
+      "Only the teacher's school has competitions.",
+      "The teacher focuses on technology and nature, while the student focuses on age-based curriculum.",
+      "The student's school is for seniors only."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Comparative Analysis",
     "complexity_score": 3
   },
   {
-    "question": "How would you correctly form the question discussed in the lesson about providing help?",
-    "correct": "Why did you help him?",
+    "question": "The teacher's statement, 'one should look at his or her questions when he want to assess the student,' most closely aligns with which educational principle?",
+    "correct": "Fostering inquiry and critical thinking over rote memorization.",
     "options": [
-      "Why you help him?",
-      "Why did you help him?",
-      "Why you helped him?",
-      "Why you are helping him?"
+      "The importance of standardized testing.",
+      "The need for strict classroom discipline.",
+      "Fostering inquiry and critical thinking over rote memorization.",
+      "The belief that all students learn at the same pace."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Forming Questions",
-    "complexity_score": 2
-  },
-  {
-    "question": "The sentence 'He forgave her' uses the Simple Past tense. What does this tell us about the action of forgiving?",
-    "correct": "The action was completed in the past.",
-    "options": [
-      "The action is happening now.",
-      "The action will happen in the future.",
-      "The action might happen.",
-      "The action was completed in the past."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Simple Past Tense Application",
-    "complexity_score": 2
-  },
-  {
-    "question": "The lesson corrected the phrase 'I could win' to 'I could have won.' What does 'I could have won' imply?",
-    "correct": "I had the ability to win, but I did not win.",
-    "options": [
-      "I will win in the future.",
-      "I am winning right now.",
-      "I had the ability to win, but I did not win.",
-      "I won the game."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Conditional Tenses",
+    "topic": "Educational Philosophy",
     "complexity_score": 3
   },
   {
-    "question": "Based on the sentence 'Saksham was saying something,' what was Saksham doing?",
-    "correct": "He was in the middle of the act of speaking.",
+    "question": "The teacher's ideal school, with its focus on learning by doing (e.g., launching a satellite, using computers for computer class), reflects the philosophy of which educator?",
+    "correct": "John Dewey (learning by doing)",
     "options": [
-      "He finished speaking.",
-      "He was about to speak.",
-      "He was in the middle of the act of speaking.",
-      "He was thinking about speaking."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Past Continuous Application",
-    "complexity_score": 2
-  },
-  {
-    "question": "Why is 'I could have won' the correct phrase to express a missed opportunity in the past, instead of 'I could win'?",
-    "correct": "The structure 'could have + past participle' specifically talks about past possibilities that did not happen.",
-    "options": [
-      "'Could win' is also correct for a missed past opportunity.",
-      "The structure 'could have + past participle' specifically talks about past possibilities that did not happen.",
-      "'Could win' talks about a future possibility.",
-      "'Have' is added just to make the sentence longer."
+      "Socrates (dialectic method)",
+      "Carol Dweck (growth mindset)",
+      "John Dewey (learning by doing)",
+      "Jean Piaget (stages of development)"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Conditional Tense Analysis",
-    "complexity_score": 4
+    "topic": "Pedagogical Analysis",
+    "complexity_score": 3
   },
   {
-    "question": "Analyze the sentence: 'I would have gone to school, but the driver wasn't there.' This structure is used to talk about...",
-    "correct": "an imagined past situation and the real reason it didn't happen.",
+    "question": "Why did the teacher pivot the lesson from reading comprehension to a Q&A session where the student had to ask questions?",
+    "correct": "To actively develop the student's ability to formulate questions, which the teacher sees as a key skill.",
     "options": [
-      "a definite plan for the future.",
-      "a complaint about the present.",
-      "a description of a regular habit in the past.",
-      "an imagined past situation and the real reason it didn't happen."
+      "To give the student a break from reading.",
+      "Because the teacher wanted to talk about their favorite movie.",
+      "To actively develop the student's ability to formulate questions, which the teacher sees as a key skill.",
+      "To prepare for an upcoming group discussion test."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Conditional Tense Analysis",
-    "complexity_score": 4
+    "topic": "Teaching Strategy Analysis",
+    "complexity_score": 3
   },
   {
-    "question": "The Past Perfect tense ('Carol had already eaten') is often used to show the order of past events. What does it imply?",
-    "correct": "That Carol's eating happened before another past event.",
+    "question": "Both the student's and the teacher's school designs emphasize a move away from traditional classrooms towards more...",
+    "correct": "Project-based and hands-on learning",
     "options": [
-      "That Carol was eating at that exact moment.",
-      "That Carol's eating happened before another past event.",
-      "That Carol might eat later.",
-      "That we don't know when Carol ate."
+      "Lecture-based instruction",
+      "Exam-focused curriculum",
+      "Project-based and hands-on learning",
+      "Solitary and independent study"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Past Perfect Tense Analysis",
-    "complexity_score": 4
+    "topic": "Comparative Analysis",
+    "complexity_score": 3
   },
   {
-    "question": "Imagine you are telling a story. Which sentence would you use to set the scene before describing a sudden, main event?",
-    "correct": "I was walking home from school...",
+    "question": "The initial reading exercise focused on 'what' (details in the room), while the discussion about designing a school focused on 'why' and 'how' (the purpose of education). This shift represents a move towards:",
+    "correct": "Higher-order thinking skills",
     "options": [
-      "I walk home from school.",
-      "I walked home from school.",
-      "I was walking home from school...",
-      "I have walked home from school."
+      "Basic literacy skills",
+      "Grammatical accuracy",
+      "Higher-order thinking skills",
+      "Following instructions"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Narrative Tense Application",
-    "complexity_score": 4
-  },
-  {
-    "question": "What is the most significant change in meaning when moving from 'He forgave her' to 'He has forgiven her'?",
-    "correct": "'Has forgiven' connects the past act of forgiving to the present situation, implying it's still relevant.",
-    "options": [
-      "There is no change in meaning.",
-      "'Has forgiven' suggests the forgiveness might be taken back.",
-      "'Has forgiven' connects the past act of forgiving to the present situation, implying it's still relevant.",
-      "'Forgave' is a stronger form of forgiveness."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Tense Nuance Analysis",
-    "complexity_score": 5
-  },
-  {
-    "question": "To express that you were unable to do something in the past due to a specific condition, which structure is most appropriate based on our lesson?",
-    "correct": "I would have [done something], but [condition was not met].",
-    "options": [
-      "I will [do something] when [condition is met].",
-      "I did [something] because [condition was not met].",
-      "I am [doing something] so [condition is not met].",
-      "I would have [done something], but [condition was not met]."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Conditional Logic",
-    "complexity_score": 5
+    "topic": "Learning Theory",
+    "complexity_score": 3
   }
 ]
