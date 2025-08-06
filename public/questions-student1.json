@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the reading passage, where is the scene set?",
-    "correct": "In a drawing room",
+    "question": "Which sentence correctly uses the 'going to' pattern to talk about a future plan?",
+    "correct": "I am going to play.",
     "options": [
-      "In a kitchen",
-      "In a bedroom",
-      "Outside by a fire",
-      "In a drawing room"
+      "I have to play.",
+      "I am play.",
+      "I am going to play.",
+      "I did play."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Reading Comprehension",
+    "topic": "Future Intentions ('going to')",
     "complexity_score": 1
   },
   {
-    "question": "What color were the curtains at the windows originally?",
-    "correct": "Crimson",
+    "question": "How do you express that you own a book?",
+    "correct": "I have a book.",
     "options": [
-      "Bright blue",
-      "Crimson",
-      "Dull green",
-      "Faded yellow"
+      "I am a book.",
+      "I will book.",
+      "I have a book.",
+      "I going to book."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Reading Comprehension",
+    "topic": "Possession ('have/has')",
     "complexity_score": 1
   },
   {
-    "question": "Which character was first seen reading on one of the sofas?",
-    "correct": "Meg",
+    "question": "Which phrase means you have the capability to do something?",
+    "correct": "able to",
     "options": [
-      "Jo",
-      "Meg",
-      "Shalaya",
-      "The teacher"
+      "have to",
+      "going to",
+      "able to",
+      "being to"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Character Identification",
+    "topic": "Capability ('able to')",
     "complexity_score": 1
   },
   {
-    "question": "What was Jo carrying when she walked into the room?",
-    "correct": "A broom and a shovel",
+    "question": "What is the correct way to say you were a doctor in the past?",
+    "correct": "I was a doctor.",
     "options": [
-      "A book and a cup",
-      "A pair of boots",
-      "A broom and a shovel",
-      "A hooded cape and a bag"
+      "I am a doctor.",
+      "I will be a doctor.",
+      "I have a doctor.",
+      "I was a doctor."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Character Identification",
+    "topic": "State of Being ('being')",
     "complexity_score": 1
   },
   {
-    "question": "According to the teacher, looking at a student's questions is a good way to assess their what?",
-    "correct": "Their ability and competence",
+    "question": "Which sentence shows an obligation or something you must do?",
+    "correct": "I have to do my homework.",
     "options": [
-      "Their memory",
-      "Their favorite subject",
-      "Their ability and competence",
-      "Their handwriting"
+      "I am doing my homework.",
+      "I like to do my homework.",
+      "I have to do my homework.",
+      "I was doing my homework."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Metacognition & Learning Philosophy",
+    "topic": "Obligation ('have to')",
     "complexity_score": 1
   },
   {
-    "question": "In the student's ideal school, what kind of activities would the junior-most students do?",
-    "correct": "Paintings and competitions",
+    "question": "To ask someone if they own a pen, you should say:",
+    "correct": "Do you have a pen?",
     "options": [
-      "Launch satellites",
-      "Design complex projects",
-      "Paintings and competitions",
-      "Travel to other countries"
+      "Are you a pen?",
+      "Do you have a pen?",
+      "Will you pen?",
+      "Can you a pen?"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Creative School Design",
+    "topic": "Possession ('have/has')",
     "complexity_score": 1
   },
   {
-    "question": "The phrase 'shabby but gentle poverty' is used to describe the room's overall effect. What does this suggest?",
-    "correct": "The family lacks money but maintains a dignified and cozy home.",
+    "question": "If you planned to throw a party yesterday but didn't, which sentence is correct?",
+    "correct": "I was going to throw a party.",
     "options": [
-      "The family is messy and doesn't care about their home.",
-      "The family is trying to show off wealth they don't have.",
-      "The family has recently become poor and is selling their furniture.",
-      "The family lacks money but maintains a dignified and cozy home."
+      "I am going to throw a party.",
+      "I will throw a party.",
+      "I was going to throw a party.",
+      "I have thrown a party."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Literary Analysis",
+    "topic": "Future Intentions ('going to')",
     "complexity_score": 2
   },
   {
-    "question": "Why did Jo enter the room wearing rubber boots and carrying tools?",
-    "correct": "She was planning to go out for exercise despite the cold.",
+    "question": "The sentence 'He has a pen' is about possession. What is the correct question form?",
+    "correct": "Does he have a pen?",
     "options": [
-      "She was about to clean the fireplace.",
-      "She was dressing up as a superhero.",
-      "She was playing a joke on Meg.",
-      "She was planning to go out for exercise despite the cold."
+      "Is he a pen?",
+      "Does he has a pen?",
+      "Do he have a pen?",
+      "Does he have a pen?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Character Inference",
+    "topic": "Possession ('have/has')",
     "complexity_score": 2
   },
   {
-    "question": "What is the primary reason the teacher wants to become a teacher?",
-    "correct": "To change and improve the way students learn.",
+    "question": "What is the difference in meaning between 'I could not do my homework' and 'I was not able to do my homework'?",
+    "correct": "They have a very similar meaning, expressing a lack of ability in the past.",
     "options": [
-      "Because they love watching movies like Harry Potter.",
-      "To learn from their students and friends.",
-      "To get a job in a school or college.",
-      "To change and improve the way students learn."
+      "'Could not' is for the future, 'was not able to' is for the past.",
+      "'Could not' means you didn't want to, 'was not able to' means you were incapable.",
+      "They have a very similar meaning, expressing a lack of ability in the past.",
+      "There is no difference at all."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Personal Values & Motivation",
+    "topic": "Capability ('able to' vs 'could')",
     "complexity_score": 2
   },
   {
-    "question": "What is a major feature of the teacher's ideal school?",
-    "correct": "Using advanced technology like holograms and VR for immersive learning.",
+    "question": "A student says, 'I am a pen.' Why is this sentence grammatically incorrect for expressing ownership?",
+    "correct": "It confuses a state of being ('am') with possession ('have').",
     "options": [
-      "Having many different buildings for each subject.",
-      "Focusing strictly on exams and getting high marks.",
-      "Using only pens and paper to avoid distractions.",
-      "Using advanced technology like holograms and VR for immersive learning."
+      "The verb tense is wrong.",
+      "It confuses a state of being ('am') with possession ('have').",
+      "It should be 'I am penning'.",
+      "The article 'a' is incorrect."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Creative School Design",
+    "topic": "State of Being vs. Possession",
     "complexity_score": 2
   },
   {
-    "question": "In the teacher's ideal school, how would students learn mathematics?",
-    "correct": "By using real-world objects.",
+    "question": "How do you change 'I have a car' to the negative past tense?",
+    "correct": "I did not have a car.",
     "options": [
-      "By completing worksheets on paper.",
-      "By using a computer only.",
-      "By reading textbooks.",
-      "By using real-world objects."
+      "I had not a car.",
+      "I was not a car.",
+      "I do not had a car.",
+      "I did not have a car."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Educational Philosophy",
+    "topic": "Possession ('have/has')",
     "complexity_score": 2
   },
   {
-    "question": "A key difference between the student's and the teacher's school designs is that the student's school is ________, while the teacher's is ________.",
-    "correct": "structured into sections by age; an open school in nature",
+    "question": "If you are sick and cannot attend school tomorrow, what is the best way to express this using 'able to'?",
+    "correct": "I will not be able to come to school.",
     "options": [
-      "small and cozy; very large and industrial",
-      "focused on art; focused only on science",
-      "structured into sections by age; an open school in nature",
-      "located in a city; located on a different planet"
+      "I am not able to come to school.",
+      "I was not able to come to school.",
+      "I will not be able to come to school.",
+      "I have not been able to come to school."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Comparative Analysis",
+    "topic": "Capability ('able to')",
     "complexity_score": 2
   },
   {
-    "question": "What activity did the teacher propose to make the class more interesting after the reading exercise?",
-    "correct": "A question and answer game where the student also gets to ask questions.",
+    "question": "Someone asks, 'Did you have a question?' If you did not, what is the most complete and correct response?",
+    "correct": "No, I didn't have a question.",
     "options": [
-      "Watching a part of a Harry Potter movie.",
-      "A vocabulary quiz on the reading passage.",
-      "A question and answer game where the student also gets to ask questions.",
-      "Writing a paragraph about their favorite superhero."
+      "No, I had not a question.",
+      "No, I didn't had a question.",
+      "No, I wasn't a question.",
+      "No, I didn't have a question."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Classroom Dynamics",
+    "topic": "Possession ('have/has')",
     "complexity_score": 2
   },
   {
-    "question": "For which students did the student's ideal school plan include computer activities and physical projects?",
-    "correct": "The middle-level students.",
+    "question": "Which of the following sentences correctly combines a reason with a statement of inability?",
+    "correct": "I was not able to do my homework because I did not have a brain.",
     "options": [
-      "The junior-most students.",
-      "The senior-most students.",
-      "The middle-level students.",
-      "All of the students."
+      "I could not do my homework because I am a brain.",
+      "I was not able to do my homework because I did not have a brain.",
+      "I am not able to do my homework so I will not have a brain.",
+      "I did not have homework so I was not able to have a brain."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Creative School Design",
+    "topic": "Combining Concepts",
     "complexity_score": 2
   },
   {
-    "question": "The teacher's decision to switch from the reading comprehension to the Q&A game shows they prioritize...",
-    "correct": "student engagement and intrinsic motivation.",
+    "question": "The teacher states that the winning strategy for the game '21' is 'unbeatable' and comes from the student's math book. This implies the strategy is based on...",
+    "correct": "Logical patterns and mathematical principles.",
     "options": [
-      "following the lesson plan exactly.",
-      "finishing the textbook as quickly as possible.",
-      "giving out rewards for correct answers.",
-      "student engagement and intrinsic motivation."
+      "Random luck and guessing.",
+      "Speaking very quickly to confuse the opponent.",
+      "Psychological intimidation.",
+      "Logical patterns and mathematical principles."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Educational Philosophy",
+    "topic": "Critical Thinking & Logic",
     "complexity_score": 3
   },
   {
-    "question": "The teacher's philosophy that 'one should look at his or her questions' suggests that true learning is about...",
-    "correct": "developing curiosity and the ability to investigate.",
+    "question": "Consider the sentence: 'Tomorrow, when I will be about to go to school.' What is the primary concept being explored here, even if the grammar is slightly confused?",
+    "correct": "Expressing a specific point in time in the future when an action is imminent.",
     "options": [
-      "memorizing the correct answers for tests.",
-      "being able to answer questions faster than anyone else.",
-      "developing curiosity and the ability to investigate.",
-      "agreeing with the teacher on all topics."
+      "Describing a past memory about school.",
+      "Expressing a specific point in time in the future when an action is imminent.",
+      "Stating a general fact about school.",
+      "Asking a question about school."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition & Learning Philosophy",
+    "topic": "Complex Tense and Intention",
     "complexity_score": 3
   },
   {
-    "question": "What underlying value is shared by both the student's and the teacher's ideal school designs?",
-    "correct": "A belief in hands-on, project-based learning.",
+    "question": "Why is 'I did not have a pen' a better grammatical structure than 'I had not a pen' in modern English?",
+    "correct": "Modern English uses the auxiliary verb 'do' to form negatives for most main verbs in the simple past.",
     "options": [
-      "A preference for schools in the middle of a forest.",
-      "An emphasis on passing exams with high marks.",
-      "A requirement for every student to have a laptop.",
-      "A belief in hands-on, project-based learning."
+      "'Had not' is only used for questions.",
+      "It is shorter and therefore better.",
+      "Modern English uses the auxiliary verb 'do' to form negatives for most main verbs in the simple past.",
+      "'Had not' is grammatically incorrect in all forms of English."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Comparative Analysis",
+    "topic": "Grammar Rules (Auxiliary Verbs)",
     "complexity_score": 3
   },
   {
-    "question": "Based on the teacher's ideal school, what is their main critique of many current schools?",
-    "correct": "They overemphasize marks and fail to make learning practical and engaging.",
+    "question": "The lesson moves from 'being' (I am smart) to 'going to' (I am going to play) to 'having' (I have a pen). What is the underlying learning progression?",
+    "correct": "From describing states, to intentions, to possession.",
     "options": [
-      "They do not have enough windows.",
-      "They are too focused on physical activities like sports.",
-      "They use too much technology like computers.",
-      "They overemphasize marks and fail to make learning practical and engaging."
+      "From easy words to difficult words.",
+      "From describing states, to intentions, to possession.",
+      "From past tense, to present tense, to future tense.",
+      "From questions, to statements, to commands."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Educational Philosophy",
+    "topic": "Lesson Structure Analysis",
     "complexity_score": 3
   },
   {
-    "question": "The description of the room with its 'faded' cloths, 'dull' curtains, and 'cheerful fire' is likely intended to establish a story theme about...",
-    "correct": "the importance of inner warmth and character over material wealth.",
+    "question": "What core misunderstanding is the teacher addressing by correcting 'Are you a pen?' to 'Do you have a pen?'",
+    "correct": "The difference between identity (what something is) and possession (what something has).",
     "options": [
-      "the dangers of living in poverty.",
-      "a family that has lost its fortune and is unhappy.",
-      "the need to redecorate an old house.",
-      "the importance of inner warmth and character over material wealth."
+      "The correct use of articles 'a' and 'an'.",
+      "The difference between identity (what something is) and possession (what something has).",
+      "The pronunciation of the word 'pen'.",
+      "The spelling of the word 'you'."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Literary Analysis",
+    "topic": "Conceptual Distinction",
     "complexity_score": 3
   },
   {
-    "question": "The teacher's plan for an ideal English lesson (taking students to an English-speaking country) demonstrates a commitment to which learning principle?",
-    "correct": "Authentic and immersive learning experiences.",
+    "question": "The phrase 'You will have to win this match' expresses a future obligation. How would you express a past obligation that you fulfilled?",
+    "correct": "I had to win that match.",
     "options": [
-      "Rote memorization and repetition.",
-      "Learning through digital games only.",
-      "Independent study with books.",
-      "Authentic and immersive learning experiences."
+      "I was having to win that match.",
+      "I did have to win that match.",
+      "I had to win that match.",
+      "I would have to win that match."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Educational Philosophy",
+    "topic": "Obligation ('have to' in Past Tense)",
     "complexity_score": 3
   }
 ]
