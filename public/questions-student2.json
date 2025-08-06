@@ -1,12 +1,12 @@
 [
   {
-    "question": "In the lesson, what is the primary definition of a 'Supercell'?",
-    "correct": "A cell containing a number that is larger than the numbers in all of its neighboring (adjacent) cells.",
+    "question": "In a grid of numbers, what is a 'supercell'?",
+    "correct": "A cell whose number is larger than all of its immediate neighbors.",
     "options": [
-      "A cell containing the highest number in the entire table.",
-      "A cell that is colored green.",
-      "A cell containing a number that is larger than the numbers in all of its neighboring (adjacent) cells.",
-      "A cell with an even number."
+      "A cell with the smallest number in the grid.",
+      "A cell containing a two-digit number.",
+      "A cell whose number is larger than all of its immediate neighbors.",
+      "Any cell in the corner of the grid."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -14,41 +14,55 @@
     "complexity_score": 1
   },
   {
-    "question": "In the first puzzle with the children, what did the number '1' mean when a child said it?",
-    "correct": "The child had exactly one neighbor who was taller than them.",
+    "question": "Which of the following is a palindromic number?",
+    "correct": "575",
     "options": [
-      "The child was the tallest in the group.",
-      "The child was standing in the first position.",
-      "The child had exactly one neighbor who was taller than them.",
-      "The child had one neighbor who was shorter than them."
+      "123",
+      "575",
+      "776",
+      "100"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Number Puzzles",
+    "topic": "Palindromic Numbers",
     "complexity_score": 1
   },
   {
-    "question": "According to the discussion, what is one of the main things we use numbers for in our daily lives?",
-    "correct": "For counting objects and organizing things.",
+    "question": "What is the digit sum of the number 68?",
+    "correct": "14",
     "options": [
-      "Only for solving math homework.",
-      "For creating secret codes that no one can read.",
-      "For counting objects and organizing things.",
-      "Only for playing games."
+      "68",
+      "2",
+      "14",
+      "48"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Introduction to Numbers",
+    "topic": "Digit Sum",
     "complexity_score": 1
   },
   {
-    "question": "What is another word used in the class for a cell's 'neighbors'?",
-    "correct": "Adjacent cells",
+    "question": "In the game 'Reach 21', what is the maximum number a player can add to the total in a single turn?",
+    "correct": "3",
     "options": [
-      "Supercells",
-      "Connected cells",
-      "Adjacent cells",
-      "Pattern cells"
+      "1",
+      "21",
+      "3",
+      "5"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Number Games",
+    "complexity_score": 1
+  },
+  {
+    "question": "If you are filling a grid with numbers, which number will always be a supercell?",
+    "correct": "The largest number in the entire grid.",
+    "options": [
+      "The number in the center.",
+      "The smallest number in the entire grid.",
+      "The largest number in the entire grid.",
+      "The first number you write down."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -56,111 +70,41 @@
     "complexity_score": 1
   },
   {
-    "question": "In the children puzzle, could a person standing at the very end of the line ever say the number '2'?",
-    "correct": "No, because a person at the end only has one neighbor.",
+    "question": "What number comes next in the sequence: 20, 25, 30, ...?",
+    "correct": "35",
     "options": [
-      "Yes, if they are the tallest person.",
-      "Yes, if they are the shortest person.",
-      "No, because a person at the end only has one neighbor.",
-      "No, because the number 2 was not allowed in the game."
+      "31",
+      "40",
+      "35",
+      "32"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Number Puzzles",
+    "topic": "Number Patterns",
     "complexity_score": 1
   },
   {
-    "question": "In the children puzzle, what did it mean if a child said the number '0'?",
-    "correct": "They had zero neighbors who were taller than them.",
+    "question": "How many two-digit numbers are there in total (from 10 to 99)?",
+    "correct": "90",
     "options": [
-      "They were the shortest person in the line.",
-      "They had zero neighbors.",
-      "They had zero neighbors who were taller than them.",
-      "They didn't know the answer."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Number Puzzles",
-    "complexity_score": 1
-  },
-  {
-    "question": "Using the formula discovered in class, what is the maximum number of supercells possible in a grid with 21 cells?",
-    "correct": "11",
-    "options": [
-      "10",
-      "22",
-      "11",
-      "20"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Supercells Formula",
-    "complexity_score": 2
-  },
-  {
-    "question": "In the children puzzle, how could two children standing next to each other both say the number '1'?",
-    "correct": "Each child has one neighbor (the other child) who is shorter, and one neighbor on their other side who is taller.",
-    "options": [
-      "This is impossible.",
-      "If they are the exact same height.",
-      "Each child has one neighbor (the other child) who is shorter, and one neighbor on their other side who is taller.",
-      "If one is looking left and the other is looking right."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Number Puzzles",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which of these is a real-world problem mentioned in the class that can be solved using numbers?",
-    "correct": "Measuring the angle of the ground to help water drain away.",
-    "options": [
-      "Deciding what color to paint your room.",
-      "Figuring out what a misprinted certificate says.",
-      "Measuring the angle of the ground to help water drain away.",
-      "Choosing a new trophy."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Introduction to Numbers",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the correct formula to find the maximum number of supercells, where 'n' is the total number of cells?",
-    "correct": "(n + 1) / 2",
-    "options": [
-      "n - 7",
-      "n / 2",
-      "(n + 1) / 2",
-      "n - 1"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Supercells Formula",
-    "complexity_score": 2
-  },
-  {
-    "question": "If a grid has 101 cells, how many maximum supercells can it have according to the class formula?",
-    "correct": "51",
-    "options": [
-      "102",
-      "50",
-      "51",
+      "99",
+      "89",
+      "90",
       "100"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Supercells Formula",
+    "topic": "Number Properties",
     "complexity_score": 2
   },
   {
-    "question": "Imagine a 3x3 grid. To make the center cell a 'supercell', what must be true about the number in it?",
-    "correct": "It must be larger than all 8 numbers surrounding it.",
+    "question": "Based on the class discussion, can the smallest number in a grid ever be a supercell?",
+    "correct": "No, because it cannot be larger than its neighbors.",
     "options": [
-      "It must be the number 9.",
-      "It must be larger than the numbers in the corners.",
-      "It must be larger than all 8 numbers surrounding it.",
-      "It must be an odd number."
+      "Yes, if it's placed in a corner.",
+      "Yes, if all other numbers are negative.",
+      "No, because it cannot be larger than its neighbors.",
+      "Only if the grid is larger than 3x3."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -168,111 +112,167 @@
     "complexity_score": 2
   },
   {
-    "question": "In the first puzzle, a child says the number '2'. What must be true about their position in the line?",
-    "correct": "They must be standing somewhere in the middle, not at an end.",
+    "question": "In a 3x3 grid filled with unique numbers, what is the minimum number of supercells that must exist?",
+    "correct": "1",
     "options": [
-      "They must be at one of the ends of the line.",
-      "They must be the shortest person in the line.",
-      "They must be standing somewhere in the middle, not at an end.",
-      "They must be standing next to the tallest person."
+      "0",
+      "9",
+      "1",
+      "5"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Number Puzzles",
+    "topic": "Supercells",
     "complexity_score": 2
   },
   {
-    "question": "Why was the student's initial idea of finding the pattern by doing 'minus 7' for one pair and 'minus 6' for another pair not a valid mathematical pattern?",
-    "correct": "Because a true pattern or formula must use the same rule for every case.",
+    "question": "Which of these numbers has a digit sum of 14?",
+    "correct": "68",
     "options": [
-      "Because subtraction is not allowed in patterns.",
-      "Because the numbers were too big.",
-      "Because a true pattern or formula must use the same rule for every case.",
-      "Because the teacher said it was wrong."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Pattern Recognition",
-    "complexity_score": 2
-  },
-  {
-    "question": "If you are trying to arrange 5 children of different heights, why is it impossible for ALL of them to say '0'?",
-    "correct": "Because since all heights are different, there must be at least one pair where one child is taller than their neighbor.",
-    "options": [
-      "Because 0 is not a counting number.",
-      "It is possible if you arrange them from shortest to tallest.",
-      "Because since all heights are different, there must be at least one pair where one child is taller than their neighbor.",
-      "Because someone has to be first in line."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Number Puzzles",
-    "complexity_score": 3
-  },
-  {
-    "question": "A student suggests the formula for maximum supercells is `n - 4`. Why is this formula incorrect based on the data from the class (e.g., 9 cells -> 5 supercells)?",
-    "correct": "Because while 9 - 4 = 5 works, the formula fails for other values, like 11 cells (11-4=7, not 6).",
-    "options": [
-      "Because the formula is too simple.",
-      "Because while 9 - 4 = 5 works, the formula fails for other values, like 11 cells (11-4=7, not 6).",
-      "Because you cannot subtract from 'n'.",
-      "Because the correct formula uses division."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Pattern Recognition",
-    "complexity_score": 3
-  },
-  {
-    "question": "Using the supercell formula in reverse, if a grid configuration has a maximum of 8 supercells, how many total cells (n) must be in that grid?",
-    "correct": "15",
-    "options": [
-      "16",
       "14",
-      "15",
-      "17"
+      "140",
+      "68",
+      "41"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Digit Sum",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the correct way to find the smallest number in the sequence: 2005, 2000, 1995, ...?",
+    "correct": "Follow the pattern of subtracting 5 to find all the numbers.",
+    "options": [
+      "The first number, 2005, is always the smallest.",
+      "The last number in the sequence is always the smallest.",
+      "Follow the pattern of subtracting 5 to find all the numbers.",
+      "Guess based on the first two numbers."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Number Patterns",
+    "complexity_score": 2
+  },
+  {
+    "question": "The number 77 is written on a wall. How many times does the digit '7' appear?",
+    "correct": "2",
+    "options": [
+      "1",
+      "7",
+      "77",
+      "2"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Number Properties",
+    "complexity_score": 2
+  },
+  {
+    "question": "You start the process of creating a palindromic number with '97'. What is the first step?",
+    "correct": "Add its reverse (79) to itself.",
+    "options": [
+      "Reverse the number to get 79 and stop.",
+      "Add its reverse (79) to itself.",
+      "Multiply it by 2.",
+      "Find its digit sum."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Palindromic Numbers",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the smallest number greater than 9 whose digit sum is 9?",
+    "correct": "18",
+    "options": [
+      "90",
+      "45",
+      "27",
+      "18"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Digit Sum",
+    "complexity_score": 2
+  },
+  {
+    "question": "In the game 'Reach 21', the current total is 17. What number must you say to guarantee a win on your next turn, assuming your opponent plays correctly?",
+    "correct": "3 (to reach 20)",
+    "options": [
+      "1 (to reach 18)",
+      "2 (to reach 19)",
+      "3 (to reach 20)",
+      "It's impossible to guarantee a win from 17."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Supercells Formula",
+    "topic": "Number Games",
     "complexity_score": 3
   },
   {
-    "question": "Consider the task of arranging 5 children so that four of them say '1' and one says '0'. Which arrangement would work?",
-    "correct": "Arrange them by height as: Medium, Tallest, Medium, Tallest, Medium.",
+    "question": "Which of the following 3x3 grid arrangements makes the second-largest number (8) NOT a supercell? (Numbers 1-9 used once)",
+    "correct": "A grid where 9 is a neighbor of 8.",
     "options": [
-      "Shortest, Tallest, Shortest, Tallest, Shortest.",
-      "Tallest, Shortest, Tallest, Shortest, Tallest.",
-      "Arrange them by height as: Medium, Tallest, Medium, Tallest, Medium.",
-      "This arrangement is impossible to create."
+      "A grid where 8 is in the center and surrounded by 1, 2, 3, 4, 5, 6, 7.",
+      "A grid where 9 is a neighbor of 8.",
+      "It is impossible, the second-largest number is always a supercell.",
+      "A grid where 8 and 9 are in opposite corners."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Number Puzzles",
+    "topic": "Supercells",
     "complexity_score": 3
   },
   {
-    "question": "What is a key difference between the 'neighbors' in the line of children puzzle and the 'neighbors' in the supercell grid puzzle?",
-    "correct": "In the line, a child has at most 2 neighbors (left/right), while in the grid, a cell can have many more (up, down, left, right, diagonals).",
+    "question": "How many total 3-digit numbers are there (from 100 to 999)?",
+    "correct": "900",
     "options": [
-      "There is no difference.",
-      "In the line, neighbors can't talk; in the grid, they can.",
-      "In the line, a child has at most 2 neighbors (left/right), while in the grid, a cell can have many more (up, down, left, right, diagonals).",
-      "Neighbors in the line are based on height, while neighbors in the grid are based on size."
+      "999",
+      "899",
+      "900",
+      "990"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Comparing Concepts",
+    "topic": "Number Properties",
     "complexity_score": 3
   },
   {
-    "question": "To get the FEWEST possible supercells in a grid, what general strategy should you follow when placing numbers?",
-    "correct": "Arrange the numbers so that larger numbers are generally next to even larger numbers.",
+    "question": "You find the digit sum of 123 (it's 6). Then you find the digit sum of the next consecutive number, 234 (it's 9). What will the digit sum of the next one, 345, be?",
+    "correct": "12 (The sum increases by 3 each time)",
     "options": [
-      "Place the smallest numbers in the corners.",
-      "Arrange the numbers randomly.",
-      "Arrange the numbers so that larger numbers are generally next to even larger numbers.",
-      "Create a checkerboard pattern with high and low numbers."
+      "9 (The sum stays the same)",
+      "10",
+      "12 (The sum increases by 3 each time)",
+      "15"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Number Patterns",
+    "complexity_score": 3
+  },
+  {
+    "question": "How many times is the digit '7' written when listing all whole numbers from 1 to 100?",
+    "correct": "20",
+    "options": [
+      "10",
+      "11",
+      "19",
+      "20"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Number Properties",
+    "complexity_score": 3
+  },
+  {
+    "question": "Is it possible to fill a table such that the second-smallest number is a supercell?",
+    "correct": "No, because to be a supercell, all its neighbors must be smaller, but the smallest number must be one of its neighbors.",
+    "options": [
+      "Yes, by surrounding it with negative numbers.",
+      "Yes, by using very large numbers for everything else.",
+      "No, because to be a supercell, all its neighbors must be smaller, but the smallest number must be one of its neighbors.",
+      "Yes, if the table is arranged in a single line."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
