@@ -1,26 +1,12 @@
 [
   {
-    "question": "In a grid of numbers, what is a 'supercell'?",
-    "correct": "A cell whose number is larger than all of its immediate neighbors.",
+    "question": "What is the definition of a palindromic number as discussed in the lesson?",
+    "correct": "A number that reads the same forwards and backwards.",
     "options": [
-      "A cell with the smallest number in the grid.",
-      "A cell containing a two-digit number.",
-      "A cell whose number is larger than all of its immediate neighbors.",
-      "Any cell in the corner of the grid."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Supercells",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which of the following is a palindromic number?",
-    "correct": "575",
-    "options": [
-      "123",
-      "575",
-      "776",
-      "100"
+      "A number that can only be divided by itself and one.",
+      "A number that is the result of adding two other numbers.",
+      "A number that reads the same forwards and backwards.",
+      "A number with all even digits."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -28,153 +14,97 @@
     "complexity_score": 1
   },
   {
-    "question": "What is the digit sum of the number 68?",
-    "correct": "14",
+    "question": "According to the lesson, what is the first step in the process to find a palindrome from a starting number like 65?",
+    "correct": "Reverse the digits of the number.",
     "options": [
-      "68",
-      "2",
-      "14",
-      "48"
+      "Add the digits together.",
+      "Multiply the number by two.",
+      "Reverse the digits of the number.",
+      "Find the square root of the number."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Digit Sum",
+    "topic": "Palindrome Process",
     "complexity_score": 1
   },
   {
-    "question": "In the game 'Reach 21', what is the maximum number a player can add to the total in a single turn?",
-    "correct": "3",
+    "question": "What is the second step in the palindrome-finding process, right after you reverse the number's digits?",
+    "correct": "Add the original number and the reversed number together.",
     "options": [
-      "1",
-      "21",
-      "3",
-      "5"
+      "Subtract the smaller number from the larger number.",
+      "Add the original number and the reversed number together.",
+      "List all factors of the new number.",
+      "Repeat the first step immediately."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Number Games",
+    "topic": "Palindrome Process",
     "complexity_score": 1
   },
   {
-    "question": "If you are filling a grid with numbers, which number will always be a supercell?",
-    "correct": "The largest number in the entire grid.",
+    "question": "What happens if the result of the 'reverse-and-add' step is NOT a palindrome?",
+    "correct": "You must repeat the process with the new number.",
     "options": [
-      "The number in the center.",
-      "The smallest number in the entire grid.",
-      "The largest number in the entire grid.",
-      "The first number you write down."
+      "The process has failed and you must start over.",
+      "You must subtract the numbers instead.",
+      "You have found a special type of number called a non-palindrome.",
+      "You must repeat the process with the new number."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Supercells",
+    "topic": "Palindrome Process",
     "complexity_score": 1
   },
   {
-    "question": "What number comes next in the sequence: 20, 25, 30, ...?",
-    "correct": "35",
+    "question": "The lesson briefly defined an 'angle bisector.' What does an angle bisector do?",
+    "correct": "It divides an angle into two equal halves.",
     "options": [
-      "31",
-      "40",
-      "35",
-      "32"
+      "It makes an angle twice as large.",
+      "It connects two different angles.",
+      "It creates a right angle.",
+      "It divides an angle into two equal halves."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Number Patterns",
+    "topic": "Geometry Definitions",
     "complexity_score": 1
   },
   {
-    "question": "How many two-digit numbers are there in total (from 10 to 99)?",
-    "correct": "90",
+    "question": "The process of finding palindromes was applied to what type of numbers in the lesson?",
+    "correct": "Whole numbers",
     "options": [
-      "99",
-      "89",
-      "90",
-      "100"
+      "Negative numbers",
+      "Fractions",
+      "Whole numbers",
+      "Decimal numbers"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Number Types",
+    "complexity_score": 1
+  },
+  {
+    "question": "If you start the palindrome process with the number 28, what will the result be after the first step?",
+    "correct": "110",
+    "options": [
+      "100",
+      "110",
+      "82",
+      "101"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Number Properties",
+    "topic": "Palindrome Process Application",
     "complexity_score": 2
   },
   {
-    "question": "Based on the class discussion, can the smallest number in a grid ever be a supercell?",
-    "correct": "No, because it cannot be larger than its neighbors.",
+    "question": "Which of the following numbers is a palindrome?",
+    "correct": "4884",
     "options": [
-      "Yes, if it's placed in a corner.",
-      "Yes, if all other numbers are negative.",
-      "No, because it cannot be larger than its neighbors.",
-      "Only if the grid is larger than 3x3."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Supercells",
-    "complexity_score": 2
-  },
-  {
-    "question": "In a 3x3 grid filled with unique numbers, what is the minimum number of supercells that must exist?",
-    "correct": "1",
-    "options": [
-      "0",
-      "9",
-      "1",
-      "5"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Supercells",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which of these numbers has a digit sum of 14?",
-    "correct": "68",
-    "options": [
-      "14",
-      "140",
-      "68",
-      "41"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Digit Sum",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the correct way to find the smallest number in the sequence: 2005, 2000, 1995, ...?",
-    "correct": "Follow the pattern of subtracting 5 to find all the numbers.",
-    "options": [
-      "The first number, 2005, is always the smallest.",
-      "The last number in the sequence is always the smallest.",
-      "Follow the pattern of subtracting 5 to find all the numbers.",
-      "Guess based on the first two numbers."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Number Patterns",
-    "complexity_score": 2
-  },
-  {
-    "question": "The number 77 is written on a wall. How many times does the digit '7' appear?",
-    "correct": "2",
-    "options": [
-      "1",
-      "7",
-      "77",
-      "2"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Number Properties",
-    "complexity_score": 2
-  },
-  {
-    "question": "You start the process of creating a palindromic number with '97'. What is the first step?",
-    "correct": "Add its reverse (79) to itself.",
-    "options": [
-      "Reverse the number to get 79 and stop.",
-      "Add its reverse (79) to itself.",
-      "Multiply it by 2.",
-      "Find its digit sum."
+      "1234",
+      "4884",
+      "4848",
+      "1223"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -182,101 +112,171 @@
     "complexity_score": 2
   },
   {
-    "question": "What is the smallest number greater than 9 whose digit sum is 9?",
-    "correct": "18",
+    "question": "During the class, the number 97 was used. What was the result of the first 'reverse-and-add' step with 97?",
+    "correct": "176",
     "options": [
-      "90",
-      "45",
-      "27",
-      "18"
+      "166",
+      "176",
+      "9779",
+      "16"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Digit Sum",
+    "topic": "Palindrome Process Application",
     "complexity_score": 2
   },
   {
-    "question": "In the game 'Reach 21', the current total is 17. What number must you say to guarantee a win on your next turn, assuming your opponent plays correctly?",
-    "correct": "3 (to reach 20)",
+    "question": "The teacher used a metaphor of an 'empty glass'. What learning behavior was this meant to encourage?",
+    "correct": "Being open to learning new things, even about a familiar topic.",
     "options": [
-      "1 (to reach 18)",
-      "2 (to reach 19)",
-      "3 (to reach 20)",
-      "It's impossible to guarantee a win from 17."
+      "Forgetting everything you have ever learned.",
+      "Only learning one topic at a time.",
+      "Being open to learning new things, even about a familiar topic.",
+      "Writing down notes to fill a blank page."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Metacognition",
+    "complexity_score": 2
+  },
+  {
+    "question": "If an angle is 100 degrees, what would be the size of the two new angles created by its bisector?",
+    "correct": "50 degrees and 50 degrees",
+    "options": [
+      "100 degrees and 100 degrees",
+      "45 degrees and 55 degrees",
+      "25 degrees and 75 degrees",
+      "50 degrees and 50 degrees"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Geometry Application",
+    "complexity_score": 2
+  },
+  {
+    "question": "The teacher mentioned the student could 'start from level four' because they had already done some work. What did this imply?",
+    "correct": "They could now explore the topic in a more interesting and deeper way.",
+    "options": [
+      "The work would become much harder and more stressful.",
+      "They could skip the lesson entirely.",
+      "They had to solve four times as many problems.",
+      "They could now explore the topic in a more interesting and deeper way."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Learning Process",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the correct spelling of the mathematical term for an idea that is thought to be true but not yet proven, which was corrected in the lesson?",
+    "correct": "Conjecture",
+    "options": [
+      "Congecture",
+      "Conjekture",
+      "Conjecture",
+      "Conjeckture"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Vocabulary",
+    "complexity_score": 2
+  },
+  {
+    "question": "The student and teacher reached the number 176 from the number 97. What number would be added to 176 in the next step of the process?",
+    "correct": "671",
+    "options": [
+      "176",
+      "97",
+      "79",
+      "671"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Palindrome Process Application",
+    "complexity_score": 2
+  },
+  {
+    "question": "Starting with the number 59, how many 'reverse-and-add' steps does it take to reach a palindrome?",
+    "correct": "3 steps",
+    "options": [
+      "1 step",
+      "2 steps",
+      "3 steps",
+      "4 steps"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Number Games",
+    "topic": "Multi-step Problem Solving",
     "complexity_score": 3
   },
   {
-    "question": "Which of the following 3x3 grid arrangements makes the second-largest number (8) NOT a supercell? (Numbers 1-9 used once)",
-    "correct": "A grid where 9 is a neighbor of 8.",
+    "question": "The teacher used the metaphor, 'to get better trophies, you have to get rid of all the old ones.' In the context of learning, what does 'getting rid of old trophies' best represent?",
+    "correct": "Being willing to re-examine what you think you know to gain a deeper understanding.",
     "options": [
-      "A grid where 8 is in the center and surrounded by 1, 2, 3, 4, 5, 6, 7.",
-      "A grid where 9 is a neighbor of 8.",
-      "It is impossible, the second-largest number is always a supercell.",
-      "A grid where 8 and 9 are in opposite corners."
+      "Throwing away old school books and notes.",
+      "Forgetting facts right after a test is over.",
+      "Believing that new information is always better than old information.",
+      "Being willing to re-examine what you think you know to gain a deeper understanding."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Supercells",
+    "topic": "Metacognitive Analysis",
     "complexity_score": 3
   },
   {
-    "question": "How many total 3-digit numbers are there (from 100 to 999)?",
-    "correct": "900",
+    "question": "Based on the definition of an angle bisector from the lesson, if a bisector creates two angles that are each 35 degrees, what was the size of the original angle?",
+    "correct": "70 degrees",
     "options": [
-      "999",
-      "899",
-      "900",
-      "990"
+      "35 degrees",
+      "70 degrees",
+      "17.5 degrees",
+      "90 degrees"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Number Properties",
+    "topic": "Deductive Reasoning",
     "complexity_score": 3
   },
   {
-    "question": "You find the digit sum of 123 (it's 6). Then you find the digit sum of the next consecutive number, 234 (it's 9). What will the digit sum of the next one, 345, be?",
-    "correct": "12 (The sum increases by 3 each time)",
+    "question": "Which of these starting numbers will result in a palindrome after just ONE 'reverse-and-add' step?",
+    "correct": "36",
     "options": [
-      "9 (The sum stays the same)",
-      "10",
-      "12 (The sum increases by 3 each time)",
-      "15"
+      "36",
+      "58",
+      "69",
+      "87"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Number Patterns",
+    "topic": "Pattern Recognition",
     "complexity_score": 3
   },
   {
-    "question": "How many times is the digit '7' written when listing all whole numbers from 1 to 100?",
-    "correct": "20",
+    "question": "The homework mentioned a puzzle: 'Starting with a 2-digit number always give a palindrome.' Based on the class activity with the number 97, what can you conclude about this statement?",
+    "correct": "The statement is not proven, as some numbers require multiple steps to reach a palindrome.",
     "options": [
-      "10",
-      "11",
-      "19",
-      "20"
+      "The statement is true, as a palindrome is always found eventually.",
+      "The statement is false, because the number 97 has no palindrome.",
+      "The statement is not proven, as some numbers require multiple steps to reach a palindrome.",
+      "The statement is only true for numbers less than 50."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Number Properties",
+    "topic": "Critical Thinking",
     "complexity_score": 3
   },
   {
-    "question": "Is it possible to fill a table such that the second-smallest number is a supercell?",
-    "correct": "No, because to be a supercell, all its neighbors must be smaller, but the smallest number must be one of its neighbors.",
+    "question": "The teacher said your prior work allows the class to learn 'properly' and 'slowly by understanding everything.' What does this suggest about the difference between your school's teaching and this session?",
+    "correct": "This session will focus more on the 'why' and the concepts, not just the 'how' to solve problems.",
     "options": [
-      "Yes, by surrounding it with negative numbers.",
-      "Yes, by using very large numbers for everything else.",
-      "No, because to be a supercell, all its neighbors must be smaller, but the smallest number must be one of its neighbors.",
-      "Yes, if the table is arranged in a single line."
+      "This session will be much slower and cover less material.",
+      "School teaches things in the wrong order.",
+      "This session will focus more on the 'why' and the concepts, not just the 'how' to solve problems.",
+      "The school's methods are incorrect and should be ignored."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Supercells",
+    "topic": "Pedagogical Analysis",
     "complexity_score": 3
   }
 ]
