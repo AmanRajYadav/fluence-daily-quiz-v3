@@ -1,282 +1,282 @@
 [
   {
-    "question": "Which sentence correctly uses the 'going to' pattern to talk about a future plan?",
-    "correct": "I am going to play.",
+    "question": "In the story, what does the word 'vibrant' mean when describing the painting?",
+    "correct": "Full of bright colors and energy",
+    "options": [
+      "Old and faded",
+      "Dark and spooky",
+      "Full of bright colors and energy",
+      "Simple and plain"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Vocabulary from Context",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which sentence correctly states that you possessed a laptop in the past?",
+    "correct": "I had a laptop.",
+    "options": [
+      "I have a laptop.",
+      "I will have a laptop.",
+      "I had a laptop.",
+      "I am having a laptop."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Past Tense - Possession",
+    "complexity_score": 1
+  },
+  {
+    "question": "In the story, Brownie 'chased mysteries'. What does this mean?",
+    "correct": "He tried to solve puzzles and find answers.",
+    "options": [
+      "He was afraid of mysteries.",
+      "He ran away from mysteries.",
+      "He tried to solve puzzles and find answers.",
+      "He created mysteries for others."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Vocabulary from Context",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which phrase correctly expresses a desire to do something?",
+    "correct": "I want to play.",
     "options": [
       "I have to play.",
-      "I am play.",
-      "I am going to play.",
-      "I did play."
+      "I was to play.",
+      "I want to play.",
+      "I will be play."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Future Intentions ('going to')",
+    "topic": "Expressing Desire",
     "complexity_score": 1
   },
   {
-    "question": "How do you express that you own a book?",
-    "correct": "I have a book.",
+    "question": "The raccoon in the story was described as 'mischievous'. What kind of behavior is this?",
+    "correct": "Playfully causing trouble",
     "options": [
-      "I am a book.",
-      "I will book.",
-      "I have a book.",
-      "I going to book."
+      "Quiet and shy",
+      "Playfully causing trouble",
+      "Angry and aggressive",
+      "Sad and lonely"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Possession ('have/has')",
+    "topic": "Vocabulary from Context",
     "complexity_score": 1
   },
   {
-    "question": "Which phrase means you have the capability to do something?",
-    "correct": "able to",
+    "question": "Choose the correct way to say someone does NOT own a pet.",
+    "correct": "He does not have a pet.",
     "options": [
-      "have to",
-      "going to",
-      "able to",
-      "being to"
+      "He not have a pet.",
+      "He does not has a pet.",
+      "He do not have a pet.",
+      "He does not have a pet."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Capability ('able to')",
+    "topic": "Present Tense - Negation",
     "complexity_score": 1
   },
   {
-    "question": "What is the correct way to say you were a doctor in the past?",
-    "correct": "I was a doctor.",
+    "question": "In the sentence, 'The scent lingered in the air,' what does 'lingered' mean?",
+    "correct": "It stayed for a long time.",
     "options": [
-      "I am a doctor.",
-      "I will be a doctor.",
-      "I have a doctor.",
-      "I was a doctor."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "State of Being ('being')",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which sentence shows an obligation or something you must do?",
-    "correct": "I have to do my homework.",
-    "options": [
-      "I am doing my homework.",
-      "I like to do my homework.",
-      "I have to do my homework.",
-      "I was doing my homework."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Obligation ('have to')",
-    "complexity_score": 1
-  },
-  {
-    "question": "To ask someone if they own a pen, you should say:",
-    "correct": "Do you have a pen?",
-    "options": [
-      "Are you a pen?",
-      "Do you have a pen?",
-      "Will you pen?",
-      "Can you a pen?"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Possession ('have/has')",
-    "complexity_score": 1
-  },
-  {
-    "question": "If you planned to throw a party yesterday but didn't, which sentence is correct?",
-    "correct": "I was going to throw a party.",
-    "options": [
-      "I am going to throw a party.",
-      "I will throw a party.",
-      "I was going to throw a party.",
-      "I have thrown a party."
+      "It disappeared quickly.",
+      "It changed suddenly.",
+      "It stayed for a long time.",
+      "It was a very strong smell."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Future Intentions ('going to')",
+    "topic": "Vocabulary from Context",
     "complexity_score": 2
   },
   {
-    "question": "The sentence 'He has a pen' is about possession. What is the correct question form?",
-    "correct": "Does he have a pen?",
+    "question": "What is the difference between 'I want to go to the hospital' and 'I have to go to the hospital'?",
+    "correct": "'Want to' shows desire, while 'have to' shows obligation.",
     "options": [
-      "Is he a pen?",
-      "Does he has a pen?",
-      "Do he have a pen?",
-      "Does he have a pen?"
+      "There is no difference in meaning.",
+      "'Want to' is for the past, 'have to' is for the future.",
+      "'Want to' is a question, 'have to' is a statement.",
+      "'Want to' shows desire, while 'have to' shows obligation."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Possession ('have/has')",
+    "topic": "Modal Verbs",
     "complexity_score": 2
   },
   {
-    "question": "What is the difference in meaning between 'I could not do my homework' and 'I was not able to do my homework'?",
-    "correct": "They have a very similar meaning, expressing a lack of ability in the past.",
+    "question": "The instructor corrected 'You does not have' to 'You do not have'. Why is 'do not' the correct choice?",
+    "correct": "Because 'do' is used with the pronoun 'you'.",
     "options": [
-      "'Could not' is for the future, 'was not able to' is for the past.",
-      "'Could not' means you didn't want to, 'was not able to' means you were incapable.",
-      "They have a very similar meaning, expressing a lack of ability in the past.",
-      "There is no difference at all."
+      "Because the sentence is in the past tense.",
+      "Because 'does' is only for questions.",
+      "Because 'do' is used with the pronoun 'you'.",
+      "Because 'does not' is impolite."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Capability ('able to' vs 'could')",
+    "topic": "Subject-Verb Agreement",
     "complexity_score": 2
   },
   {
-    "question": "A student says, 'I am a pen.' Why is this sentence grammatically incorrect for expressing ownership?",
-    "correct": "It confuses a state of being ('am') with possession ('have').",
+    "question": "When Brownie barked, it was 'startling' the raccoon. This means the raccoon was...",
+    "correct": "Surprised and slightly scared.",
     "options": [
-      "The verb tense is wrong.",
-      "It confuses a state of being ('am') with possession ('have').",
-      "It should be 'I am penning'.",
-      "The article 'a' is incorrect."
+      "Very angry.",
+      "Amused and happy.",
+      "Surprised and slightly scared.",
+      "Completely asleep."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "State of Being vs. Possession",
+    "topic": "Vocabulary Nuance",
     "complexity_score": 2
   },
   {
-    "question": "How do you change 'I have a car' to the negative past tense?",
-    "correct": "I did not have a car.",
+    "question": "How would you ask someone if they owned a laptop in the past?",
+    "correct": "Did you have a laptop?",
     "options": [
-      "I had not a car.",
-      "I was not a car.",
-      "I do not had a car.",
-      "I did not have a car."
+      "Do you have a laptop?",
+      "Did you had a laptop?",
+      "You had a laptop?",
+      "Did you have a laptop?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Possession ('have/has')",
+    "topic": "Question Formation - Past Tense",
     "complexity_score": 2
   },
   {
-    "question": "If you are sick and cannot attend school tomorrow, what is the best way to express this using 'able to'?",
-    "correct": "I will not be able to come to school.",
+    "question": "In the story, the raccoon 'scurried' away. What does this tell us about how it moved?",
+    "correct": "It moved quickly with short, fast steps.",
     "options": [
-      "I am not able to come to school.",
-      "I was not able to come to school.",
-      "I will not be able to come to school.",
-      "I have not been able to come to school."
+      "It walked slowly and calmly.",
+      "It flew away.",
+      "It moved quickly with short, fast steps.",
+      "It jumped up and down."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Capability ('able to')",
+    "topic": "Inferential Vocabulary",
     "complexity_score": 2
   },
   {
-    "question": "Someone asks, 'Did you have a question?' If you did not, what is the most complete and correct response?",
-    "correct": "No, I didn't have a question.",
+    "question": "If you are 'about to go' somewhere, what does this mean?",
+    "correct": "You are going to leave very soon.",
     "options": [
-      "No, I had not a question.",
-      "No, I didn't had a question.",
-      "No, I wasn't a question.",
-      "No, I didn't have a question."
+      "You have already left.",
+      "You are thinking about leaving tomorrow.",
+      "You do not want to leave.",
+      "You are going to leave very soon."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Possession ('have/has')",
+    "topic": "Future Tense Structures",
     "complexity_score": 2
   },
   {
-    "question": "Which of the following sentences correctly combines a reason with a statement of inability?",
-    "correct": "I was not able to do my homework because I did not have a brain.",
+    "question": "Which sentence correctly describes an action that will be in progress in the future?",
+    "correct": "He will be going to school.",
     "options": [
-      "I could not do my homework because I am a brain.",
-      "I was not able to do my homework because I did not have a brain.",
-      "I am not able to do my homework so I will not have a brain.",
-      "I did not have homework so I was not able to have a brain."
+      "He is go to school.",
+      "He will be going to school.",
+      "He was went to school.",
+      "He will to go school."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Combining Concepts",
+    "topic": "Future Continuous Tense",
     "complexity_score": 2
   },
   {
-    "question": "The teacher states that the winning strategy for the game '21' is 'unbeatable' and comes from the student's math book. This implies the strategy is based on...",
-    "correct": "Logical patterns and mathematical principles.",
+    "question": "The story describes a 'peculiar scent' as a mix of old paper, dust, and jam. What makes this scent 'peculiar'?",
+    "correct": "It's a strange and unusual combination of smells.",
     "options": [
-      "Random luck and guessing.",
-      "Speaking very quickly to confuse the opponent.",
-      "Psychological intimidation.",
-      "Logical patterns and mathematical principles."
+      "It smells delicious like a cake.",
+      "It is a very common and normal smell.",
+      "It has no smell at all.",
+      "It's a strange and unusual combination of smells."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Critical Thinking & Logic",
+    "topic": "Analytical Vocabulary",
     "complexity_score": 3
   },
   {
-    "question": "Consider the sentence: 'Tomorrow, when I will be about to go to school.' What is the primary concept being explored here, even if the grammar is slightly confused?",
-    "correct": "Expressing a specific point in time in the future when an action is imminent.",
+    "question": "Brownie was 'undeterred' by the 'spooky' library. What does this reveal about Brownie's character?",
+    "correct": "He is brave and determined, not easily stopped by fear.",
     "options": [
-      "Describing a past memory about school.",
-      "Expressing a specific point in time in the future when an action is imminent.",
-      "Stating a general fact about school.",
-      "Asking a question about school."
+      "He did not notice the library was spooky.",
+      "He enjoys being in spooky places.",
+      "He is brave and determined, not easily stopped by fear.",
+      "He was waiting for his friend to go in first."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Complex Tense and Intention",
+    "topic": "Character Analysis",
     "complexity_score": 3
   },
   {
-    "question": "Why is 'I did not have a pen' a better grammatical structure than 'I had not a pen' in modern English?",
-    "correct": "Modern English uses the auxiliary verb 'do' to form negatives for most main verbs in the simple past.",
+    "question": "The phrase 'Let him play' is a suggestion or permission. How is its meaning different from 'He will play'?",
+    "correct": "'Let him play' allows an action, while 'He will play' states a future fact.",
     "options": [
-      "'Had not' is only used for questions.",
-      "It is shorter and therefore better.",
-      "Modern English uses the auxiliary verb 'do' to form negatives for most main verbs in the simple past.",
-      "'Had not' is grammatically incorrect in all forms of English."
+      "'Let him play' is a question, and 'He will play' is a command.",
+      "'Let him play' allows an action, while 'He will play' states a future fact.",
+      "They both mean exactly the same thing.",
+      "'Let him play' is about the past, and 'He will play' is about the present."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammar Rules (Auxiliary Verbs)",
+    "topic": "Grammatical Nuance",
     "complexity_score": 3
   },
   {
-    "question": "The lesson moves from 'being' (I am smart) to 'going to' (I am going to play) to 'having' (I have a pen). What is the underlying learning progression?",
-    "correct": "From describing states, to intentions, to possession.",
+    "question": "The story says the raccoon was 'attempting to add its own art' with a muddy paw. What is the author suggesting here?",
+    "correct": "The raccoon's messy action is being playfully compared to an artist's work.",
     "options": [
-      "From easy words to difficult words.",
-      "From describing states, to intentions, to possession.",
-      "From past tense, to present tense, to future tense.",
-      "From questions, to statements, to commands."
+      "The raccoon was a trained artist.",
+      "The raccoon was trying to clean the painting.",
+      "The raccoon was deliberately destroying the painting out of anger.",
+      "The raccoon's messy action is being playfully compared to an artist's work."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Lesson Structure Analysis",
+    "topic": "Figurative Language",
     "complexity_score": 3
   },
   {
-    "question": "What core misunderstanding is the teacher addressing by correcting 'Are you a pen?' to 'Do you have a pen?'",
-    "correct": "The difference between identity (what something is) and possession (what something has).",
+    "question": "Brownie 'crept forward, his paws silent on the dusty floor'. Why would a detective need to move this way?",
+    "correct": "To avoid making noise and surprising the culprit.",
     "options": [
-      "The correct use of articles 'a' and 'an'.",
-      "The difference between identity (what something is) and possession (what something has).",
-      "The pronunciation of the word 'pen'.",
-      "The spelling of the word 'you'."
+      "Because he was very tired.",
+      "Because the floor was sticky.",
+      "To avoid making noise and surprising the culprit.",
+      "To practice a new way of walking."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Conceptual Distinction",
+    "topic": "Inference and Motivation",
     "complexity_score": 3
   },
   {
-    "question": "The phrase 'You will have to win this match' expresses a future obligation. How would you express a past obligation that you fulfilled?",
-    "correct": "I had to win that match.",
+    "question": "The instructor says 'common sense is not very common'. Based on the lesson, what is the best interpretation of this phrase?",
+    "correct": "That making logical connections in language requires practice and isn't obvious to everyone at first.",
     "options": [
-      "I was having to win that match.",
-      "I did have to win that match.",
-      "I had to win that match.",
-      "I would have to win that match."
+      "That most people are not intelligent.",
+      "That you need to buy a special book to learn common sense.",
+      "That making logical connections in language requires practice and isn't obvious to everyone at first.",
+      "That common sense only applies to math, not English."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Obligation ('have to' in Past Tense)",
+    "topic": "Idiomatic Expressions",
     "complexity_score": 3
   }
 ]
