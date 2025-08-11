@@ -1,110 +1,96 @@
 [
   {
-    "question": "In the story, what does the word 'vibrant' mean when describing the painting?",
-    "correct": "Full of bright colors and energy",
+    "question": "In the lesson, the word 'vibrant' was defined as being full of what?",
+    "correct": "Energy",
     "options": [
-      "Old and faded",
-      "Dark and spooky",
-      "Full of bright colors and energy",
-      "Simple and plain"
+      "Color",
+      "Sound",
+      "Energy",
+      "Questions"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary from Context",
+    "topic": "Vocabulary",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence correctly states that you possessed a laptop in the past?",
-    "correct": "I had a laptop.",
+    "question": "Which sentence correctly uses the structure for expressing a future plan, as practiced in class?",
+    "correct": "I am going to speak English.",
     "options": [
-      "I have a laptop.",
-      "I will have a laptop.",
-      "I had a laptop.",
-      "I am having a laptop."
+      "I am speak English.",
+      "I speak English tomorrow.",
+      "I am going to speak English.",
+      "I did speak English."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Past Tense - Possession",
+    "topic": "Verb Tenses",
     "complexity_score": 1
   },
   {
-    "question": "In the story, Brownie 'chased mysteries'. What does this mean?",
-    "correct": "He tried to solve puzzles and find answers.",
+    "question": "Based on the class corrections, which sentence is grammatically correct?",
+    "correct": "We do not watch movies.",
     "options": [
-      "He was afraid of mysteries.",
-      "He ran away from mysteries.",
-      "He tried to solve puzzles and find answers.",
-      "He created mysteries for others."
+      "We does not watch movies.",
+      "We do not watch movies.",
+      "We not watch movies.",
+      "We is not watch movies."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary from Context",
+    "topic": "Subject-Verb Agreement",
     "complexity_score": 1
   },
   {
-    "question": "Which phrase correctly expresses a desire to do something?",
-    "correct": "I want to play.",
+    "question": "The word 'adorable' was used to describe something that is...",
+    "correct": "Cute and beautiful",
     "options": [
-      "I have to play.",
-      "I was to play.",
-      "I want to play.",
-      "I will be play."
+      "Very long and difficult",
+      "Full of energy",
+      "Cute and beautiful",
+      "Worthless"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Expressing Desire",
+    "topic": "Vocabulary",
     "complexity_score": 1
   },
   {
-    "question": "The raccoon in the story was described as 'mischievous'. What kind of behavior is this?",
-    "correct": "Playfully causing trouble",
+    "question": "How do you correctly change the sentence 'I have a car' to the simple past tense?",
+    "correct": "I had a car.",
     "options": [
-      "Quiet and shy",
-      "Playfully causing trouble",
-      "Angry and aggressive",
-      "Sad and lonely"
+      "I did have a car.",
+      "I was a car.",
+      "I have had a car.",
+      "I had a car."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary from Context",
+    "topic": "Verb Tenses",
     "complexity_score": 1
   },
   {
-    "question": "Choose the correct way to say someone does NOT own a pet.",
-    "correct": "He does not have a pet.",
+    "question": "The main goal of the 'Who am I?' game is to guess a secret person by asking only what type of questions?",
+    "correct": "Yes or No questions",
     "options": [
-      "He not have a pet.",
-      "He does not has a pet.",
-      "He do not have a pet.",
-      "He does not have a pet."
+      "Questions about their job",
+      "Yes or No questions",
+      "Questions that start with 'Why'",
+      "Questions about their family"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Tense - Negation",
+    "topic": "Logic and Reasoning",
     "complexity_score": 1
   },
   {
-    "question": "In the sentence, 'The scent lingered in the air,' what does 'lingered' mean?",
-    "correct": "It stayed for a long time.",
+    "question": "The sentence 'I could have kept my phone there' implies that the action...",
+    "correct": "was possible in the past, but didn't happen.",
     "options": [
-      "It disappeared quickly.",
-      "It changed suddenly.",
-      "It stayed for a long time.",
-      "It was a very strong smell."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vocabulary from Context",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the difference between 'I want to go to the hospital' and 'I have to go to the hospital'?",
-    "correct": "'Want to' shows desire, while 'have to' shows obligation.",
-    "options": [
-      "There is no difference in meaning.",
-      "'Want to' is for the past, 'have to' is for the future.",
-      "'Want to' is a question, 'have to' is a statement.",
-      "'Want to' shows desire, while 'have to' shows obligation."
+      "will happen in the future.",
+      "is happening right now.",
+      "was possible in the past, but didn't happen.",
+      "is impossible."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -112,13 +98,41 @@
     "complexity_score": 2
   },
   {
-    "question": "The instructor corrected 'You does not have' to 'You do not have'. Why is 'do not' the correct choice?",
-    "correct": "Because 'do' is used with the pronoun 'you'.",
+    "question": "The teacher corrected the phrase 'I will have touch'. What is the correct form? 'I will have...'",
+    "correct": "touched",
     "options": [
-      "Because the sentence is in the past tense.",
-      "Because 'does' is only for questions.",
-      "Because 'do' is used with the pronoun 'you'.",
-      "Because 'does not' is impolite."
+      "touching",
+      "touched",
+      "touch",
+      "touches"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Verb Forms",
+    "complexity_score": 2
+  },
+  {
+    "question": "In the 'Who am I?' game, you learn the person is NOT a politician. Which is a better follow-up question to narrow down the options?",
+    "correct": "Is the person a writer?",
+    "options": [
+      "Is the person a male?",
+      "Is the person famous?",
+      "What is the person's name?",
+      "Is the person a writer?"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Logic and Reasoning",
+    "complexity_score": 2
+  },
+  {
+    "question": "A student says, 'And I does not play.' What is the correct way to say this?",
+    "correct": "And I do not play.",
+    "options": [
+      "And I am not play.",
+      "And I does not play.",
+      "And I did not played.",
+      "And I do not play."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -126,157 +140,143 @@
     "complexity_score": 2
   },
   {
-    "question": "When Brownie barked, it was 'startling' the raccoon. This means the raccoon was...",
-    "correct": "Surprised and slightly scared.",
+    "question": "The phrase 'keep on crying' was practiced in class. What does 'keep on' mean in this context?",
+    "correct": "To continue doing something",
     "options": [
-      "Very angry.",
-      "Amused and happy.",
-      "Surprised and slightly scared.",
-      "Completely asleep."
+      "To hold something",
+      "To start doing something",
+      "To stop doing something",
+      "To continue doing something"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Vocabulary Nuance",
+    "topic": "Phrasal Verbs",
     "complexity_score": 2
   },
   {
-    "question": "How would you ask someone if they owned a laptop in the past?",
-    "correct": "Did you have a laptop?",
+    "question": "If you want to talk about a strong need or requirement to go to school, which sentence is most appropriate?",
+    "correct": "I have to go to school.",
     "options": [
-      "Do you have a laptop?",
-      "Did you had a laptop?",
-      "You had a laptop?",
-      "Did you have a laptop?"
+      "I like to go to school.",
+      "I want to go to school.",
+      "I might go to school.",
+      "I have to go to school."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Question Formation - Past Tense",
+    "topic": "Modal Verbs",
     "complexity_score": 2
   },
   {
-    "question": "In the story, the raccoon 'scurried' away. What does this tell us about how it moved?",
-    "correct": "It moved quickly with short, fast steps.",
+    "question": "The teacher explained that 'dooders' is present tense and the past of 'do/does' is...",
+    "correct": "did",
     "options": [
-      "It walked slowly and calmly.",
-      "It flew away.",
-      "It moved quickly with short, fast steps.",
-      "It jumped up and down."
+      "done",
+      "had",
+      "was",
+      "did"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Inferential Vocabulary",
+    "topic": "Verb Tenses",
     "complexity_score": 2
   },
   {
-    "question": "If you are 'about to go' somewhere, what does this mean?",
-    "correct": "You are going to leave very soon.",
+    "question": "The very long word 'floccinaucinihilipilification' describes the act of estimating something as being...",
+    "correct": "worthless",
     "options": [
-      "You have already left.",
-      "You are thinking about leaving tomorrow.",
-      "You do not want to leave.",
-      "You are going to leave very soon."
+      "extremely valuable",
+      "very energetic",
+      "beautiful",
+      "worthless"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Future Tense Structures",
+    "topic": "Vocabulary",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly describes an action that will be in progress in the future?",
-    "correct": "He will be going to school.",
+    "question": "Why is 'He does not play' correct, but 'I does not play' is incorrect?",
+    "correct": "The verb 'do' changes to 'does' for he/she/it, but stays 'do' for 'I'.",
     "options": [
-      "He is go to school.",
-      "He will be going to school.",
-      "He was went to school.",
-      "He will to go school."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Future Continuous Tense",
-    "complexity_score": 2
-  },
-  {
-    "question": "The story describes a 'peculiar scent' as a mix of old paper, dust, and jam. What makes this scent 'peculiar'?",
-    "correct": "It's a strange and unusual combination of smells.",
-    "options": [
-      "It smells delicious like a cake.",
-      "It is a very common and normal smell.",
-      "It has no smell at all.",
-      "It's a strange and unusual combination of smells."
+      "Both sentences are correct.",
+      "'Does' is only used for questions.",
+      "The verb 'do' changes to 'does' for he/she/it, but stays 'do' for 'I'.",
+      "'Does' is the past tense form."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analytical Vocabulary",
+    "topic": "Subject-Verb Agreement",
     "complexity_score": 3
   },
   {
-    "question": "Brownie was 'undeterred' by the 'spooky' library. What does this reveal about Brownie's character?",
-    "correct": "He is brave and determined, not easily stopped by fear.",
+    "question": "In the 'Who Am I?' game, why is it more strategic to ask 'Is the person from the movie industry?' before asking 'Is the person Shah Rukh Khan?'",
+    "correct": "It eliminates a large category of possibilities with one question.",
     "options": [
-      "He did not notice the library was spooky.",
-      "He enjoys being in spooky places.",
-      "He is brave and determined, not easily stopped by fear.",
-      "He was waiting for his friend to go in first."
+      "It is a shorter question to ask.",
+      "It is more likely to get a 'Yes' answer.",
+      "It eliminates a large category of possibilities with one question.",
+      "You are not allowed to guess names directly."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Character Analysis",
+    "topic": "Logic and Reasoning",
     "complexity_score": 3
   },
   {
-    "question": "The phrase 'Let him play' is a suggestion or permission. How is its meaning different from 'He will play'?",
-    "correct": "'Let him play' allows an action, while 'He will play' states a future fact.",
+    "question": "The sentence 'You should have prioritized them again' is used to talk about...",
+    "correct": "a good idea or recommended action in the past that did not happen.",
     "options": [
-      "'Let him play' is a question, and 'He will play' is a command.",
-      "'Let him play' allows an action, while 'He will play' states a future fact.",
-      "They both mean exactly the same thing.",
-      "'Let him play' is about the past, and 'He will play' is about the present."
+      "a command for the future.",
+      "a current, ongoing action.",
+      "a good idea or recommended action in the past that did not happen.",
+      "a definite plan that was completed."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammatical Nuance",
+    "topic": "Modal Verbs",
     "complexity_score": 3
   },
   {
-    "question": "The story says the raccoon was 'attempting to add its own art' with a muddy paw. What is the author suggesting here?",
-    "correct": "The raccoon's messy action is being playfully compared to an artist's work.",
+    "question": "What is the key difference between 'I will see the movie' and 'I am going to see the movie'?",
+    "correct": "'Going to' often implies a pre-existing plan or intention.",
     "options": [
-      "The raccoon was a trained artist.",
-      "The raccoon was trying to clean the painting.",
-      "The raccoon was deliberately destroying the painting out of anger.",
-      "The raccoon's messy action is being playfully compared to an artist's work."
+      "There is no difference; they mean the exact same thing.",
+      "'Will' is for the far future, 'going to' is for the near future.",
+      "'Going to' often implies a pre-existing plan or intention.",
+      "'Will' is more formal than 'going to'."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Figurative Language",
+    "topic": "Verb Tenses",
     "complexity_score": 3
   },
   {
-    "question": "Brownie 'crept forward, his paws silent on the dusty floor'. Why would a detective need to move this way?",
-    "correct": "To avoid making noise and surprising the culprit.",
+    "question": "The student said 'past of dooders is'. The teacher clarified that the past tense of the verb 'do' is 'did'. After 'did' in a negative sentence (e.g., 'I did not...'), what form of the main verb should you use?",
+    "correct": "The base form (e.g., 'go')",
     "options": [
-      "Because he was very tired.",
-      "Because the floor was sticky.",
-      "To avoid making noise and surprising the culprit.",
-      "To practice a new way of walking."
+      "The past tense form (e.g., 'went')",
+      "The '-ing' form (e.g., 'going')",
+      "The base form (e.g., 'go')",
+      "The past participle (e.g., 'gone')"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Inference and Motivation",
+    "topic": "Verb Forms",
     "complexity_score": 3
   },
   {
-    "question": "The instructor says 'common sense is not very common'. Based on the lesson, what is the best interpretation of this phrase?",
-    "correct": "That making logical connections in language requires practice and isn't obvious to everyone at first.",
+    "question": "If an autobiography is a 'self-written story of life', what does the prefix 'auto-' likely mean?",
+    "correct": "Self",
     "options": [
-      "That most people are not intelligent.",
-      "That you need to buy a special book to learn common sense.",
-      "That making logical connections in language requires practice and isn't obvious to everyone at first.",
-      "That common sense only applies to math, not English."
+      "Life",
+      "Write",
+      "Book",
+      "Self"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Idiomatic Expressions",
+    "topic": "Vocabulary",
     "complexity_score": 3
   }
 ]
