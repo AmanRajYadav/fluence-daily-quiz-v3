@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the lesson, the word 'vibrant' was defined as being full of what?",
-    "correct": "Energy",
+    "question": "According to the lesson, what are the three main parts of an essay?",
+    "correct": "Introduction, Body, and Conclusion",
     "options": [
-      "Color",
-      "Sound",
-      "Energy",
-      "Questions"
+      "Topic, Main Idea, and Story",
+      "Beginning, Middle, and The End",
+      "Introduction, Body, and Conclusion",
+      "Greeting, Explanation, and Summary"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary",
+    "topic": "Essay Structure",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence correctly uses the structure for expressing a future plan, as practiced in class?",
-    "correct": "I am going to speak English.",
+    "question": "What is the primary function of the conclusion in an essay?",
+    "correct": "To wrap up all the points and summarize the main message",
     "options": [
-      "I am speak English.",
-      "I speak English tomorrow.",
-      "I am going to speak English.",
-      "I did speak English."
+      "To introduce a brand new idea",
+      "To ask the reader a question",
+      "To tell a personal story",
+      "To wrap up all the points and summarize the main message"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Verb Tenses",
+    "topic": "Essay Structure",
     "complexity_score": 1
   },
   {
-    "question": "Based on the class corrections, which sentence is grammatically correct?",
-    "correct": "We do not watch movies.",
+    "question": "In the guessing game, what category of profession was Triggered Insaan identified as?",
+    "correct": "YouTuber",
     "options": [
-      "We does not watch movies.",
-      "We do not watch movies.",
-      "We not watch movies.",
-      "We is not watch movies."
+      "Actor",
+      "Athlete",
+      "YouTuber",
+      "Politician"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement",
+    "topic": "Categorization",
     "complexity_score": 1
   },
   {
-    "question": "The word 'adorable' was used to describe something that is...",
-    "correct": "Cute and beautiful",
+    "question": "What part of the essay is dedicated to the main explanation and your thoughts on the topic?",
+    "correct": "The Body",
     "options": [
-      "Very long and difficult",
-      "Full of energy",
-      "Cute and beautiful",
-      "Worthless"
+      "The Introduction",
+      "The Body",
+      "The Conclusion",
+      "The Title"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary",
+    "topic": "Essay Structure",
     "complexity_score": 1
   },
   {
-    "question": "How do you correctly change the sentence 'I have a car' to the simple past tense?",
-    "correct": "I had a car.",
+    "question": "The lesson emphasized that a good essay goes beyond just stating what happened. What else should it include?",
+    "correct": "What you think about the topic and why",
     "options": [
-      "I did have a car.",
-      "I was a car.",
-      "I have had a car.",
-      "I had a car."
+      "As many facts as possible",
+      "Quotes from famous people",
+      "What you think about the topic and why",
+      "A detailed list of events"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Verb Tenses",
+    "topic": "Purpose of an Essay",
     "complexity_score": 1
   },
   {
-    "question": "The main goal of the 'Who am I?' game is to guess a secret person by asking only what type of questions?",
-    "correct": "Yes or No questions",
+    "question": "What is the main purpose of the introduction in an essay?",
+    "correct": "To introduce the topic",
     "options": [
-      "Questions about their job",
-      "Yes or No questions",
-      "Questions that start with 'Why'",
-      "Questions about their family"
+      "To give the final opinion",
+      "To introduce the topic",
+      "To provide all the evidence",
+      "To list all the sources"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Logic and Reasoning",
+    "topic": "Essay Structure",
     "complexity_score": 1
   },
   {
-    "question": "The sentence 'I could have kept my phone there' implies that the action...",
-    "correct": "was possible in the past, but didn't happen.",
+    "question": "In the guessing game, the student first eliminated categories like 'actor', 'athlete', and 'politician'. What skill was being used?",
+    "correct": "Process of elimination",
     "options": [
-      "will happen in the future.",
-      "is happening right now.",
-      "was possible in the past, but didn't happen.",
-      "is impossible."
+      "Random guessing",
+      "Creative writing",
+      "Process of elimination",
+      "Memorization"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs",
+    "topic": "Deductive Reasoning",
     "complexity_score": 2
   },
   {
-    "question": "The teacher corrected the phrase 'I will have touch'. What is the correct form? 'I will have...'",
-    "correct": "touched",
+    "question": "The teacher explained that an essay is different from a story. What is the key distinction discussed?",
+    "correct": "An essay requires your personal thoughts and analysis, not just a sequence of events.",
     "options": [
-      "touching",
-      "touched",
-      "touch",
-      "touches"
+      "An essay must always be about a famous person.",
+      "A story is always longer than an essay.",
+      "An essay requires your personal thoughts and analysis, not just a sequence of events.",
+      "An essay must be written in the past tense."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Verb Forms",
+    "topic": "Purpose of an Essay",
     "complexity_score": 2
   },
   {
-    "question": "In the 'Who am I?' game, you learn the person is NOT a politician. Which is a better follow-up question to narrow down the options?",
-    "correct": "Is the person a writer?",
+    "question": "When the student asked if the famous person 'plays games on YouTube', what was this question's strategic purpose in the game?",
+    "correct": "To narrow down the broad category of 'YouTuber' to a more specific type",
     "options": [
-      "Is the person a male?",
-      "Is the person famous?",
-      "What is the person's name?",
-      "Is the person a writer?"
+      "To see if the teacher likes video games",
+      "To guess a name randomly",
+      "To change the topic of conversation",
+      "To narrow down the broad category of 'YouTuber' to a more specific type"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Logic and Reasoning",
+    "topic": "Deductive Reasoning",
     "complexity_score": 2
   },
   {
-    "question": "A student says, 'And I does not play.' What is the correct way to say this?",
-    "correct": "And I do not play.",
+    "question": "The teacher mentioned a person whose name is in school textbooks but might not be widely known by parents. What profession does this description most strongly suggest?",
+    "correct": "A writer or author",
     "options": [
-      "And I am not play.",
-      "And I does not play.",
-      "And I did not played.",
-      "And I do not play."
+      "A popular movie star",
+      "A famous pop singer",
+      "A current political leader",
+      "A writer or author"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement",
+    "topic": "Inference",
     "complexity_score": 2
   },
   {
-    "question": "The phrase 'keep on crying' was practiced in class. What does 'keep on' mean in this context?",
-    "correct": "To continue doing something",
+    "question": "Why is the 'why you think in a particular way' part of an essay so important?",
+    "correct": "It demonstrates critical thinking and supports your main idea.",
     "options": [
-      "To hold something",
-      "To start doing something",
-      "To stop doing something",
-      "To continue doing something"
+      "It makes the essay longer.",
+      "It fills space in the body paragraphs.",
+      "It demonstrates critical thinking and supports your main idea.",
+      "It is a requirement for the introduction."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Phrasal Verbs",
+    "topic": "Purpose of an Essay",
     "complexity_score": 2
   },
   {
-    "question": "If you want to talk about a strong need or requirement to go to school, which sentence is most appropriate?",
-    "correct": "I have to go to school.",
+    "question": "The body of an essay can also be called the 'main idea of the topic'. What does this imply about the body's role?",
+    "correct": "It contains the core arguments and detailed explanations.",
     "options": [
-      "I like to go to school.",
-      "I want to go to school.",
-      "I might go to school.",
-      "I have to go to school."
+      "It is the shortest part of the essay.",
+      "It should only contain one sentence.",
+      "It contains the core arguments and detailed explanations.",
+      "It is less important than the introduction."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs",
+    "topic": "Essay Structure",
     "complexity_score": 2
   },
   {
-    "question": "The teacher explained that 'dooders' is present tense and the past of 'do/does' is...",
-    "correct": "did",
+    "question": "A student says, 'Time is more precious than diamond'. If this were the topic of an essay, what would the body need to contain, based on the lesson?",
+    "correct": "Explanations and thoughts on WHY time is considered so precious.",
     "options": [
-      "done",
-      "had",
-      "was",
-      "did"
+      "A history of diamond mining.",
+      "Explanations and thoughts on WHY time is considered so precious.",
+      "A list of different types of clocks.",
+      "A story about finding a diamond."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Verb Tenses",
+    "topic": "Application of Essay Concepts",
     "complexity_score": 2
   },
   {
-    "question": "The very long word 'floccinaucinihilipilification' describes the act of estimating something as being...",
-    "correct": "worthless",
+    "question": "The teacher stated that the student's mother might not know the 'hard to guess' person, even though they are famous enough to be in textbooks. What does this suggest about the nature of their fame?",
+    "correct": "Their fame is academic or literary, not mainstream celebrity.",
     "options": [
-      "extremely valuable",
-      "very energetic",
-      "beautiful",
-      "worthless"
+      "They are a brand new celebrity.",
+      "They are only famous in a different country.",
+      "Their fame is academic or literary, not mainstream celebrity.",
+      "They are a historical figure from ancient times."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Vocabulary",
+    "topic": "Inference",
     "complexity_score": 2
   },
   {
-    "question": "Why is 'He does not play' correct, but 'I does not play' is incorrect?",
-    "correct": "The verb 'do' changes to 'does' for he/she/it, but stays 'do' for 'I'.",
+    "question": "If an essay's introduction presents the topic, and the conclusion summarizes it, what is the analytical function of the body?",
+    "correct": "To develop, explain, and provide evidence for the main argument.",
     "options": [
-      "Both sentences are correct.",
-      "'Does' is only used for questions.",
-      "The verb 'do' changes to 'does' for he/she/it, but stays 'do' for 'I'.",
-      "'Does' is the past tense form."
+      "To repeat the introduction in different words.",
+      "To ask a series of rhetorical questions.",
+      "To develop, explain, and provide evidence for the main argument.",
+      "To briefly mention related but irrelevant topics."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement",
+    "topic": "Analytical Thinking",
     "complexity_score": 3
   },
   {
-    "question": "In the 'Who Am I?' game, why is it more strategic to ask 'Is the person from the movie industry?' before asking 'Is the person Shah Rukh Khan?'",
-    "correct": "It eliminates a large category of possibilities with one question.",
+    "question": "The guessing game relied on a process of narrowing down possibilities from broad categories (e.g., 'entertainment industry') to specific ones (e.g., 'gaming YouTuber'). This thinking process is an example of:",
+    "correct": "Deductive Reasoning",
     "options": [
-      "It is a shorter question to ask.",
-      "It is more likely to get a 'Yes' answer.",
-      "It eliminates a large category of possibilities with one question.",
-      "You are not allowed to guess names directly."
+      "Inductive Reasoning",
+      "Creative Association",
+      "Emotional Appeal",
+      "Deductive Reasoning"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Logic and Reasoning",
+    "topic": "Deductive Reasoning",
     "complexity_score": 3
   },
   {
-    "question": "The sentence 'You should have prioritized them again' is used to talk about...",
-    "correct": "a good idea or recommended action in the past that did not happen.",
+    "question": "Why would an essay that only lists facts and events without the 'what I think and why' be considered a weaker piece of writing?",
+    "correct": "It lacks a unique perspective and analytical depth.",
     "options": [
-      "a command for the future.",
-      "a current, ongoing action.",
-      "a good idea or recommended action in the past that did not happen.",
-      "a definite plan that was completed."
+      "Because it is probably too short.",
+      "Because facts can be incorrect.",
+      "It lacks a unique perspective and analytical depth.",
+      "Because it doesn't have a conclusion."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Modal Verbs",
+    "topic": "Purpose of an Essay",
     "complexity_score": 3
   },
   {
-    "question": "What is the key difference between 'I will see the movie' and 'I am going to see the movie'?",
-    "correct": "'Going to' often implies a pre-existing plan or intention.",
+    "question": "Imagine you are playing the guessing game and you know the person is a writer from a school textbook. Which question would be the most effective next step to identify them?",
+    "correct": "Do they primarily write stories for children?",
     "options": [
-      "There is no difference; they mean the exact same thing.",
-      "'Will' is for the far future, 'going to' is for the near future.",
-      "'Going to' often implies a pre-existing plan or intention.",
-      "'Will' is more formal than 'going to'."
+      "Are they still alive?",
+      "Are they male or female?",
+      "Do they primarily write stories for children?",
+      "Have they won a famous award?"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Verb Tenses",
+    "topic": "Strategic Questioning",
     "complexity_score": 3
   },
   {
-    "question": "The student said 'past of dooders is'. The teacher clarified that the past tense of the verb 'do' is 'did'. After 'did' in a negative sentence (e.g., 'I did not...'), what form of the main verb should you use?",
-    "correct": "The base form (e.g., 'go')",
+    "question": "Connecting the two main parts of the lesson, how is the logical process of the guessing game similar to planning the body of an essay?",
+    "correct": "Both require organizing ideas into clear categories and presenting them logically.",
     "options": [
-      "The past tense form (e.g., 'went')",
-      "The '-ing' form (e.g., 'going')",
-      "The base form (e.g., 'go')",
-      "The past participle (e.g., 'gone')"
+      "Both are meant to be a fun and quick activity.",
+      "Both must always end with a single correct answer.",
+      "Both require organizing ideas into clear categories and presenting them logically.",
+      "Both are only about famous people."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Verb Forms",
+    "topic": "Synthesizing Concepts",
     "complexity_score": 3
   },
   {
-    "question": "If an autobiography is a 'self-written story of life', what does the prefix 'auto-' likely mean?",
-    "correct": "Self",
+    "question": "A student writes an essay arguing 'Time is precious'. Which of the following sentences best reflects the analytical thinking encouraged in the lesson?",
+    "correct": "Time is precious because unlike money, it can never be earned back, making each moment a unique opportunity for growth.",
     "options": [
-      "Life",
-      "Write",
-      "Book",
-      "Self"
+      "There are 60 seconds in a minute and 60 minutes in an hour.",
+      "My grandfather gave me a watch for my birthday.",
+      "Time is precious because unlike money, it can never be earned back, making each moment a unique opportunity for growth.",
+      "Many famous people have said that time is precious."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Vocabulary",
+    "topic": "Application of Essay Concepts",
     "complexity_score": 3
   }
 ]
