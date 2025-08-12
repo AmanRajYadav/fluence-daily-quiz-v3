@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the definition of a palindromic number as discussed in the lesson?",
-    "correct": "A number that reads the same forwards and backwards.",
+    "question": "According to the lesson, what are the three main parts of a well-organized essay?",
+    "correct": "Introduction, body, and conclusion",
     "options": [
-      "A number that can only be divided by itself and one.",
-      "A number that is the result of adding two other numbers.",
-      "A number that reads the same forwards and backwards.",
-      "A number with all even digits."
+      "Beginning, middle, and ending",
+      "Title, paragraphs, and summary",
+      "Introduction, body, and conclusion",
+      "Topic, details, and grammar"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Palindromic Numbers",
+    "topic": "Essay Structure",
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, what is the first step in the process to find a palindrome from a starting number like 65?",
-    "correct": "Reverse the digits of the number.",
+    "question": "Which of the following is a first-person plural pronoun?",
+    "correct": "We",
     "options": [
-      "Add the digits together.",
-      "Multiply the number by two.",
-      "Reverse the digits of the number.",
-      "Find the square root of the number."
+      "I",
+      "You",
+      "They",
+      "We"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Palindrome Process",
+    "topic": "Personal Pronouns",
     "complexity_score": 1
   },
   {
-    "question": "What is the second step in the palindrome-finding process, right after you reverse the number's digits?",
-    "correct": "Add the original number and the reversed number together.",
+    "question": "The pronoun 'you' refers to which person?",
+    "correct": "The second person (the listener)",
     "options": [
-      "Subtract the smaller number from the larger number.",
-      "Add the original number and the reversed number together.",
-      "List all factors of the new number.",
-      "Repeat the first step immediately."
+      "The first person (the speaker)",
+      "The second person (the listener)",
+      "The third person (person being spoken about)",
+      "All of the above"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Palindrome Process",
+    "topic": "Personal Pronouns",
     "complexity_score": 1
   },
   {
-    "question": "What happens if the result of the 'reverse-and-add' step is NOT a palindrome?",
-    "correct": "You must repeat the process with the new number.",
+    "question": "The word 'possess' means to...",
+    "correct": "Own or have something",
     "options": [
-      "The process has failed and you must start over.",
-      "You must subtract the numbers instead.",
-      "You have found a special type of number called a non-palindrome.",
-      "You must repeat the process with the new number."
+      "Give something away",
+      "Talk about something",
+      "Own or have something",
+      "Create something new"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Palindrome Process",
+    "topic": "Possessive Pronouns",
     "complexity_score": 1
   },
   {
-    "question": "The lesson briefly defined an 'angle bisector.' What does an angle bisector do?",
-    "correct": "It divides an angle into two equal halves.",
+    "question": "In the sentence, 'The dog wagged its tail,' the word 'its' is used because the dog is an animal. What is another category discussed for which we use the pronoun 'it'?",
+    "correct": "Babies",
     "options": [
-      "It makes an angle twice as large.",
-      "It connects two different angles.",
-      "It creates a right angle.",
-      "It divides an angle into two equal halves."
+      "Adults",
+      "Teenagers",
+      "Groups of people",
+      "Babies"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geometry Definitions",
+    "topic": "The Pronoun 'It'",
     "complexity_score": 1
   },
   {
-    "question": "The process of finding palindromes was applied to what type of numbers in the lesson?",
-    "correct": "Whole numbers",
+    "question": "Which of the following sentences correctly uses a possessive pronoun?",
+    "correct": "The blue backpack is mine.",
     "options": [
-      "Negative numbers",
-      "Fractions",
-      "Whole numbers",
-      "Decimal numbers"
+      "This is my blue backpack.",
+      "The blue backpack is mine.",
+      "Me own the blue backpack.",
+      "That blue backpack belongs to I."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Number Types",
+    "topic": "Possessive Pronouns vs. Adjectives",
     "complexity_score": 1
   },
   {
-    "question": "If you start the palindrome process with the number 28, what will the result be after the first step?",
-    "correct": "110",
+    "question": "In the sentence, 'He is talking to you about them,' who is the third person?",
+    "correct": "them",
     "options": [
-      "100",
-      "110",
-      "82",
-      "101"
+      "He",
+      "you",
+      "them",
+      "The speaker who is not mentioned"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Palindrome Process Application",
+    "topic": "Personal Pronouns",
     "complexity_score": 2
   },
   {
-    "question": "Which of the following numbers is a palindrome?",
-    "correct": "4884",
+    "question": "The teacher explained that 'it' can be used for lifeless things, animals, and babies. In the sentence 'It is sunny today,' why is 'it' used?",
+    "correct": "There is no specific subject performing the action.",
     "options": [
-      "1234",
-      "4884",
-      "4848",
-      "1223"
+      "The sun is considered a lifeless thing.",
+      "The weather is being treated like an animal.",
+      "There is no specific subject performing the action.",
+      "It is a grammatical mistake."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Palindromic Numbers",
+    "topic": "The Pronoun 'It'",
     "complexity_score": 2
   },
   {
-    "question": "During the class, the number 97 was used. What was the result of the first 'reverse-and-add' step with 97?",
-    "correct": "176",
+    "question": "In the sentence 'That is her book,' the word 'her' is a...",
+    "correct": "Possessive adjective",
     "options": [
-      "166",
-      "176",
-      "9779",
-      "16"
+      "Possessive pronoun",
+      "Possessive adjective",
+      "Personal pronoun",
+      "Reflexive pronoun"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Palindrome Process Application",
+    "topic": "Possessive Pronouns vs. Adjectives",
     "complexity_score": 2
   },
   {
-    "question": "The teacher used a metaphor of an 'empty glass'. What learning behavior was this meant to encourage?",
-    "correct": "Being open to learning new things, even about a familiar topic.",
+    "question": "In the sentence 'The book is hers,' the word 'hers' is a...",
+    "correct": "Possessive pronoun",
     "options": [
-      "Forgetting everything you have ever learned.",
-      "Only learning one topic at a time.",
-      "Being open to learning new things, even about a familiar topic.",
-      "Writing down notes to fill a blank page."
+      "Possessive pronoun",
+      "Possessive adjective",
+      "Personal pronoun",
+      "Reflexive pronoun"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Metacognition",
+    "topic": "Possessive Pronouns vs. Adjectives",
     "complexity_score": 2
   },
   {
-    "question": "If an angle is 100 degrees, what would be the size of the two new angles created by its bisector?",
-    "correct": "50 degrees and 50 degrees",
+    "question": "Why is 'my' in 'This is my pen' considered a possessive adjective and not a possessive pronoun?",
+    "correct": "Because it comes before a noun and describes it.",
     "options": [
-      "100 degrees and 100 degrees",
-      "45 degrees and 55 degrees",
-      "25 degrees and 75 degrees",
-      "50 degrees and 50 degrees"
+      "Because 'my' is a first-person word.",
+      "Because it is at the start of the sentence.",
+      "Because it comes before a noun and describes it.",
+      "Because it shows the pen belongs to me."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Geometry Application",
+    "topic": "Possessive Pronouns vs. Adjectives",
     "complexity_score": 2
   },
   {
-    "question": "The teacher mentioned the student could 'start from level four' because they had already done some work. What did this imply?",
-    "correct": "They could now explore the topic in a more interesting and deeper way.",
+    "question": "If I am speaking to you about Anaya, which pronoun would I use to refer to Anaya as the third person?",
+    "correct": "She",
     "options": [
-      "The work would become much harder and more stressful.",
-      "They could skip the lesson entirely.",
-      "They had to solve four times as many problems.",
-      "They could now explore the topic in a more interesting and deeper way."
+      "I",
+      "You",
+      "We",
+      "She"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Learning Process",
+    "topic": "Personal Pronouns",
     "complexity_score": 2
   },
   {
-    "question": "What is the correct spelling of the mathematical term for an idea that is thought to be true but not yet proven, which was corrected in the lesson?",
-    "correct": "Conjecture",
+    "question": "Which sentence correctly uses the third-person pronoun for a baby, according to the grammatical rule discussed?",
+    "correct": "The baby is hungry, so it is crying.",
     "options": [
-      "Congecture",
-      "Conjekture",
-      "Conjecture",
-      "Conjeckture"
+      "The baby is hungry, so he is crying.",
+      "The baby is hungry, so she is crying.",
+      "The baby is hungry, so they are crying.",
+      "The baby is hungry, so it is crying."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Vocabulary",
+    "topic": "The Pronoun 'It'",
     "complexity_score": 2
   },
   {
-    "question": "The student and teacher reached the number 176 from the number 97. What number would be added to 176 in the next step of the process?",
-    "correct": "671",
+    "question": "Anaya says, 'This laptop is his.' What makes 'his' a possessive pronoun in this sentence?",
+    "correct": "It replaces a noun (his laptop) and stands on its own.",
     "options": [
-      "176",
-      "97",
-      "79",
-      "671"
+      "It refers to a male person.",
+      "It is at the end of the sentence.",
+      "It replaces a noun (his laptop) and stands on its own.",
+      "It shows ownership."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Palindrome Process Application",
+    "topic": "Possessive Pronouns vs. Adjectives",
     "complexity_score": 2
   },
   {
-    "question": "Starting with the number 59, how many 'reverse-and-add' steps does it take to reach a palindrome?",
-    "correct": "3 steps",
+    "question": "The teacher mentioned that while grammatically correct, people often avoid using 'it' for their pets or babies. Why might this be?",
+    "correct": "Because 'it' can feel impersonal and is also used for non-living objects.",
     "options": [
-      "1 step",
-      "2 steps",
-      "3 steps",
-      "4 steps"
+      "Because it is too difficult to remember the rule.",
+      "Because 'he' or 'she' is shorter to say.",
+      "Because 'it' can feel impersonal and is also used for non-living objects.",
+      "Because it is an old-fashioned rule that is no longer used."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Multi-step Problem Solving",
+    "topic": "The Pronoun 'It'",
     "complexity_score": 3
   },
   {
-    "question": "The teacher used the metaphor, 'to get better trophies, you have to get rid of all the old ones.' In the context of learning, what does 'getting rid of old trophies' best represent?",
-    "correct": "Being willing to re-examine what you think you know to gain a deeper understanding.",
+    "question": "What is the key functional difference between a possessive adjective and a possessive pronoun?",
+    "correct": "A possessive adjective modifies a noun, while a possessive pronoun replaces a noun.",
     "options": [
-      "Throwing away old school books and notes.",
-      "Forgetting facts right after a test is over.",
-      "Believing that new information is always better than old information.",
-      "Being willing to re-examine what you think you know to gain a deeper understanding."
+      "Adjectives are for people, and pronouns are for things.",
+      "Adjectives are singular, and pronouns are plural.",
+      "A possessive adjective modifies a noun, while a possessive pronoun replaces a noun.",
+      "Adjectives show weak possession, and pronouns show strong possession."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognitive Analysis",
+    "topic": "Possessive Pronouns vs. Adjectives",
     "complexity_score": 3
   },
   {
-    "question": "Based on the definition of an angle bisector from the lesson, if a bisector creates two angles that are each 35 degrees, what was the size of the original angle?",
-    "correct": "70 degrees",
+    "question": "In the phrase 'their house', 'their' is a possessive adjective. How would you rewrite this phrase using the possessive pronoun 'theirs'?",
+    "correct": "The house is theirs.",
     "options": [
-      "35 degrees",
-      "70 degrees",
-      "17.5 degrees",
-      "90 degrees"
+      "The theirs house.",
+      "The house is theirs.",
+      "The house of theirs.",
+      "They have theirs house."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Deductive Reasoning",
+    "topic": "Possessive Pronouns vs. Adjectives",
     "complexity_score": 3
   },
   {
-    "question": "Which of these starting numbers will result in a palindrome after just ONE 'reverse-and-add' step?",
-    "correct": "36",
+    "question": "The lesson defined an essay as a 'long piece of composition on a given topic... well-organized with an introduction, body, and conclusion.' How does this definition make an essay different from just writing a long, unorganized paragraph?",
+    "correct": "It emphasizes the importance of a clear and logical structure.",
     "options": [
-      "36",
-      "58",
-      "69",
-      "87"
+      "It requires the writing to be a specific length.",
+      "It emphasizes the importance of a clear and logical structure.",
+      "It means an essay can only be about one topic.",
+      "It suggests that essays are only written in books."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Pattern Recognition",
+    "topic": "Essay Structure",
     "complexity_score": 3
   },
   {
-    "question": "The homework mentioned a puzzle: 'Starting with a 2-digit number always give a palindrome.' Based on the class activity with the number 97, what can you conclude about this statement?",
-    "correct": "The statement is not proven, as some numbers require multiple steps to reach a palindrome.",
+    "question": "The teacher says, 'When there is no subject we use it. Like... It is raining.' Which of these sentences uses 'it' in the same way?",
+    "correct": "It is 40 degrees Celsius.",
     "options": [
-      "The statement is true, as a palindrome is always found eventually.",
-      "The statement is false, because the number 97 has no palindrome.",
-      "The statement is not proven, as some numbers require multiple steps to reach a palindrome.",
-      "The statement is only true for numbers less than 50."
+      "Give the dog its food.",
+      "I think it is made of plastic.",
+      "It is 40 degrees Celsius.",
+      "The baby wants its toy."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Critical Thinking",
+    "topic": "The Pronoun 'It'",
     "complexity_score": 3
   },
   {
-    "question": "The teacher said your prior work allows the class to learn 'properly' and 'slowly by understanding everything.' What does this suggest about the difference between your school's teaching and this session?",
-    "correct": "This session will focus more on the 'why' and the concepts, not just the 'how' to solve problems.",
+    "question": "Consider the two sentences: 1. 'That is his car.' 2. 'That car is his.' Why is 'his' a possessive adjective in the first sentence but a possessive pronoun in the second?",
+    "correct": "In sentence 1, 'his' comes before the noun 'car'; in sentence 2, 'his' replaces the noun phrase 'his car'.",
     "options": [
-      "This session will be much slower and cover less material.",
-      "School teaches things in the wrong order.",
-      "This session will focus more on the 'why' and the concepts, not just the 'how' to solve problems.",
-      "The school's methods are incorrect and should be ignored."
+      "There is no difference; 'his' is always a pronoun.",
+      "In sentence 1, 'his' comes before the noun 'car'; in sentence 2, 'his' replaces the noun phrase 'his car'.",
+      "Because the word order changes the meaning entirely.",
+      "Sentence 1 is informal, and sentence 2 is formal."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Pedagogical Analysis",
+    "topic": "Possessive Pronouns vs. Adjectives",
     "complexity_score": 3
   }
 ]
