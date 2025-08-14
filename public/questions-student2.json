@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, what is the main purpose of writing a notice?",
-    "correct": "To make people pay attention to or realize something important.",
+    "question": "In the sentence, 'This book is mine,' what type of pronoun is 'mine'?",
+    "correct": "Possessive pronoun",
     "options": [
-      "To tell a long and detailed story.",
-      "To entertain people with jokes and poems.",
-      "To make people pay attention to or realize something important.",
-      "To test people's reading speed."
+      "Reflexive pronoun",
+      "Demonstrative pronoun",
+      "Possessive pronoun",
+      "Personal pronoun"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Notice Writing",
+    "topic": "Types of Pronouns",
     "complexity_score": 1
   },
   {
-    "question": "In the story 'The Whispering Woods', what was the name of the 11-year-old girl who solved the mystery?",
-    "correct": "Ilara",
+    "question": "Which of the following is an example of an indefinite pronoun, used when the person's identity is unknown?",
+    "correct": "Somebody",
     "options": [
-      "Shreya",
-      "Kavya",
-      "Ilara",
-      "Astral"
+      "Himself",
+      "Who",
+      "Somebody",
+      "That"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Listening Comprehension",
+    "topic": "Types of Pronouns",
     "complexity_score": 1
   },
   {
-    "question": "What three elements must be at the top of a formal notice, as discussed in the class?",
-    "correct": "Heading, Date, and Title",
+    "question": "The words 'this', 'that', 'these', and 'those' are what kind of pronouns?",
+    "correct": "Demonstrative pronouns",
     "options": [
-      "Your name, the date, and a drawing",
-      "The title, a joke, and the main content",
-      "Heading, Date, and Title",
-      "The signature, the date, and the place"
+      "Relative pronouns",
+      "Demonstrative pronouns",
+      "Interrogative pronouns",
+      "Reflexive pronouns"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Notice Writing",
+    "topic": "Types of Pronouns",
     "complexity_score": 1
   },
   {
-    "question": "In the second story, what was the name of the rare comet Leo observed?",
-    "correct": "Astral",
+    "question": "A pronoun that is used to ask a question, like 'what' or 'who', is called a(n)...",
+    "correct": "Interrogative pronoun",
     "options": [
-      "Whisper",
-      "Leo's Comet",
-      "Astral",
-      "The Blue Streak"
+      "Assertive pronoun",
+      "Emphatic pronoun",
+      "Interrogative pronoun",
+      "Relative pronoun"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Listening Comprehension",
+    "topic": "Types of Pronouns",
     "complexity_score": 1
   },
   {
-    "question": "What special tools did Ilara take with her on her exploration into the woods?",
-    "correct": "A compass and a notebook",
+    "question": "According to the lesson, a reflexive pronoun like 'herself' is usually placed where in a sentence?",
+    "correct": "At the end of the sentence",
     "options": [
-      "A microscope and a glass jar",
-      "A telescope and a map",
-      "A compass and a notebook",
-      "A camera and a flashlight"
+      "At the beginning of the sentence",
+      "Immediately after the noun",
+      "At the end of the sentence",
+      "Before the verb"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Listening Comprehension",
+    "topic": "Reflexive Pronouns",
     "complexity_score": 1
   },
   {
-    "question": "What was the color of the comet Astral's tail?",
-    "correct": "Brilliant blue",
+    "question": "What type of pronoun is 'themselves' in the sentence: 'The team blamed themselves for the loss.'?",
+    "correct": "Reflexive pronoun",
     "options": [
-      "Silvery blue",
-      "Shimmering white",
-      "Brilliant blue",
-      "Glowing green"
+      "Emphatic pronoun",
+      "Possessive pronoun",
+      "Reflexive pronoun",
+      "Personal pronoun"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Listening Comprehension",
+    "topic": "Types of Pronouns",
     "complexity_score": 1
   },
   {
-    "question": "Why is it important to put a box around a notice?",
-    "correct": "It scientifically helps to draw the brain's attention to the content inside.",
+    "question": "What is the key difference between a reflexive and an emphatic pronoun?",
+    "correct": "Emphatic pronouns add stress and appear right after the noun, while reflexive pronouns show the action reflects back on the subject.",
     "options": [
-      "It is a school rule with no real purpose.",
-      "It makes the notice look tidier, but has no other function.",
-      "It scientifically helps to draw the brain's attention to the content inside.",
-      "It separates the notice from the advertisements on the board."
+      "They are spelled differently.",
+      "Reflexive pronouns are for questions, and emphatic pronouns are for statements.",
+      "Emphatic pronouns add stress and appear right after the noun, while reflexive pronouns show the action reflects back on the subject.",
+      "There is no difference; the terms are interchangeable."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Notice Writing",
+    "topic": "Pronoun Distinction",
     "complexity_score": 2
   },
   {
-    "question": "What was the actual source of the 'whispering' sound in the Whispering Woods?",
-    "correct": "Tiny pores on the silvery-blue leaves opening and closing.",
+    "question": "In the sentence 'Bersha, who is very friendly, lives next door,' what type of pronoun is 'who'?",
+    "correct": "Relative pronoun",
     "options": [
-      "A hidden underground river.",
-      "Wind trapped between the mountains.",
-      "Tiny pores on the silvery-blue leaves opening and closing.",
-      "Animals whispering to each other."
+      "Interrogative pronoun",
+      "Relative pronoun",
+      "Demonstrative pronoun",
+      "Emphatic pronoun"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Listening Comprehension",
+    "topic": "Relative Pronouns",
     "complexity_score": 2
   },
   {
-    "question": "If you write a notice about a lost item, what important phrase should you include to motivate people to help?",
-    "correct": "A suitable reward is promised.",
+    "question": "Which sentence uses 'myself' as an emphatic pronoun?",
+    "correct": "I myself will fix the computer.",
     "options": [
-      "Please help me, I am very sad.",
-      "The item is very expensive.",
-      "A suitable reward is promised.",
-      "I will be very thankful to you."
+      "I sometimes talk to myself.",
+      "I myself will fix the computer.",
+      "She asked if I could help myself to some snacks.",
+      "He hurt himself during the game."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Notice Writing",
+    "topic": "Emphatic Pronouns",
     "complexity_score": 2
   },
   {
-    "question": "When writing a notice for a *found* item, what information should the rightful owner provide to claim it?",
-    "correct": "Proper identification and details about the item.",
+    "question": "Which sentence correctly uses an interrogative *adjective*?",
+    "correct": "Which desk is yours?",
     "options": [
-      "Their name and class only.",
-      "A reward for the finder.",
-      "Proper identification and details about the item.",
-      "A promise to be more careful next time."
+      "Which is your desk?",
+      "Who are you?",
+      "What did you say?",
+      "Which desk is yours?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Notice Writing",
+    "topic": "Interrogative Adjectives vs. Pronouns",
     "complexity_score": 2
   },
   {
-    "question": "What two personal qualities were most important for Ilara in solving the mystery?",
-    "correct": "Curiosity and bravery.",
+    "question": "Based on the lesson, why is 'I and she are classmates' grammatically incorrect?",
+    "correct": "The pronoun 'she' should come before 'I'.",
     "options": [
-      "Patience and artistic skill.",
-      "Speed and strength.",
-      "Curiosity and bravery.",
-      "Her knowledge of local history."
+      "The verb 'are' is incorrect.",
+      "The pronoun 'she' should come before 'I'.",
+      "It should be 'Me and her'.",
+      "The sentence is grammatically correct as is."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Listening Comprehension",
+    "topic": "Pronoun Order",
     "complexity_score": 2
   },
   {
-    "question": "Where did the tiny, glowing piece from the comet's tail land?",
-    "correct": "In an empty glass jar on Leo's balcony.",
+    "question": "In the phrase 'Dash of these boys is the champion singer,' which interrogative word fits best?",
+    "correct": "Which",
     "options": [
-      "On the lens of his telescope.",
-      "In the swimming pool.",
-      "In an empty glass jar on Leo's balcony.",
-      "On the roof of his house."
+      "Who",
+      "What",
+      "Whom",
+      "Which"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Listening Comprehension",
+    "topic": "Interrogative Pronouns",
     "complexity_score": 2
   },
   {
-    "question": "What is the key difference in the information you provide in a 'Lost' notice versus a 'Found' notice?",
-    "correct": "In a 'Lost' notice you give full details; in a 'Found' notice you ask for details as proof.",
+    "question": "What is the function of the pronoun 'who' in the sentence: 'That is the boy who told me about the meeting.'?",
+    "correct": "It refers back to the noun 'boy'.",
     "options": [
-      "There is no difference; the format is identical.",
-      "You must offer a reward for 'Found' but not for 'Lost'.",
-      "In a 'Lost' notice you give full details; in a 'Found' notice you ask for details as proof.",
-      "A 'Found' notice is always shorter than a 'Lost' notice."
+      "It is asking a question.",
+      "It is showing possession.",
+      "It refers back to the noun 'boy'.",
+      "It is emphasizing the subject."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Notice Writing",
+    "topic": "Relative Pronouns",
     "complexity_score": 2
   },
   {
-    "question": "How did Ilara's discovery of the 'singing leaves' change the Whispering Woods?",
-    "correct": "Scientists came from all over to study the unique trees.",
+    "question": "In the sentence 'Tanya has a big cave,' what type of word is 'Tanya'?",
+    "correct": "Proper Noun (Subject)",
     "options": [
-      "The whispering sound stopped completely.",
-      "People became scared and stopped visiting the woods.",
-      "Scientists came from all over to study the unique trees.",
-      "She kept the discovery a secret to protect the trees."
+      "Pronoun",
+      "Verb",
+      "Adjective",
+      "Proper Noun (Subject)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Listening Comprehension",
+    "topic": "Parts of Speech",
     "complexity_score": 2
   },
   {
-    "question": "The phrase 'contact the undersigned' is used in a notice. What does 'undersigned' refer to?",
-    "correct": "The person whose name and details are written at the bottom.",
+    "question": "Analyze the sentence 'Which is your desk?'. According to the lesson, 'which' is an interrogative pronoun here because it refers to...",
+    "correct": "the pronoun 'your'",
     "options": [
-      "The school principal.",
-      "Anyone who reads the notice.",
-      "The person whose name and details are written at the bottom.",
-      "The lost and found department."
+      "the noun 'desk'",
+      "the pronoun 'your'",
+      "an unknown action",
+      "a location"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Notice Writing",
+    "topic": "Interrogative Pronouns vs. Adjectives",
     "complexity_score": 3
   },
   {
-    "question": "Why is it a mistake to provide a full, detailed description of an item you have *found* in a notice?",
-    "correct": "Because anyone could claim it, even if it's not theirs.",
+    "question": "The teacher states: 'in infatip pronoun you want to give a stress'. Which of the following best demonstrates this principle?",
+    "correct": "She herself opened the door.",
     "options": [
-      "Because it makes the notice too long to read.",
-      "Because it's against school rules.",
-      "Because anyone could claim it, even if it's not theirs.",
-      "Because the details might be wrong."
+      "She opened the door herself.",
+      "Who opened the door?",
+      "She herself opened the door.",
+      "The door was opened by her."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Notice Writing",
+    "topic": "Emphatic Pronouns",
     "complexity_score": 3
   },
   {
-    "question": "The story says Ilara had a 'healthy dose of courage'. What does this phrase imply about her journey?",
-    "correct": "That exploring the woods was potentially frightening, but she had enough bravery to do it.",
+    "question": "Based on the correction made in class ('Who made this basket? Myself made it.'), why is 'Myself made it' an incorrect response?",
+    "correct": "'Myself' is a reflexive/emphatic pronoun and cannot be the subject of a sentence.",
     "options": [
-      "That she was not afraid of anything at all.",
-      "That she was a doctor who studied courage.",
-      "That exploring the woods was potentially frightening, but she had enough bravery to do it.",
-      "That she took medicine to become courageous."
+      "'Myself' is a possessive pronoun.",
+      "'Myself' can only be used at the end of a sentence.",
+      "'Myself' is a reflexive/emphatic pronoun and cannot be the subject of a sentence.",
+      "The correct pronoun should be 'me'."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Listening Comprehension",
+    "topic": "Pronoun Usage Rules",
     "complexity_score": 3
   },
   {
-    "question": "In the context of the story, what does it mean that Ilara 'solved an age-old mystery'?",
-    "correct": "She found a scientific explanation for something people had wondered about for a very long time.",
+    "question": "Considering the rule for relative pronouns, which word correctly fills the blank? 'We know a lot of people ___ live in Assam.'",
+    "correct": "who",
     "options": [
-      "She proved that the old stories about a hidden river were true.",
-      "She read an old book that had the answer.",
-      "She found a scientific explanation for something people had wondered about for a very long time.",
-      "She created a new mystery for people to solve."
+      "which",
+      "who",
+      "what",
+      "whose"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Listening Comprehension",
+    "topic": "Relative Pronouns",
     "complexity_score": 3
   },
   {
-    "question": "Which of the following sentences would be INAPPROPRIATE in a formal notice?",
-    "correct": "OMG, I'm so sad I lost my watch, it was a gift!",
+    "question": "The lesson differentiates between open-ended and closed-ended questions. Which of these is a closed-ended question?",
+    "correct": "Are you going to do it?",
     "options": [
-      "This is to inform all students that a watch has been found.",
-      "The rightful owner must collect it from the lost and found section.",
-      "OMG, I'm so sad I lost my watch, it was a gift!",
-      "For any queries, please contact the undersigned."
+      "What is your name?",
+      "Why was Meg horrified?",
+      "Are you going to do it?",
+      "How are you?"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Notice Writing",
+    "topic": "Sentence Types",
     "complexity_score": 3
   },
   {
-    "question": "At the end of his story, Leo believed he had 'captured a tiny secret piece of a star'. What does this show about his character?",
-    "correct": "He has a strong sense of wonder and imagination.",
+    "question": "Which sentence pair correctly shows the shift from an interrogative pronoun to an interrogative adjective?",
+    "correct": "Pronoun: 'Which is your pan?' / Adjective: 'Which pan is yours?'",
     "options": [
-      "He wants to sell the pebble for a lot of money.",
-      "He is a serious scientist who only believes in facts.",
-      "He has a strong sense of wonder and imagination.",
-      "He is afraid of the glowing pebble."
+      "Pronoun: 'What are you doing?' / Adjective: 'What you are doing?'",
+      "Pronoun: 'Who is he?' / Adjective: 'Whose is it?'",
+      "Pronoun: 'This is my book.' / Adjective: 'That book is mine.'",
+      "Pronoun: 'Which is your pan?' / Adjective: 'Which pan is yours?'"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Listening Comprehension",
+    "topic": "Pronoun & Adjective Distinction",
     "complexity_score": 3
   }
 ]
