@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, what are the three main parts of an essay?",
-    "correct": "Introduction, Body, and Conclusion",
+    "question": "Which of the following is an example of a personal pronoun?",
+    "correct": "He",
     "options": [
-      "Topic, Main Idea, and Story",
-      "Beginning, Middle, and The End",
-      "Introduction, Body, and Conclusion",
-      "Greeting, Explanation, and Summary"
+      "Myself",
+      "Who",
+      "He",
+      "Mine"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Essay Structure",
+    "topic": "Personal Pronouns",
     "complexity_score": 1
   },
   {
-    "question": "What is the primary function of the conclusion in an essay?",
-    "correct": "To wrap up all the points and summarize the main message",
+    "question": "The pronoun 'it' is used for animals, babies, and...",
+    "correct": "Things without life",
     "options": [
-      "To introduce a brand new idea",
-      "To ask the reader a question",
-      "To tell a personal story",
-      "To wrap up all the points and summarize the main message"
+      "Only for weather",
+      "Groups of people",
+      "Things without life",
+      "Abstract ideas"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Essay Structure",
+    "topic": "The Pronoun 'It'",
     "complexity_score": 1
   },
   {
-    "question": "In the guessing game, what category of profession was Triggered Insaan identified as?",
-    "correct": "YouTuber",
+    "question": "In the sentence, 'The book is mine,' what type of pronoun is 'mine'?",
+    "correct": "Possessive",
     "options": [
-      "Actor",
-      "Athlete",
-      "YouTuber",
-      "Politician"
+      "Personal",
+      "Reflexive",
+      "Possessive",
+      "Demonstrative"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Categorization",
+    "topic": "Possessive Pronouns",
     "complexity_score": 1
   },
   {
-    "question": "What part of the essay is dedicated to the main explanation and your thoughts on the topic?",
-    "correct": "The Body",
+    "question": "Which of the following words is a demonstrative pronoun, used to point out a specific thing?",
+    "correct": "This",
     "options": [
-      "The Introduction",
-      "The Body",
-      "The Conclusion",
-      "The Title"
+      "Somebody",
+      "Her",
+      "Which",
+      "This"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Essay Structure",
+    "topic": "Demonstrative Pronouns",
     "complexity_score": 1
   },
   {
-    "question": "The lesson emphasized that a good essay goes beyond just stating what happened. What else should it include?",
-    "correct": "What you think about the topic and why",
+    "question": "Reflexive pronouns, like 'myself' and 'herself', often end in...",
+    "correct": "'-self' or '-selves'",
     "options": [
-      "As many facts as possible",
-      "Quotes from famous people",
-      "What you think about the topic and why",
-      "A detailed list of events"
+      "'-ing'",
+      "'-er'",
+      "'-self' or '-selves'",
+      "'-tion'"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Purpose of an Essay",
+    "topic": "Reflexive Pronouns",
     "complexity_score": 1
   },
   {
-    "question": "What is the main purpose of the introduction in an essay?",
-    "correct": "To introduce the topic",
+    "question": "The teacher explained that the first-person plural pronoun is:",
+    "correct": "We",
     "options": [
-      "To give the final opinion",
-      "To introduce the topic",
-      "To provide all the evidence",
-      "To list all the sources"
+      "I",
+      "They",
+      "You",
+      "We"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Essay Structure",
+    "topic": "Personal Pronouns",
     "complexity_score": 1
   },
   {
-    "question": "In the guessing game, the student first eliminated categories like 'actor', 'athlete', and 'politician'. What skill was being used?",
-    "correct": "Process of elimination",
+    "question": "In the sentence 'Anaya cooked the food herself,' what is the role of the pronoun 'herself'?",
+    "correct": "It shows Anaya did the action and was also the object of the action.",
     "options": [
-      "Random guessing",
-      "Creative writing",
-      "Process of elimination",
-      "Memorization"
+      "It shows that Anaya owns the food.",
+      "It emphasizes that Anaya, and no one else, cooked.",
+      "It connects two parts of the sentence.",
+      "It shows Anaya did the action and was also the object of the action."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Deductive Reasoning",
+    "topic": "Reflexive Pronouns",
     "complexity_score": 2
   },
   {
-    "question": "The teacher explained that an essay is different from a story. What is the key distinction discussed?",
-    "correct": "An essay requires your personal thoughts and analysis, not just a sequence of events.",
+    "question": "Which sentence uses 'it' as an 'empty subject' to talk about weather, as discussed in class?",
+    "correct": "It is raining.",
     "options": [
-      "An essay must always be about a famous person.",
-      "A story is always longer than an essay.",
-      "An essay requires your personal thoughts and analysis, not just a sequence of events.",
-      "An essay must be written in the past tense."
+      "She dropped the ball, and it rolled away.",
+      "The dog is cute; it has a fluffy tail.",
+      "It is raining.",
+      "My favorite movie is old, but it is a classic."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Purpose of an Essay",
+    "topic": "The Pronoun 'It'",
     "complexity_score": 2
   },
   {
-    "question": "When the student asked if the famous person 'plays games on YouTube', what was this question's strategic purpose in the game?",
-    "correct": "To narrow down the broad category of 'YouTuber' to a more specific type",
+    "question": "In the sentence 'This is the bag which I bought,' what is the job of the relative pronoun 'which'?",
+    "correct": "It connects the description 'I bought' to the noun 'bag'.",
     "options": [
-      "To see if the teacher likes video games",
-      "To guess a name randomly",
-      "To change the topic of conversation",
-      "To narrow down the broad category of 'YouTuber' to a more specific type"
+      "It asks a question about the bag.",
+      "It shows ownership of the bag.",
+      "It emphasizes who bought the bag.",
+      "It connects the description 'I bought' to the noun 'bag'."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Deductive Reasoning",
+    "topic": "Relative Pronouns",
     "complexity_score": 2
   },
   {
-    "question": "The teacher mentioned a person whose name is in school textbooks but might not be widely known by parents. What profession does this description most strongly suggest?",
-    "correct": "A writer or author",
+    "question": "The teacher described the first person as the speaker, the second person as the listener, and the third person as the topic. In 'I told you about them,' who is the third person?",
+    "correct": "them",
     "options": [
-      "A popular movie star",
-      "A famous pop singer",
-      "A current political leader",
-      "A writer or author"
+      "I",
+      "told",
+      "you",
+      "them"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Inference",
+    "topic": "Personal Pronouns",
     "complexity_score": 2
   },
   {
-    "question": "Why is the 'why you think in a particular way' part of an essay so important?",
-    "correct": "It demonstrates critical thinking and supports your main idea.",
+    "question": "What type of pronoun is 'somebody' in the sentence 'Somebody is coming'?",
+    "correct": "Indefinite pronoun",
     "options": [
-      "It makes the essay longer.",
-      "It fills space in the body paragraphs.",
-      "It demonstrates critical thinking and supports your main idea.",
-      "It is a requirement for the introduction."
+      "Personal pronoun",
+      "Interrogative pronoun",
+      "Relative pronoun",
+      "Indefinite pronoun"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Purpose of an Essay",
+    "topic": "Indefinite Pronouns",
     "complexity_score": 2
   },
   {
-    "question": "The body of an essay can also be called the 'main idea of the topic'. What does this imply about the body's role?",
-    "correct": "It contains the core arguments and detailed explanations.",
+    "question": "The pronouns in 'They themselves cleaned the whole school' and 'They hurt themselves' look the same. What is the main difference in their function?",
+    "correct": "In the first sentence it adds emphasis; in the second it is the object of the verb.",
     "options": [
-      "It is the shortest part of the essay.",
-      "It should only contain one sentence.",
-      "It contains the core arguments and detailed explanations.",
-      "It is less important than the introduction."
+      "There is no difference in their function.",
+      "In the first sentence it shows ownership; in the second it asks a question.",
+      "In the first sentence it adds emphasis; in the second it is the object of the verb.",
+      "In the first sentence it is a personal pronoun; in the second it is a possessive pronoun."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Essay Structure",
+    "topic": "Reflexive vs Emphatic Pronouns",
     "complexity_score": 2
   },
   {
-    "question": "A student says, 'Time is more precious than diamond'. If this were the topic of an essay, what would the body need to contain, based on the lesson?",
-    "correct": "Explanations and thoughts on WHY time is considered so precious.",
+    "question": "What type of pronoun is used to ask a question, such as 'What do you want?'",
+    "correct": "Interrogative",
     "options": [
-      "A history of diamond mining.",
-      "Explanations and thoughts on WHY time is considered so precious.",
-      "A list of different types of clocks.",
-      "A story about finding a diamond."
+      "Relative",
+      "Demonstrative",
+      "Interrogative",
+      "Indefinite"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Application of Essay Concepts",
+    "topic": "Interrogative Pronouns",
     "complexity_score": 2
   },
   {
-    "question": "The teacher stated that the student's mother might not know the 'hard to guess' person, even though they are famous enough to be in textbooks. What does this suggest about the nature of their fame?",
-    "correct": "Their fame is academic or literary, not mainstream celebrity.",
+    "question": "A possessive pronoun (e.g., mine, yours, hers) is different from a possessive adjective (e.g., my, your, her) because it...",
+    "correct": "Can stand alone without a noun following it.",
     "options": [
-      "They are a brand new celebrity.",
-      "They are only famous in a different country.",
-      "Their fame is academic or literary, not mainstream celebrity.",
-      "They are a historical figure from ancient times."
+      "Is always used at the beginning of a sentence.",
+      "Can stand alone without a noun following it.",
+      "Refers only to people, not things.",
+      "Is only used for questions."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Inference",
+    "topic": "Possessive Pronouns",
     "complexity_score": 2
   },
   {
-    "question": "If an essay's introduction presents the topic, and the conclusion summarizes it, what is the analytical function of the body?",
-    "correct": "To develop, explain, and provide evidence for the main argument.",
+    "question": "Based on the class discussion, in which sentence is the pronoun 'myself' used as an EMPHATIC pronoun (for emphasis) rather than a reflexive one?",
+    "correct": "I myself did it.",
     "options": [
-      "To repeat the introduction in different words.",
-      "To ask a series of rhetorical questions.",
-      "To develop, explain, and provide evidence for the main argument.",
-      "To briefly mention related but irrelevant topics."
+      "I hurt myself.",
+      "I saw myself in the mirror.",
+      "I taught myself to play the piano.",
+      "I myself did it."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analytical Thinking",
+    "topic": "Reflexive vs Emphatic Pronouns",
     "complexity_score": 3
   },
   {
-    "question": "The guessing game relied on a process of narrowing down possibilities from broad categories (e.g., 'entertainment industry') to specific ones (e.g., 'gaming YouTuber'). This thinking process is an example of:",
-    "correct": "Deductive Reasoning",
+    "question": "When the teacher said 'It is Monday,' they used 'It' as an 'empty subject.' What does this imply about the subject of the sentence?",
+    "correct": "The sentence has no real 'doer' of an action, so 'It' fills the subject's spot.",
     "options": [
-      "Inductive Reasoning",
-      "Creative Association",
-      "Emotional Appeal",
-      "Deductive Reasoning"
+      "The pronoun 'It' is referring to a specific object named Monday.",
+      "The sentence is incomplete and needs a real subject.",
+      "The sentence has no real 'doer' of an action, so 'It' fills the subject's spot.",
+      "The word 'Monday' is the true subject of the sentence."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Deductive Reasoning",
+    "topic": "The Pronoun 'It'",
     "complexity_score": 3
   },
   {
-    "question": "Why would an essay that only lists facts and events without the 'what I think and why' be considered a weaker piece of writing?",
-    "correct": "It lacks a unique perspective and analytical depth.",
+    "question": "Consider the sentence: 'Barsha, who is very friendly, lives next door.' How does the pronoun 'who' function here?",
+    "correct": "It introduces extra information about the third-person subject, Barsha.",
     "options": [
-      "Because it is probably too short.",
-      "Because facts can be incorrect.",
-      "It lacks a unique perspective and analytical depth.",
-      "Because it doesn't have a conclusion."
+      "It asks a question about Barsha.",
+      "It shows that Barsha owns the house next door.",
+      "It emphasizes that Barsha herself is friendly.",
+      "It introduces extra information about the third-person subject, Barsha."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Purpose of an Essay",
+    "topic": "Relative Pronouns",
     "complexity_score": 3
   },
   {
-    "question": "Imagine you are playing the guessing game and you know the person is a writer from a school textbook. Which question would be the most effective next step to identify them?",
-    "correct": "Do they primarily write stories for children?",
+    "question": "The pronoun 'somebody' is called an indefinite pronoun because...",
+    "correct": "It refers to a person without specifying exactly who they are.",
     "options": [
-      "Are they still alive?",
-      "Are they male or female?",
-      "Do they primarily write stories for children?",
-      "Have they won a famous award?"
+      "It can refer to either a person or a thing.",
+      "It is not a definite part of the main sentence.",
+      "It refers to a person without specifying exactly who they are.",
+      "It must be defined by the context of the conversation."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Strategic Questioning",
+    "topic": "Indefinite Pronouns",
     "complexity_score": 3
   },
   {
-    "question": "Connecting the two main parts of the lesson, how is the logical process of the guessing game similar to planning the body of an essay?",
-    "correct": "Both require organizing ideas into clear categories and presenting them logically.",
+    "question": "Which statement best explains the core difference between a personal pronoun like 'she' and a reflexive pronoun like 'herself'?",
+    "correct": "'She' typically acts as the subject, while 'herself' is typically the object or adds emphasis.",
     "options": [
-      "Both are meant to be a fun and quick activity.",
-      "Both must always end with a single correct answer.",
-      "Both require organizing ideas into clear categories and presenting them logically.",
-      "Both are only about famous people."
+      "'She' is singular, and 'herself' can be plural.",
+      "'She' refers to females, while 'herself' can refer to anyone.",
+      "'She' is used for people, while 'herself' is used for things.",
+      "'She' typically acts as the subject, while 'herself' is typically the object or adds emphasis."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Synthesizing Concepts",
+    "topic": "Comparing Pronoun Types",
     "complexity_score": 3
   },
   {
-    "question": "A student writes an essay arguing 'Time is precious'. Which of the following sentences best reflects the analytical thinking encouraged in the lesson?",
-    "correct": "Time is precious because unlike money, it can never be earned back, making each moment a unique opportunity for growth.",
+    "question": "The teacher explained that reflexive pronouns are used 'when the action of the verb affects the subject.' Which sentence is the best example of this principle?",
+    "correct": "He blamed himself.",
     "options": [
-      "There are 60 seconds in a minute and 60 minutes in an hour.",
-      "My grandfather gave me a watch for my birthday.",
-      "Time is precious because unlike money, it can never be earned back, making each moment a unique opportunity for growth.",
-      "Many famous people have said that time is precious."
+      "He blamed you.",
+      "This is his blame.",
+      "He blamed himself.",
+      "He himself is to blame."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Application of Essay Concepts",
+    "topic": "Reflexive Pronouns",
     "complexity_score": 3
   }
 ]
