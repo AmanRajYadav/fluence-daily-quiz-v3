@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, what are the three main parts of a well-organized essay?",
-    "correct": "Introduction, body, and conclusion",
+    "question": "According to the lesson, what is the main purpose of writing a notice?",
+    "correct": "To make people pay attention to or realize something important.",
     "options": [
-      "Beginning, middle, and ending",
-      "Title, paragraphs, and summary",
-      "Introduction, body, and conclusion",
-      "Topic, details, and grammar"
+      "To tell a long and detailed story.",
+      "To entertain people with jokes and poems.",
+      "To make people pay attention to or realize something important.",
+      "To test people's reading speed."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Essay Structure",
+    "topic": "Notice Writing",
     "complexity_score": 1
   },
   {
-    "question": "Which of the following is a first-person plural pronoun?",
-    "correct": "We",
+    "question": "In the story 'The Whispering Woods', what was the name of the 11-year-old girl who solved the mystery?",
+    "correct": "Ilara",
     "options": [
-      "I",
-      "You",
-      "They",
-      "We"
+      "Shreya",
+      "Kavya",
+      "Ilara",
+      "Astral"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Personal Pronouns",
+    "topic": "Listening Comprehension",
     "complexity_score": 1
   },
   {
-    "question": "The pronoun 'you' refers to which person?",
-    "correct": "The second person (the listener)",
+    "question": "What three elements must be at the top of a formal notice, as discussed in the class?",
+    "correct": "Heading, Date, and Title",
     "options": [
-      "The first person (the speaker)",
-      "The second person (the listener)",
-      "The third person (person being spoken about)",
-      "All of the above"
+      "Your name, the date, and a drawing",
+      "The title, a joke, and the main content",
+      "Heading, Date, and Title",
+      "The signature, the date, and the place"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Personal Pronouns",
+    "topic": "Notice Writing",
     "complexity_score": 1
   },
   {
-    "question": "The word 'possess' means to...",
-    "correct": "Own or have something",
+    "question": "In the second story, what was the name of the rare comet Leo observed?",
+    "correct": "Astral",
     "options": [
-      "Give something away",
-      "Talk about something",
-      "Own or have something",
-      "Create something new"
+      "Whisper",
+      "Leo's Comet",
+      "Astral",
+      "The Blue Streak"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Possessive Pronouns",
+    "topic": "Listening Comprehension",
     "complexity_score": 1
   },
   {
-    "question": "In the sentence, 'The dog wagged its tail,' the word 'its' is used because the dog is an animal. What is another category discussed for which we use the pronoun 'it'?",
-    "correct": "Babies",
+    "question": "What special tools did Ilara take with her on her exploration into the woods?",
+    "correct": "A compass and a notebook",
     "options": [
-      "Adults",
-      "Teenagers",
-      "Groups of people",
-      "Babies"
+      "A microscope and a glass jar",
+      "A telescope and a map",
+      "A compass and a notebook",
+      "A camera and a flashlight"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "The Pronoun 'It'",
+    "topic": "Listening Comprehension",
     "complexity_score": 1
   },
   {
-    "question": "Which of the following sentences correctly uses a possessive pronoun?",
-    "correct": "The blue backpack is mine.",
+    "question": "What was the color of the comet Astral's tail?",
+    "correct": "Brilliant blue",
     "options": [
-      "This is my blue backpack.",
-      "The blue backpack is mine.",
-      "Me own the blue backpack.",
-      "That blue backpack belongs to I."
+      "Silvery blue",
+      "Shimmering white",
+      "Brilliant blue",
+      "Glowing green"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Possessive Pronouns vs. Adjectives",
+    "topic": "Listening Comprehension",
     "complexity_score": 1
   },
   {
-    "question": "In the sentence, 'He is talking to you about them,' who is the third person?",
-    "correct": "them",
+    "question": "Why is it important to put a box around a notice?",
+    "correct": "It scientifically helps to draw the brain's attention to the content inside.",
     "options": [
-      "He",
-      "you",
-      "them",
-      "The speaker who is not mentioned"
+      "It is a school rule with no real purpose.",
+      "It makes the notice look tidier, but has no other function.",
+      "It scientifically helps to draw the brain's attention to the content inside.",
+      "It separates the notice from the advertisements on the board."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Personal Pronouns",
+    "topic": "Notice Writing",
     "complexity_score": 2
   },
   {
-    "question": "The teacher explained that 'it' can be used for lifeless things, animals, and babies. In the sentence 'It is sunny today,' why is 'it' used?",
-    "correct": "There is no specific subject performing the action.",
+    "question": "What was the actual source of the 'whispering' sound in the Whispering Woods?",
+    "correct": "Tiny pores on the silvery-blue leaves opening and closing.",
     "options": [
-      "The sun is considered a lifeless thing.",
-      "The weather is being treated like an animal.",
-      "There is no specific subject performing the action.",
-      "It is a grammatical mistake."
+      "A hidden underground river.",
+      "Wind trapped between the mountains.",
+      "Tiny pores on the silvery-blue leaves opening and closing.",
+      "Animals whispering to each other."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Pronoun 'It'",
+    "topic": "Listening Comprehension",
     "complexity_score": 2
   },
   {
-    "question": "In the sentence 'That is her book,' the word 'her' is a...",
-    "correct": "Possessive adjective",
+    "question": "If you write a notice about a lost item, what important phrase should you include to motivate people to help?",
+    "correct": "A suitable reward is promised.",
     "options": [
-      "Possessive pronoun",
-      "Possessive adjective",
-      "Personal pronoun",
-      "Reflexive pronoun"
+      "Please help me, I am very sad.",
+      "The item is very expensive.",
+      "A suitable reward is promised.",
+      "I will be very thankful to you."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Possessive Pronouns vs. Adjectives",
+    "topic": "Notice Writing",
     "complexity_score": 2
   },
   {
-    "question": "In the sentence 'The book is hers,' the word 'hers' is a...",
-    "correct": "Possessive pronoun",
+    "question": "When writing a notice for a *found* item, what information should the rightful owner provide to claim it?",
+    "correct": "Proper identification and details about the item.",
     "options": [
-      "Possessive pronoun",
-      "Possessive adjective",
-      "Personal pronoun",
-      "Reflexive pronoun"
+      "Their name and class only.",
+      "A reward for the finder.",
+      "Proper identification and details about the item.",
+      "A promise to be more careful next time."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Possessive Pronouns vs. Adjectives",
+    "topic": "Notice Writing",
     "complexity_score": 2
   },
   {
-    "question": "Why is 'my' in 'This is my pen' considered a possessive adjective and not a possessive pronoun?",
-    "correct": "Because it comes before a noun and describes it.",
+    "question": "What two personal qualities were most important for Ilara in solving the mystery?",
+    "correct": "Curiosity and bravery.",
     "options": [
-      "Because 'my' is a first-person word.",
-      "Because it is at the start of the sentence.",
-      "Because it comes before a noun and describes it.",
-      "Because it shows the pen belongs to me."
+      "Patience and artistic skill.",
+      "Speed and strength.",
+      "Curiosity and bravery.",
+      "Her knowledge of local history."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Possessive Pronouns vs. Adjectives",
+    "topic": "Listening Comprehension",
     "complexity_score": 2
   },
   {
-    "question": "If I am speaking to you about Anaya, which pronoun would I use to refer to Anaya as the third person?",
-    "correct": "She",
+    "question": "Where did the tiny, glowing piece from the comet's tail land?",
+    "correct": "In an empty glass jar on Leo's balcony.",
     "options": [
-      "I",
-      "You",
-      "We",
-      "She"
+      "On the lens of his telescope.",
+      "In the swimming pool.",
+      "In an empty glass jar on Leo's balcony.",
+      "On the roof of his house."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Personal Pronouns",
+    "topic": "Listening Comprehension",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly uses the third-person pronoun for a baby, according to the grammatical rule discussed?",
-    "correct": "The baby is hungry, so it is crying.",
+    "question": "What is the key difference in the information you provide in a 'Lost' notice versus a 'Found' notice?",
+    "correct": "In a 'Lost' notice you give full details; in a 'Found' notice you ask for details as proof.",
     "options": [
-      "The baby is hungry, so he is crying.",
-      "The baby is hungry, so she is crying.",
-      "The baby is hungry, so they are crying.",
-      "The baby is hungry, so it is crying."
+      "There is no difference; the format is identical.",
+      "You must offer a reward for 'Found' but not for 'Lost'.",
+      "In a 'Lost' notice you give full details; in a 'Found' notice you ask for details as proof.",
+      "A 'Found' notice is always shorter than a 'Lost' notice."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Pronoun 'It'",
+    "topic": "Notice Writing",
     "complexity_score": 2
   },
   {
-    "question": "Anaya says, 'This laptop is his.' What makes 'his' a possessive pronoun in this sentence?",
-    "correct": "It replaces a noun (his laptop) and stands on its own.",
+    "question": "How did Ilara's discovery of the 'singing leaves' change the Whispering Woods?",
+    "correct": "Scientists came from all over to study the unique trees.",
     "options": [
-      "It refers to a male person.",
-      "It is at the end of the sentence.",
-      "It replaces a noun (his laptop) and stands on its own.",
-      "It shows ownership."
+      "The whispering sound stopped completely.",
+      "People became scared and stopped visiting the woods.",
+      "Scientists came from all over to study the unique trees.",
+      "She kept the discovery a secret to protect the trees."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Possessive Pronouns vs. Adjectives",
+    "topic": "Listening Comprehension",
     "complexity_score": 2
   },
   {
-    "question": "The teacher mentioned that while grammatically correct, people often avoid using 'it' for their pets or babies. Why might this be?",
-    "correct": "Because 'it' can feel impersonal and is also used for non-living objects.",
+    "question": "The phrase 'contact the undersigned' is used in a notice. What does 'undersigned' refer to?",
+    "correct": "The person whose name and details are written at the bottom.",
     "options": [
-      "Because it is too difficult to remember the rule.",
-      "Because 'he' or 'she' is shorter to say.",
-      "Because 'it' can feel impersonal and is also used for non-living objects.",
-      "Because it is an old-fashioned rule that is no longer used."
+      "The school principal.",
+      "Anyone who reads the notice.",
+      "The person whose name and details are written at the bottom.",
+      "The lost and found department."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "The Pronoun 'It'",
+    "topic": "Notice Writing",
     "complexity_score": 3
   },
   {
-    "question": "What is the key functional difference between a possessive adjective and a possessive pronoun?",
-    "correct": "A possessive adjective modifies a noun, while a possessive pronoun replaces a noun.",
+    "question": "Why is it a mistake to provide a full, detailed description of an item you have *found* in a notice?",
+    "correct": "Because anyone could claim it, even if it's not theirs.",
     "options": [
-      "Adjectives are for people, and pronouns are for things.",
-      "Adjectives are singular, and pronouns are plural.",
-      "A possessive adjective modifies a noun, while a possessive pronoun replaces a noun.",
-      "Adjectives show weak possession, and pronouns show strong possession."
+      "Because it makes the notice too long to read.",
+      "Because it's against school rules.",
+      "Because anyone could claim it, even if it's not theirs.",
+      "Because the details might be wrong."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Possessive Pronouns vs. Adjectives",
+    "topic": "Notice Writing",
     "complexity_score": 3
   },
   {
-    "question": "In the phrase 'their house', 'their' is a possessive adjective. How would you rewrite this phrase using the possessive pronoun 'theirs'?",
-    "correct": "The house is theirs.",
+    "question": "The story says Ilara had a 'healthy dose of courage'. What does this phrase imply about her journey?",
+    "correct": "That exploring the woods was potentially frightening, but she had enough bravery to do it.",
     "options": [
-      "The theirs house.",
-      "The house is theirs.",
-      "The house of theirs.",
-      "They have theirs house."
+      "That she was not afraid of anything at all.",
+      "That she was a doctor who studied courage.",
+      "That exploring the woods was potentially frightening, but she had enough bravery to do it.",
+      "That she took medicine to become courageous."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Possessive Pronouns vs. Adjectives",
+    "topic": "Listening Comprehension",
     "complexity_score": 3
   },
   {
-    "question": "The lesson defined an essay as a 'long piece of composition on a given topic... well-organized with an introduction, body, and conclusion.' How does this definition make an essay different from just writing a long, unorganized paragraph?",
-    "correct": "It emphasizes the importance of a clear and logical structure.",
+    "question": "In the context of the story, what does it mean that Ilara 'solved an age-old mystery'?",
+    "correct": "She found a scientific explanation for something people had wondered about for a very long time.",
     "options": [
-      "It requires the writing to be a specific length.",
-      "It emphasizes the importance of a clear and logical structure.",
-      "It means an essay can only be about one topic.",
-      "It suggests that essays are only written in books."
+      "She proved that the old stories about a hidden river were true.",
+      "She read an old book that had the answer.",
+      "She found a scientific explanation for something people had wondered about for a very long time.",
+      "She created a new mystery for people to solve."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Essay Structure",
+    "topic": "Listening Comprehension",
     "complexity_score": 3
   },
   {
-    "question": "The teacher says, 'When there is no subject we use it. Like... It is raining.' Which of these sentences uses 'it' in the same way?",
-    "correct": "It is 40 degrees Celsius.",
+    "question": "Which of the following sentences would be INAPPROPRIATE in a formal notice?",
+    "correct": "OMG, I'm so sad I lost my watch, it was a gift!",
     "options": [
-      "Give the dog its food.",
-      "I think it is made of plastic.",
-      "It is 40 degrees Celsius.",
-      "The baby wants its toy."
+      "This is to inform all students that a watch has been found.",
+      "The rightful owner must collect it from the lost and found section.",
+      "OMG, I'm so sad I lost my watch, it was a gift!",
+      "For any queries, please contact the undersigned."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "The Pronoun 'It'",
+    "topic": "Notice Writing",
     "complexity_score": 3
   },
   {
-    "question": "Consider the two sentences: 1. 'That is his car.' 2. 'That car is his.' Why is 'his' a possessive adjective in the first sentence but a possessive pronoun in the second?",
-    "correct": "In sentence 1, 'his' comes before the noun 'car'; in sentence 2, 'his' replaces the noun phrase 'his car'.",
+    "question": "At the end of his story, Leo believed he had 'captured a tiny secret piece of a star'. What does this show about his character?",
+    "correct": "He has a strong sense of wonder and imagination.",
     "options": [
-      "There is no difference; 'his' is always a pronoun.",
-      "In sentence 1, 'his' comes before the noun 'car'; in sentence 2, 'his' replaces the noun phrase 'his car'.",
-      "Because the word order changes the meaning entirely.",
-      "Sentence 1 is informal, and sentence 2 is formal."
+      "He wants to sell the pebble for a lot of money.",
+      "He is a serious scientist who only believes in facts.",
+      "He has a strong sense of wonder and imagination.",
+      "He is afraid of the glowing pebble."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Possessive Pronouns vs. Adjectives",
+    "topic": "Listening Comprehension",
     "complexity_score": 3
   }
 ]
