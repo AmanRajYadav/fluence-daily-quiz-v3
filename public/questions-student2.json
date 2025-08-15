@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the sentence, 'This book is mine,' what type of pronoun is 'mine'?",
-    "correct": "Possessive pronoun",
+    "question": "What is the main job of an adjective in a sentence?",
+    "correct": "To describe or tell us more about a noun or pronoun",
     "options": [
-      "Reflexive pronoun",
-      "Demonstrative pronoun",
-      "Possessive pronoun",
-      "Personal pronoun"
+      "To show an action",
+      "To connect two sentences",
+      "To describe or tell us more about a noun or pronoun",
+      "To name a person, place, or thing"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Types of Pronouns",
+    "topic": "Definition of Adjectives",
     "complexity_score": 1
   },
   {
-    "question": "Which of the following is an example of an indefinite pronoun, used when the person's identity is unknown?",
-    "correct": "Somebody",
+    "question": "In the phrase 'Swiss chocolate', what type of adjective is 'Swiss'?",
+    "correct": "Proper Adjective",
     "options": [
-      "Himself",
-      "Who",
-      "Somebody",
-      "That"
+      "Adjective of Quality",
+      "Proper Adjective",
+      "Adjective of Quantity",
+      "Demonstrative Adjective"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Types of Pronouns",
+    "topic": "Types of Adjectives",
     "complexity_score": 1
   },
   {
-    "question": "The words 'this', 'that', 'these', and 'those' are what kind of pronouns?",
-    "correct": "Demonstrative pronouns",
+    "question": "Which of these words is the SUPERLATIVE degree of the adjective 'clever'?",
+    "correct": "cleverest",
     "options": [
-      "Relative pronouns",
-      "Demonstrative pronouns",
-      "Interrogative pronouns",
-      "Reflexive pronouns"
+      "clever",
+      "cleverer",
+      "most clever",
+      "cleverest"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Types of Pronouns",
+    "topic": "Degrees of Comparison",
     "complexity_score": 1
   },
   {
-    "question": "A pronoun that is used to ask a question, like 'what' or 'who', is called a(n)...",
-    "correct": "Interrogative pronoun",
+    "question": "Which of the following is an example of a Demonstrative Adjective?",
+    "correct": "This",
     "options": [
-      "Assertive pronoun",
-      "Emphatic pronoun",
-      "Interrogative pronoun",
-      "Relative pronoun"
+      "Honest",
+      "Several",
+      "This",
+      "Whose"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Types of Pronouns",
+    "topic": "Types of Adjectives",
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, a reflexive pronoun like 'herself' is usually placed where in a sentence?",
-    "correct": "At the end of the sentence",
+    "question": "In the sentence 'The honest citizen was rewarded,' what type of adjective is 'honest'?",
+    "correct": "Adjective of Quality",
     "options": [
-      "At the beginning of the sentence",
-      "Immediately after the noun",
-      "At the end of the sentence",
-      "Before the verb"
+      "Adjective of Number",
+      "Adjective of Quality",
+      "Possessive Adjective",
+      "Proper Adjective"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Reflexive Pronouns",
+    "topic": "Types of Adjectives",
     "complexity_score": 1
   },
   {
-    "question": "What type of pronoun is 'themselves' in the sentence: 'The team blamed themselves for the loss.'?",
-    "correct": "Reflexive pronoun",
+    "question": "The Positive Degree of an adjective is used when...",
+    "correct": "no comparison is being made.",
     "options": [
-      "Emphatic pronoun",
-      "Possessive pronoun",
-      "Reflexive pronoun",
-      "Personal pronoun"
+      "two things are being compared.",
+      "more than two things are being compared.",
+      "no comparison is being made.",
+      "a question is being asked."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Types of Pronouns",
+    "topic": "Degrees of Comparison",
     "complexity_score": 1
   },
   {
-    "question": "What is the key difference between a reflexive and an emphatic pronoun?",
-    "correct": "Emphatic pronouns add stress and appear right after the noun, while reflexive pronouns show the action reflects back on the subject.",
+    "question": "The teacher explained that Adjectives of Quantity answer the question 'How much?', while Adjectives of Number answer...",
+    "correct": "How many?",
     "options": [
-      "They are spelled differently.",
-      "Reflexive pronouns are for questions, and emphatic pronouns are for statements.",
-      "Emphatic pronouns add stress and appear right after the noun, while reflexive pronouns show the action reflects back on the subject.",
-      "There is no difference; the terms are interchangeable."
+      "What kind?",
+      "Whose?",
+      "How many?",
+      "Which one?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Pronoun Distinction",
+    "topic": "Types of Adjectives",
     "complexity_score": 2
   },
   {
-    "question": "In the sentence 'Bersha, who is very friendly, lives next door,' what type of pronoun is 'who'?",
-    "correct": "Relative pronoun",
+    "question": "In the sentence 'I met a village boy,' the word 'village' is a common noun being used as what?",
+    "correct": "An adjective",
     "options": [
-      "Interrogative pronoun",
-      "Relative pronoun",
-      "Demonstrative pronoun",
-      "Emphatic pronoun"
+      "A pronoun",
+      "A verb",
+      "An adjective",
+      "A proper noun"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Relative Pronouns",
+    "topic": "Adjective Functions",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence uses 'myself' as an emphatic pronoun?",
-    "correct": "I myself will fix the computer.",
+    "question": "Which sentence shows the correct order of adjectives?",
+    "correct": "She lives in a large blue house.",
     "options": [
-      "I sometimes talk to myself.",
-      "I myself will fix the computer.",
-      "She asked if I could help myself to some snacks.",
-      "He hurt himself during the game."
+      "She lives in a blue large house.",
+      "She lives in a large blue house.",
+      "She lives in a house blue large.",
+      "She lives in a house large blue."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Emphatic Pronouns",
+    "topic": "Order of Adjectives",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly uses an interrogative *adjective*?",
-    "correct": "Which desk is yours?",
+    "question": "In the sentence 'He comes here every day,' what type of adjective is 'every'?",
+    "correct": "Distributive Adjective",
     "options": [
-      "Which is your desk?",
-      "Who are you?",
-      "What did you say?",
-      "Which desk is yours?"
+      "Adjective of Number",
+      "Interrogative Adjective",
+      "Adjective of Quality",
+      "Distributive Adjective"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Interrogative Adjectives vs. Pronouns",
+    "topic": "Types of Adjectives",
     "complexity_score": 2
   },
   {
-    "question": "Based on the lesson, why is 'I and she are classmates' grammatically incorrect?",
-    "correct": "The pronoun 'she' should come before 'I'.",
+    "question": "Which sentence correctly uses a comparative degree adjective?",
+    "correct": "This laptop is heavier than that one.",
     "options": [
-      "The verb 'are' is incorrect.",
-      "The pronoun 'she' should come before 'I'.",
-      "It should be 'Me and her'.",
-      "The sentence is grammatically correct as is."
+      "This laptop is the heaviest of all.",
+      "This is a heavy laptop.",
+      "This laptop is more heavier than that one.",
+      "This laptop is heavier than that one."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Pronoun Order",
+    "topic": "Degrees of Comparison",
     "complexity_score": 2
   },
   {
-    "question": "In the phrase 'Dash of these boys is the champion singer,' which interrogative word fits best?",
-    "correct": "Which",
+    "question": "The phrase 'little intelligence' uses an Adjective of Quantity because...",
+    "correct": "it describes 'how much' intelligence, which cannot be counted.",
     "options": [
-      "Who",
-      "What",
-      "Whom",
-      "Which"
+      "it describes 'how many' intelligences there are.",
+      "it describes the quality of the intelligence.",
+      "it describes 'how much' intelligence, which cannot be counted.",
+      "it is asking a question about intelligence."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Interrogative Pronouns",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the function of the pronoun 'who' in the sentence: 'That is the boy who told me about the meeting.'?",
-    "correct": "It refers back to the noun 'boy'.",
-    "options": [
-      "It is asking a question.",
-      "It is showing possession.",
-      "It refers back to the noun 'boy'.",
-      "It is emphasizing the subject."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Relative Pronouns",
-    "complexity_score": 2
-  },
-  {
-    "question": "In the sentence 'Tanya has a big cave,' what type of word is 'Tanya'?",
-    "correct": "Proper Noun (Subject)",
-    "options": [
-      "Pronoun",
-      "Verb",
-      "Adjective",
-      "Proper Noun (Subject)"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Parts of Speech",
-    "complexity_score": 2
-  },
-  {
-    "question": "Analyze the sentence 'Which is your desk?'. According to the lesson, 'which' is an interrogative pronoun here because it refers to...",
-    "correct": "the pronoun 'your'",
-    "options": [
-      "the noun 'desk'",
-      "the pronoun 'your'",
-      "an unknown action",
-      "a location"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Interrogative Pronouns vs. Adjectives",
+    "topic": "Types of Adjectives",
     "complexity_score": 3
   },
   {
-    "question": "The teacher states: 'in infatip pronoun you want to give a stress'. Which of the following best demonstrates this principle?",
-    "correct": "She herself opened the door.",
+    "question": "In 'Whose fan is this?', the word 'Whose' is an Interrogative Adjective because it...",
+    "correct": "asks a question and is placed right before a noun.",
     "options": [
-      "She opened the door herself.",
-      "Who opened the door?",
-      "She herself opened the door.",
-      "The door was opened by her."
+      "shows possession without asking a question.",
+      "asks a question and is placed right before a noun.",
+      "describes the quality of the fan.",
+      "points out a specific fan."
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Emphatic Pronouns",
+    "topic": "Types of Adjectives",
     "complexity_score": 3
   },
   {
-    "question": "Based on the correction made in class ('Who made this basket? Myself made it.'), why is 'Myself made it' an incorrect response?",
-    "correct": "'Myself' is a reflexive/emphatic pronoun and cannot be the subject of a sentence.",
+    "question": "A superlative degree adjective like 'smartest' should be used when comparing...",
+    "correct": "more than two people or things.",
     "options": [
-      "'Myself' is a possessive pronoun.",
-      "'Myself' can only be used at the end of a sentence.",
-      "'Myself' is a reflexive/emphatic pronoun and cannot be the subject of a sentence.",
-      "The correct pronoun should be 'me'."
+      "exactly two people or things.",
+      "one person to themselves.",
+      "more than two people or things.",
+      "something that cannot be counted."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Degrees of Comparison",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why is the sentence 'This is the most fastest car' incorrect?",
+    "correct": "Because 'fastest' is already a superlative, so 'most' is not needed.",
+    "options": [
+      "Because 'fastest' is not a real word.",
+      "Because the correct word is 'more fast'.",
+      "Because you can't describe a car as fast.",
+      "Because 'fastest' is already a superlative, so 'most' is not needed."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Pronoun Usage Rules",
-    "complexity_score": 3
+    "topic": "Degrees of Comparison",
+    "complexity_score": 4
   },
   {
-    "question": "Considering the rule for relative pronouns, which word correctly fills the blank? 'We know a lot of people ___ live in Assam.'",
-    "correct": "who",
+    "question": "In the sentence, 'The old brown paper bag lay on the floor,' which adjective describes the material?",
+    "correct": "paper",
     "options": [
-      "which",
-      "who",
-      "what",
-      "whose"
+      "old",
+      "brown",
+      "paper",
+      "floor"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Relative Pronouns",
+    "topic": "Order of Adjectives",
     "complexity_score": 3
   },
   {
-    "question": "The lesson differentiates between open-ended and closed-ended questions. Which of these is a closed-ended question?",
-    "correct": "Are you going to do it?",
+    "question": "Given the rule about Proper Nouns becoming Proper Adjectives, which of the following phrases contains a Proper Adjective?",
+    "correct": "The Punjabi dance form",
+    "options": [
+      "The popular dance form",
+      "The Punjabi dance form",
+      "A good administrator",
+      "The poor girl"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Types of Adjectives",
+    "complexity_score": 4
+  },
+  {
+    "question": "The teacher mentioned that the word 'what' can be both an Interrogative Adjective and an Interrogative Pronoun. Which sentence most clearly uses 'what' as an Interrogative Adjective?",
+    "correct": "What color is your car?",
     "options": [
       "What is your name?",
-      "Why was Meg horrified?",
-      "Are you going to do it?",
-      "How are you?"
+      "What color is your car?",
+      "What happened yesterday?",
+      "What did you say?"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Sentence Types",
+    "topic": "Adjective Functions",
+    "complexity_score": 4
+  },
+  {
+    "question": "Based on the patterns discussed for forming comparative degrees (e.g., beautiful -> more beautiful), what would be the most likely comparative form for 'expensive'?",
+    "correct": "more expensive",
+    "options": [
+      "expensiver",
+      "expensivest",
+      "more expensive",
+      "most expensive"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Degrees of Comparison",
     "complexity_score": 3
   },
   {
-    "question": "Which sentence pair correctly shows the shift from an interrogative pronoun to an interrogative adjective?",
-    "correct": "Pronoun: 'Which is your pan?' / Adjective: 'Which pan is yours?'",
+    "question": "In 'Several people called,' 'several' is an Adjective of Number. In 'She did not eat any food,' 'any' is an Adjective of Quantity. What is the key difference that determines their category?",
+    "correct": "'People' can be counted, but 'food' in this context refers to an uncounted amount.",
     "options": [
-      "Pronoun: 'What are you doing?' / Adjective: 'What you are doing?'",
-      "Pronoun: 'Who is he?' / Adjective: 'Whose is it?'",
-      "Pronoun: 'This is my book.' / Adjective: 'That book is mine.'",
-      "Pronoun: 'Which is your pan?' / Adjective: 'Which pan is yours?'"
+      "'Several' is a bigger amount than 'any'.",
+      "'Several' is positive and 'any' is negative.",
+      "'People' can be counted, but 'food' in this context refers to an uncounted amount.",
+      "There is no real difference; they are interchangeable."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Pronoun & Adjective Distinction",
-    "complexity_score": 3
+    "topic": "Types of Adjectives",
+    "complexity_score": 4
   }
 ]
