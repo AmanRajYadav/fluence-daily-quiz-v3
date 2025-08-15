@@ -1,12 +1,12 @@
 [
   {
-    "question": "Which of the following words is a personal pronoun?",
+    "question": "Which of the following is a personal pronoun?",
     "correct": "She",
     "options": [
-      "Herself",
       "Mine",
+      "Myself",
       "She",
-      "Which"
+      "Who"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -14,27 +14,13 @@
     "complexity_score": 1
   },
   {
-    "question": "The pronoun 'it' can be used to refer to animals, non-living things, and what else?",
-    "correct": "Babies",
+    "question": "In the sentence, 'The laptop is hers,' what type of pronoun is 'hers'?",
+    "correct": "Possessive Pronoun",
     "options": [
-      "Groups of people",
-      "Ideas",
-      "Babies",
-      "Adults"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "The Pronoun 'It'",
-    "complexity_score": 1
-  },
-  {
-    "question": "In the sentence 'The book is mine,' which word is a possessive pronoun?",
-    "correct": "mine",
-    "options": [
-      "book",
-      "is",
-      "The",
-      "mine"
+      "Personal Pronoun",
+      "Reflexive Pronoun",
+      "Possessive Pronoun",
+      "Demonstrative Pronoun"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -42,13 +28,13 @@
     "complexity_score": 1
   },
   {
-    "question": "A reflexive pronoun, like 'myself' or 'himself', usually includes which word part?",
-    "correct": "self or selves",
+    "question": "A pronoun that ends in '-self' or '-selves' and reflects the action back on the subject is called a:",
+    "correct": "Reflexive Pronoun",
     "options": [
-      "son or per",
-      "self or selves",
-      "he or she",
-      "own or my"
+      "Personal Pronoun",
+      "Possessive Pronoun",
+      "Reflexive Pronoun",
+      "Relative Pronoun"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -56,27 +42,13 @@
     "complexity_score": 1
   },
   {
-    "question": "Which pronoun is used to ask a question?",
-    "correct": "Interrogative",
+    "question": "Which pronoun is used to point out a specific person or thing, like in the sentence 'This is the bag'?",
+    "correct": "Demonstrative Pronoun",
     "options": [
-      "Demonstrative",
-      "Personal",
-      "Interrogative",
-      "Reflexive"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Interrogative Pronouns",
-    "complexity_score": 1
-  },
-  {
-    "question": "'This', 'that', 'these', and 'those' are what type of pronouns?",
-    "correct": "Demonstrative",
-    "options": [
-      "Personal",
-      "Relative",
-      "Demonstrative",
-      "Possessive"
+      "Interrogative Pronoun",
+      "Demonstrative Pronoun",
+      "Personal Pronoun",
+      "Indefinite Pronoun"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -84,13 +56,83 @@
     "complexity_score": 1
   },
   {
-    "question": "In the sentence 'It is raining,' the word 'It' is used as an 'empty subject.' What does this mean?",
-    "correct": "The subject is not a specific person or thing.",
+    "question": "The first-person singular personal pronoun is:",
+    "correct": "I",
     "options": [
-      "The sentence is incorrect.",
-      "The pronoun refers to a baby.",
-      "The subject is not a specific person or thing.",
-      "The rain is the object."
+      "We",
+      "You",
+      "He",
+      "I"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Personal Pronouns",
+    "complexity_score": 1
+  },
+  {
+    "question": "The pronoun 'it' is used for animals, non-living things, and...",
+    "correct": "as an 'empty subject' for weather or time.",
+    "options": [
+      "only for groups of people.",
+      "to show possession.",
+      "as an 'empty subject' for weather or time.",
+      "only in questions."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "The Pronoun 'It'",
+    "complexity_score": 1
+  },
+  {
+    "question": "In the sentence 'Anaya, you are a good student,' which pronoun refers to the second person?",
+    "correct": "You",
+    "options": [
+      "Anaya",
+      "You",
+      "Good",
+      "Student"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Personal Pronouns",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which sentence correctly uses a possessive pronoun?",
+    "correct": "That beautiful pen is mine.",
+    "options": [
+      "Me pen is beautiful.",
+      "That beautiful pen is mine.",
+      "Myself have a beautiful pen.",
+      "Her has a beautiful pen."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Possessive Pronouns",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the subject in the sentence: 'He blamed himself for the mistake.'?",
+    "correct": "He",
+    "options": [
+      "Blamed",
+      "Himself",
+      "He",
+      "Mistake"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Subjects and Pronouns",
+    "complexity_score": 2
+  },
+  {
+    "question": "In the sentence 'It is raining,' the word 'It' is used as an 'empty subject.' Why?",
+    "correct": "Because there is no other specific doer of the action.",
+    "options": [
+      "Because 'raining' is a person.",
+      "To show that the rain belongs to someone.",
+      "Because there is no other specific doer of the action.",
+      "To ask a question about the rain."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -98,13 +140,13 @@
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly uses a relative pronoun to talk about a person?",
-    "correct": "Barsha, who is very friendly, lives next door.",
+    "question": "Read the sentence: 'This is the bag which I bought.' What is the function of the word 'which'?",
+    "correct": "It is a relative pronoun connecting two parts of the sentence.",
     "options": [
-      "Barsha, which is very friendly, lives next door.",
-      "Barsha, that is very friendly, lives next door.",
-      "Barsha, who is very friendly, lives next door.",
-      "Barsha, it is very friendly, lives next door."
+      "It is a personal pronoun replacing 'bag'.",
+      "It is an interrogative pronoun asking a question.",
+      "It is a relative pronoun connecting two parts of the sentence.",
+      "It is a demonstrative pronoun pointing something out."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -112,41 +154,13 @@
     "complexity_score": 2
   },
   {
-    "question": "The teacher explained that personal pronouns can be first person, second person, or third person. Who is the 'first person'?",
-    "correct": "The speaker (I, we)",
+    "question": "Which sentence uses an indefinite pronoun, referring to a person that is not specific?",
+    "correct": "Somebody is coming to visit.",
     "options": [
-      "The listener (you)",
-      "The topic being discussed (he, she, they)",
-      "The speaker (I, we)",
-      "The owner of an object (mine, yours)"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Personal Pronouns",
-    "complexity_score": 2
-  },
-  {
-    "question": "Anaya cooked the food herself. What is the function of 'herself' in this sentence?",
-    "correct": "It shows that the subject (Anaya) did the action.",
-    "options": [
-      "It shows that Anaya owns the food.",
-      "It describes what kind of food was cooked.",
-      "It shows that the subject (Anaya) did the action.",
-      "It is another name for Anaya."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Reflexive Pronouns",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which of these is an example of an indefinite pronoun, where we don't know exactly who the subject is?",
-    "correct": "Somebody is coming.",
-    "options": [
-      "She is coming.",
-      "He is coming.",
-      "Somebody is coming.",
-      "They are coming."
+      "She is coming to visit.",
+      "Somebody is coming to visit.",
+      "Who is coming to visit?",
+      "They are coming to visit."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -154,41 +168,13 @@
     "complexity_score": 2
   },
   {
-    "question": "In the sentence 'The house is theirs,' the word 'theirs' is a possessive pronoun. Where do possessive pronouns like 'mine,' 'yours,' and 'theirs' usually appear in a sentence?",
-    "correct": "At the end of a phrase or sentence",
+    "question": "The teacher is talking to a group of five students. Which second-person pronoun would she use?",
+    "correct": "You",
     "options": [
-      "Only at the very beginning",
-      "At the end of a phrase or sentence",
-      "Always right before a noun",
-      "Next to a reflexive pronoun"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Possessive Pronouns",
-    "complexity_score": 2
-  },
-  {
-    "question": "The sentence 'This is the bag which I bought' contains which two types of pronouns?",
-    "correct": "Demonstrative and Relative",
-    "options": [
-      "Personal and Possessive",
-      "Demonstrative and Relative",
-      "Reflexive and Interrogative",
-      "Indefinite and Personal"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Pronoun Identification",
-    "complexity_score": 2
-  },
-  {
-    "question": "Based on the lesson, what is the third person plural personal pronoun?",
-    "correct": "They",
-    "options": [
+      "They",
+      "Them",
       "We",
-      "You",
-      "She",
-      "They"
+      "You"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -196,27 +182,69 @@
     "complexity_score": 2
   },
   {
-    "question": "Consider the two sentences: 1. 'I myself saw it happen.' 2. 'I saw myself in the mirror.' In which sentence is the '-self' pronoun REFLEXIVE?",
-    "correct": "Sentence 2",
+    "question": "The words 'I' and 'we' refer to the first person. What is the difference between them?",
+    "correct": "'I' is singular and 'we' is plural.",
     "options": [
-      "Sentence 1",
-      "Sentence 2",
-      "Both are reflexive",
-      "Neither are reflexive"
+      "'I' is the speaker and 'we' is the listener.",
+      "'I' is singular and 'we' is plural.",
+      "'I' is for boys and 'we' is for girls.",
+      "There is no difference."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Personal Pronouns",
+    "complexity_score": 2
+  },
+  {
+    "question": "In 'She herself baked the cake,' the pronoun 'herself' is used for emphasis. What type of pronoun is it in this context?",
+    "correct": "Emphatic Pronoun",
+    "options": [
+      "Reflexive Pronoun",
+      "Possessive Pronoun",
+      "Emphatic Pronoun",
+      "Personal Pronoun"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Reflexive vs. Emphatic Pronouns",
+    "topic": "Emphatic Pronouns",
     "complexity_score": 3
   },
   {
-    "question": "The teacher corrected a student's confusion between 'her' and 'hers'. In the sentence 'Yes, it is hers,' what makes 'hers' a POSSESSIVE pronoun and not a personal pronoun?",
-    "correct": "It shows ownership and stands alone without a noun.",
+    "question": "How can you tell the difference between a reflexive and an emphatic pronoun like 'myself'?",
+    "correct": "An emphatic pronoun often comes right after the subject, while a reflexive pronoun comes after the verb.",
     "options": [
-      "It refers to a female.",
-      "It comes at the end of the sentence.",
-      "It is an object in the sentence.",
-      "It shows ownership and stands alone without a noun."
+      "Reflexive pronouns are for people and emphatic are for things.",
+      "There is no difference; they are the same.",
+      "An emphatic pronoun often comes right after the subject, while a reflexive pronoun comes after the verb.",
+      "Emphatic pronouns are only used in questions."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Reflexive vs. Emphatic",
+    "complexity_score": 3
+  },
+  {
+    "question": "Consider the sentences: 1. 'I did it myself.' 2. 'I myself did it.' In which sentence is 'myself' used as a reflexive pronoun?",
+    "correct": "Sentence 1",
+    "options": [
+      "Sentence 1",
+      "Sentence 2",
+      "Both sentences",
+      "Neither sentence"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Reflexive vs. Emphatic",
+    "complexity_score": 3
+  },
+  {
+    "question": "In the sentence, 'She is a cousin of mine,' why is 'mine' a possessive pronoun and not 'she'?",
+    "correct": "'Mine' indicates ownership or relationship, while 'she' simply replaces a person's name.",
+    "options": [
+      "'She' is always possessive.",
+      "'Mine' is a personal pronoun.",
+      "'Mine' indicates ownership or relationship, while 'she' simply replaces a person's name.",
+      "Both 'she' and 'mine' are possessive pronouns in this sentence."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
@@ -224,59 +252,31 @@
     "complexity_score": 3
   },
   {
-    "question": "In the sentence 'They themselves cleaned the whole school,' the word 'themselves' is an emphatic pronoun. What is its main job?",
-    "correct": "To add emphasis to the subject 'They'.",
+    "question": "The 'third person' in grammar refers to...",
+    "correct": "The person or thing being spoken about.",
     "options": [
-      "To receive the action of the verb 'cleaned'.",
-      "To show that the school belongs to them.",
-      "To connect two parts of the sentence.",
-      "To add emphasis to the subject 'They'."
+      "The person who is speaking.",
+      "The person who is listening.",
+      "The person or thing being spoken about.",
+      "The third person to speak in a conversation."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Reflexive vs. Emphatic Pronouns",
+    "topic": "Personal Pronouns",
     "complexity_score": 3
   },
   {
-    "question": "Why would you use the sentence 'It is Monday' instead of just 'Is Monday'?",
-    "correct": "Because 'It' acts as a necessary 'empty subject' when talking about time.",
+    "question": "Which pronoun would you use to replace 'Brownie' (an animal) in a sentence like 'Brownie is sitting here.'?",
+    "correct": "It",
     "options": [
-      "Because 'It' refers to a specific object called Monday.",
-      "Because 'Monday' cannot be the subject of a sentence.",
-      "Because 'It' acts as a necessary 'empty subject' when talking about time.",
-      "Because it is more formal to use more words."
+      "She",
+      "He",
+      "They",
+      "It"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
     "topic": "The Pronoun 'It'",
-    "complexity_score": 3
-  },
-  {
-    "question": "The 'doer' of an action in a sentence is called the subject. In a reflexive sentence like 'He blamed himself,' who is both the subject and the object?",
-    "correct": "The same person ('He' and 'himself')",
-    "options": [
-      "The subject is 'He' and the object is someone else.",
-      "There is no object in the sentence.",
-      "The same person ('He' and 'himself')",
-      "The subject is 'blamed' and the object is 'himself'."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Reflexive Pronouns",
-    "complexity_score": 3
-  },
-  {
-    "question": "The phrase '...a cousin of mine' uses the possessive pronoun 'mine'. How does its meaning differ from '...my cousin'?",
-    "correct": "'of mine' suggests one of several cousins, while 'my cousin' can be more general.",
-    "options": [
-      "There is no difference in meaning.",
-      "'of mine' is incorrect grammar.",
-      "'of mine' suggests one of several cousins, while 'my cousin' can be more general.",
-      "'my cousin' shows stronger ownership than 'of mine'."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Possessive Pronouns",
     "complexity_score": 3
   }
 ]
