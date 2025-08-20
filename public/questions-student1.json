@@ -1,282 +1,262 @@
 [
   {
-    "question": "Which of the following is a personal pronoun?",
-    "correct": "She",
+    "question": "What is data?",
+    "correct": "Information that is collected or observed",
     "options": [
-      "Mine",
-      "Myself",
-      "She",
-      "Who"
+      "Information that is collected or observed",
+      "A type of graph",
+      "A type of computer",
+      "A type of software"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Personal Pronouns",
-    "complexity_score": 1
+    "topic": "Data"
   },
   {
-    "question": "In the sentence, 'The laptop is hers,' what type of pronoun is 'hers'?",
-    "correct": "Possessive Pronoun",
+    "question": "Which of these is NOT a type of chart we learned about?",
+    "correct": "Triangle",
     "options": [
-      "Personal Pronoun",
-      "Reflexive Pronoun",
-      "Possessive Pronoun",
-      "Demonstrative Pronoun"
+      "Line",
+      "Bar",
+      "Pie",
+      "Triangle"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Possessive Pronouns",
-    "complexity_score": 1
+    "topic": "Data Visualization"
   },
   {
-    "question": "A pronoun that ends in '-self' or '-selves' and reflects the action back on the subject is called a:",
-    "correct": "Reflexive Pronoun",
+    "question": "What is the x-axis in a bar graph?",
+    "correct": "The horizontal axis",
     "options": [
-      "Personal Pronoun",
-      "Possessive Pronoun",
-      "Reflexive Pronoun",
-      "Relative Pronoun"
+      "The vertical axis",
+      "The title of the graph",
+      "The data labels",
+      "The horizontal axis"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Reflexive Pronouns",
-    "complexity_score": 1
+    "topic": "Data Visualization"
   },
   {
-    "question": "Which pronoun is used to point out a specific person or thing, like in the sentence 'This is the bag'?",
-    "correct": "Demonstrative Pronoun",
+    "question": "What is the purpose of collecting data?",
+    "correct": "To answer questions and discover new information",
     "options": [
-      "Interrogative Pronoun",
-      "Demonstrative Pronoun",
-      "Personal Pronoun",
-      "Indefinite Pronoun"
+      "To make things more complicated",
+      "To have something to do",
+      "To keep information secret",
+      "To answer questions and discover new information"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Demonstrative Pronouns",
-    "complexity_score": 1
+    "topic": "Data Collection"
   },
   {
-    "question": "The first-person singular personal pronoun is:",
-    "correct": "I",
+    "question": "What is the purpose of a graph?",
+    "correct": "To help us see patterns in data",
     "options": [
-      "We",
-      "You",
-      "He",
-      "I"
+      "To show pictures of animals",
+      "To play games",
+      "To help us see patterns in data",
+      "To write stories"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Personal Pronouns",
-    "complexity_score": 1
+    "topic": "Data Visualization"
   },
   {
-    "question": "The pronoun 'it' is used for animals, non-living things, and...",
-    "correct": "as an 'empty subject' for weather or time.",
+    "question": "What is a label in a graph?",
+    "correct": "A word or title that tells us what the graph is about",
     "options": [
-      "only for groups of people.",
-      "to show possession.",
-      "as an 'empty subject' for weather or time.",
-      "only in questions."
+      "A sticker",
+      "A piece of fruit",
+      "A type of car",
+      "A word or title that tells us what the graph is about"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "The Pronoun 'It'",
-    "complexity_score": 1
+    "topic": "Data Visualization"
   },
   {
-    "question": "In the sentence 'Anaya, you are a good student,' which pronoun refers to the second person?",
-    "correct": "You",
+    "question": "If you are collecting data on favorite fruits in your class, what are the pieces of information you would collect from each student?",
+    "correct": "Their name and their favorite fruit",
     "options": [
-      "Anaya",
-      "You",
-      "Good",
-      "Student"
+      "Their height and favorite color",
+      "Their name and what they had for breakfast",
+      "Their favorite TV show and favorite game",
+      "Their name and their favorite fruit"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Personal Pronouns",
-    "complexity_score": 2
+    "topic": "Data Collection"
   },
   {
-    "question": "Which sentence correctly uses a possessive pronoun?",
-    "correct": "That beautiful pen is mine.",
+    "question": "You see a bar chart showing the number of pets owned by different students.  A bar for 'Dogs' is twice as tall as the bar for 'Cats'. What can you conclude?",
+    "correct": "Twice as many students own dogs as cats.",
     "options": [
-      "Me pen is beautiful.",
-      "That beautiful pen is mine.",
-      "Myself have a beautiful pen.",
-      "Her has a beautiful pen."
+      "Dogs are better pets than cats.",
+      "Cats are smaller than dogs.",
+      "Twice as many students own dogs as cats.",
+      "All students own dogs."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Possessive Pronouns",
-    "complexity_score": 2
+    "topic": "Data Visualization"
   },
   {
-    "question": "What is the subject in the sentence: 'He blamed himself for the mistake.'?",
-    "correct": "He",
+    "question": "If you want to show how a plant has grown over time, what type of graph would be best to use?",
+    "correct": "A line graph",
     "options": [
-      "Blamed",
-      "Himself",
-      "He",
-      "Mistake"
+      "A pie chart",
+      "A bar chart",
+      "A scatter plot",
+      "A line graph"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Subjects and Pronouns",
-    "complexity_score": 2
+    "topic": "Data Visualization"
   },
   {
-    "question": "In the sentence 'It is raining,' the word 'It' is used as an 'empty subject.' Why?",
-    "correct": "Because there is no other specific doer of the action.",
+    "question": "A survey asks students about their favorite sport. 10 students like soccer, 5 like basketball, and 5 like swimming.  If this was on a pie chart, which sport would have the biggest slice?",
+    "correct": "Soccer",
     "options": [
-      "Because 'raining' is a person.",
-      "To show that the rain belongs to someone.",
-      "Because there is no other specific doer of the action.",
-      "To ask a question about the rain."
+      "Basketball",
+      "Swimming",
+      "They would all be equal",
+      "Soccer"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Pronoun 'It'",
-    "complexity_score": 2
+    "topic": "Data Visualization"
   },
   {
-    "question": "Read the sentence: 'This is the bag which I bought.' What is the function of the word 'which'?",
-    "correct": "It is a relative pronoun connecting two parts of the sentence.",
+    "question": "Why is it important to label the axes of a graph?",
+    "correct": "So that people know what the graph is showing.",
     "options": [
-      "It is a personal pronoun replacing 'bag'.",
-      "It is an interrogative pronoun asking a question.",
-      "It is a relative pronoun connecting two parts of the sentence.",
-      "It is a demonstrative pronoun pointing something out."
+      "To make the graph look more colorful.",
+      "It's not important.",
+      "So that people know what the graph is showing.",
+      "To make the graph harder to read."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Relative Pronouns",
-    "complexity_score": 2
+    "topic": "Data Visualization"
   },
   {
-    "question": "Which sentence uses an indefinite pronoun, referring to a person that is not specific?",
-    "correct": "Somebody is coming to visit.",
+    "question": "What is the first step you should take when you want to collect data?",
+    "correct": "Decide what question you want to answer.",
     "options": [
-      "She is coming to visit.",
-      "Somebody is coming to visit.",
-      "Who is coming to visit?",
-      "They are coming to visit."
+      "Start asking people questions randomly.",
+      "Draw a graph immediately.",
+      "Decide what question you want to answer.",
+      "Guess what the data will show."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Indefinite Pronouns",
-    "complexity_score": 2
+    "topic": "Data Collection"
   },
   {
-    "question": "The teacher is talking to a group of five students. Which second-person pronoun would she use?",
-    "correct": "You",
+    "question": "If you are making a bar chart to show the number of different colored cars in a parking lot, what would you put on the y-axis?",
+    "correct": "The number of cars",
     "options": [
-      "They",
-      "Them",
-      "We",
-      "You"
+      "The colors of the cars",
+      "The types of cars",
+      "The names of the car owners",
+      "The number of cars"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Personal Pronouns",
-    "complexity_score": 2
+    "topic": "Data Visualization"
   },
   {
-    "question": "The words 'I' and 'we' refer to the first person. What is the difference between them?",
-    "correct": "'I' is singular and 'we' is plural.",
+    "question": "A survey about favorite ice cream flavors shows that vanilla is the most popular. How would this look on a bar chart?",
+    "correct": "The bar for vanilla would be the tallest.",
     "options": [
-      "'I' is the speaker and 'we' is the listener.",
-      "'I' is singular and 'we' is plural.",
-      "'I' is for boys and 'we' is for girls.",
-      "There is no difference."
+      "The bar for vanilla would be the shortest.",
+      "All the bars would be the same height.",
+      "The bar for vanilla would be the widest.",
+      "The bar for vanilla would be the tallest."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Personal Pronouns",
-    "complexity_score": 2
+    "topic": "Data Visualization"
   },
   {
-    "question": "In 'She herself baked the cake,' the pronoun 'herself' is used for emphasis. What type of pronoun is it in this context?",
-    "correct": "Emphatic Pronoun",
+    "question": "A survey asks, 'What is your favorite pet?' What kind of data is being collected?",
+    "correct": "Categorical data",
     "options": [
-      "Reflexive Pronoun",
-      "Possessive Pronoun",
-      "Emphatic Pronoun",
-      "Personal Pronoun"
+      "Numerical data",
+      "Qualitative data",
+      "Categorical data",
+      "Quantitative data"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Emphatic Pronouns",
-    "complexity_score": 3
+    "topic": "Data Types"
   },
   {
-    "question": "How can you tell the difference between a reflexive and an emphatic pronoun like 'myself'?",
-    "correct": "An emphatic pronoun often comes right after the subject, while a reflexive pronoun comes after the verb.",
+    "question": "A pie chart shows that 50% of the students chose pizza. If there are 30 students in the class, how many chose pizza?",
+    "correct": "15",
     "options": [
-      "Reflexive pronouns are for people and emphatic are for things.",
-      "There is no difference; they are the same.",
-      "An emphatic pronoun often comes right after the subject, while a reflexive pronoun comes after the verb.",
-      "Emphatic pronouns are only used in questions."
+      "10",
+      "20",
+      "25",
+      "15"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Reflexive vs. Emphatic",
-    "complexity_score": 3
+    "topic": "Data Interpretation"
   },
   {
-    "question": "Consider the sentences: 1. 'I did it myself.' 2. 'I myself did it.' In which sentence is 'myself' used as a reflexive pronoun?",
-    "correct": "Sentence 1",
+    "question": "Which of the following is an example of data?",
+    "correct": "All of the above",
     "options": [
-      "Sentence 1",
-      "Sentence 2",
-      "Both sentences",
-      "Neither sentence"
+      "The heights of all students in a class.",
+      "The favorite colors of students in a class.",
+      "The number of books read by each student in a class.",
+      "All of the above"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Reflexive vs. Emphatic",
-    "complexity_score": 3
+    "topic": "Data"
   },
   {
-    "question": "In the sentence, 'She is a cousin of mine,' why is 'mine' a possessive pronoun and not 'she'?",
-    "correct": "'Mine' indicates ownership or relationship, while 'she' simply replaces a person's name.",
+    "question": "If a bar graph is showing the number of sunny days per month for a year, what would be the most appropriate title?",
+    "correct": "Sunny Days Per Month",
     "options": [
-      "'She' is always possessive.",
-      "'Mine' is a personal pronoun.",
-      "'Mine' indicates ownership or relationship, while 'she' simply replaces a person's name.",
-      "Both 'she' and 'mine' are possessive pronouns in this sentence."
+      "My Favorite Weather",
+      "Weather Report",
+      "Graph of the Year",
+      "Sunny Days Per Month"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Possessive vs. Personal Pronouns",
-    "complexity_score": 3
+    "topic": "Data Visualization"
   },
   {
-    "question": "The 'third person' in grammar refers to...",
-    "correct": "The person or thing being spoken about.",
+    "question": "Why is it important to choose the right type of chart for your data?",
+    "correct": "To clearly show the story the data is telling.",
     "options": [
-      "The person who is speaking.",
-      "The person who is listening.",
-      "The person or thing being spoken about.",
-      "The third person to speak in a conversation."
+      "Because some charts are easier to draw.",
+      "To make the data look more complicated.",
+      "To confuse the people reading the chart.",
+      "To clearly show the story the data is telling."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Personal Pronouns",
-    "complexity_score": 3
+    "topic": "Data Visualization"
   },
   {
-    "question": "Which pronoun would you use to replace 'Brownie' (an animal) in a sentence like 'Brownie is sitting here.'?",
-    "correct": "It",
+    "question": "If you are collecting data on how many hours students spend on homework each night, what would be the best way to record this information?",
+    "correct": "A tally chart or a frequency table",
     "options": [
-      "She",
-      "He",
-      "They",
-      "It"
+      "Drawing pictures of students doing homework.",
+      "Writing a story about homework.",
+      "A tally chart or a frequency table",
+      "Singing a song about homework."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "The Pronoun 'It'",
-    "complexity_score": 3
+    "topic": "Data Collection"
   }
 ]
