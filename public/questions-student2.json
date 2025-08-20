@@ -1,282 +1,262 @@
 [
   {
-    "question": "What is the main job of an adjective in a sentence?",
-    "correct": "To describe or tell us more about a noun or pronoun",
+    "question": "In the sentence 'Rohan took my umbrella,' who performed the action?",
+    "correct": "Rohan",
     "options": [
-      "To show an action",
-      "To connect two sentences",
-      "To describe or tell us more about a noun or pronoun",
-      "To name a person, place, or thing"
+      "My",
+      "Umbrella",
+      "Rohan",
+      "He"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Definition of Adjectives",
-    "complexity_score": 1
+    "topic": "Subject-Verb Agreement"
   },
   {
-    "question": "In the phrase 'Swiss chocolate', what type of adjective is 'Swiss'?",
-    "correct": "Proper Adjective",
+    "question": "What is the action word (verb) in the sentence 'I have completed my painting'?",
+    "correct": "completed",
     "options": [
-      "Adjective of Quality",
-      "Proper Adjective",
-      "Adjective of Quantity",
-      "Demonstrative Adjective"
+      "I",
+      "my",
+      "painting",
+      "completed"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Types of Adjectives",
-    "complexity_score": 1
+    "topic": "Identifying Verbs"
   },
   {
-    "question": "Which of these words is the SUPERLATIVE degree of the adjective 'clever'?",
-    "correct": "cleverest",
+    "question": "The word 'because' is used to show...",
+    "correct": "a reason for something.",
     "options": [
-      "clever",
-      "cleverer",
-      "most clever",
-      "cleverest"
+      "where something happened.",
+      "when something happened.",
+      "a reason for something.",
+      "who did something."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Degrees of Comparison",
-    "complexity_score": 1
+    "topic": "Conjunctions"
   },
   {
-    "question": "Which of the following is an example of a Demonstrative Adjective?",
-    "correct": "This",
+    "question": "What does the word 'his' refer to in the sentence 'Rohan took my umbrella because he couldn't find his'?",
+    "correct": "Rohan's umbrella",
     "options": [
-      "Honest",
-      "Several",
-      "This",
-      "Whose"
+      "My umbrella",
+      "The painting",
+      "Rohan's umbrella",
+      "A friend's umbrella"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Types of Adjectives",
-    "complexity_score": 1
+    "topic": "Pronouns"
   },
   {
-    "question": "In the sentence 'The honest citizen was rewarded,' what type of adjective is 'honest'?",
-    "correct": "Adjective of Quality",
+    "question": "Which of these sentences is in the past tense?",
+    "correct": "Rohan took my umbrella.",
     "options": [
-      "Adjective of Number",
-      "Adjective of Quality",
-      "Possessive Adjective",
-      "Proper Adjective"
+      "Rohan takes my umbrella.",
+      "Rohan will take my umbrella.",
+      "Rohan is taking my umbrella.",
+      "Rohan took my umbrella."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Types of Adjectives",
-    "complexity_score": 1
+    "topic": "Verb Tenses"
   },
   {
-    "question": "The Positive Degree of an adjective is used when...",
-    "correct": "no comparison is being made.",
+    "question": "The phrase 'May I see it?' is a way of asking for...",
+    "correct": "permission.",
     "options": [
-      "two things are being compared.",
-      "more than two things are being compared.",
-      "no comparison is being made.",
-      "a question is being asked."
+      "a reason.",
+      "a location.",
+      "permission.",
+      "an object."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Degrees of Comparison",
-    "complexity_score": 1
+    "topic": "Polite Questions"
   },
   {
-    "question": "The teacher explained that Adjectives of Quantity answer the question 'How much?', while Adjectives of Number answer...",
-    "correct": "How many?",
+    "question": "Which sentence correctly explains why Rohan took the umbrella?",
+    "correct": "Rohan took my umbrella because he couldn't find his.",
     "options": [
-      "What kind?",
-      "Whose?",
-      "How many?",
-      "Which one?"
+      "Rohan took my umbrella because he didn't take my umbrella.",
+      "Rohan took my umbrella because it was sunny.",
+      "Rohan took my umbrella because he couldn't find his.",
+      "Rohan took my umbrella because I gave it to him."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Types of Adjectives",
-    "complexity_score": 2
+    "topic": "Logical Connections"
   },
   {
-    "question": "In the sentence 'I met a village boy,' the word 'village' is a common noun being used as what?",
-    "correct": "An adjective",
+    "question": "How would you change 'Rohan took my umbrella' to a negative sentence in the past tense?",
+    "correct": "Rohan did not take my umbrella.",
     "options": [
-      "A pronoun",
-      "A verb",
-      "An adjective",
-      "A proper noun"
+      "Rohan not took my umbrella.",
+      "Rohan was not take my umbrella.",
+      "Rohan did not take my umbrella.",
+      "Rohan will not take my umbrella."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Adjective Functions",
-    "complexity_score": 2
+    "topic": "Negative Sentences"
   },
   {
-    "question": "Which sentence shows the correct order of adjectives?",
-    "correct": "She lives in a large blue house.",
+    "question": "Which sentence structure makes the most sense?",
+    "correct": "[ACTION] because [REASON].",
     "options": [
-      "She lives in a blue large house.",
-      "She lives in a large blue house.",
-      "She lives in a house blue large.",
-      "She lives in a house large blue."
+      "[REASON] because [ACTION].",
+      "[ACTION] because [ACTION].",
+      "[ACTION] because [REASON].",
+      "[REASON] and [ACTION]."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Order of Adjectives",
-    "complexity_score": 2
+    "topic": "Sentence Structure"
   },
   {
-    "question": "In the sentence 'He comes here every day,' what type of adjective is 'every'?",
-    "correct": "Distributive Adjective",
+    "question": "In the sentence 'I have completed my painting,' what does 'have completed' tell us?",
+    "correct": "The action finished recently or has a connection to now.",
     "options": [
-      "Adjective of Number",
-      "Interrogative Adjective",
-      "Adjective of Quality",
-      "Distributive Adjective"
+      "The action is happening right now.",
+      "The action happened a long time ago.",
+      "The action will happen in the future.",
+      "The action finished recently or has a connection to now."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Types of Adjectives",
-    "complexity_score": 2
+    "topic": "Verb Tenses (Present Perfect)"
   },
   {
-    "question": "Which sentence correctly uses a comparative degree adjective?",
-    "correct": "This laptop is heavier than that one.",
+    "question": "If Rohan couldn't find his umbrella, what was the *effect* or result?",
+    "correct": "He took my umbrella.",
     "options": [
-      "This laptop is the heaviest of all.",
-      "This is a heavy laptop.",
-      "This laptop is more heavier than that one.",
-      "This laptop is heavier than that one."
+      "He got wet.",
+      "He bought a new umbrella.",
+      "He took my umbrella.",
+      "He stayed inside."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Degrees of Comparison",
-    "complexity_score": 2
+    "topic": "Cause and Effect"
   },
   {
-    "question": "The phrase 'little intelligence' uses an Adjective of Quantity because...",
-    "correct": "it describes 'how much' intelligence, which cannot be counted.",
+    "question": "The sentence 'He didn't take my umbrella' means the same as:",
+    "correct": "He left my umbrella where it was.",
     "options": [
-      "it describes 'how many' intelligences there are.",
-      "it describes the quality of the intelligence.",
-      "it describes 'how much' intelligence, which cannot be counted.",
-      "it is asking a question about intelligence."
+      "He borrowed my umbrella.",
+      "He left my umbrella where it was.",
+      "He wanted my umbrella.",
+      "He lost my umbrella."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Types of Adjectives",
-    "complexity_score": 3
+    "topic": "Negation and Meaning"
   },
   {
-    "question": "In 'Whose fan is this?', the word 'Whose' is an Interrogative Adjective because it...",
-    "correct": "asks a question and is placed right before a noun.",
+    "question": "Choose the best word to complete the sentence: 'She was happy ______ she got a new puppy.'",
+    "correct": "because",
     "options": [
-      "shows possession without asking a question.",
-      "asks a question and is placed right before a noun.",
-      "describes the quality of the fan.",
-      "points out a specific fan."
+      "but",
+      "so",
+      "because",
+      "or"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Types of Adjectives",
-    "complexity_score": 3
+    "topic": "Conjunctions"
   },
   {
-    "question": "A superlative degree adjective like 'smartest' should be used when comparing...",
-    "correct": "more than two people or things.",
+    "question": "The sentence 'Rohan took my umbrella because he didn't take my umbrella' is illogical. Why?",
+    "correct": "The reason contradicts the action.",
     "options": [
-      "exactly two people or things.",
-      "one person to themselves.",
-      "more than two people or things.",
-      "something that cannot be counted."
+      "It uses the wrong verb tense.",
+      "Rohan's name is spelled wrong.",
+      "The reason contradicts the action.",
+      "It is too long."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Degrees of Comparison",
-    "complexity_score": 2
+    "topic": "Logical Reasoning"
   },
   {
-    "question": "Why is the sentence 'This is the most fastest car' incorrect?",
-    "correct": "Because 'fastest' is already a superlative, so 'most' is not needed.",
+    "question": "A student says, 'I ate the sandwich because I didn't eat the sandwich.' What is the logical error in this statement?",
+    "correct": "The reason given is the direct opposite of the action, which makes no sense.",
     "options": [
-      "Because 'fastest' is not a real word.",
-      "Because the correct word is 'more fast'.",
-      "Because you can't describe a car as fast.",
-      "Because 'fastest' is already a superlative, so 'most' is not needed."
+      "The word 'because' is used incorrectly.",
+      "The verb 'ate' is in the wrong tense.",
+      "The reason given is the direct opposite of the action, which makes no sense.",
+      "The student should have used the word 'and' instead."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Degrees of Comparison",
-    "complexity_score": 4
+    "topic": "Logical Fallacies"
   },
   {
-    "question": "In the sentence, 'The old brown paper bag lay on the floor,' which adjective describes the material?",
-    "correct": "paper",
+    "question": "Which of the following sentences best demonstrates a clear cause-and-effect relationship using 'because'?",
+    "correct": "The plant grew tall because it got plenty of sunlight and water.",
     "options": [
-      "old",
-      "brown",
-      "paper",
-      "floor"
+      "The sky is blue because the grass is green.",
+      "He went to the store because he went to the store.",
+      "She is happy because the car is red.",
+      "The plant grew tall because it got plenty of sunlight and water."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Order of Adjectives",
-    "complexity_score": 3
+    "topic": "Cause and Effect"
   },
   {
-    "question": "Given the rule about Proper Nouns becoming Proper Adjectives, which of the following phrases contains a Proper Adjective?",
-    "correct": "The Punjabi dance form",
+    "question": "If you wanted to explain the *opposite* situation of 'Rohan took my umbrella because he couldn't find his,' which sentence would be correct?",
+    "correct": "Rohan didn't take my umbrella because he found his.",
     "options": [
-      "The popular dance form",
-      "The Punjabi dance form",
-      "A good administrator",
-      "The poor girl"
+      "Rohan took my umbrella because he found his.",
+      "Rohan didn't take my umbrella because he couldn't find his.",
+      "Rohan didn't take my umbrella because he found his.",
+      "Rohan found my umbrella because he couldn't take his."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Types of Adjectives",
-    "complexity_score": 4
+    "topic": "Logical Opposites"
   },
   {
-    "question": "The teacher mentioned that the word 'what' can be both an Interrogative Adjective and an Interrogative Pronoun. Which sentence most clearly uses 'what' as an Interrogative Adjective?",
-    "correct": "What color is your car?",
+    "question": "The repetition of 'He took my umbrella' in the transcript suggests the speaker was...",
+    "correct": "trying to understand and correct a confusing part of the sentence.",
     "options": [
-      "What is your name?",
-      "What color is your car?",
-      "What happened yesterday?",
-      "What did you say?"
+      "practicing pronunciation.",
+      "forgetting the beginning of the sentence.",
+      "trying to understand and correct a confusing part of the sentence.",
+      "telling a story with many umbrellas."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Adjective Functions",
-    "complexity_score": 4
+    "topic": "Metacognition in Language"
   },
   {
-    "question": "Based on the patterns discussed for forming comparative degrees (e.g., beautiful -> more beautiful), what would be the most likely comparative form for 'expensive'?",
-    "correct": "more expensive",
+    "question": "How does changing 'couldn't find his' to 'didn't take my umbrella' alter the meaning of the original sentence?",
+    "correct": "It changes a logical reason into a nonsensical contradiction.",
     "options": [
-      "expensiver",
-      "expensivest",
-      "more expensive",
-      "most expensive"
+      "It changes the sentence from past tense to present tense.",
+      "It makes the sentence longer without changing the meaning.",
+      "It changes the subject of the sentence from Rohan to me.",
+      "It changes a logical reason into a nonsensical contradiction."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Degrees of Comparison",
-    "complexity_score": 3
+    "topic": "Sentence Analysis"
   },
   {
-    "question": "In 'Several people called,' 'several' is an Adjective of Number. In 'She did not eat any food,' 'any' is an Adjective of Quantity. What is the key difference that determines their category?",
-    "correct": "'People' can be counted, but 'food' in this context refers to an uncounted amount.",
+    "question": "Creating a sentence where the action and the reason are the same (e.g., 'He did it because he did it') is an example of:",
+    "correct": "Circular reasoning.",
     "options": [
-      "'Several' is a bigger amount than 'any'.",
-      "'Several' is positive and 'any' is negative.",
-      "'People' can be counted, but 'food' in this context refers to an uncounted amount.",
-      "There is no real difference; they are interchangeable."
+      "A complex sentence.",
+      "A compound sentence.",
+      "Circular reasoning.",
+      "Correct grammar."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Types of Adjectives",
-    "complexity_score": 4
+    "topic": "Logical Reasoning"
   }
 ]
