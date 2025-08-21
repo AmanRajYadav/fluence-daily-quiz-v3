@@ -1,262 +1,282 @@
 [
   {
-    "question": "In the sentence 'Rohan took my umbrella,' who performed the action?",
-    "correct": "Rohan",
+    "question": "According to the lesson, what is the primary role of an archaeologist?",
+    "correct": "They study the remains of past human life, such as tools, pots, and bones.",
     "options": [
-      "My",
-      "Umbrella",
-      "Rohan",
-      "He"
+      "They study the physical features of the Earth, like rocks and mountains.",
+      "They study the fossils of ancient plants and animals.",
+      "They study the remains of past human life, such as tools, pots, and bones.",
+      "They study the genetics of living populations."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement"
+    "topic": "Roles in History",
+    "complexity_score": 1
   },
   {
-    "question": "What is the action word (verb) in the sentence 'I have completed my painting'?",
-    "correct": "completed",
+    "question": "A period of 1,000 years is referred to as a...",
+    "correct": "Millennium",
     "options": [
-      "I",
-      "my",
-      "painting",
-      "completed"
+      "Decade",
+      "Century",
+      "Era",
+      "Millennium"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Identifying Verbs"
+    "topic": "Time Measurement",
+    "complexity_score": 1
   },
   {
-    "question": "The word 'because' is used to show...",
-    "correct": "a reason for something.",
+    "question": "Which of these is one of the key ways scientific research helps in studying the past, as discussed in the class?",
+    "correct": "It helps in the chemical study of excavated materials.",
     "options": [
-      "where something happened.",
-      "when something happened.",
-      "a reason for something.",
-      "who did something."
+      "It helps in predicting future historical events.",
+      "It helps in translating all ancient languages.",
+      "It helps in the chemical study of excavated materials.",
+      "It helps in recreating historical battles with perfect accuracy."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Conjunctions"
+    "topic": "Scientific Methods in History",
+    "complexity_score": 1
   },
   {
-    "question": "What does the word 'his' refer to in the sentence 'Rohan took my umbrella because he couldn't find his'?",
-    "correct": "Rohan's umbrella",
+    "question": "What is the main focus of a geologist's work when studying a historical site?",
+    "correct": "The physical features of the earth like rocks, mountains, and rivers.",
     "options": [
-      "My umbrella",
-      "The painting",
-      "Rohan's umbrella",
-      "A friend's umbrella"
+      "The remains of buildings and tools.",
+      "The fossils of animals found in the area.",
+      "The physical features of the earth like rocks, mountains, and rivers.",
+      "The oral histories passed down by local people."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Pronouns"
+    "topic": "Roles in History",
+    "complexity_score": 1
   },
   {
-    "question": "Which of these sentences is in the past tense?",
-    "correct": "Rohan took my umbrella.",
+    "question": "Paleontologists are specialized experts who primarily study what?",
+    "correct": "The fossils of ancient plants and animals.",
     "options": [
-      "Rohan takes my umbrella.",
-      "Rohan will take my umbrella.",
-      "Rohan is taking my umbrella.",
-      "Rohan took my umbrella."
+      "The movement of ancient stars and planets.",
+      "The fossils of ancient plants and animals.",
+      "The chemical composition of ancient pottery.",
+      "The development of ancient political systems."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Verb Tenses"
+    "topic": "Roles in History",
+    "complexity_score": 1
   },
   {
-    "question": "The phrase 'May I see it?' is a way of asking for...",
-    "correct": "permission.",
+    "question": "The lesson mentioned a period of 10 years is called a...",
+    "correct": "Decade",
     "options": [
-      "a reason.",
-      "a location.",
-      "permission.",
-      "an object."
+      "Century",
+      "Millennium",
+      "Decade",
+      "Epoch"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Polite Questions"
+    "topic": "Time Measurement",
+    "complexity_score": 1
   },
   {
-    "question": "Which sentence correctly explains why Rohan took the umbrella?",
-    "correct": "Rohan took my umbrella because he couldn't find his.",
+    "question": "Based on the discussion, how is studying ancient political systems useful for understanding the present?",
+    "correct": "It allows us to compare them with today's political systems and see how they've evolved.",
     "options": [
-      "Rohan took my umbrella because he didn't take my umbrella.",
-      "Rohan took my umbrella because it was sunny.",
-      "Rohan took my umbrella because he couldn't find his.",
-      "Rohan took my umbrella because I gave it to him."
+      "It helps us perfectly replicate ancient laws for modern use.",
+      "It proves that modern political systems are always better.",
+      "It allows us to compare them with today's political systems and see how they've evolved.",
+      "It gives us the exact dates of all future elections."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Logical Connections"
+    "topic": "Past & Present Connection",
+    "complexity_score": 2
   },
   {
-    "question": "How would you change 'Rohan took my umbrella' to a negative sentence in the past tense?",
-    "correct": "Rohan did not take my umbrella.",
+    "question": "A chemical study of an excavated ancient pot can most likely reveal what information?",
+    "correct": "The materials used to make it and its approximate age.",
     "options": [
-      "Rohan not took my umbrella.",
-      "Rohan was not take my umbrella.",
-      "Rohan did not take my umbrella.",
-      "Rohan will not take my umbrella."
+      "The name of the person who owned it.",
+      "The exact food that was last cooked in it.",
+      "The materials used to make it and its approximate age.",
+      "The conversations that happened around it."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Negative Sentences"
+    "topic": "Scientific Methods in History",
+    "complexity_score": 2
   },
   {
-    "question": "Which sentence structure makes the most sense?",
-    "correct": "[ACTION] because [REASON].",
+    "question": "Why is it important for historians to examine sources like ancient coins and documents?",
+    "correct": "They act as clues or evidence to piece together the story of the past.",
     "options": [
-      "[REASON] because [ACTION].",
-      "[ACTION] because [ACTION].",
-      "[ACTION] because [REASON].",
-      "[REASON] and [ACTION]."
+      "They are valuable and can be sold for a lot of money.",
+      "They contain all the answers to history, with no interpretation needed.",
+      "They act as clues or evidence to piece together the story of the past.",
+      "They are the only type of historical source that exists."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Sentence Structure"
+    "topic": "Sources of History",
+    "complexity_score": 2
   },
   {
-    "question": "In the sentence 'I have completed my painting,' what does 'have completed' tell us?",
-    "correct": "The action finished recently or has a connection to now.",
+    "question": "If an event occurred in 700 BC and another in 500 BC, which event happened earlier in time?",
+    "correct": "The event in 700 BC",
     "options": [
-      "The action is happening right now.",
-      "The action happened a long time ago.",
-      "The action will happen in the future.",
-      "The action finished recently or has a connection to now."
+      "The event in 500 BC",
+      "The event in 700 BC",
+      "They happened at the same time.",
+      "It is impossible to tell from the dates."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Verb Tenses (Present Perfect)"
+    "topic": "Timelines",
+    "complexity_score": 2
   },
   {
-    "question": "If Rohan couldn't find his umbrella, what was the *effect* or result?",
-    "correct": "He took my umbrella.",
+    "question": "What can historians learn by studying why ancient people chose to live in a particular area?",
+    "correct": "We can understand their priorities (like access to water) and see if those reasons are still important today.",
     "options": [
-      "He got wet.",
-      "He bought a new umbrella.",
-      "He took my umbrella.",
-      "He stayed inside."
+      "We can learn the exact population of the area.",
+      "We can understand their priorities (like access to water) and see if those reasons are still important today.",
+      "We can find out the names of every person who lived there.",
+      "We can prove they never moved from that area."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cause and Effect"
+    "topic": "Past & Present Connection",
+    "complexity_score": 2
   },
   {
-    "question": "The sentence 'He didn't take my umbrella' means the same as:",
-    "correct": "He left my umbrella where it was.",
+    "question": "The lesson compared a historian to a detective. What is the most important similarity between their work?",
+    "correct": "Both gather and analyze various sources of evidence to understand what happened.",
     "options": [
-      "He borrowed my umbrella.",
-      "He left my umbrella where it was.",
-      "He wanted my umbrella.",
-      "He lost my umbrella."
+      "Both work to put people in jail.",
+      "Both only work on recent events.",
+      "Both gather and analyze various sources of evidence to understand what happened.",
+      "Both rely only on eyewitness testimony."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Negation and Meaning"
+    "topic": "Historical Method",
+    "complexity_score": 2
   },
   {
-    "question": "Choose the best word to complete the sentence: 'She was happy ______ she got a new puppy.'",
-    "correct": "because",
+    "question": "Why is a figure like the Chinese traveler Xuanzang important to historians studying ancient India?",
+    "correct": "His written accounts provide an outsider's perspective and details about the time he visited.",
     "options": [
-      "but",
-      "so",
-      "because",
-      "or"
+      "He created the first map of the entire world.",
+      "He was the first king of India.",
+      "His written accounts provide an outsider's perspective and details about the time he visited.",
+      "He invented the BC/AD timeline."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Conjunctions"
+    "topic": "Sources of History",
+    "complexity_score": 2
   },
   {
-    "question": "The sentence 'Rohan took my umbrella because he didn't take my umbrella' is illogical. Why?",
-    "correct": "The reason contradicts the action.",
+    "question": "Why is studying ancient climates a key part of understanding history?",
+    "correct": "It helps us understand the environment ancient people lived in and the challenges they faced.",
     "options": [
-      "It uses the wrong verb tense.",
-      "Rohan's name is spelled wrong.",
-      "The reason contradicts the action.",
-      "It is too long."
+      "It allows us to predict the weather next week.",
+      "It helps us understand the environment ancient people lived in and the challenges they faced.",
+      "It proves that the climate has never changed.",
+      "It tells us the favorite season of ancient people."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Logical Reasoning"
+    "topic": "Scientific Methods in History",
+    "complexity_score": 2
   },
   {
-    "question": "A student says, 'I ate the sandwich because I didn't eat the sandwich.' What is the logical error in this statement?",
-    "correct": "The reason given is the direct opposite of the action, which makes no sense.",
+    "question": "At an ancient site, a geologist might study the rock layers to understand earthquakes, while an archaeologist would focus on...",
+    "correct": "the pottery fragments and building foundations within those layers.",
     "options": [
-      "The word 'because' is used incorrectly.",
-      "The verb 'ate' is in the wrong tense.",
-      "The reason given is the direct opposite of the action, which makes no sense.",
-      "The student should have used the word 'and' instead."
+      "the DNA of modern animals in the area.",
+      "the pottery fragments and building foundations within those layers.",
+      "the rate of erosion caused by the wind.",
+      "the geological composition of the rocks exclusively."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Logical Fallacies"
+    "topic": "Roles in History",
+    "complexity_score": 3
   },
   {
-    "question": "Which of the following sentences best demonstrates a clear cause-and-effect relationship using 'because'?",
-    "correct": "The plant grew tall because it got plenty of sunlight and water.",
+    "question": "A historian finds a king's decree that says all his people were happy, but oral stories from that time tell of great hardship. A good historian would...",
+    "correct": "analyze both sources to understand the different perspectives of rulers and common people.",
     "options": [
-      "The sky is blue because the grass is green.",
-      "He went to the store because he went to the store.",
-      "She is happy because the car is red.",
-      "The plant grew tall because it got plenty of sunlight and water."
+      "assume the king's decree is true because it's a written record.",
+      "ignore the king's decree because oral stories are more interesting.",
+      "declare that it's impossible to know the truth.",
+      "analyze both sources to understand the different perspectives of rulers and common people."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cause and Effect"
+    "topic": "Historical Method",
+    "complexity_score": 3
   },
   {
-    "question": "If you wanted to explain the *opposite* situation of 'Rohan took my umbrella because he couldn't find his,' which sentence would be correct?",
-    "correct": "Rohan didn't take my umbrella because he found his.",
+    "question": "We are in the year 2025 AD. An ancient artifact is dated to 500 BC. How many years ago was that artifact made?",
+    "correct": "2525 years ago",
     "options": [
-      "Rohan took my umbrella because he found his.",
-      "Rohan didn't take my umbrella because he couldn't find his.",
-      "Rohan didn't take my umbrella because he found his.",
-      "Rohan found my umbrella because he couldn't take his."
+      "1525 years ago",
+      "2025 years ago",
+      "500 years ago",
+      "2525 years ago"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Logical Opposites"
+    "topic": "Timelines",
+    "complexity_score": 3
   },
   {
-    "question": "The repetition of 'He took my umbrella' in the transcript suggests the speaker was...",
-    "correct": "trying to understand and correct a confusing part of the sentence.",
+    "question": "The tutor explained that 'Bharata' could mean 'one indulged in the search of truth'. How does this definition differ from a simple geographical name like 'India'?",
+    "correct": "It suggests an identity based on a shared cultural or philosophical purpose.",
     "options": [
-      "practicing pronunciation.",
-      "forgetting the beginning of the sentence.",
-      "trying to understand and correct a confusing part of the sentence.",
-      "telling a story with many umbrellas."
+      "It proves that everyone in ancient India was a philosopher.",
+      "It is a much shorter and easier name to say.",
+      "It suggests an identity based on a shared cultural or philosophical purpose.",
+      "It was a name given only by foreigners."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition in Language"
+    "topic": "Historical Names",
+    "complexity_score": 3
   },
   {
-    "question": "How does changing 'couldn't find his' to 'didn't take my umbrella' alter the meaning of the original sentence?",
-    "correct": "It changes a logical reason into a nonsensical contradiction.",
+    "question": "Scientific study of an ancient skeleton's genetics can help historians understand...",
+    "correct": "the person's ancestry, diet, and potential migration patterns of their people.",
     "options": [
-      "It changes the sentence from past tense to present tense.",
-      "It makes the sentence longer without changing the meaning.",
-      "It changes the subject of the sentence from Rohan to me.",
-      "It changes a logical reason into a nonsensical contradiction."
+      "the person's exact thoughts and feelings.",
+      "the language the person spoke.",
+      "the person's ancestry, diet, and potential migration patterns of their people.",
+      "the complete political history of their civilization."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Sentence Analysis"
+    "topic": "Scientific Methods in History",
+    "complexity_score": 3
   },
   {
-    "question": "Creating a sentence where the action and the reason are the same (e.g., 'He did it because he did it') is an example of:",
-    "correct": "Circular reasoning.",
+    "question": "Why would a historian find a simple, broken clay pot just as important as a golden crown from a king's tomb?",
+    "correct": "The pot provides valuable clues about the daily life and technology of ordinary people.",
     "options": [
-      "A complex sentence.",
-      "A compound sentence.",
-      "Circular reasoning.",
-      "Correct grammar."
+      "The pot is more beautiful than the crown.",
+      "The pot is worth more money to a collector.",
+      "The pot provides valuable clues about the daily life and technology of ordinary people.",
+      "Historians are not interested in royalty."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Logical Reasoning"
+    "topic": "Sources of History",
+    "complexity_score": 3
   }
 ]
