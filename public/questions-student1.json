@@ -1,26 +1,12 @@
 [
   {
-    "question": "Which sentence correctly uses 'can' to ask about ability?",
-    "correct": "What can you do?",
+    "question": "Which word correctly completes the sentence: '___ that building been shining for 3 hours?'",
+    "correct": "Has",
     "options": [
-      "What you can do?",
-      "You can do what?",
-      "What can you do?",
-      "Do what you can?"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Modal Verbs",
-    "complexity_score": 1
-  },
-  {
-    "question": "Choose the correct subject-verb agreement for a singular noun like 'building'.",
-    "correct": "The building has...",
-    "options": [
-      "The building have...",
-      "The building is have...",
-      "The building has...",
-      "The building are..."
+      "Have",
+      "Is",
+      "Does",
+      "Has"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -28,69 +14,83 @@
     "complexity_score": 1
   },
   {
-    "question": "Complete the sentence: '_____ you play?' to ask about permission or possibility.",
-    "correct": "Can",
+    "question": "Choose the correct simple question to ask about ability:",
+    "correct": "Can you play?",
     "options": [
-      "Does",
-      "Is",
-      "Can",
-      "Are"
+      "Do you playing?",
+      "Are you play?",
+      "Can you play?",
+      "Have you play?"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Modal Verbs",
+    "topic": "Modal Verbs (Can)",
     "complexity_score": 1
   },
   {
-    "question": "Which of these is a correct way to form a simple question in the present tense?",
-    "correct": "Does he play?",
-    "options": [
-      "He does play?",
-      "Play he does?",
-      "Does he play?",
-      "He plays?"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Question Formation",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which phrase is used to ask about the person who performed an action?",
+    "question": "How do you ask who is able to do something?",
     "correct": "Who can do it?",
     "options": [
-      "What can do it?",
-      "With whom it can do?",
+      "Who does it?",
+      "Whom can do it?",
       "Who can do it?",
-      "How can do it?"
+      "Who is it doing?"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Interrogative Pronouns",
+    "topic": "Question Formation (Wh-questions)",
     "complexity_score": 1
   },
   {
-    "question": "What is the correct negative form of 'I could have one'?",
-    "correct": "I could not have one.",
+    "question": "Which sentence is in the simple past tense?",
+    "correct": "I did not think.",
     "options": [
-      "I did not could have one.",
-      "I couldn't had one.",
-      "I could not have one.",
-      "I have not could one."
+      "I am not thinking.",
+      "I have not thought.",
+      "I do not think.",
+      "I did not think."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Modal Verbs (Negative Form)",
+    "topic": "Tense Identification (Past Simple)",
     "complexity_score": 1
   },
   {
-    "question": "To change 'I have been playing for 5 hours' into a question, which is the correct word order?",
+    "question": "Which verb correctly completes the sentence: 'She ___ been playing for hours.'?",
+    "correct": "has",
+    "options": [
+      "is",
+      "have",
+      "has",
+      "does"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Subject-Verb Agreement",
+    "complexity_score": 1
+  },
+  {
+    "question": "If someone is playing a game now, what is the correct question to ask?",
+    "correct": "What game are you playing?",
+    "options": [
+      "What game did you play?",
+      "What game you play?",
+      "What game have you played?",
+      "What game are you playing?"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Tense Identification (Present Continuous)",
+    "complexity_score": 1
+  },
+  {
+    "question": "The statement is: 'I have been playing for 5 hours.' What is the correct question form?",
     "correct": "Have you been playing for 5 hours?",
     "options": [
-      "You have been playing for 5 hours?",
-      "Been you playing for 5 hours?",
+      "Did you play for 5 hours?",
+      "Do you play for 5 hours?",
       "Have you been playing for 5 hours?",
-      "For 5 hours you have been playing?"
+      "Are you playing for 5 hours?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -98,69 +98,97 @@
     "complexity_score": 2
   },
   {
-    "question": "The sentence 'Has that building been shining for 3 hours?' describes an action that...",
-    "correct": "started in the past and is still continuing.",
+    "question": "A student says, 'Have that building been shining?' What is the primary mistake?",
+    "correct": "The helping verb does not agree with the subject.",
     "options": [
-      "finished 3 hours ago.",
-      "will start in 3 hours.",
-      "started in the past and is still continuing.",
-      "happened for a moment 3 hours ago."
+      "The main verb is in the wrong form.",
+      "The sentence is missing an object.",
+      "The helping verb does not agree with the subject.",
+      "The word order is incorrect for a question."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Tense Application",
+    "topic": "Error Analysis (Subject-Verb Agreement)",
     "complexity_score": 2
   },
   {
-    "question": "If someone says, 'Do you keep on drinking tea?', what do they mean?",
-    "correct": "Do you continuously or repeatedly drink tea?",
+    "question": "If you want to suggest playing a game in a polite way, which question is most appropriate?",
+    "correct": "Would you like to play?",
     "options": [
-      "Did you put tea away?",
-      "Do you have tea with you?",
-      "Do you continuously or repeatedly drink tea?",
-      "Do you like tea?"
+      "Do you like to play?",
+      "Can you play?",
+      "Will you play?",
+      "Would you like to play?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Phrasal Verbs",
+    "topic": "Modal Verbs (Would)",
     "complexity_score": 2
   },
   {
-    "question": "Which question correctly asks about a past action using 'did'?",
-    "correct": "Did you write a correct word?",
+    "question": "The sentence 'He is able to come' means the same as:",
+    "correct": "He can come.",
     "options": [
-      "Did you wrote a correct word?",
-      "You did write a correct word?",
-      "Did you write a correct word?",
-      "Have you did write a correct word?"
+      "He will come.",
+      "He might come.",
+      "He should come.",
+      "He can come."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Past Tense Questions",
+    "topic": "Modal Verbs (Can/Ability)",
     "complexity_score": 2
   },
   {
-    "question": "The teacher says, 'He is almost ready just not have but has.' What grammatical rule is being corrected?",
-    "correct": "Subject-verb agreement with a singular third-person subject.",
+    "question": "Which sentence correctly describes an action that started in the past and is still continuing?",
+    "correct": "I have been practicing for three days.",
     "options": [
-      "The use of the past tense.",
-      "The correct spelling of 'has'.",
-      "Subject-verb agreement with a singular third-person subject.",
-      "The use of modal verbs."
+      "I did practice for three days.",
+      "I am practicing for three days.",
+      "I practice for three days.",
+      "I have been practicing for three days."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar Rules",
+    "topic": "Tense Application (Present Perfect Continuous)",
     "complexity_score": 2
   },
   {
-    "question": "Convert the statement 'He was looking at me' into a question.",
-    "correct": "Was he looking at me?",
+    "question": "What is the correct negative form of 'I could have won'?",
+    "correct": "I could not have won.",
     "options": [
-      "Did he was looking at me?",
-      "He was looking at me?",
-      "Was he looking at me?",
-      "Does he was looking at me?"
+      "I did not could have won.",
+      "I could have not won.",
+      "I couldn't won.",
+      "I could not have won."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Modal Verbs (Could - Negative)",
+    "complexity_score": 2
+  },
+  {
+    "question": "How do you correctly turn 'He keeps on playing' into a question?",
+    "correct": "Does he keep on playing?",
+    "options": [
+      "Is he keep on playing?",
+      "Does he keeps on playing?",
+      "Keeps he on playing?",
+      "Does he keep on playing?"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Question Formation (Present Simple)",
+    "complexity_score": 2
+  },
+  {
+    "question": "Someone says, 'I was thinking.' How would you ask what they were thinking about?",
+    "correct": "What were you thinking about?",
+    "options": [
+      "What did you think about?",
+      "What you were thinking about?",
+      "What were you thinking about?",
+      "What are you thinking about?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -168,115 +196,87 @@
     "complexity_score": 2
   },
   {
-    "question": "Which is a more polite or formal way to ask 'What do you want?'",
-    "correct": "Would you like to play?",
+    "question": "A building started shining 3 hours ago and it is still shining now. Which question is the MOST precise way to ask about this situation?",
+    "correct": "Has the building been shining for 3 hours?",
     "options": [
-      "What can you want?",
-      "Does you want?",
-      "Would you like to play?",
-      "What you are wanting?"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Modal Verbs (Politeness)",
-    "complexity_score": 2
-  },
-  {
-    "question": "Someone says, 'I am not able to do it.' Which sentence expresses the same idea more concisely?",
-    "correct": "I can't do it.",
-    "options": [
-      "I will not do it.",
-      "I may not do it.",
-      "I can't do it.",
-      "I did not do it."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Modal Verb Application",
-    "complexity_score": 2
-  },
-  {
-    "question": "Why is 'Has that building been shining?' correct, while 'Have that building been shining?' is incorrect?",
-    "correct": "'Building' is a singular noun and requires the singular verb 'has'.",
-    "options": [
-      "'Has' is used for actions happening now, and 'have' is for the past.",
-      "You must always use 'has' when asking a question.",
-      "'Building' is a singular noun and requires the singular verb 'has'.",
-      "'Have' is only used when talking about people, not objects."
+      "Is the building shining now?",
+      "Did the building shine today?",
+      "Has the building been shining for 3 hours?",
+      "Does the building shine?"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammatical Analysis",
+    "topic": "Tense Nuance (Present Perfect Continuous vs. Others)",
     "complexity_score": 3
   },
   {
-    "question": "The teacher corrects a student from saying 'I could not win you' to something else. What is the most likely error being addressed?",
-    "correct": "An unnatural or incorrect phrasing in English.",
+    "question": "Analyze the question: 'Why was he coming?' What does this question imply about the action?",
+    "correct": "The action was in progress at a specific time in the past.",
     "options": [
-      "Incorrect tense usage.",
-      "A spelling mistake.",
-      "An unnatural or incorrect phrasing in English.",
-      "Incorrect subject-verb agreement."
+      "The action is happening right now.",
+      "The action was a completed habit in the past.",
+      "The action will happen in the future.",
+      "The action was in progress at a specific time in the past."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Syntax and Natural Phrasing",
+    "topic": "Tense Analysis (Past Continuous)",
     "complexity_score": 3
   },
   {
-    "question": "A student asks, 'Why was he coming?'. What kind of information are they looking for?",
-    "correct": "The reason or cause for an action in the past.",
+    "question": "A student says, 'I did not use to clear fast.' What are they trying to express?",
+    "correct": "A past habit that is no longer true.",
     "options": [
-      "The location of a past action.",
-      "The time of a past action.",
-      "The reason or cause for an action in thepast.",
-      "Confirmation that a past action happened."
+      "A single event that did not happen yesterday.",
+      "A current inability to be clear.",
+      "A future intention to not be clear.",
+      "A past habit that is no longer true."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Interrogative Analysis",
+    "topic": "Grammatical Structures ('used to')",
     "complexity_score": 3
   },
   {
-    "question": "The teacher states that getting answers right in 'one go' requires practice. This is because practice helps move knowledge from...",
-    "correct": "conscious effort to automatic skill.",
+    "question": "Which of these questions asks about permission or a polite request, rather than just ability?",
+    "correct": "May I know what you want?",
     "options": [
-      "short-term memory to a textbook.",
-      "speaking to writing.",
-      "conscious effort to automatic skill.",
-      "an easy level to a hard level."
+      "Can you know what I want?",
+      "What do you want?",
+      "May I know what you want?",
+      "Are you able to know what I want?"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition (How we learn)",
+    "topic": "Modal Verbs (May vs. Can)",
     "complexity_score": 3
   },
   {
-    "question": "Consider the two sentences: 'You don't need to play' and 'You need not play'. While both are used, what subtle difference might exist?",
-    "correct": "'You need not play' can sound slightly more formal.",
+    "question": "In the phrase 'You need not play,' what is the function of 'need not'?",
+    "correct": "It indicates a lack of obligation or necessity.",
     "options": [
-      "'You don't need to play' is a command, while 'You need not play' is a suggestion.",
-      "They mean the exact opposite of each other.",
-      "'You need not play' can sound slightly more formal.",
-      "Only 'You don't need to play' is grammatically correct."
+      "It indicates a lack of ability.",
+      "It is a command not to play.",
+      "It is asking for permission to not play.",
+      "It indicates a lack of obligation or necessity."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Nuance in Language",
+    "topic": "Modal Verbs (Need)",
     "complexity_score": 3
   },
   {
-    "question": "The transcript shows many examples of a student answering correctly after two or three tries. This process of learning through guided correction demonstrates...",
-    "correct": "The importance of scaffolding to build new skills.",
+    "question": "Consider the sentence: 'He was looking at me.' How does changing it to 'Did he look at me?' alter the meaning?",
+    "correct": "It changes the focus from an ongoing action to a single, completed action.",
     "options": [
-      "That guessing is the best way to learn.",
-      "That the student did not know the answer at all.",
-      "The importance of scaffolding to build new skills.",
-      "That English grammar has no consistent rules."
+      "It changes the sentence from past to present.",
+      "It doesn't change the meaning, only the grammar.",
+      "It makes the statement less certain.",
+      "It changes the focus from an ongoing action to a single, completed action."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Learning Process Analysis",
+    "topic": "Tense Nuance (Past Continuous vs. Past Simple)",
     "complexity_score": 3
   }
 ]
