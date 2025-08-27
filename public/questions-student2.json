@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, what is the primary role of an archaeologist?",
-    "correct": "They study the remains of past human life, such as tools, pots, and bones.",
+    "question": "In the number pattern 1, 4, 9, 16, 25..., what is the common name for these numbers?",
+    "correct": "Square Numbers",
     "options": [
-      "They study the physical features of the Earth, like rocks and mountains.",
-      "They study the fossils of ancient plants and animals.",
-      "They study the remains of past human life, such as tools, pots, and bones.",
-      "They study the genetics of living populations."
+      "Doubling Numbers",
+      "Prime Numbers",
+      "Square Numbers",
+      "Fibonacci Numbers"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Roles in History",
+    "topic": "Math: Number Patterns",
     "complexity_score": 1
   },
   {
-    "question": "A period of 1,000 years is referred to as a...",
-    "correct": "Millennium",
+    "question": "What are materials that allow heat or electricity to easily pass through them called?",
+    "correct": "Conductors",
     "options": [
-      "Decade",
-      "Century",
-      "Era",
-      "Millennium"
+      "Insulators",
+      "Solubles",
+      "Conductors",
+      "Hard Materials"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Time Measurement",
+    "topic": "Science: Properties of Materials",
     "complexity_score": 1
   },
   {
-    "question": "Which of these is one of the key ways scientific research helps in studying the past, as discussed in the class?",
-    "correct": "It helps in the chemical study of excavated materials.",
+    "question": "Which of these is mentioned as a famous type of silk saree from India?",
+    "correct": "Kanjivaram",
     "options": [
-      "It helps in predicting future historical events.",
-      "It helps in translating all ancient languages.",
-      "It helps in the chemical study of excavated materials.",
-      "It helps in recreating historical battles with perfect accuracy."
+      "Denim",
+      "Khadi",
+      "Kanjivaram",
+      "Polyester"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Scientific Methods in History",
+    "topic": "Social Studies: Indian Culture",
     "complexity_score": 1
   },
   {
-    "question": "What is the main focus of a geologist's work when studying a historical site?",
-    "correct": "The physical features of the earth like rocks, mountains, and rivers.",
+    "question": "What are the four main directions—North, South, East, and West—collectively known as?",
+    "correct": "Cardinal Directions",
     "options": [
-      "The remains of buildings and tools.",
-      "The fossils of animals found in the area.",
-      "The physical features of the earth like rocks, mountains, and rivers.",
-      "The oral histories passed down by local people."
+      "Longitude Lines",
+      "Map Keys",
+      "Cardinal Directions",
+      "Latitude Points"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Roles in History",
+    "topic": "Geography: Map Skills",
     "complexity_score": 1
   },
   {
-    "question": "Paleontologists are specialized experts who primarily study what?",
-    "correct": "The fossils of ancient plants and animals.",
+    "question": "In the sequence 1, 2, 3, 5, 8, 13..., how is the next number in the series determined?",
+    "correct": "By adding the two previous numbers",
     "options": [
-      "The movement of ancient stars and planets.",
-      "The fossils of ancient plants and animals.",
-      "The chemical composition of ancient pottery.",
-      "The development of ancient political systems."
+      "By multiplying the previous number by two",
+      "By adding three to the previous number",
+      "By adding the two previous numbers",
+      "By squaring the previous number"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Roles in History",
+    "topic": "Math: Number Patterns",
     "complexity_score": 1
   },
   {
-    "question": "The lesson mentioned a period of 10 years is called a...",
-    "correct": "Decade",
+    "question": "What is the comparative degree of the adjective 'good'?",
+    "correct": "Better",
     "options": [
-      "Century",
-      "Millennium",
-      "Decade",
-      "Epoch"
+      "Goodest",
+      "Best",
+      "More Good",
+      "Better"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Time Measurement",
+    "topic": "English: Grammar",
     "complexity_score": 1
   },
   {
-    "question": "Based on the discussion, how is studying ancient political systems useful for understanding the present?",
-    "correct": "It allows us to compare them with today's political systems and see how they've evolved.",
+    "question": "When the North pole of one magnet is brought near the North pole of another magnet, what will happen?",
+    "correct": "They will repel each other",
     "options": [
-      "It helps us perfectly replicate ancient laws for modern use.",
-      "It proves that modern political systems are always better.",
-      "It allows us to compare them with today's political systems and see how they've evolved.",
-      "It gives us the exact dates of all future elections."
+      "They will attract each other",
+      "They will lose their magnetism",
+      "They will repel each other",
+      "Nothing will happen"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Past & Present Connection",
+    "topic": "Science: Magnetism",
     "complexity_score": 2
   },
   {
-    "question": "A chemical study of an excavated ancient pot can most likely reveal what information?",
-    "correct": "The materials used to make it and its approximate age.",
+    "question": "The People of India project found 325 languages using 25 scripts. What does this finding suggest about Indian national identity?",
+    "correct": "That a unified identity must be based on something other than a single language or script",
     "options": [
-      "The name of the person who owned it.",
-      "The exact food that was last cooked in it.",
-      "The materials used to make it and its approximate age.",
-      "The conversations that happened around it."
+      "That only 25 languages are important",
+      "That no unity exists in India",
+      "That a unified identity must be based on something other than a single language or script",
+      "That everyone in India should learn one common language"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Scientific Methods in History",
+    "topic": "Social Studies: Unity in Diversity",
     "complexity_score": 2
   },
   {
-    "question": "Why is it important for historians to examine sources like ancient coins and documents?",
-    "correct": "They act as clues or evidence to piece together the story of the past.",
+    "question": "A plastic spoon handle doesn't get hot when stirring soup because plastic is a good...",
+    "correct": "Insulator",
     "options": [
-      "They are valuable and can be sold for a lot of money.",
-      "They contain all the answers to history, with no interpretation needed.",
-      "They act as clues or evidence to piece together the story of the past.",
-      "They are the only type of historical source that exists."
+      "Conductor",
+      "Solvent",
+      "Metal",
+      "Insulator"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Sources of History",
+    "topic": "Science: Properties of Materials",
     "complexity_score": 2
   },
   {
-    "question": "If an event occurred in 700 BC and another in 500 BC, which event happened earlier in time?",
-    "correct": "The event in 700 BC",
+    "question": "According to the Collatz Conjecture rules discussed, if you start with the odd number 7, what is the next number in the sequence?",
+    "correct": "22",
     "options": [
-      "The event in 500 BC",
-      "The event in 700 BC",
-      "They happened at the same time.",
-      "It is impossible to tell from the dates."
+      "3.5",
+      "20",
+      "22",
+      "21"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Timelines",
+    "topic": "Math: Collatz Conjecture",
     "complexity_score": 2
   },
   {
-    "question": "What can historians learn by studying why ancient people chose to live in a particular area?",
-    "correct": "We can understand their priorities (like access to water) and see if those reasons are still important today.",
+    "question": "Indian Standard Time (IST) is 5.5 hours ahead of Greenwich Mean Time (GMT). This time difference is primarily determined by India's...",
+    "correct": "Longitude",
     "options": [
-      "We can learn the exact population of the area.",
-      "We can understand their priorities (like access to water) and see if those reasons are still important today.",
-      "We can find out the names of every person who lived there.",
-      "We can prove they never moved from that area."
+      "Latitude",
+      "Altitude",
+      "Longitude",
+      "Population"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Past & Present Connection",
+    "topic": "Geography: Time Zones",
     "complexity_score": 2
   },
   {
-    "question": "The lesson compared a historian to a detective. What is the most important similarity between their work?",
-    "correct": "Both gather and analyze various sources of evidence to understand what happened.",
+    "question": "A shopkeeper selling goods is performing an economic activity. A parent taking care of their child is performing a...",
+    "correct": "Non-economic activity",
     "options": [
-      "Both work to put people in jail.",
-      "Both only work on recent events.",
-      "Both gather and analyze various sources of evidence to understand what happened.",
-      "Both rely only on eyewitness testimony."
+      "Profitable activity",
+      "Community activity",
+      "Non-economic activity",
+      "Secondary economic activity"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Historical Method",
+    "topic": "Social Studies: Economics",
     "complexity_score": 2
   },
   {
-    "question": "Why is a figure like the Chinese traveler Xuanzang important to historians studying ancient India?",
-    "correct": "His written accounts provide an outsider's perspective and details about the time he visited.",
+    "question": "The lesson explained it's impossible to perfectly represent the spherical Earth on a flat map because you cannot flatten a curved surface without distortion. What example was used to illustrate this?",
+    "correct": "An orange peel",
     "options": [
-      "He created the first map of the entire world.",
-      "He was the first king of India.",
-      "His written accounts provide an outsider's perspective and details about the time he visited.",
-      "He invented the BC/AD timeline."
+      "A pizza dough",
+      "An orange peel",
+      "A rubber ball",
+      "A piece of paper"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Sources of History",
+    "topic": "Geography: Map Projections",
     "complexity_score": 2
   },
   {
-    "question": "Why is studying ancient climates a key part of understanding history?",
-    "correct": "It helps us understand the environment ancient people lived in and the challenges they faced.",
+    "question": "Based on the pattern 3, 9, 27, 81..., what mathematical operation is used to get from one number to the next?",
+    "correct": "Multiplying by 3",
     "options": [
-      "It allows us to predict the weather next week.",
-      "It helps us understand the environment ancient people lived in and the challenges they faced.",
-      "It proves that the climate has never changed.",
-      "It tells us the favorite season of ancient people."
+      "Adding 6",
+      "Squaring the number",
+      "Multiplying by 3",
+      "Adding the previous two numbers"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Scientific Methods in History",
+    "topic": "Math: Geometric Sequences",
     "complexity_score": 2
   },
   {
-    "question": "At an ancient site, a geologist might study the rock layers to understand earthquakes, while an archaeologist would focus on...",
-    "correct": "the pottery fragments and building foundations within those layers.",
+    "question": "Sri Aurobindo's concepts of Svabhava (true nature) and Svadharma (own path) suggest that India's unity is best achieved by...",
+    "correct": "Embracing diversity and allowing different paths to coexist",
     "options": [
-      "the DNA of modern animals in the area.",
-      "the pottery fragments and building foundations within those layers.",
-      "the rate of erosion caused by the wind.",
-      "the geological composition of the rocks exclusively."
+      "Adopting a single, uniform culture for everyone",
+      "Isolating itself from the rest of the world",
+      "Embracing diversity and allowing different paths to coexist",
+      "Focusing only on economic principles"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Roles in History",
+    "topic": "Social Studies: Indian Philosophy",
     "complexity_score": 3
   },
   {
-    "question": "A historian finds a king's decree that says all his people were happy, but oral stories from that time tell of great hardship. A good historian would...",
-    "correct": "analyze both sources to understand the different perspectives of rulers and common people.",
+    "question": "According to the SI unit conventions discussed, which is the only correct way to write a mass of seven kilograms?",
+    "correct": "7 kg",
     "options": [
-      "assume the king's decree is true because it's a written record.",
-      "ignore the king's decree because oral stories are more interesting.",
-      "declare that it's impossible to know the truth.",
-      "analyze both sources to understand the different perspectives of rulers and common people."
+      "7 kgs",
+      "7 kg.",
+      "7 kg",
+      "7 KG"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Historical Method",
+    "topic": "Science: Measurement and Units",
     "complexity_score": 3
   },
   {
-    "question": "We are in the year 2025 AD. An ancient artifact is dated to 500 BC. How many years ago was that artifact made?",
-    "correct": "2525 years ago",
+    "question": "The sun is observed to be rising at 60° East longitude. Since the Earth rotates eastward at 15° per hour, where would the sunrise be observed two hours later?",
+    "correct": "At 30° East longitude",
     "options": [
-      "1525 years ago",
-      "2025 years ago",
-      "500 years ago",
-      "2525 years ago"
+      "At 90° East longitude",
+      "At 60° East longitude",
+      "At 30° East longitude",
+      "At the Prime Meridian (0°)"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Timelines",
+    "topic": "Geography: Earth's Rotation",
     "complexity_score": 3
   },
   {
-    "question": "The tutor explained that 'Bharata' could mean 'one indulged in the search of truth'. How does this definition differ from a simple geographical name like 'India'?",
-    "correct": "It suggests an identity based on a shared cultural or philosophical purpose.",
+    "question": "Why is a sequence like 1, 2, 3, 5, 8... (Fibonacci) fundamentally different from a sequence like 3, 9, 27, 81... (Geometric)?",
+    "correct": "One uses addition of previous terms, while the other uses multiplication by a constant factor.",
     "options": [
-      "It proves that everyone in ancient India was a philosopher.",
-      "It is a much shorter and easier name to say.",
-      "It suggests an identity based on a shared cultural or philosophical purpose.",
-      "It was a name given only by foreigners."
+      "One contains only odd numbers, while the other contains only even numbers.",
+      "One uses addition of previous terms, while the other uses multiplication by a constant factor.",
+      "One is used in science, while the other is only used in math.",
+      "There is no fundamental difference; they are both number patterns."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Historical Names",
+    "topic": "Math: Comparing Number Patterns",
     "complexity_score": 3
   },
   {
-    "question": "Scientific study of an ancient skeleton's genetics can help historians understand...",
-    "correct": "the person's ancestry, diet, and potential migration patterns of their people.",
+    "question": "The director of the 'People of India' project was identified as K.S. Singh. This project documented the vast human diversity in India, providing a powerful counter-argument to what idea?",
+    "correct": "The idea of a single, uniform national identity",
     "options": [
-      "the person's exact thoughts and feelings.",
-      "the language the person spoke.",
-      "the person's ancestry, diet, and potential migration patterns of their people.",
-      "the complete political history of their civilization."
+      "The idea that India has a long history",
+      "The idea that India is geographically large",
+      "The idea of a single, uniform national identity",
+      "The idea that most Indians work in agriculture"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Scientific Methods in History",
+    "topic": "Social Studies: Indian Diversity",
     "complexity_score": 3
   },
   {
-    "question": "Why would a historian find a simple, broken clay pot just as important as a golden crown from a king's tomb?",
-    "correct": "The pot provides valuable clues about the daily life and technology of ordinary people.",
+    "question": "The discussion about historian Vincent Smith's approach of focusing on rulers to write a history of India highlighted a central challenge for historians. What was that challenge?",
+    "correct": "Creating a single, coherent narrative for a vastly diverse country",
     "options": [
-      "The pot is more beautiful than the crown.",
-      "The pot is worth more money to a collector.",
-      "The pot provides valuable clues about the daily life and technology of ordinary people.",
-      "Historians are not interested in royalty."
+      "Finding enough ancient artifacts to study",
+      "Translating texts from ancient languages",
+      "Creating a single, coherent narrative for a vastly diverse country",
+      "Getting permission to access historical sites"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Sources of History",
+    "topic": "Social Studies: Historiography",
     "complexity_score": 3
   }
 ]
