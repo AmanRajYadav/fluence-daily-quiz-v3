@@ -1,282 +1,282 @@
 [
   {
-    "question": "Which word correctly completes the sentence: '___ that building been shining for 3 hours?'",
-    "correct": "Has",
+    "question": "According to the lesson, why do we say 'the Earth' but not usually 'the Mars'?",
+    "correct": "We use 'the' for Earth because it is considered a unique case.",
     "options": [
-      "Have",
-      "Is",
-      "Does",
-      "Has"
+      "We use 'the' for all planets.",
+      "We use 'the' for Earth because it is considered a unique case.",
+      "We never use 'the' for planets.",
+      "We only use 'the' for planets with moons."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement",
+    "topic": "Article Use with Planets",
     "complexity_score": 1
   },
   {
-    "question": "Choose the correct simple question to ask about ability:",
-    "correct": "Can you play?",
+    "question": "Based on the class discussion, which of these nouns does NOT generally use an article?",
+    "correct": "Gold",
     "options": [
-      "Do you playing?",
-      "Are you play?",
-      "Can you play?",
-      "Have you play?"
+      "Ganga",
+      "Moon",
+      "President",
+      "Gold"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Modal Verbs (Can)",
+    "topic": "Zero Article with Metals",
     "complexity_score": 1
   },
   {
-    "question": "How do you ask who is able to do something?",
-    "correct": "Who can do it?",
+    "question": "The lesson mentioned 'the first president'. This is an example of using 'the' before what kind of number?",
+    "correct": "Ordinal numbers (first, second, third)",
     "options": [
-      "Who does it?",
-      "Whom can do it?",
-      "Who can do it?",
-      "Who is it doing?"
+      "Cardinal numbers (one, two, three)",
+      "Ordinal numbers (first, second, third)",
+      "Plural numbers",
+      "Prime numbers"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Question Formation (Wh-questions)",
+    "topic": "Article Use with Ordinal Numbers",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence is in the simple past tense?",
-    "correct": "I did not think.",
+    "question": "Which sentence is correct when talking about water in a general sense, according to the transcript?",
+    "correct": "I am drinking water.",
     "options": [
-      "I am not thinking.",
-      "I have not thought.",
-      "I do not think.",
-      "I did not think."
+      "I am drinking the water.",
+      "I am drinking a water.",
+      "I am drinking water.",
+      "Both 'a' and 'b' are correct."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Tense Identification (Past Simple)",
+    "topic": "Article Use with Uncountable Nouns",
     "complexity_score": 1
   },
   {
-    "question": "Which verb correctly completes the sentence: 'She ___ been playing for hours.'?",
-    "correct": "has",
+    "question": "In the teacher's story, the phrase 'He gifted me the guitar' was used to demonstrate a rule. What does this rule apply to?",
+    "correct": "Musical instruments",
     "options": [
-      "is",
-      "have",
-      "has",
-      "does"
+      "Gifts",
+      "Musical instruments",
+      "Proper nouns",
+      "Hobbies"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Subject-Verb Agreement",
+    "topic": "Article Use with Musical Instruments",
     "complexity_score": 1
   },
   {
-    "question": "If someone is playing a game now, what is the correct question to ask?",
-    "correct": "What game are you playing?",
+    "question": "The teacher explained that we say 'the best actor' because 'best' is a superlative. Which of the following is also a superlative?",
+    "correct": "Most famous",
     "options": [
-      "What game did you play?",
-      "What game you play?",
-      "What game have you played?",
-      "What game are you playing?"
+      "Good",
+      "Better",
+      "Actor",
+      "Most famous"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Tense Identification (Present Continuous)",
+    "topic": "Article Use with Superlatives",
     "complexity_score": 1
   },
   {
-    "question": "The statement is: 'I have been playing for 5 hours.' What is the correct question form?",
-    "correct": "Have you been playing for 5 hours?",
+    "question": "A student is going to their school to study. Which sentence correctly describes this action?",
+    "correct": "I am going to school.",
     "options": [
-      "Did you play for 5 hours?",
-      "Do you play for 5 hours?",
-      "Have you been playing for 5 hours?",
-      "Are you playing for 5 hours?"
+      "I am going to the school.",
+      "I am going to a school.",
+      "I am going to school.",
+      "I am going in school."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Question Formation (Present Perfect Continuous)",
+    "topic": "Primary Purpose Rule",
     "complexity_score": 2
   },
   {
-    "question": "A student says, 'Have that building been shining?' What is the primary mistake?",
-    "correct": "The helping verb does not agree with the subject.",
+    "question": "The lesson explained that we say 'The cow is a useful animal' but not 'The houses have become expensive'. What is the reason for this difference?",
+    "correct": "'The' is used when a singular noun represents a whole class, but not when a plural noun does.",
     "options": [
-      "The main verb is in the wrong form.",
-      "The sentence is missing an object.",
-      "The helping verb does not agree with the subject.",
-      "The word order is incorrect for a question."
+      "'The' is used when a singular noun represents a whole class, but not when a plural noun does.",
+      "We use 'the' for animals but not for buildings.",
+      "There is no difference; both should use 'the'.",
+      "The rule only applies to living things."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Error Analysis (Subject-Verb Agreement)",
+    "topic": "Class Representation",
     "complexity_score": 2
   },
   {
-    "question": "If you want to suggest playing a game in a polite way, which question is most appropriate?",
-    "correct": "Would you like to play?",
+    "question": "In the story, the character met 'the Italian singers'. Why is 'the' used before 'Italian'?",
+    "correct": "Because 'Italian' is a word that denotes nationality.",
     "options": [
-      "Do you like to play?",
-      "Can you play?",
-      "Will you play?",
-      "Would you like to play?"
+      "Because the singers were famous.",
+      "Because 'Italian' is a word that denotes nationality.",
+      "Because all groups of people use 'the'.",
+      "Because they were in a train."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs (Would)",
+    "topic": "Article Use with Nationalities",
     "complexity_score": 2
   },
   {
-    "question": "The sentence 'He is able to come' means the same as:",
-    "correct": "He can come.",
+    "question": "The teacher mentioned 'the First World War' as an example of using 'the' before what?",
+    "correct": "Historical events",
     "options": [
-      "He will come.",
-      "He might come.",
-      "He should come.",
-      "He can come."
+      "Wars in general",
+      "Historical events",
+      "Numbers",
+      "Proper nouns"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs (Can/Ability)",
+    "topic": "Article Use with Historical Events",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly describes an action that started in the past and is still continuing?",
-    "correct": "I have been practicing for three days.",
+    "question": "We normally don't use 'the' with 'water', but the teacher gave an example where it is correct. In which situation would you say 'the water'?",
+    "correct": "When referring to a specific body of water, like 'the water in that bucket'.",
     "options": [
-      "I did practice for three days.",
-      "I am practicing for three days.",
-      "I practice for three days.",
-      "I have been practicing for three days."
+      "When you are very thirsty.",
+      "When referring to a specific body of water, like 'the water in that bucket'.",
+      "When talking about oceans.",
+      "It is never correct to say 'the water'."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Tense Application (Present Perfect Continuous)",
+    "topic": "Specific vs. General Uncountable Nouns",
     "complexity_score": 2
   },
   {
-    "question": "What is the correct negative form of 'I could have won'?",
-    "correct": "I could not have won.",
+    "question": "The story mentioned 'I booked that train ticket for the Vande Bharat Express.' This is an example of using 'the' before the names of what?",
+    "correct": "Trains, ships, and airplanes",
     "options": [
-      "I did not could have won.",
-      "I could have not won.",
-      "I couldn't won.",
-      "I could not have won."
+      "All forms of transportation",
+      "Political groups",
+      "Express tickets",
+      "Trains, ships, and airplanes"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modal Verbs (Could - Negative)",
+    "topic": "Article Use with Transportation Names",
     "complexity_score": 2
   },
   {
-    "question": "How do you correctly turn 'He keeps on playing' into a question?",
-    "correct": "Does he keep on playing?",
+    "question": "In the story, the character saw 'the principal of my school'. Why is 'the' used before 'principal'?",
+    "correct": "Because it is a specific, important post or designation.",
     "options": [
-      "Is he keep on playing?",
-      "Does he keeps on playing?",
-      "Keeps he on playing?",
-      "Does he keep on playing?"
+      "Because all job titles use 'the'.",
+      "Because the principal was on a train.",
+      "Because it is a specific, important post or designation.",
+      "Because the school was mentioned earlier."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Question Formation (Present Simple)",
+    "topic": "Article Use with Posts/Designations",
     "complexity_score": 2
   },
   {
-    "question": "Someone says, 'I was thinking.' How would you ask what they were thinking about?",
-    "correct": "What were you thinking about?",
+    "question": "The teacher used the example 'I saw some BJP politicians'. 'BJP' is a political group. What other types of groups mentioned in the lesson also use 'the'?",
+    "correct": "Religious, cultural, and social groups",
     "options": [
-      "What did you think about?",
-      "What you were thinking about?",
-      "What were you thinking about?",
-      "What are you thinking about?"
+      "Groups of friends and family",
+      "Groups of students",
+      "Religious, cultural, and social groups",
+      "Only political groups use 'the'."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Question Formation (Past Continuous)",
+    "topic": "Article Use with Groups",
     "complexity_score": 2
   },
   {
-    "question": "A building started shining 3 hours ago and it is still shining now. Which question is the MOST precise way to ask about this situation?",
-    "correct": "Has the building been shining for 3 hours?",
+    "question": "Consider the sentence: 'A terrorist planted a bomb in the school.' Why is 'the school' correct here, even though students 'go to school'?",
+    "correct": "Because the school is not being used for its primary purpose of education.",
     "options": [
-      "Is the building shining now?",
-      "Did the building shine today?",
-      "Has the building been shining for 3 hours?",
-      "Does the building shine?"
+      "Because the school is a specific building.",
+      "It is an error; it should be 'in school'.",
+      "Because the school is not being used for its primary purpose of education.",
+      "Because 'bomb' is a specific noun."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Tense Nuance (Present Perfect Continuous vs. Others)",
+    "topic": "Primary Purpose Rule (Exception)",
     "complexity_score": 3
   },
   {
-    "question": "Analyze the question: 'Why was he coming?' What does this question imply about the action?",
-    "correct": "The action was in progress at a specific time in the past.",
+    "question": "In the sentence, 'Give me the book which I had given you yesterday,' why must 'the' be used before 'book'?",
+    "correct": "Because it refers to a specific book that has been clearly identified.",
     "options": [
-      "The action is happening right now.",
-      "The action was a completed habit in the past.",
-      "The action will happen in the future.",
-      "The action was in progress at a specific time in the past."
+      "Because all books use 'the'.",
+      "Because the action happened yesterday.",
+      "Because it refers to a specific book that has been clearly identified.",
+      "Because it is a command."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Tense Analysis (Past Continuous)",
+    "topic": "Article Use for Specificity",
     "complexity_score": 3
   },
   {
-    "question": "A student says, 'I did not use to clear fast.' What are they trying to express?",
-    "correct": "A past habit that is no longer true.",
+    "question": "The teacher gave the example: 'The more you study, the more marks you get.' What specific idea does this special use of 'the' convey?",
+    "correct": "A sense of proportion (as one thing increases, so does another).",
     "options": [
-      "A single event that did not happen yesterday.",
-      "A current inability to be clear.",
-      "A future intention to not be clear.",
-      "A past habit that is no longer true."
+      "A sense of selection between two options.",
+      "A sense of superlative quality.",
+      "A sense of proportion (as one thing increases, so does another).",
+      "It is just a common phrase with no special rule."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammatical Structures ('used to')",
+    "topic": "Comparative Degree with Proportion",
     "complexity_score": 3
   },
   {
-    "question": "Which of these questions asks about permission or a polite request, rather than just ability?",
-    "correct": "May I know what you want?",
+    "question": "Based on the lesson's rules, which of the following sentences contains an error in article usage?",
+    "correct": "He speaks the Hindi fluently.",
     "options": [
-      "Can you know what I want?",
-      "What do you want?",
-      "May I know what you want?",
-      "Are you able to know what I want?"
+      "The Indian Ocean is vast.",
+      "She plays the violin beautifully.",
+      "He speaks the Hindi fluently.",
+      "The Moon is bright tonight."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Modal Verbs (May vs. Can)",
+    "topic": "Identifying Errors (Languages)",
     "complexity_score": 3
   },
   {
-    "question": "In the phrase 'You need not play,' what is the function of 'need not'?",
-    "correct": "It indicates a lack of obligation or necessity.",
+    "question": "The teacher gave an example: 'He is the Donald Trump of our class.' Why is 'the' used before a person's name, which is normally incorrect?",
+    "correct": "Because the proper noun is being used like a common noun to describe a type of person.",
     "options": [
-      "It indicates a lack of ability.",
-      "It is a command not to play.",
-      "It is asking for permission to not play.",
-      "It indicates a lack of obligation or necessity."
+      "Because Donald Trump is a unique person.",
+      "Because the proper noun is being used like a common noun to describe a type of person.",
+      "It is a mistake; we should not use 'the' with names.",
+      "Because it is referring to the whole class."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Modal Verbs (Need)",
+    "topic": "Proper Nouns as Common Nouns",
     "complexity_score": 3
   },
   {
-    "question": "Consider the sentence: 'He was looking at me.' How does changing it to 'Did he look at me?' alter the meaning?",
-    "correct": "It changes the focus from an ongoing action to a single, completed action.",
+    "question": "Another special case mentioned was 'You are the better student' when comparing two people. What idea does using 'the' before a comparative like 'better' show here?",
+    "correct": "A sense of selection between two specific options.",
     "options": [
-      "It changes the sentence from past to present.",
-      "It doesn't change the meaning, only the grammar.",
-      "It makes the statement less certain.",
-      "It changes the focus from an ongoing action to a single, completed action."
+      "A sense of proportion.",
+      "A sense of selection between two specific options.",
+      "It is a superlative in disguise.",
+      "It means the student is the best in the world."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Tense Nuance (Past Continuous vs. Past Simple)",
+    "topic": "Comparative Degree with Selection",
     "complexity_score": 3
   }
 ]
