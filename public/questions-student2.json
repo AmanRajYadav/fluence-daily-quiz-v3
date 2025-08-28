@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the number pattern 1, 4, 9, 16, 25..., what is the common name for these numbers?",
-    "correct": "Square Numbers",
+    "question": "According to the lesson, what is the definition of a mixture?",
+    "correct": "A material containing two or more substances in any proportion.",
     "options": [
-      "Doubling Numbers",
-      "Prime Numbers",
-      "Square Numbers",
-      "Fibonacci Numbers"
+      "A material containing two substances in a fixed proportion.",
+      "A material made of only one pure substance, like oxygen.",
+      "A material containing two or more substances in any proportion.",
+      "A material that can only be a solid, like soil."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Math: Number Patterns",
+    "topic": "Definition of a Mixture",
     "complexity_score": 1
   },
   {
-    "question": "What are materials that allow heat or electricity to easily pass through them called?",
-    "correct": "Conductors",
+    "question": "What are the individual substances that make up a mixture called?",
+    "correct": "Components",
     "options": [
-      "Insulators",
-      "Solubles",
-      "Conductors",
-      "Hard Materials"
+      "Elements",
+      "Molecules",
+      "Components",
+      "Mixtures"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science: Properties of Materials",
+    "topic": "Components of a Mixture",
     "complexity_score": 1
   },
   {
-    "question": "Which of these is mentioned as a famous type of silk saree from India?",
-    "correct": "Kanjivaram",
+    "question": "Which of the following was given as an example of a gaseous mixture?",
+    "correct": "Air",
     "options": [
-      "Denim",
-      "Khadi",
-      "Kanjivaram",
-      "Polyester"
+      "Soil",
+      "Milk",
+      "Air",
+      "Oxygen"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Social Studies: Indian Culture",
+    "topic": "Examples of Mixtures",
     "complexity_score": 1
   },
   {
-    "question": "What are the four main directions—North, South, East, and West—collectively known as?",
-    "correct": "Cardinal Directions",
+    "question": "Removing tea leaves from tea is an example of separating what kind of component?",
+    "correct": "An undesirable component",
     "options": [
-      "Longitude Lines",
-      "Map Keys",
-      "Cardinal Directions",
-      "Latitude Points"
+      "A useful component",
+      "A harmful component",
+      "An undesirable component",
+      "A raw material"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geography: Map Skills",
+    "topic": "Reasons for Separation",
     "complexity_score": 1
   },
   {
-    "question": "In the sequence 1, 2, 3, 5, 8, 13..., how is the next number in the series determined?",
-    "correct": "By adding the two previous numbers",
+    "question": "What example was given to show the removal of harmful substances before cooking?",
+    "correct": "Separating small stones from raw rice.",
     "options": [
-      "By multiplying the previous number by two",
-      "By adding three to the previous number",
-      "By adding the two previous numbers",
-      "By squaring the previous number"
+      "Filtering water to make it drinkable.",
+      "Separating small stones from raw rice.",
+      "Churning milk to get butter.",
+      "Separating seeds from fruit."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Math: Number Patterns",
+    "topic": "Reasons for Separation",
     "complexity_score": 1
   },
   {
-    "question": "What is the comparative degree of the adjective 'good'?",
-    "correct": "Better",
+    "question": "The process of churning is used to separate which desirable substance from milk?",
+    "correct": "Butter",
     "options": [
-      "Goodest",
-      "Best",
-      "More Good",
-      "Better"
+      "Water",
+      "Minerals",
+      "Butter",
+      "Sugar"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English: Grammar",
+    "topic": "Separation Methods",
     "complexity_score": 1
   },
   {
-    "question": "When the North pole of one magnet is brought near the North pole of another magnet, what will happen?",
-    "correct": "They will repel each other",
+    "question": "Why is regular drinking water NOT used to prepare medicines, according to the transcript?",
+    "correct": "It contains dissolved salts and minerals.",
     "options": [
-      "They will attract each other",
-      "They will lose their magnetism",
-      "They will repel each other",
-      "Nothing will happen"
+      "It contains harmful bacteria.",
+      "It is too expensive to use.",
+      "It contains dissolved salts and minerals.",
+      "It is not a pure mixture."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science: Magnetism",
+    "topic": "Application of Separation",
     "complexity_score": 2
   },
   {
-    "question": "The People of India project found 325 languages using 25 scripts. What does this finding suggest about Indian national identity?",
-    "correct": "That a unified identity must be based on something other than a single language or script",
+    "question": "Obtaining iron from ore found in the Earth's crust is an example of which reason for separation?",
+    "correct": "To obtain a useful substance from a raw material.",
     "options": [
-      "That only 25 languages are important",
-      "That no unity exists in India",
-      "That a unified identity must be based on something other than a single language or script",
-      "That everyone in India should learn one common language"
+      "To remove an undesirable or harmful substance.",
+      "To separate two different useful components.",
+      "To obtain a useful substance from a raw material.",
+      "To create a new mixture."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Social Studies: Unity in Diversity",
+    "topic": "Reasons for Separation",
     "complexity_score": 2
   },
   {
-    "question": "A plastic spoon handle doesn't get hot when stirring soup because plastic is a good...",
-    "correct": "Insulator",
+    "question": "If you separate oil and water because you plan to use the oil for cooking and the water for plants, which reason for separation does this best fit?",
+    "correct": "To separate different useful components of a mixture.",
     "options": [
-      "Conductor",
-      "Solvent",
-      "Metal",
-      "Insulator"
+      "To obtain a useful substance from a raw material.",
+      "To remove harmful substances.",
+      "To separate different useful components of a mixture.",
+      "To purify a single substance."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science: Properties of Materials",
+    "topic": "Reasons for Separation",
     "complexity_score": 2
   },
   {
-    "question": "According to the Collatz Conjecture rules discussed, if you start with the odd number 7, what is the next number in the sequence?",
-    "correct": "22",
+    "question": "The teacher used the human body as an analogy for a mixture. What was the main point of this comparison?",
+    "correct": "To show that a complex single thing can be made of many different parts (components).",
     "options": [
-      "3.5",
-      "20",
-      "22",
-      "21"
+      "To prove that the human body is a chemical mixture.",
+      "To show that organs can be separated like tea leaves.",
+      "To show that a complex single thing can be made of many different parts (components).",
+      "To explain that the body is a solid mixture."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Math: Collatz Conjecture",
+    "topic": "Understanding Mixtures",
     "complexity_score": 2
   },
   {
-    "question": "Indian Standard Time (IST) is 5.5 hours ahead of Greenwich Mean Time (GMT). This time difference is primarily determined by India's...",
-    "correct": "Longitude",
+    "question": "Based on the discussion, what makes 'tea' a mixture?",
+    "correct": "It is made of multiple components like water, sugar, milk, and tea leaves.",
     "options": [
-      "Latitude",
-      "Altitude",
-      "Longitude",
-      "Population"
+      "Because it is a liquid.",
+      "Because it is hot.",
+      "It is made of multiple components like water, sugar, milk, and tea leaves.",
+      "It is a pure substance."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Geography: Time Zones",
+    "topic": "Examples of Mixtures",
     "complexity_score": 2
   },
   {
-    "question": "A shopkeeper selling goods is performing an economic activity. A parent taking care of their child is performing a...",
-    "correct": "Non-economic activity",
+    "question": "What is the key difference between the water used for medicines (distilled) and regular filtered water, as explained in the lesson?",
+    "correct": "Distilled water is pure H2O with no minerals, while filtered water still contains minerals.",
     "options": [
-      "Profitable activity",
-      "Community activity",
-      "Non-economic activity",
-      "Secondary economic activity"
+      "There is no difference; both are safe to drink.",
+      "Distilled water is hot, and filtered water is cold.",
+      "Distilled water is pure H2O with no minerals, while filtered water still contains minerals.",
+      "Filtered water is used for medicines, and distilled water is for drinking."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Social Studies: Economics",
+    "topic": "Application of Separation",
     "complexity_score": 2
   },
   {
-    "question": "The lesson explained it's impossible to perfectly represent the spherical Earth on a flat map because you cannot flatten a curved surface without distortion. What example was used to illustrate this?",
-    "correct": "An orange peel",
+    "question": "The lesson corrected the book's heading from 'Why do we separate mixtures?' to a more precise phrase. What was the better question?",
+    "correct": "Why do we separate the components of a mixture?",
     "options": [
-      "A pizza dough",
-      "An orange peel",
-      "A rubber ball",
-      "A piece of paper"
+      "How do we make mixtures?",
+      "What are mixtures for?",
+      "Why do we separate the components of a mixture?",
+      "When should we separate mixtures?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Geography: Map Projections",
+    "topic": "Metacognition in Science",
     "complexity_score": 2
   },
   {
-    "question": "Based on the pattern 3, 9, 27, 81..., what mathematical operation is used to get from one number to the next?",
-    "correct": "Multiplying by 3",
+    "question": "Crude oil is separated into petrol, diesel, and kerosene, all of which are used. This perfectly illustrates which reason for separation?",
+    "correct": "To separate different useful components.",
     "options": [
-      "Adding 6",
-      "Squaring the number",
-      "Multiplying by 3",
-      "Adding the previous two numbers"
+      "To remove a single harmful substance.",
+      "To obtain one useful substance and discard the rest.",
+      "To separate different useful components.",
+      "To remove undesirable solid particles."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Math: Geometric Sequences",
+    "topic": "Reasons for Separation",
     "complexity_score": 2
   },
   {
-    "question": "Sri Aurobindo's concepts of Svabhava (true nature) and Svadharma (own path) suggest that India's unity is best achieved by...",
-    "correct": "Embracing diversity and allowing different paths to coexist",
+    "question": "The lesson described two goals: 1) removing stones from rice and 2) separating butter from milk. How do the primary objectives of these two separations differ?",
+    "correct": "Goal 1 is to discard an unwanted part; Goal 2 is to obtain a valuable product from another valuable product.",
     "options": [
-      "Adopting a single, uniform culture for everyone",
-      "Isolating itself from the rest of the world",
-      "Embracing diversity and allowing different paths to coexist",
-      "Focusing only on economic principles"
+      "There is no difference; both are done to get desirable components.",
+      "Goal 1 is a solid-solid separation; Goal 2 is liquid-liquid.",
+      "Goal 1 is to discard an unwanted part; Goal 2 is to obtain a valuable product from another valuable product.",
+      "Goal 1 is for safety; Goal 2 is for creating medicine."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Social Studies: Indian Philosophy",
+    "topic": "Analysis of Separation Goals",
     "complexity_score": 3
   },
   {
-    "question": "According to the SI unit conventions discussed, which is the only correct way to write a mass of seven kilograms?",
-    "correct": "7 kg",
+    "question": "The teacher explained that distilled water is not good for drinking because the body needs minerals. What can you infer about the role of 'impurities' in a mixture?",
+    "correct": "Not all substances mixed together are necessarily harmful or undesirable; some can be beneficial.",
     "options": [
-      "7 kgs",
-      "7 kg.",
-      "7 kg",
-      "7 KG"
+      "All impurities must be removed for a substance to be useful.",
+      "Only solid impurities are harmful to the body.",
+      "Not all substances mixed together are necessarily harmful or undesirable; some can be beneficial.",
+      "Distillation is the only way to make a substance safe."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Science: Measurement and Units",
+    "topic": "Critical Thinking on Purity",
     "complexity_score": 3
   },
   {
-    "question": "The sun is observed to be rising at 60° East longitude. Since the Earth rotates eastward at 15° per hour, where would the sunrise be observed two hours later?",
-    "correct": "At 30° East longitude",
+    "question": "Based on the examples, how does separating crude oil into useful fuels differ from distilling water for medicines?",
+    "correct": "Crude oil separation yields multiple useful components, while distillation aims to isolate one pure substance and discard the rest.",
     "options": [
-      "At 90° East longitude",
-      "At 60° East longitude",
-      "At 30° East longitude",
-      "At the Prime Meridian (0°)"
+      "Crude oil is a natural material, while water is man-made.",
+      "Crude oil separation yields multiple useful components, while distillation aims to isolate one pure substance and discard the rest.",
+      "Distillation is a chemical process, while oil separation is a physical one.",
+      "Separating oil is easy, while distilling water is very complex."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Geography: Earth's Rotation",
+    "topic": "Comparing Separation Processes",
     "complexity_score": 3
   },
   {
-    "question": "Why is a sequence like 1, 2, 3, 5, 8... (Fibonacci) fundamentally different from a sequence like 3, 9, 27, 81... (Geometric)?",
-    "correct": "One uses addition of previous terms, while the other uses multiplication by a constant factor.",
+    "question": "The lesson defines a mixture as substances in 'any proportion.' How does this concept make a mixture like 'soil' fundamentally different from a compound like 'water' (H₂O)?",
+    "correct": "Soil components can vary, while water's hydrogen and oxygen components are always in a fixed ratio.",
     "options": [
-      "One contains only odd numbers, while the other contains only even numbers.",
-      "One uses addition of previous terms, while the other uses multiplication by a constant factor.",
-      "One is used in science, while the other is only used in math.",
-      "There is no fundamental difference; they are both number patterns."
+      "Soil is a solid and water is a liquid.",
+      "Soil components can vary, while water's hydrogen and oxygen components are always in a fixed ratio.",
+      "Soil is a mixture, but water is an element.",
+      "Soil is useless, while water is useful."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Math: Comparing Number Patterns",
+    "topic": "Mixtures vs. Compounds",
     "complexity_score": 3
   },
   {
-    "question": "The director of the 'People of India' project was identified as K.S. Singh. This project documented the vast human diversity in India, providing a powerful counter-argument to what idea?",
-    "correct": "The idea of a single, uniform national identity",
+    "question": "A scientist needs to separate a mixture of sand and salt, both of which are useful for different experiments. This task aligns with which two primary reasons for separation discussed in class?",
+    "correct": "To obtain a useful substance AND to separate different useful components.",
     "options": [
-      "The idea that India has a long history",
-      "The idea that India is geographically large",
-      "The idea of a single, uniform national identity",
-      "The idea that most Indians work in agriculture"
+      "To remove a harmful substance AND to obtain a useful substance.",
+      "To remove an undesirable substance AND to remove a harmful substance.",
+      "To obtain a useful substance AND to separate different useful components.",
+      "Only to separate different useful components."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Social Studies: Indian Diversity",
+    "topic": "Synthesizing Separation Goals",
     "complexity_score": 3
   },
   {
-    "question": "The discussion about historian Vincent Smith's approach of focusing on rulers to write a history of India highlighted a central challenge for historians. What was that challenge?",
-    "correct": "Creating a single, coherent narrative for a vastly diverse country",
+    "question": "Considering the teacher's explanation of distillation and filtration, which method would be ineffective for removing dissolved salt from seawater to make it drinkable?",
+    "correct": "Filtration, because it removes solid particles but not dissolved substances like salt.",
     "options": [
-      "Finding enough ancient artifacts to study",
-      "Translating texts from ancient languages",
-      "Creating a single, coherent narrative for a vastly diverse country",
-      "Getting permission to access historical sites"
+      "Distillation, because it only works on small amounts of water.",
+      "Filtration, because it removes solid particles but not dissolved substances like salt.",
+      "Both would be equally effective.",
+      "Neither would work on seawater."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Social Studies: Historiography",
+    "topic": "Problem-Solving with Separation Methods",
     "complexity_score": 3
   }
 ]
