@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, what is the definition of a mixture?",
-    "correct": "A material containing two or more substances in any proportion.",
+    "question": "What is the process called when heavy, insoluble impurities settle at the bottom of a liquid?",
+    "correct": "Sedimentation",
     "options": [
-      "A material containing two substances in a fixed proportion.",
-      "A material made of only one pure substance, like oxygen.",
-      "A material containing two or more substances in any proportion.",
-      "A material that can only be a solid, like soil."
+      "Filtration",
+      "Evaporation",
+      "Sedimentation",
+      "Decantation"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Definition of a Mixture",
+    "topic": "Separating Mixtures",
     "complexity_score": 1
   },
   {
-    "question": "What are the individual substances that make up a mixture called?",
-    "correct": "Components",
+    "question": "In the process of filtration, what is the substance that passes through the filter called?",
+    "correct": "Filtrate",
     "options": [
-      "Elements",
-      "Molecules",
-      "Components",
-      "Mixtures"
+      "Residue",
+      "Sediment",
+      "Filtrate",
+      "Solvent"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Components of a Mixture",
+    "topic": "Separating Mixtures",
     "complexity_score": 1
   },
   {
-    "question": "Which of the following was given as an example of a gaseous mixture?",
-    "correct": "Air",
+    "question": "Which method uses wind or blowing air to separate lighter components from heavier ones?",
+    "correct": "Winnowing",
     "options": [
-      "Soil",
-      "Milk",
-      "Air",
-      "Oxygen"
+      "Sieving",
+      "Threshing",
+      "Winnowing",
+      "Hand picking"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Examples of Mixtures",
+    "topic": "Separating Mixtures",
     "complexity_score": 1
   },
   {
-    "question": "Removing tea leaves from tea is an example of separating what kind of component?",
-    "correct": "An undesirable component",
+    "question": "Which of the following geometric figures starts at one point and goes on infinitely in one direction?",
+    "correct": "A ray",
     "options": [
-      "A useful component",
-      "A harmful component",
-      "An undesirable component",
-      "A raw material"
+      "A line",
+      "A line segment",
+      "A ray",
+      "A point"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Reasons for Separation",
+    "topic": "Geometry Basics",
     "complexity_score": 1
   },
   {
-    "question": "What example was given to show the removal of harmful substances before cooking?",
-    "correct": "Separating small stones from raw rice.",
+    "question": "Evaporation is the process of converting a liquid into what?",
+    "correct": "Vapor (gas)",
     "options": [
-      "Filtering water to make it drinkable.",
-      "Separating small stones from raw rice.",
-      "Churning milk to get butter.",
-      "Separating seeds from fruit."
+      "A solid",
+      "Another liquid",
+      "Vapor (gas)",
+      "A mixture"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Reasons for Separation",
+    "topic": "Separating Mixtures",
     "complexity_score": 1
   },
   {
-    "question": "The process of churning is used to separate which desirable substance from milk?",
-    "correct": "Butter",
+    "question": "How many perpendicular lines can be drawn from a single given point to a single given line?",
+    "correct": "Only one",
     "options": [
+      "Two",
+      "Infinite",
+      "Only one",
+      "None"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Geometry Basics",
+    "complexity_score": 1
+  },
+  {
+    "question": "Why is winnowing NOT a suitable method for separating small stones from wheat?",
+    "correct": "The stones are too heavy to be blown away by the air.",
+    "options": [
+      "The stones are the same color as the wheat.",
+      "The stones are too small to be seen.",
+      "The stones are too heavy to be blown away by the air.",
+      "The wheat is heavier than the stones."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Separating Mixtures",
+    "complexity_score": 2
+  },
+  {
+    "question": "If you have a mixture of sand, salt, and iron filings, which tool should you use first to separate one component?",
+    "correct": "A magnet",
+    "options": [
+      "A filter paper",
       "Water",
-      "Minerals",
-      "Butter",
-      "Sugar"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Separation Methods",
-    "complexity_score": 1
-  },
-  {
-    "question": "Why is regular drinking water NOT used to prepare medicines, according to the transcript?",
-    "correct": "It contains dissolved salts and minerals.",
-    "options": [
-      "It contains harmful bacteria.",
-      "It is too expensive to use.",
-      "It contains dissolved salts and minerals.",
-      "It is not a pure mixture."
+      "A magnet",
+      "A sieve"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Application of Separation",
+    "topic": "Separating Mixtures",
     "complexity_score": 2
   },
   {
-    "question": "Obtaining iron from ore found in the Earth's crust is an example of which reason for separation?",
-    "correct": "To obtain a useful substance from a raw material.",
+    "question": "What is the key difference between Line AB and Ray AB?",
+    "correct": "Line AB extends infinitely in both directions, while Ray AB extends infinitely in only one direction.",
     "options": [
-      "To remove an undesirable or harmful substance.",
-      "To separate two different useful components.",
-      "To obtain a useful substance from a raw material.",
-      "To create a new mixture."
+      "There is no difference; they are the same.",
+      "Line AB is shorter than Ray AB.",
+      "Line AB extends infinitely in both directions, while Ray AB extends infinitely in only one direction.",
+      "Ray AB can be called Ray BA, but Line AB cannot be called Line BA."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Reasons for Separation",
+    "topic": "Geometry Basics",
     "complexity_score": 2
   },
   {
-    "question": "If you separate oil and water because you plan to use the oil for cooking and the water for plants, which reason for separation does this best fit?",
-    "correct": "To separate different useful components of a mixture.",
+    "question": "The process of pouring out a liquid after sedimentation, without disturbing the settled solids, is called:",
+    "correct": "Decantation",
     "options": [
-      "To obtain a useful substance from a raw material.",
-      "To remove harmful substances.",
-      "To separate different useful components of a mixture.",
-      "To purify a single substance."
+      "Filtration",
+      "Evaporation",
+      "Decantation",
+      "Condensation"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Reasons for Separation",
+    "topic": "Separating Mixtures",
     "complexity_score": 2
   },
   {
-    "question": "The teacher used the human body as an analogy for a mixture. What was the main point of this comparison?",
-    "correct": "To show that a complex single thing can be made of many different parts (components).",
+    "question": "To separate salt dissolved in water and recover ONLY the salt, which method is most commonly used?",
+    "correct": "Evaporation",
     "options": [
-      "To prove that the human body is a chemical mixture.",
-      "To show that organs can be separated like tea leaves.",
-      "To show that a complex single thing can be made of many different parts (components).",
-      "To explain that the body is a solid mixture."
+      "Filtration",
+      "Decantation",
+      "Evaporation",
+      "Sieving"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Understanding Mixtures",
+    "topic": "Separating Mixtures",
     "complexity_score": 2
   },
   {
-    "question": "Based on the discussion, what makes 'tea' a mixture?",
-    "correct": "It is made of multiple components like water, sugar, milk, and tea leaves.",
+    "question": "According to the lesson, what is the main source of Himalayan pink salt?",
+    "correct": "Ancient salt deposits mined from mountains",
     "options": [
-      "Because it is a liquid.",
-      "Because it is hot.",
-      "It is made of multiple components like water, sugar, milk, and tea leaves.",
-      "It is a pure substance."
+      "Evaporation of current sea water",
+      "Salt collected from riverbeds",
+      "Ancient salt deposits mined from mountains",
+      "A chemical reaction in factories"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Examples of Mixtures",
+    "topic": "Real-World Science",
     "complexity_score": 2
   },
   {
-    "question": "What is the key difference between the water used for medicines (distilled) and regular filtered water, as explained in the lesson?",
-    "correct": "Distilled water is pure H2O with no minerals, while filtered water still contains minerals.",
+    "question": "What two processes are combined to perform distillation?",
+    "correct": "Evaporation and condensation",
     "options": [
-      "There is no difference; both are safe to drink.",
-      "Distilled water is hot, and filtered water is cold.",
-      "Distilled water is pure H2O with no minerals, while filtered water still contains minerals.",
-      "Filtered water is used for medicines, and distilled water is for drinking."
+      "Sedimentation and decantation",
+      "Filtration and sieving",
+      "Evaporation and condensation",
+      "Threshing and winnowing"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Application of Separation",
+    "topic": "Separating Mixtures",
     "complexity_score": 2
   },
   {
-    "question": "The lesson corrected the book's heading from 'Why do we separate mixtures?' to a more precise phrase. What was the better question?",
-    "correct": "Why do we separate the components of a mixture?",
+    "question": "In an experiment to separate salt from water, a lit spirit lamp is placed under a tripod stand. What is the role of the spirit lamp?",
+    "correct": "To provide heat for evaporation",
     "options": [
-      "How do we make mixtures?",
-      "What are mixtures for?",
-      "Why do we separate the components of a mixture?",
-      "When should we separate mixtures?"
+      "To provide light to see the salt",
+      "To hold the China dish in place",
+      "To provide heat for evaporation",
+      "To condense the water vapor"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Metacognition in Science",
+    "topic": "Scientific Process",
     "complexity_score": 2
   },
   {
-    "question": "Crude oil is separated into petrol, diesel, and kerosene, all of which are used. This perfectly illustrates which reason for separation?",
-    "correct": "To separate different useful components.",
+    "question": "Why is Ray AB different from Ray BA?",
+    "correct": "They have different starting points and extend in opposite directions.",
     "options": [
-      "To remove a single harmful substance.",
-      "To obtain one useful substance and discard the rest.",
-      "To separate different useful components.",
-      "To remove undesirable solid particles."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Reasons for Separation",
-    "complexity_score": 2
-  },
-  {
-    "question": "The lesson described two goals: 1) removing stones from rice and 2) separating butter from milk. How do the primary objectives of these two separations differ?",
-    "correct": "Goal 1 is to discard an unwanted part; Goal 2 is to obtain a valuable product from another valuable product.",
-    "options": [
-      "There is no difference; both are done to get desirable components.",
-      "Goal 1 is a solid-solid separation; Goal 2 is liquid-liquid.",
-      "Goal 1 is to discard an unwanted part; Goal 2 is to obtain a valuable product from another valuable product.",
-      "Goal 1 is for safety; Goal 2 is for creating medicine."
+      "They have different lengths.",
+      "One is a straight line and the other is curved.",
+      "They are the same, the naming is just a preference.",
+      "They have different starting points and extend in opposite directions."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analysis of Separation Goals",
+    "topic": "Geometry Basics",
     "complexity_score": 3
   },
   {
-    "question": "The teacher explained that distilled water is not good for drinking because the body needs minerals. What can you infer about the role of 'impurities' in a mixture?",
-    "correct": "Not all substances mixed together are necessarily harmful or undesirable; some can be beneficial.",
+    "question": "What is the primary advantage of distillation over evaporation when separating a salt water solution?",
+    "correct": "Distillation allows you to recover both the pure water and the salt.",
     "options": [
-      "All impurities must be removed for a substance to be useful.",
-      "Only solid impurities are harmful to the body.",
-      "Not all substances mixed together are necessarily harmful or undesirable; some can be beneficial.",
-      "Distillation is the only way to make a substance safe."
+      "Distillation is much faster than evaporation.",
+      "Distillation does not require any heat.",
+      "Distillation allows you to recover both the pure water and the salt.",
+      "Distillation can be used for insoluble solids."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Critical Thinking on Purity",
+    "topic": "Separating Mixtures",
     "complexity_score": 3
   },
   {
-    "question": "Based on the examples, how does separating crude oil into useful fuels differ from distilling water for medicines?",
-    "correct": "Crude oil separation yields multiple useful components, while distillation aims to isolate one pure substance and discard the rest.",
+    "question": "You are given a mixture of sand and sugar. Based on the separation methods discussed, what would be the first essential step to separate them?",
+    "correct": "Add water to the mixture to dissolve the sugar.",
     "options": [
-      "Crude oil is a natural material, while water is man-made.",
-      "Crude oil separation yields multiple useful components, while distillation aims to isolate one pure substance and discard the rest.",
-      "Distillation is a chemical process, while oil separation is a physical one.",
-      "Separating oil is easy, while distilling water is very complex."
+      "Use a magnet to pull out the sugar.",
+      "Sieve the mixture to separate the sand.",
+      "Add water to the mixture to dissolve the sugar.",
+      "Heat the mixture until the sand melts."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Comparing Separation Processes",
+    "topic": "Separating Mixtures",
     "complexity_score": 3
   },
   {
-    "question": "The lesson defines a mixture as substances in 'any proportion.' How does this concept make a mixture like 'soil' fundamentally different from a compound like 'water' (H₂O)?",
-    "correct": "Soil components can vary, while water's hydrogen and oxygen components are always in a fixed ratio.",
+    "question": "Sea salt is obtained by evaporating sea water in shallow pits. What scientific principle explains why this process works?",
+    "correct": "The sun's energy causes the water to change state, leaving the dissolved solid salt behind.",
     "options": [
-      "Soil is a solid and water is a liquid.",
-      "Soil components can vary, while water's hydrogen and oxygen components are always in a fixed ratio.",
-      "Soil is a mixture, but water is an element.",
-      "Soil is useless, while water is useful."
+      "The salt is heavier than water and sinks to the bottom naturally.",
+      "The sun's energy causes the water to change state, leaving the dissolved solid salt behind.",
+      "The pits act as a filter, separating salt from water.",
+      "The sea water condenses, leaving pure salt."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Mixtures vs. Compounds",
+    "topic": "Real-World Science",
     "complexity_score": 3
   },
   {
-    "question": "A scientist needs to separate a mixture of sand and salt, both of which are useful for different experiments. This task aligns with which two primary reasons for separation discussed in class?",
-    "correct": "To obtain a useful substance AND to separate different useful components.",
+    "question": "A student performs filtration and is left with tea leaves on the filter paper. The tea that passed through is collected in a beaker. In this scenario, the tea leaves are the ____ and the collected tea is the ____.",
+    "correct": "Residue, Filtrate",
     "options": [
-      "To remove a harmful substance AND to obtain a useful substance.",
-      "To remove an undesirable substance AND to remove a harmful substance.",
-      "To obtain a useful substance AND to separate different useful components.",
-      "Only to separate different useful components."
+      "Filtrate, Residue",
+      "Sediment, Decantate",
+      "Residue, Filtrate",
+      "Solvent, Solute"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Synthesizing Separation Goals",
+    "topic": "Separating Mixtures",
     "complexity_score": 3
   },
   {
-    "question": "Considering the teacher's explanation of distillation and filtration, which method would be ineffective for removing dissolved salt from seawater to make it drinkable?",
-    "correct": "Filtration, because it removes solid particles but not dissolved substances like salt.",
+    "question": "A student claims to have separated a mixture of fine powder and larger pebbles using winnowing. Why is this approach likely to be ineffective?",
+    "correct": "Winnowing separates based on weight and reaction to wind; sieving separates based on particle size.",
     "options": [
-      "Distillation, because it only works on small amounts of water.",
-      "Filtration, because it removes solid particles but not dissolved substances like salt.",
-      "Both would be equally effective.",
-      "Neither would work on seawater."
+      "Both powder and pebbles are solids, so they cannot be separated.",
+      "Winnowing only works for separating liquids.",
+      "The pebbles are too light and will blow away with the powder.",
+      "Winnowing separates based on weight and reaction to wind; sieving separates based on particle size."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Problem-Solving with Separation Methods",
+    "topic": "Separating Mixtures",
     "complexity_score": 3
   }
 ]
