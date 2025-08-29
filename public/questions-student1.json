@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, why do we say 'the Earth' but not usually 'the Mars'?",
-    "correct": "We use 'the' for Earth because it is considered a unique case.",
+    "question": "According to the lesson, at what age do children in Finland typically start formal schooling?",
+    "correct": "Seven years old",
     "options": [
-      "We use 'the' for all planets.",
-      "We use 'the' for Earth because it is considered a unique case.",
-      "We never use 'the' for planets.",
-      "We only use 'the' for planets with moons."
+      "Three years old",
+      "Five years old",
+      "Seven years old",
+      "Nine years old"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Article Use with Planets",
+    "topic": "Finland Education System",
     "complexity_score": 1
   },
   {
-    "question": "Based on the class discussion, which of these nouns does NOT generally use an article?",
-    "correct": "Gold",
+    "question": "Which preposition is used to describe something located on the surface of an object, like a book on a desk?",
+    "correct": "on",
     "options": [
-      "Ganga",
-      "Moon",
-      "President",
-      "Gold"
+      "in",
+      "into",
+      "on",
+      "through"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Zero Article with Metals",
+    "topic": "Prepositions",
     "complexity_score": 1
   },
   {
-    "question": "The lesson mentioned 'the first president'. This is an example of using 'the' before what kind of number?",
-    "correct": "Ordinal numbers (first, second, third)",
+    "question": "In the comparison between Finland and India, which country's education system was described as having very little homework?",
+    "correct": "Finland",
     "options": [
-      "Cardinal numbers (one, two, three)",
-      "Ordinal numbers (first, second, third)",
-      "Plural numbers",
-      "Prime numbers"
+      "India",
+      "Both have a lot",
+      "Finland",
+      "Neither have any"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Article Use with Ordinal Numbers",
+    "topic": "Comparative Education",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence is correct when talking about water in a general sense, according to the transcript?",
-    "correct": "I am drinking water.",
+    "question": "The lesson mentioned that in Finland, subjects like arts, music, and sports are given as much importance as what other subjects?",
+    "correct": "Math and Science",
     "options": [
-      "I am drinking the water.",
-      "I am drinking a water.",
-      "I am drinking water.",
-      "Both 'a' and 'b' are correct."
+      "History and Geography",
+      "Languages and Literature",
+      "Math and Science",
+      "Computer Programming"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Article Use with Uncountable Nouns",
+    "topic": "Finland Education System",
     "complexity_score": 1
   },
   {
-    "question": "In the teacher's story, the phrase 'He gifted me the guitar' was used to demonstrate a rule. What does this rule apply to?",
-    "correct": "Musical instruments",
+    "question": "If you are moving from outside a house to inside it, which preposition did the teacher say is best to use?",
+    "correct": "into",
     "options": [
-      "Gifts",
-      "Musical instruments",
-      "Proper nouns",
-      "Hobbies"
+      "in",
+      "on",
+      "into",
+      "from"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Article Use with Musical Instruments",
+    "topic": "Prepositions",
     "complexity_score": 1
   },
   {
-    "question": "The teacher explained that we say 'the best actor' because 'best' is a superlative. Which of the following is also a superlative?",
-    "correct": "Most famous",
+    "question": "According to the quiz review, why is it correct to say 'the principal' of a school?",
+    "correct": "Because it refers to an important post or designation",
     "options": [
-      "Good",
-      "Better",
-      "Actor",
-      "Most famous"
+      "Because 'principal' starts with a consonant",
+      "It is only correct if you know their name",
+      "Because it refers to an important post or designation",
+      "It is never correct to say 'the principal'"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Article Use with Superlatives",
+    "topic": "Articles",
     "complexity_score": 1
   },
   {
-    "question": "A student is going to their school to study. Which sentence correctly describes this action?",
-    "correct": "I am going to school.",
+    "question": "The teacher contrasted Finland's practical learning with India's focus on memorization. Which activity would best represent Finland's approach to learning about botany?",
+    "correct": "Working in a garden with actual plants",
     "options": [
-      "I am going to the school.",
-      "I am going to a school.",
-      "I am going to school.",
-      "I am going in school."
+      "Reading a textbook chapter about plants",
+      "Memorizing the names of 100 different flowers for a test",
+      "Working in a garden with actual plants",
+      "Watching a video about photosynthesis"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Primary Purpose Rule",
+    "topic": "Comparative Education",
     "complexity_score": 2
   },
   {
-    "question": "The lesson explained that we say 'The cow is a useful animal' but not 'The houses have become expensive'. What is the reason for this difference?",
-    "correct": "'The' is used when a singular noun represents a whole class, but not when a plural noun does.",
+    "question": "If you are walking on a path that follows the edge of a river, which preposition describes your movement in relation to the river?",
+    "correct": "along",
     "options": [
-      "'The' is used when a singular noun represents a whole class, but not when a plural noun does.",
-      "We use 'the' for animals but not for buildings.",
-      "There is no difference; both should use 'the'.",
-      "The rule only applies to living things."
+      "into",
+      "upon",
+      "along",
+      "through"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Class Representation",
+    "topic": "Prepositions",
     "complexity_score": 2
   },
   {
-    "question": "In the story, the character met 'the Italian singers'. Why is 'the' used before 'Italian'?",
-    "correct": "Because 'Italian' is a word that denotes nationality.",
+    "question": "Based on the description of class sizes, in which country is a teacher more likely to know each child very well personally?",
+    "correct": "Finland, due to smaller class sizes",
     "options": [
-      "Because the singers were famous.",
-      "Because 'Italian' is a word that denotes nationality.",
-      "Because all groups of people use 'the'.",
-      "Because they were in a train."
+      "India, because there are more students",
+      "Finland, due to smaller class sizes",
+      "Both, as class size doesn't affect teacher relationships",
+      "India, because teachers are less respected"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Article Use with Nationalities",
+    "topic": "Comparative Education",
     "complexity_score": 2
   },
   {
-    "question": "The teacher mentioned 'the First World War' as an example of using 'the' before what?",
-    "correct": "Historical events",
+    "question": "The teacher gave an example: 'The cat is jumping upon the table.' What is the key difference between using 'upon' and 'on' in this context?",
+    "correct": "'Upon' implies movement onto the surface, while 'on' implies a static position.",
     "options": [
-      "Wars in general",
-      "Historical events",
-      "Numbers",
-      "Proper nouns"
+      "There is no difference; they are interchangeable.",
+      "'On' is for big tables, 'upon' is for small tables.",
+      "'Upon' implies movement onto the surface, while 'on' implies a static position.",
+      "'Upon' is used for animals, while 'on' is used for objects."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Article Use with Historical Events",
+    "topic": "Prepositions",
     "complexity_score": 2
   },
   {
-    "question": "We normally don't use 'the' with 'water', but the teacher gave an example where it is correct. In which situation would you say 'the water'?",
-    "correct": "When referring to a specific body of water, like 'the water in that bucket'.",
+    "question": "The quiz review mentioned using 'the' before a superlative, like 'the best actor'. Which of the following phrases correctly uses this rule?",
+    "correct": "the tallest building",
     "options": [
-      "When you are very thirsty.",
-      "When referring to a specific body of water, like 'the water in that bucket'.",
-      "When talking about oceans.",
-      "It is never correct to say 'the water'."
+      "a better student",
+      "the good idea",
+      "the tallest building",
+      "an amazing teacher"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Specific vs. General Uncountable Nouns",
+    "topic": "Articles",
     "complexity_score": 2
   },
   {
-    "question": "The story mentioned 'I booked that train ticket for the Vande Bharat Express.' This is an example of using 'the' before the names of what?",
-    "correct": "Trains, ships, and airplanes",
+    "question": "If you needed to pass through a tunnel to get to the other side of a mountain, which preposition would you use to describe your journey?",
+    "correct": "through",
     "options": [
-      "All forms of transportation",
-      "Political groups",
-      "Express tickets",
-      "Trains, ships, and airplanes"
+      "along",
+      "into",
+      "through",
+      "by"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Article Use with Transportation Names",
+    "topic": "Prepositions",
     "complexity_score": 2
   },
   {
-    "question": "In the story, the character saw 'the principal of my school'. Why is 'the' used before 'principal'?",
-    "correct": "Because it is a specific, important post or designation.",
+    "question": "The teacher explained that in Finland, educators are treated with the same respect as doctors and engineers. What is the likely outcome of this societal view?",
+    "correct": "It attracts highly qualified individuals to the teaching profession.",
     "options": [
-      "Because all job titles use 'the'.",
-      "Because the principal was on a train.",
-      "Because it is a specific, important post or designation.",
-      "Because the school was mentioned earlier."
+      "Teachers have less freedom in their classrooms.",
+      "It leads to fewer people wanting to become teachers.",
+      "It attracts highly qualified individuals to the teaching profession.",
+      "Schools become more focused on exams and scores."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Article Use with Posts/Designations",
+    "topic": "Finland Education System",
     "complexity_score": 2
   },
   {
-    "question": "The teacher used the example 'I saw some BJP politicians'. 'BJP' is a political group. What other types of groups mentioned in the lesson also use 'the'?",
-    "correct": "Religious, cultural, and social groups",
+    "question": "The teacher used the preposition 'by' to mean 'next to' or 'beside'. Which sentence correctly uses 'by' in this way?",
+    "correct": "The lamp is placed by the sofa.",
     "options": [
-      "Groups of friends and family",
-      "Groups of students",
-      "Religious, cultural, and social groups",
-      "Only political groups use 'the'."
+      "The project was completed by the student.",
+      "We will travel by train.",
+      "The lamp is placed by the sofa.",
+      "I will finish the work by 5 PM."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Article Use with Groups",
+    "topic": "Prepositions",
     "complexity_score": 2
   },
   {
-    "question": "Consider the sentence: 'A terrorist planted a bomb in the school.' Why is 'the school' correct here, even though students 'go to school'?",
-    "correct": "Because the school is not being used for its primary purpose of education.",
+    "question": "The discussion highlighted that Finland's system has 'no comparing kids' and 'less ranking'. This approach directly challenges which common feature of the Indian system described in the transcript?",
+    "correct": "The stress related to marks and exams.",
     "options": [
-      "Because the school is a specific building.",
-      "It is an error; it should be 'in school'.",
-      "Because the school is not being used for its primary purpose of education.",
-      "Because 'bomb' is a specific noun."
+      "The focus on math and science.",
+      "The large class sizes.",
+      "The provision of mid-day meals.",
+      "The stress related to marks and exams."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Primary Purpose Rule (Exception)",
+    "topic": "Comparative Education",
     "complexity_score": 3
   },
   {
-    "question": "In the sentence, 'Give me the book which I had given you yesterday,' why must 'the' be used before 'book'?",
-    "correct": "Because it refers to a specific book that has been clearly identified.",
+    "question": "The student's experience with the 'boat' project, where the winner was allegedly predetermined, highlights a key problem that the Finnish system tries to solve. What is that problem?",
+    "correct": "External factors and unfairness demotivating students.",
     "options": [
-      "Because all books use 'the'.",
-      "Because the action happened yesterday.",
-      "Because it refers to a specific book that has been clearly identified.",
-      "Because it is a command."
+      "Students not having enough arts and crafts supplies.",
+      "The difficulty of building real robotics.",
+      "External factors and unfairness demotivating students.",
+      "The need for more group projects in schools."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Article Use for Specificity",
+    "topic": "Student Motivation & Education Systems",
     "complexity_score": 3
   },
   {
-    "question": "The teacher gave the example: 'The more you study, the more marks you get.' What specific idea does this special use of 'the' convey?",
-    "correct": "A sense of proportion (as one thing increases, so does another).",
+    "question": "The teacher mentioned several of their own projects (Tesla coil, automatic car). How did this connect to the main theme of the discussion about education?",
+    "correct": "It served as an example of the exciting, practical, hands-on learning that the Finnish system encourages.",
     "options": [
-      "A sense of selection between two options.",
-      "A sense of superlative quality.",
-      "A sense of proportion (as one thing increases, so does another).",
-      "It is just a common phrase with no special rule."
+      "It was to show that robotics is too difficult for young students.",
+      "It was a random story unrelated to the topic of education.",
+      "It served as an example of the exciting, practical, hands-on learning that the Finnish system encourages.",
+      "It was to prove that only teachers can build complex things."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Comparative Degree with Proportion",
+    "topic": "Pedagogy and Learning Styles",
     "complexity_score": 3
   },
   {
-    "question": "Based on the lesson's rules, which of the following sentences contains an error in article usage?",
-    "correct": "He speaks the Hindi fluently.",
+    "question": "Considering the principles of the Finnish system ('learn by doing'), how would a Finnish teacher likely assess a student's understanding of engineering?",
+    "correct": "By observing them build a small, functional bridge or robot.",
     "options": [
-      "The Indian Ocean is vast.",
-      "She plays the violin beautifully.",
-      "He speaks the Hindi fluently.",
-      "The Moon is bright tonight."
+      "Through a multiple-choice test on engineering formulas.",
+      "By asking them to memorize and write an essay about a famous engineer.",
+      "By observing them build a small, functional bridge or robot.",
+      "By grading their notes taken during a lecture."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Identifying Errors (Languages)",
+    "topic": "Comparative Education",
     "complexity_score": 3
   },
   {
-    "question": "The teacher gave an example: 'He is the Donald Trump of our class.' Why is 'the' used before a person's name, which is normally incorrect?",
-    "correct": "Because the proper noun is being used like a common noun to describe a type of person.",
+    "question": "The quiz review mentioned the sentence 'He is the Virat Kohli of our team,' where 'the' is used before a name. Why is this an exception to the rule?",
+    "correct": "The proper noun (Virat Kohli) is being used like a common noun to represent a quality (a great player).",
     "options": [
-      "Because Donald Trump is a unique person.",
-      "Because the proper noun is being used like a common noun to describe a type of person.",
-      "It is a mistake; we should not use 'the' with names.",
-      "Because it is referring to the whole class."
+      "Because Virat Kohli is a very famous person.",
+      "It is an error and should not be used.",
+      "The proper noun (Virat Kohli) is being used like a common noun to represent a quality (a great player).",
+      "Because the sentence is talking about a specific team."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Proper Nouns as Common Nouns",
+    "topic": "Articles",
     "complexity_score": 3
   },
   {
-    "question": "Another special case mentioned was 'You are the better student' when comparing two people. What idea does using 'the' before a comparative like 'better' show here?",
-    "correct": "A sense of selection between two specific options.",
+    "question": "The lesson on prepositions builds on what fundamental aspect of language that was also key in the 'articles' review?",
+    "correct": "The importance of context in choosing the correct word to show relationships between objects and ideas.",
     "options": [
-      "A sense of proportion.",
-      "A sense of selection between two specific options.",
-      "It is a superlative in disguise.",
-      "It means the student is the best in the world."
+      "The rule that every sentence must have a verb.",
+      "The difference between vowels and consonants.",
+      "The importance of context in choosing the correct word to show relationships between objects and ideas.",
+      "The memorization of spelling and vocabulary lists."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Comparative Degree with Selection",
+    "topic": "Language Concepts",
     "complexity_score": 3
   }
 ]
