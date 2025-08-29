@@ -1,68 +1,26 @@
 [
   {
-    "question": "According to the lesson, at what age do children in Finland typically start formal schooling?",
-    "correct": "Seven years old",
+    "question": "In the 'Game of 21', what is the first number you should say if you start the game and want to guarantee a win?",
+    "correct": "1",
     "options": [
-      "Three years old",
-      "Five years old",
-      "Seven years old",
-      "Nine years old"
+      "21",
+      "4",
+      "1",
+      "5"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Finland Education System",
+    "topic": "Game of 21 Strategy",
     "complexity_score": 1
   },
   {
-    "question": "Which preposition is used to describe something located on the surface of an object, like a book on a desk?",
-    "correct": "on",
+    "question": "Which sentence correctly uses the preposition 'on' as discussed in the class?",
+    "correct": "The pencil is on the table.",
     "options": [
-      "in",
-      "into",
-      "on",
-      "through"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Prepositions",
-    "complexity_score": 1
-  },
-  {
-    "question": "In the comparison between Finland and India, which country's education system was described as having very little homework?",
-    "correct": "Finland",
-    "options": [
-      "India",
-      "Both have a lot",
-      "Finland",
-      "Neither have any"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Comparative Education",
-    "complexity_score": 1
-  },
-  {
-    "question": "The lesson mentioned that in Finland, subjects like arts, music, and sports are given as much importance as what other subjects?",
-    "correct": "Math and Science",
-    "options": [
-      "History and Geography",
-      "Languages and Literature",
-      "Math and Science",
-      "Computer Programming"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Finland Education System",
-    "complexity_score": 1
-  },
-  {
-    "question": "If you are moving from outside a house to inside it, which preposition did the teacher say is best to use?",
-    "correct": "into",
-    "options": [
-      "in",
-      "on",
-      "into",
-      "from"
+      "He is jumping on the wall.",
+      "The pencil is on the table.",
+      "The cat is on the box.",
+      "I am going on the room."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -70,41 +28,83 @@
     "complexity_score": 1
   },
   {
-    "question": "According to the quiz review, why is it correct to say 'the principal' of a school?",
-    "correct": "Because it refers to an important post or designation",
+    "question": "If you are talking about two people, which preposition should you use to describe something positioned in the middle of them?",
+    "correct": "between",
     "options": [
-      "Because 'principal' starts with a consonant",
-      "It is only correct if you know their name",
-      "Because it refers to an important post or designation",
-      "It is never correct to say 'the principal'"
+      "among",
+      "with",
+      "between",
+      "across"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Articles",
+    "topic": "Prepositions",
     "complexity_score": 1
   },
   {
-    "question": "The teacher contrasted Finland's practical learning with India's focus on memorization. Which activity would best represent Finland's approach to learning about botany?",
-    "correct": "Working in a garden with actual plants",
+    "question": "What does the preposition 'behind' mean?",
+    "correct": "At the back of something.",
     "options": [
-      "Reading a textbook chapter about plants",
-      "Memorizing the names of 100 different flowers for a test",
-      "Working in a garden with actual plants",
-      "Watching a video about photosynthesis"
+      "Next to something.",
+      "In the middle of something.",
+      "At the back of something.",
+      "Above something."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Prepositions",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which word means 'in addition to' or 'apart from'?",
+    "correct": "Besides",
+    "options": [
+      "Beside",
+      "By",
+      "Besides",
+      "Between"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Prepositions",
+    "complexity_score": 1
+  },
+  {
+    "question": "The winning strategy for the 'Game of 21' is based on a sequence of numbers. What is the rule to get from one number to the next in the sequence (1, 5, 9...)?",
+    "correct": "Add 4",
+    "options": [
+      "Add 3",
+      "Add 5",
+      "Add 4",
+      "Multiply by 2"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Game of 21 Strategy",
+    "complexity_score": 1
+  },
+  {
+    "question": "In the game, if your opponent has just said a number that brings the total to 6, what is the next number in the winning sequence you should try to land on?",
+    "correct": "9",
+    "options": [
+      "7",
+      "13",
+      "9",
+      "10"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Comparative Education",
+    "topic": "Game of 21 Strategy",
     "complexity_score": 2
   },
   {
-    "question": "If you are walking on a path that follows the edge of a river, which preposition describes your movement in relation to the river?",
-    "correct": "along",
+    "question": "Choose the sentence that correctly uses 'into' to show movement from outside to inside.",
+    "correct": "The boy is jumping into the pool.",
     "options": [
-      "into",
-      "upon",
-      "along",
-      "through"
+      "The pen is into the box.",
+      "The boy is jumping into the pool.",
+      "The bus is into the station.",
+      "My house is into the street."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -112,27 +112,13 @@
     "complexity_score": 2
   },
   {
-    "question": "Based on the description of class sizes, in which country is a teacher more likely to know each child very well personally?",
-    "correct": "Finland, due to smaller class sizes",
+    "question": "The teacher explained that 'above' is often used for levels or expectations. Which sentence is the best example of this?",
+    "correct": "You performed above my expectations.",
     "options": [
-      "India, because there are more students",
-      "Finland, due to smaller class sizes",
-      "Both, as class size doesn't affect teacher relationships",
-      "India, because teachers are less respected"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Comparative Education",
-    "complexity_score": 2
-  },
-  {
-    "question": "The teacher gave an example: 'The cat is jumping upon the table.' What is the key difference between using 'upon' and 'on' in this context?",
-    "correct": "'Upon' implies movement onto the surface, while 'on' implies a static position.",
-    "options": [
-      "There is no difference; they are interchangeable.",
-      "'On' is for big tables, 'upon' is for small tables.",
-      "'Upon' implies movement onto the surface, while 'on' implies a static position.",
-      "'Upon' is used for animals, while 'on' is used for objects."
+      "The plane is flying above the city.",
+      "The fan is above my head.",
+      "You performed above my expectations.",
+      "The cat jumped above the table."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -140,27 +126,13 @@
     "complexity_score": 2
   },
   {
-    "question": "The quiz review mentioned using 'the' before a superlative, like 'the best actor'. Which of the following phrases correctly uses this rule?",
-    "correct": "the tallest building",
+    "question": "What is the key difference between 'between' and 'among'?",
+    "correct": "'Between' is for two things, while 'among' is for more than two.",
     "options": [
-      "a better student",
-      "the good idea",
-      "the tallest building",
-      "an amazing teacher"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Articles",
-    "complexity_score": 2
-  },
-  {
-    "question": "If you needed to pass through a tunnel to get to the other side of a mountain, which preposition would you use to describe your journey?",
-    "correct": "through",
-    "options": [
-      "along",
-      "into",
-      "through",
-      "by"
+      "'Between' is for people, 'among' is for objects.",
+      "'Between' shows movement, 'among' shows a static position.",
+      "'Between' is for two things, while 'among' is for more than two.",
+      "There is no difference; they mean the same thing."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -168,27 +140,13 @@
     "complexity_score": 2
   },
   {
-    "question": "The teacher explained that in Finland, educators are treated with the same respect as doctors and engineers. What is the likely outcome of this societal view?",
-    "correct": "It attracts highly qualified individuals to the teaching profession.",
+    "question": "Which sentence correctly shows the difference between 'beside' and 'besides'?",
+    "correct": "I am sitting beside Anaya; besides, I also like to play games.",
     "options": [
-      "Teachers have less freedom in their classrooms.",
-      "It leads to fewer people wanting to become teachers.",
-      "It attracts highly qualified individuals to the teaching profession.",
-      "Schools become more focused on exams and scores."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Finland Education System",
-    "complexity_score": 2
-  },
-  {
-    "question": "The teacher used the preposition 'by' to mean 'next to' or 'beside'. Which sentence correctly uses 'by' in this way?",
-    "correct": "The lamp is placed by the sofa.",
-    "options": [
-      "The project was completed by the student.",
-      "We will travel by train.",
-      "The lamp is placed by the sofa.",
-      "I will finish the work by 5 PM."
+      "Besides the chair, I like pasta.",
+      "I am sitting besides the table.",
+      "I am sitting beside Anaya; besides, I also like to play games.",
+      "Besides, the phone is next to the laptop."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -196,87 +154,129 @@
     "complexity_score": 2
   },
   {
-    "question": "The discussion highlighted that Finland's system has 'no comparing kids' and 'less ranking'. This approach directly challenges which common feature of the Indian system described in the transcript?",
-    "correct": "The stress related to marks and exams.",
+    "question": "The preposition 'by' has multiple meanings. Which of the following is NOT an example of how 'by' was used in the lesson?",
+    "correct": "This book is by my favorite author.",
     "options": [
-      "The focus on math and science.",
-      "The large class sizes.",
-      "The provision of mid-day meals.",
-      "The stress related to marks and exams."
+      "Please finish the project by Monday.",
+      "I am travelling by car.",
+      "The phone is placed by the laptop.",
+      "This book is by my favorite author."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Prepositions",
+    "complexity_score": 2
+  },
+  {
+    "question": "If you are speaking in support of your school, you are speaking...",
+    "correct": "in favor of your school.",
+    "options": [
+      "against your school.",
+      "besides your school.",
+      "in favor of your school.",
+      "among your school."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Prepositions",
+    "complexity_score": 2
+  },
+  {
+    "question": "Select the sentence that best describes a situation for using 'across'.",
+    "correct": "I need to swim across the river to get to the other side.",
+    "options": [
+      "The bird is flying over the river.",
+      "I am walking along the river bank.",
+      "The bridge goes over the river.",
+      "I need to swim across the river to get to the other side."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Prepositions",
+    "complexity_score": 2
+  },
+  {
+    "question": "In the 'Game of 21', why is landing on the number 17 so important for the winning player?",
+    "correct": "It forces the opponent to say 18, 19, or 20, allowing you to say 21.",
+    "options": [
+      "It is the highest number in the winning sequence.",
+      "It forces the opponent to say 18, 19, or 20, allowing you to say 21.",
+      "It means you can add 4 to reach 21 directly.",
+      "It's the luckiest number in the game."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Comparative Education",
+    "topic": "Game of 21 Strategy",
     "complexity_score": 3
   },
   {
-    "question": "The student's experience with the 'boat' project, where the winner was allegedly predetermined, highlights a key problem that the Finnish system tries to solve. What is that problem?",
-    "correct": "External factors and unfairness demotivating students.",
+    "question": "Your opponent in the 'Game of 21' doesn't know the strategy and starts by saying '2'. What is the fastest way for you to get onto the winning sequence?",
+    "correct": "You say '3' to land on the total of 5.",
     "options": [
-      "Students not having enough arts and crafts supplies.",
-      "The difficulty of building real robotics.",
-      "External factors and unfairness demotivating students.",
-      "The need for more group projects in schools."
+      "You say '1' to reach a total of 3.",
+      "You say '2' to reach a total of 4.",
+      "You say '3' to land on the total of 5.",
+      "You must wait for them to make another mistake."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Student Motivation & Education Systems",
+    "topic": "Game of 21 Strategy",
     "complexity_score": 3
   },
   {
-    "question": "The teacher mentioned several of their own projects (Tesla coil, automatic car). How did this connect to the main theme of the discussion about education?",
-    "correct": "It served as an example of the exciting, practical, hands-on learning that the Finnish system encourages.",
+    "question": "The teacher explained a subtle difference between 'over' and 'above'. 'Over' is often better for movement or covering. Based on this, which sentence is the most precise?",
+    "correct": "The plane is flying over my house.",
     "options": [
-      "It was to show that robotics is too difficult for young students.",
-      "It was a random story unrelated to the topic of education.",
-      "It served as an example of the exciting, practical, hands-on learning that the Finnish system encourages.",
-      "It was to prove that only teachers can build complex things."
+      "The temperature is over 100 degrees.",
+      "His score is over mine.",
+      "The plane is flying over my house.",
+      "Your thinking level is over his."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Pedagogy and Learning Styles",
+    "topic": "Prepositions",
     "complexity_score": 3
   },
   {
-    "question": "Considering the principles of the Finnish system ('learn by doing'), how would a Finnish teacher likely assess a student's understanding of engineering?",
-    "correct": "By observing them build a small, functional bridge or robot.",
+    "question": "Based on the discussion, when is it best to use 'underneath' instead of 'under'?",
+    "correct": "When something is physically covered by another object.",
     "options": [
-      "Through a multiple-choice test on engineering formulas.",
-      "By asking them to memorize and write an essay about a famous engineer.",
-      "By observing them build a small, functional bridge or robot.",
-      "By grading their notes taken during a lecture."
+      "When talking about a lower rank or status.",
+      "When an object is far below another object.",
+      "When something is physically covered by another object.",
+      "They are always interchangeable with no difference in meaning."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Comparative Education",
+    "topic": "Prepositions",
     "complexity_score": 3
   },
   {
-    "question": "The quiz review mentioned the sentence 'He is the Virat Kohli of our team,' where 'the' is used before a name. Why is this an exception to the rule?",
-    "correct": "The proper noun (Virat Kohli) is being used like a common noun to represent a quality (a great player).",
+    "question": "The teacher mentioned 'lying is beneath me' as a figurative use of a preposition. What does this phrase imply?",
+    "correct": "Lying is against my moral standards or below my dignity.",
     "options": [
-      "Because Virat Kohli is a very famous person.",
-      "It is an error and should not be used.",
-      "The proper noun (Virat Kohli) is being used like a common noun to represent a quality (a great player).",
-      "Because the sentence is talking about a specific team."
+      "I am physically lying underneath something.",
+      "I am telling a lie about something below me.",
+      "Lying is against my moral standards or below my dignity.",
+      "Someone is lying under me."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Articles",
+    "topic": "Prepositions",
     "complexity_score": 3
   },
   {
-    "question": "The lesson on prepositions builds on what fundamental aspect of language that was also key in the 'articles' review?",
-    "correct": "The importance of context in choosing the correct word to show relationships between objects and ideas.",
+    "question": "Consider the two sentences: 'I have been playing since 5 PM.' and 'I have been playing for two hours.' What is the fundamental difference in the information provided by 'since' and 'for'?",
+    "correct": "'Since' indicates the starting point of an action, while 'for' indicates the duration.",
     "options": [
-      "The rule that every sentence must have a verb.",
-      "The difference between vowels and consonants.",
-      "The importance of context in choosing the correct word to show relationships between objects and ideas.",
-      "The memorization of spelling and vocabulary lists."
+      "'Since' is used for past events, and 'for' is for future events.",
+      "'Since' indicates the starting point of an action, while 'for' indicates the duration.",
+      "'For' is used with numbers, and 'since' is used with names of months.",
+      "They have the same meaning but 'since' is more formal."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Language Concepts",
+    "topic": "Prepositions",
     "complexity_score": 3
   }
 ]
