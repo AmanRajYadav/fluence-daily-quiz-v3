@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the 'Game of 21', what is the first number you should say if you start the game and want to guarantee a win?",
-    "correct": "1",
+    "question": "According to the lesson, which articles are called 'indefinite articles' because they refer to any general person or thing?",
+    "correct": "A and An",
     "options": [
-      "21",
-      "4",
-      "1",
-      "5"
+      "The and A",
+      "Only The",
+      "A and An",
+      "Only An"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Game of 21 Strategy",
+    "topic": "Articles",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence correctly uses the preposition 'on' as discussed in the class?",
-    "correct": "The pencil is on the table.",
+    "question": "The definite article 'the' is used to refer to what kind of person or thing?",
+    "correct": "A particular or specific one",
     "options": [
-      "He is jumping on the wall.",
-      "The pencil is on the table.",
-      "The cat is on the box.",
-      "I am going on the room."
+      "Any general one",
+      "A plural one",
+      "An unknown one",
+      "A particular or specific one"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Prepositions",
+    "topic": "Articles",
     "complexity_score": 1
   },
   {
-    "question": "If you are talking about two people, which preposition should you use to describe something positioned in the middle of them?",
-    "correct": "between",
+    "question": "What is the 'superlative degree' of the adjective 'good'?",
+    "correct": "Best",
     "options": [
-      "among",
-      "with",
-      "between",
-      "across"
+      "Goodest",
+      "Better",
+      "Best",
+      "More good"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Prepositions",
+    "topic": "Adjectives & Articles",
     "complexity_score": 1
   },
   {
-    "question": "What does the preposition 'behind' mean?",
-    "correct": "At the back of something.",
+    "question": "Which of the following is an example of a 'scripture' where you would use 'the' before its name?",
+    "correct": "The Gita",
     "options": [
-      "Next to something.",
-      "In the middle of something.",
-      "At the back of something.",
-      "Above something."
+      "The Notebook",
+      "The Gita",
+      "The Dictionary",
+      "The Valorant"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Prepositions",
+    "topic": "Articles",
     "complexity_score": 1
   },
   {
-    "question": "Which word means 'in addition to' or 'apart from'?",
-    "correct": "Besides",
+    "question": "The main rule for using 'an' is when a word begins with a...",
+    "correct": "vowel sound",
     "options": [
-      "Beside",
-      "By",
-      "Besides",
-      "Between"
+      "vowel letter (a, e, i, o, u)",
+      "consonant letter",
+      "vowel sound",
+      "letter 'h'"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Prepositions",
+    "topic": "Articles",
     "complexity_score": 1
   },
   {
-    "question": "The winning strategy for the 'Game of 21' is based on a sequence of numbers. What is the rule to get from one number to the next in the sequence (1, 5, 9...)?",
-    "correct": "Add 4",
+    "question": "You would use 'the' before the names of famous newspapers, like...",
+    "correct": "The Hindustan Times",
     "options": [
-      "Add 3",
-      "Add 5",
-      "Add 4",
-      "Multiply by 2"
+      "A Hindustan Times",
+      "My Hindustan Times",
+      "An Hindustan Times",
+      "The Hindustan Times"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Game of 21 Strategy",
+    "topic": "Articles",
     "complexity_score": 1
   },
   {
-    "question": "In the game, if your opponent has just said a number that brings the total to 6, what is the next number in the winning sequence you should try to land on?",
-    "correct": "9",
+    "question": "Which sentence correctly uses an article with an occupation?",
+    "correct": "My father is an engineer.",
     "options": [
-      "7",
-      "13",
-      "9",
-      "10"
+      "My father is the engineer.",
+      "My father is engineer.",
+      "My father is an engineer.",
+      "My father is some engineer."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Game of 21 Strategy",
+    "topic": "Articles",
     "complexity_score": 2
   },
   {
-    "question": "Choose the sentence that correctly uses 'into' to show movement from outside to inside.",
-    "correct": "The boy is jumping into the pool.",
+    "question": "Choose the correct article for the blank: 'Mount Everest is _____ tallest mountain in the world.'",
+    "correct": "the",
     "options": [
-      "The pen is into the box.",
-      "The boy is jumping into the pool.",
-      "The bus is into the station.",
-      "My house is into the street."
+      "a",
+      "an",
+      "the",
+      "no article needed"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Prepositions",
+    "topic": "Articles",
     "complexity_score": 2
   },
   {
-    "question": "The teacher explained that 'above' is often used for levels or expectations. Which sentence is the best example of this?",
-    "correct": "You performed above my expectations.",
+    "question": "Based on the 'vowel sound' rule, which article should be used before the word 'university'?",
+    "correct": "a",
     "options": [
-      "The plane is flying above the city.",
-      "The fan is above my head.",
-      "You performed above my expectations.",
-      "The cat jumped above the table."
+      "a",
+      "an",
+      "the",
+      "none"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Prepositions",
+    "topic": "Articles",
     "complexity_score": 2
   },
   {
-    "question": "What is the key difference between 'between' and 'among'?",
-    "correct": "'Between' is for two things, while 'among' is for more than two.",
+    "question": "The lesson explained that we use 'the' before the names of countries with descriptive names or abbreviations. Which example fits this rule?",
+    "correct": "The USA",
     "options": [
-      "'Between' is for people, 'among' is for objects.",
-      "'Between' shows movement, 'among' shows a static position.",
-      "'Between' is for two things, while 'among' is for more than two.",
-      "There is no difference; they mean the same thing."
+      "The India",
+      "The Japan",
+      "The USA",
+      "The Canada"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Prepositions",
+    "topic": "Articles",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly shows the difference between 'beside' and 'besides'?",
-    "correct": "I am sitting beside Anaya; besides, I also like to play games.",
+    "question": "Which of these requires the article 'the' before it, according to the rules discussed?",
+    "correct": "The Indian Ocean",
     "options": [
-      "Besides the chair, I like pasta.",
-      "I am sitting besides the table.",
-      "I am sitting beside Anaya; besides, I also like to play games.",
-      "Besides, the phone is next to the laptop."
+      "Lake Superior",
+      "The Indian Ocean",
+      "Mount K2",
+      "Delhi City"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Prepositions",
+    "topic": "Articles",
     "complexity_score": 2
   },
   {
-    "question": "The preposition 'by' has multiple meanings. Which of the following is NOT an example of how 'by' was used in the lesson?",
-    "correct": "This book is by my favorite author.",
+    "question": "According to the lesson's Hindi alphabet trick, a word with a sound from 'क to ज्ञ' (ka to gya) would likely use which article?",
+    "correct": "a",
     "options": [
-      "Please finish the project by Monday.",
-      "I am travelling by car.",
-      "The phone is placed by the laptop.",
-      "This book is by my favorite author."
+      "an",
+      "the",
+      "a",
+      "it depends on the spelling"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Prepositions",
-    "complexity_score": 2
-  },
-  {
-    "question": "If you are speaking in support of your school, you are speaking...",
-    "correct": "in favor of your school.",
-    "options": [
-      "against your school.",
-      "besides your school.",
-      "in favor of your school.",
-      "among your school."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Prepositions",
-    "complexity_score": 2
-  },
-  {
-    "question": "Select the sentence that best describes a situation for using 'across'.",
-    "correct": "I need to swim across the river to get to the other side.",
-    "options": [
-      "The bird is flying over the river.",
-      "I am walking along the river bank.",
-      "The bridge goes over the river.",
-      "I need to swim across the river to get to the other side."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Prepositions",
-    "complexity_score": 2
-  },
-  {
-    "question": "In the 'Game of 21', why is landing on the number 17 so important for the winning player?",
-    "correct": "It forces the opponent to say 18, 19, or 20, allowing you to say 21.",
-    "options": [
-      "It is the highest number in the winning sequence.",
-      "It forces the opponent to say 18, 19, or 20, allowing you to say 21.",
-      "It means you can add 4 to reach 21 directly.",
-      "It's the luckiest number in the game."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Game of 21 Strategy",
+    "topic": "Articles",
     "complexity_score": 3
   },
   {
-    "question": "Your opponent in the 'Game of 21' doesn't know the strategy and starts by saying '2'. What is the fastest way for you to get onto the winning sequence?",
-    "correct": "You say '3' to land on the total of 5.",
+    "question": "Complete the sentence as discussed in class: 'I have a pet. She loves to play with _____ pet.'",
+    "correct": "the",
     "options": [
-      "You say '1' to reach a total of 3.",
-      "You say '2' to reach a total of 4.",
-      "You say '3' to land on the total of 5.",
-      "You must wait for them to make another mistake."
+      "a",
+      "an",
+      "the",
+      "her"
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Game of 21 Strategy",
+    "topic": "Articles",
     "complexity_score": 3
   },
   {
-    "question": "The teacher explained a subtle difference between 'over' and 'above'. 'Over' is often better for movement or covering. Based on this, which sentence is the most precise?",
-    "correct": "The plane is flying over my house.",
+    "question": "Which sentence correctly applies the rule for historical events?",
+    "correct": "We studied The Battle of Panipat.",
     "options": [
-      "The temperature is over 100 degrees.",
-      "His score is over mine.",
-      "The plane is flying over my house.",
-      "Your thinking level is over his."
+      "We studied a Battle of Panipat.",
+      "We studied Battle of Panipat.",
+      "We studied The Battle of Panipat.",
+      "We studied an Battle of Panipat."
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Prepositions",
+    "topic": "Articles",
     "complexity_score": 3
   },
   {
-    "question": "Based on the discussion, when is it best to use 'underneath' instead of 'under'?",
-    "correct": "When something is physically covered by another object.",
+    "question": "The teacher explained that when a proper noun (like a person's name) is used as a common noun to show quality, we use 'the'. Which sentence correctly demonstrates this advanced rule?",
+    "correct": "He is the Sachin Tendulkar of our team.",
     "options": [
-      "When talking about a lower rank or status.",
-      "When an object is far below another object.",
-      "When something is physically covered by another object.",
-      "They are always interchangeable with no difference in meaning."
+      "He is a Sachin Tendulkar of our team.",
+      "He is the Sachin Tendulkar of our team.",
+      "He is Sachin Tendulkar of our team.",
+      "He is an Sachin Tendulkar of our team."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Prepositions",
-    "complexity_score": 3
+    "topic": "Articles",
+    "complexity_score": 4
   },
   {
-    "question": "The teacher mentioned 'lying is beneath me' as a figurative use of a preposition. What does this phrase imply?",
-    "correct": "Lying is against my moral standards or below my dignity.",
+    "question": "Based on the lesson, why is it correct to say 'The Sun is very bright' but not 'The Mars is red'?",
+    "correct": "'The Sun' is considered a unique thing, and we don't typically use 'the' for planet names.",
     "options": [
-      "I am physically lying underneath something.",
-      "I am telling a lie about something below me.",
-      "Lying is against my moral standards or below my dignity.",
-      "Someone is lying under me."
+      "Both sentences are incorrect.",
+      "'The Sun' is considered a unique thing, and we don't typically use 'the' for planet names.",
+      "You should use 'a' for planets.",
+      "It's an exception you just have to memorize without a rule."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Prepositions",
-    "complexity_score": 3
+    "topic": "Articles",
+    "complexity_score": 4
   },
   {
-    "question": "Consider the two sentences: 'I have been playing since 5 PM.' and 'I have been playing for two hours.' What is the fundamental difference in the information provided by 'since' and 'for'?",
-    "correct": "'Since' indicates the starting point of an action, while 'for' indicates the duration.",
+    "question": "The lesson mentioned ordinal numbers (first, second, third). Which sentence correctly applies the article rule for them?",
+    "correct": "Please read the third chapter.",
     "options": [
-      "'Since' is used for past events, and 'for' is for future events.",
-      "'Since' indicates the starting point of an action, while 'for' indicates the duration.",
-      "'For' is used with numbers, and 'since' is used with names of months.",
-      "They have the same meaning but 'since' is more formal."
+      "Please read a third chapter.",
+      "Please read chapter a third.",
+      "Please read chapter third.",
+      "Please read the third chapter."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Prepositions",
-    "complexity_score": 3
+    "topic": "Articles",
+    "complexity_score": 4
+  },
+  {
+    "question": "If an object is known to both the speaker and the listener, which article is most appropriate? Example: 'My bike is at ____ service station on Mahatma Gandhi Road.' (assuming both know which one).",
+    "correct": "the",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Articles",
+    "complexity_score": 5
+  },
+  {
+    "question": "The lesson used the Hindi vowels 'अ to अः' (a to aha) as an analogy for sounds that take which article?",
+    "correct": "an",
+    "options": [
+      "a",
+      "the",
+      "an",
+      "no article"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Articles",
+    "complexity_score": 5
+  },
+  {
+    "question": "Which of the following is NOT a category for which the lesson stated we should use the article 'the'?",
+    "correct": "Names of individual mountains",
+    "options": [
+      "Names of mountain ranges",
+      "Names of oceans",
+      "Names of individual mountains",
+      "Names of famous buildings"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Articles",
+    "complexity_score": 4
   }
 ]
