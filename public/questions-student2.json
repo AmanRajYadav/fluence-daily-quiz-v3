@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the process called when heavy, insoluble impurities settle at the bottom of a liquid?",
-    "correct": "Sedimentation",
+    "question": "In a solution, what is the substance that gets dissolved called?",
+    "correct": "Solute",
     "options": [
-      "Filtration",
-      "Evaporation",
-      "Sedimentation",
-      "Decantation"
+      "Solvent",
+      "Solution",
+      "Solute",
+      "Residue"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Separating Mixtures",
+    "topic": "Solutions",
     "complexity_score": 1
   },
   {
-    "question": "In the process of filtration, what is the substance that passes through the filter called?",
+    "question": "What are liquids, like milk and water, that mix completely with each other called?",
+    "correct": "Miscible liquids",
+    "options": [
+      "Immiscible liquids",
+      "Saturated liquids",
+      "Miscible liquids",
+      "Solvent liquids"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Properties of Liquids",
+    "complexity_score": 1
+  },
+  {
+    "question": "Why is water often referred to as the 'universal solvent'?",
+    "correct": "Because it can dissolve a large number of substances.",
+    "options": [
+      "Because it is found everywhere in the universe.",
+      "Because it can dissolve all substances without exception.",
+      "Because it can dissolve a large number of substances.",
+      "Because its chemical formula is universal."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Solutions",
+    "complexity_score": 1
+  },
+  {
+    "question": "The substance that remains on the filter paper after filtration is known as the...",
+    "correct": "Residue",
+    "options": [
+      "Filtrate",
+      "Solute",
+      "Residue",
+      "Sediment"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Separation Methods",
+    "complexity_score": 1
+  },
+  {
+    "question": "A solution that cannot dissolve any more solute at a given temperature is called a...",
+    "correct": "Saturated solution",
+    "options": [
+      "Universal solution",
+      "Soluble solution",
+      "Saturated solution",
+      "Miscible solution"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Solutions",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the liquid that passes through the filter paper during filtration called?",
     "correct": "Filtrate",
     "options": [
-      "Residue",
-      "Sediment",
+      "Solvent",
       "Filtrate",
-      "Solvent"
+      "Residue",
+      "Solute"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Separating Mixtures",
+    "topic": "Separation Methods",
     "complexity_score": 1
   },
   {
-    "question": "Which method uses wind or blowing air to separate lighter components from heavier ones?",
-    "correct": "Winnowing",
+    "question": "When you mix oil and water, the oil forms the top layer. What does this observation tell you about oil?",
+    "correct": "It is less dense than water.",
     "options": [
-      "Sieving",
-      "Threshing",
-      "Winnowing",
-      "Hand picking"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Separating Mixtures",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which of the following geometric figures starts at one point and goes on infinitely in one direction?",
-    "correct": "A ray",
-    "options": [
-      "A line",
-      "A line segment",
-      "A ray",
-      "A point"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Geometry Basics",
-    "complexity_score": 1
-  },
-  {
-    "question": "Evaporation is the process of converting a liquid into what?",
-    "correct": "Vapor (gas)",
-    "options": [
-      "A solid",
-      "Another liquid",
-      "Vapor (gas)",
-      "A mixture"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Separating Mixtures",
-    "complexity_score": 1
-  },
-  {
-    "question": "How many perpendicular lines can be drawn from a single given point to a single given line?",
-    "correct": "Only one",
-    "options": [
-      "Two",
-      "Infinite",
-      "Only one",
-      "None"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Geometry Basics",
-    "complexity_score": 1
-  },
-  {
-    "question": "Why is winnowing NOT a suitable method for separating small stones from wheat?",
-    "correct": "The stones are too heavy to be blown away by the air.",
-    "options": [
-      "The stones are the same color as the wheat.",
-      "The stones are too small to be seen.",
-      "The stones are too heavy to be blown away by the air.",
-      "The wheat is heavier than the stones."
+      "It is heavier than water.",
+      "It is a universal solvent.",
+      "It is less dense than water.",
+      "It is miscible with water."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Separating Mixtures",
+    "topic": "Properties of Liquids",
     "complexity_score": 2
   },
   {
-    "question": "If you have a mixture of sand, salt, and iron filings, which tool should you use first to separate one component?",
-    "correct": "A magnet",
+    "question": "If you have a saturated salt solution at room temperature, what can you do to dissolve more salt into it?",
+    "correct": "Heat the solution",
     "options": [
-      "A filter paper",
-      "Water",
-      "A magnet",
-      "A sieve"
+      "Add more water",
+      "Stir it faster",
+      "Heat the solution",
+      "Cool the solution"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Separating Mixtures",
+    "topic": "Solutions",
     "complexity_score": 2
   },
   {
-    "question": "What is the key difference between Line AB and Ray AB?",
-    "correct": "Line AB extends infinitely in both directions, while Ray AB extends infinitely in only one direction.",
+    "question": "Which two methods discussed in the lesson are suitable for separating a mixture of mustard oil and water?",
+    "correct": "Decantation and using a separating funnel",
     "options": [
-      "There is no difference; they are the same.",
-      "Line AB is shorter than Ray AB.",
-      "Line AB extends infinitely in both directions, while Ray AB extends infinitely in only one direction.",
-      "Ray AB can be called Ray BA, but Line AB cannot be called Line BA."
+      "Filtration and evaporation",
+      "Distillation and filtration",
+      "Decantation and using a separating funnel",
+      "Reverse osmosis and decantation"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Geometry Basics",
+    "topic": "Separation Methods",
     "complexity_score": 2
   },
   {
-    "question": "The process of pouring out a liquid after sedimentation, without disturbing the settled solids, is called:",
-    "correct": "Decantation",
+    "question": "In a cup of sweet tea, the sugar is the ______ and the hot water is the ______.",
+    "correct": "solute; solvent",
     "options": [
-      "Filtration",
-      "Evaporation",
-      "Decantation",
-      "Condensation"
+      "solvent; solute",
+      "solution; solvent",
+      "solute; solvent",
+      "residue; filtrate"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Separating Mixtures",
+    "topic": "Solutions",
     "complexity_score": 2
   },
   {
-    "question": "To separate salt dissolved in water and recover ONLY the salt, which method is most commonly used?",
-    "correct": "Evaporation",
+    "question": "The lesson mentioned that home water purifiers often use 'RO'. This process relies on a special material called a...",
+    "correct": "Semi-permeable membrane",
     "options": [
-      "Filtration",
-      "Decantation",
-      "Evaporation",
-      "Sieving"
+      "Filter paper",
+      "Separating funnel",
+      "Semi-permeable membrane",
+      "Glass rod"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Separating Mixtures",
+    "topic": "Separation Methods",
     "complexity_score": 2
   },
   {
-    "question": "According to the lesson, what is the main source of Himalayan pink salt?",
-    "correct": "Ancient salt deposits mined from mountains",
+    "question": "If you cool down a hot, saturated sugar solution, what is the most likely outcome?",
+    "correct": "Some sugar will reappear at the bottom of the container.",
     "options": [
-      "Evaporation of current sea water",
-      "Salt collected from riverbeds",
-      "Ancient salt deposits mined from mountains",
-      "A chemical reaction in factories"
+      "The water will evaporate completely.",
+      "The solution will become unsaturated.",
+      "More sugar will be able to dissolve.",
+      "Some sugar will reappear at the bottom of the container."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Real-World Science",
+    "topic": "Solutions",
     "complexity_score": 2
   },
   {
-    "question": "What two processes are combined to perform distillation?",
-    "correct": "Evaporation and condensation",
+    "question": "In the experiment to separate oil and water, 'mustard oil forms the top layer' is an example of which step?",
+    "correct": "Observation",
     "options": [
-      "Sedimentation and decantation",
-      "Filtration and sieving",
-      "Evaporation and condensation",
-      "Threshing and winnowing"
+      "Aim",
+      "Procedure",
+      "Observation",
+      "Conclusion"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Separating Mixtures",
+    "topic": "Scientific Method",
     "complexity_score": 2
   },
   {
-    "question": "In an experiment to separate salt from water, a lit spirit lamp is placed under a tripod stand. What is the role of the spirit lamp?",
-    "correct": "To provide heat for evaporation",
+    "question": "Oil and water are described as immiscible liquids because they...",
+    "correct": "Do not mix and form separate layers.",
     "options": [
-      "To provide light to see the salt",
-      "To hold the China dish in place",
-      "To provide heat for evaporation",
-      "To condense the water vapor"
+      "Are both very dense.",
+      "Can only be separated by heating.",
+      "Dissolve solids easily.",
+      "Do not mix and form separate layers."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Scientific Process",
+    "topic": "Properties of Liquids",
     "complexity_score": 2
   },
   {
-    "question": "Why is Ray AB different from Ray BA?",
-    "correct": "They have different starting points and extend in opposite directions.",
+    "question": "A student finds that more salt can be dissolved in 100ml of water than sugar. What does this experiment demonstrate?",
+    "correct": "Salt and sugar have different solubilities in water.",
     "options": [
-      "They have different lengths.",
-      "One is a straight line and the other is curved.",
-      "They are the same, the naming is just a preference.",
-      "They have different starting points and extend in opposite directions."
+      "Salt is a better solvent than sugar.",
+      "Water is a solute for both.",
+      "Heating is required to dissolve sugar.",
+      "Salt and sugar have different solubilities in water."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Geometry Basics",
+    "topic": "Solutions",
     "complexity_score": 3
   },
   {
-    "question": "What is the primary advantage of distillation over evaporation when separating a salt water solution?",
-    "correct": "Distillation allows you to recover both the pure water and the salt.",
+    "question": "What is the primary advantage of using distillation to separate salt from water, compared to just boiling the water away (evaporation)?",
+    "correct": "Distillation collects the purified water, while evaporation does not.",
     "options": [
       "Distillation is much faster than evaporation.",
-      "Distillation does not require any heat.",
-      "Distillation allows you to recover both the pure water and the salt.",
-      "Distillation can be used for insoluble solids."
+      "Distillation uses less heat than evaporation.",
+      "Distillation collects the purified water, while evaporation does not.",
+      "Distillation can separate any type of mixture."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Separating Mixtures",
+    "topic": "Separation Methods",
     "complexity_score": 3
   },
   {
-    "question": "You are given a mixture of sand and sugar. Based on the separation methods discussed, what would be the first essential step to separate them?",
-    "correct": "Add water to the mixture to dissolve the sugar.",
+    "question": "A semi-permeable membrane lets water pass through but not impurities. This suggests the membrane works by...",
+    "correct": "Having pores that are larger than water molecules but smaller than impurity particles.",
     "options": [
-      "Use a magnet to pull out the sugar.",
-      "Sieve the mixture to separate the sand.",
-      "Add water to the mixture to dissolve the sugar.",
-      "Heat the mixture until the sand melts."
+      "Chemically reacting with the impurities.",
+      "Having an electrical charge that repels impurities.",
+      "Having pores that are larger than water molecules but smaller than impurity particles.",
+      "Melting the impurities so they cannot pass through."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Separating Mixtures",
+    "topic": "Separation Methods",
     "complexity_score": 3
   },
   {
-    "question": "Sea salt is obtained by evaporating sea water in shallow pits. What scientific principle explains why this process works?",
-    "correct": "The sun's energy causes the water to change state, leaving the dissolved solid salt behind.",
+    "question": "The lesson explains that solubility 'increases with an increase in the temperature'. What does this scientific principle mean in simple terms?",
+    "correct": "You can dissolve more of a substance in hot water than in cold water.",
     "options": [
-      "The salt is heavier than water and sinks to the bottom naturally.",
-      "The sun's energy causes the water to change state, leaving the dissolved solid salt behind.",
-      "The pits act as a filter, separating salt from water.",
-      "The sea water condenses, leaving pure salt."
+      "The hotter a substance is, the faster it dissolves.",
+      "You can dissolve more of a substance in hot water than in cold water.",
+      "Only hot water can create saturated solutions.",
+      "Temperature makes the solute particles bigger."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Real-World Science",
+    "topic": "Solutions",
     "complexity_score": 3
   },
   {
-    "question": "A student performs filtration and is left with tea leaves on the filter paper. The tea that passed through is collected in a beaker. In this scenario, the tea leaves are the ____ and the collected tea is the ____.",
-    "correct": "Residue, Filtrate",
+    "question": "If you used a separating funnel to separate oil and water, which liquid would you drain from the bottom tap first?",
+    "correct": "Water, because it is the denser bottom layer.",
     "options": [
-      "Filtrate, Residue",
-      "Sediment, Decantate",
-      "Residue, Filtrate",
-      "Solvent, Solute"
+      "Oil, because it is the lighter top layer.",
+      "It doesn't matter which one is drained first.",
+      "Water, because it is the denser bottom layer.",
+      "Both would come out at the same time."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Separating Mixtures",
+    "topic": "Separation Methods",
     "complexity_score": 3
   },
   {
-    "question": "A student claims to have separated a mixture of fine powder and larger pebbles using winnowing. Why is this approach likely to be ineffective?",
-    "correct": "Winnowing separates based on weight and reaction to wind; sieving separates based on particle size.",
+    "question": "Imagine you have a mixture of sand and salt. To separate them, you add water to dissolve the salt. What scientific property are you taking advantage of?",
+    "correct": "Salt is soluble in water, while sand is not.",
     "options": [
-      "Both powder and pebbles are solids, so they cannot be separated.",
-      "Winnowing only works for separating liquids.",
-      "The pebbles are too light and will blow away with the powder.",
-      "Winnowing separates based on weight and reaction to wind; sieving separates based on particle size."
+      "Sand is denser than salt.",
+      "Salt is a liquid and sand is a solid.",
+      "Salt is soluble in water, while sand is not.",
+      "Water is a universal solute."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Separating Mixtures",
+    "topic": "Properties of Matter",
     "complexity_score": 3
   }
 ]
