@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, which articles are called 'indefinite articles' because they refer to any general person or thing?",
-    "correct": "A and An",
+    "question": "Which of the following sentences is in the Active Voice?",
+    "correct": "I am cooking Maggie.",
     "options": [
-      "The and A",
-      "Only The",
-      "A and An",
-      "Only An"
+      "Maggie is being cooked by me.",
+      "The road is being made.",
+      "I am cooking Maggie.",
+      "Chocolates were eaten by me."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Articles",
+    "topic": "Active and Passive Voice Identification",
     "complexity_score": 1
   },
   {
-    "question": "The definite article 'the' is used to refer to what kind of person or thing?",
-    "correct": "A particular or specific one",
+    "question": "What is the correct passive form of the sentence: 'I watch TV'?",
+    "correct": "TV is watched by me.",
     "options": [
-      "Any general one",
-      "A plural one",
-      "An unknown one",
-      "A particular or specific one"
+      "TV watches me.",
+      "I am watched by TV.",
+      "TV is watched by me.",
+      "TV was watched by me."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Articles",
+    "topic": "Simple Present Tense Conversion",
     "complexity_score": 1
   },
   {
-    "question": "What is the 'superlative degree' of the adjective 'good'?",
-    "correct": "Best",
+    "question": "The sentence 'Valorant was played by me' is an example of:",
+    "correct": "Passive Voice",
     "options": [
-      "Goodest",
-      "Better",
-      "Best",
-      "More good"
+      "Active Voice",
+      "Passive Voice",
+      "Future Tense",
+      "Present Continuous Tense"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Adjectives & Articles",
+    "topic": "Active and Passive Voice Identification",
     "complexity_score": 1
   },
   {
-    "question": "Which of the following is an example of a 'scripture' where you would use 'the' before its name?",
-    "correct": "The Gita",
+    "question": "In the passive voice, the main verb is always in which form?",
+    "correct": "The past participle (V3)",
     "options": [
-      "The Notebook",
-      "The Gita",
-      "The Dictionary",
-      "The Valorant"
+      "The simple present (V1)",
+      "The simple past (V2)",
+      "The present participle (-ing)",
+      "The past participle (V3)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Articles",
+    "topic": "Core Rule of Passive Voice",
     "complexity_score": 1
   },
   {
-    "question": "The main rule for using 'an' is when a word begins with a...",
-    "correct": "vowel sound",
+    "question": "What is the correct passive form of the sentence: 'I ate chocolates'?",
+    "correct": "Chocolates were eaten by me.",
     "options": [
-      "vowel letter (a, e, i, o, u)",
-      "consonant letter",
-      "vowel sound",
-      "letter 'h'"
+      "Chocolates are eaten by me.",
+      "Chocolates were eaten by me.",
+      "Chocolates was eaten by me.",
+      "I was eaten by chocolates."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Articles",
+    "topic": "Simple Past Tense Conversion",
     "complexity_score": 1
   },
   {
-    "question": "You would use 'the' before the names of famous newspapers, like...",
-    "correct": "The Hindustan Times",
+    "question": "In the sentence 'English is taught by the teacher', who is performing the action of teaching?",
+    "correct": "The teacher",
     "options": [
-      "A Hindustan Times",
-      "My Hindustan Times",
-      "An Hindustan Times",
-      "The Hindustan Times"
+      "English",
+      "The student",
+      "The teacher",
+      "It is unknown"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Articles",
+    "topic": "Identifying the Agent in Passive Voice",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence correctly uses an article with an occupation?",
-    "correct": "My father is an engineer.",
+    "question": "According to the lesson, when is the passive voice often used?",
+    "correct": "When the object of the action is more important or the subject is unknown.",
     "options": [
-      "My father is the engineer.",
-      "My father is engineer.",
-      "My father is an engineer.",
-      "My father is some engineer."
+      "When you want to make a sentence shorter.",
+      "When the object of the action is more important or the subject is unknown.",
+      "Only when writing about historical events.",
+      "When the subject of the action is a person."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Articles",
+    "topic": "Purpose of Passive Voice",
     "complexity_score": 2
   },
   {
-    "question": "Choose the correct article for the blank: 'Mount Everest is _____ tallest mountain in the world.'",
-    "correct": "the",
+    "question": "Convert the following sentence into passive voice: 'I will play the game.'",
+    "correct": "The game will be played by me.",
     "options": [
-      "a",
-      "an",
-      "the",
-      "no article needed"
+      "The game is played by me.",
+      "The game will be played by me.",
+      "The game was played by me.",
+      "The game will play me."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Articles",
+    "topic": "Simple Future Tense Conversion",
     "complexity_score": 2
   },
   {
-    "question": "Based on the 'vowel sound' rule, which article should be used before the word 'university'?",
-    "correct": "a",
+    "question": "Which sentence correctly uses the passive voice to emphasize the 'Maggie'?",
+    "correct": "Maggie is being cooked by me.",
     "options": [
-      "a",
-      "an",
-      "the",
-      "none"
+      "I am cooking Maggie.",
+      "Maggie cooks me.",
+      "By me, Maggie is being cooked.",
+      "Maggie is being cooked by me."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Articles",
+    "topic": "Emphasis in Passive Voice",
     "complexity_score": 2
   },
   {
-    "question": "The lesson explained that we use 'the' before the names of countries with descriptive names or abbreviations. Which example fits this rule?",
-    "correct": "The USA",
+    "question": "What is the active voice form of: 'The house was cleaned by me'?",
+    "correct": "I cleaned the house.",
     "options": [
-      "The India",
-      "The Japan",
-      "The USA",
-      "The Canada"
+      "I clean the house.",
+      "I am cleaning the house.",
+      "The house cleaned me.",
+      "I cleaned the house."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Articles",
+    "topic": "Conversion from Passive to Active",
     "complexity_score": 2
   },
   {
-    "question": "Which of these requires the article 'the' before it, according to the rules discussed?",
-    "correct": "The Indian Ocean",
+    "question": "Convert the following sentence into passive voice: 'I am cleaning my house.'",
+    "correct": "My house is being cleaned by me.",
     "options": [
-      "Lake Superior",
-      "The Indian Ocean",
-      "Mount K2",
-      "Delhi City"
+      "My house is cleaned by me.",
+      "My house was being cleaned by me.",
+      "My house is being cleaned by me.",
+      "Cleaning is being done to my house."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Articles",
+    "topic": "Present Continuous Tense Conversion",
     "complexity_score": 2
   },
   {
-    "question": "According to the lesson's Hindi alphabet trick, a word with a sound from 'क to ज्ञ' (ka to gya) would likely use which article?",
-    "correct": "a",
+    "question": "Why would a news headline say 'A new hospital was built' instead of 'A construction company built a new hospital'?",
+    "correct": "Because the hospital is the important information, not the specific company.",
     "options": [
-      "an",
-      "the",
-      "a",
-      "it depends on the spelling"
+      "Because it is a grammar rule for all news.",
+      "Because the construction company is a secret.",
+      "Because the hospital is the important information, not the specific company.",
+      "Because the active voice sentence is too long."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Articles",
+    "topic": "Real-World Application of Passive Voice",
+    "complexity_score": 2
+  },
+  {
+    "question": "Choose the correct passive form for: 'She is writing letters.'",
+    "correct": "Letters are being written by her.",
+    "options": [
+      "Letters is being written by her.",
+      "Letters were written by her.",
+      "Letters are written by her.",
+      "Letters are being written by her."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Present Continuous Tense with Plural Object",
+    "complexity_score": 2
+  },
+  {
+    "question": "Convert the sentence 'They will not take the class' into passive voice.",
+    "correct": "The class will not be taken by them.",
+    "options": [
+      "The class is not taken by them.",
+      "The class will not be taken by them.",
+      "The class was not taken by them.",
+      "They will not be taken by the class."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Future Tense Conversion (Negative)",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the correct passive form for: 'I have eaten the Maggie.'?",
+    "correct": "The Maggie has been eaten by me.",
+    "options": [
+      "The Maggie is eaten by me.",
+      "The Maggie was being eaten by me.",
+      "The Maggie have been eaten by me.",
+      "The Maggie has been eaten by me."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Present Perfect Tense Conversion",
     "complexity_score": 3
   },
   {
-    "question": "Complete the sentence as discussed in class: 'I have a pet. She loves to play with _____ pet.'",
-    "correct": "the",
+    "question": "Convert the sentence 'Anaya had been scolded' back into the active voice.",
+    "correct": "Someone had scolded Anaya.",
     "options": [
-      "a",
-      "an",
-      "the",
-      "her"
+      "Anaya was scolding.",
+      "Anaya had scolded someone.",
+      "Someone had scolded Anaya.",
+      "Scolding happened to Anaya."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Articles",
+    "topic": "Past Perfect Tense Conversion (Passive to Active)",
     "complexity_score": 3
   },
   {
-    "question": "Which sentence correctly applies the rule for historical events?",
-    "correct": "We studied The Battle of Panipat.",
+    "question": "What is the correct passive form for 'I will have played the match'?",
+    "correct": "The match will have been played by me.",
     "options": [
-      "We studied a Battle of Panipat.",
-      "We studied Battle of Panipat.",
-      "We studied The Battle of Panipat.",
-      "We studied an Battle of Panipat."
+      "The match will be played by me.",
+      "The match would have been played by me.",
+      "The match will have been played by me.",
+      "The match has been played by me."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Articles",
+    "topic": "Future Perfect Tense Conversion",
     "complexity_score": 3
   },
   {
-    "question": "The teacher explained that when a proper noun (like a person's name) is used as a common noun to show quality, we use 'the'. Which sentence correctly demonstrates this advanced rule?",
-    "correct": "He is the Sachin Tendulkar of our team.",
+    "question": "The teacher said: 'The national football championship is being played.' This passive construction is used because:",
+    "correct": "The event itself is more important than naming every single player.",
     "options": [
-      "He is a Sachin Tendulkar of our team.",
-      "He is the Sachin Tendulkar of our team.",
-      "He is Sachin Tendulkar of our team.",
-      "He is an Sachin Tendulkar of our team."
+      "The teacher forgot who was playing.",
+      "It's impossible to list all the players' names in one sentence.",
+      "The event itself is more important than naming every single player.",
+      "The active voice is grammatically incorrect in this context."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Articles",
-    "complexity_score": 4
+    "topic": "Analysis of Passive Voice Usage",
+    "complexity_score": 3
   },
   {
-    "question": "Based on the lesson, why is it correct to say 'The Sun is very bright' but not 'The Mars is red'?",
-    "correct": "'The Sun' is considered a unique thing, and we don't typically use 'the' for planet names.",
+    "question": "Which of these sentences contains a passive voice verb in the past continuous tense?",
+    "correct": "Maggie was being cooked when the phone rang.",
     "options": [
-      "Both sentences are incorrect.",
-      "'The Sun' is considered a unique thing, and we don't typically use 'the' for planet names.",
-      "You should use 'a' for planets.",
-      "It's an exception you just have to memorize without a rule."
+      "Maggie was cooked.",
+      "Maggie has been cooked.",
+      "Maggie is being cooked.",
+      "Maggie was being cooked when the phone rang."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Articles",
-    "complexity_score": 4
+    "topic": "Past Continuous Tense Identification",
+    "complexity_score": 3
   },
   {
-    "question": "The lesson mentioned ordinal numbers (first, second, third). Which sentence correctly applies the article rule for them?",
-    "correct": "Please read the third chapter.",
+    "question": "The sentence 'The new rules were announced' is in the passive voice. What does this structure allow the writer to do?",
+    "correct": "Avoid specifying who announced the rules.",
     "options": [
-      "Please read a third chapter.",
-      "Please read chapter a third.",
-      "Please read chapter third.",
-      "Please read the third chapter."
+      "Prove that the rules are important.",
+      "Make the sentence sound more personal.",
+      "Avoid specifying who announced the rules.",
+      "Insist that everyone must follow the rules."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Articles",
-    "complexity_score": 4
-  },
-  {
-    "question": "If an object is known to both the speaker and the listener, which article is most appropriate? Example: 'My bike is at ____ service station on Mahatma Gandhi Road.' (assuming both know which one).",
-    "correct": "the",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "no article"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Articles",
-    "complexity_score": 5
-  },
-  {
-    "question": "The lesson used the Hindi vowels 'अ to अः' (a to aha) as an analogy for sounds that take which article?",
-    "correct": "an",
-    "options": [
-      "a",
-      "the",
-      "an",
-      "no article"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Articles",
-    "complexity_score": 5
-  },
-  {
-    "question": "Which of the following is NOT a category for which the lesson stated we should use the article 'the'?",
-    "correct": "Names of individual mountains",
-    "options": [
-      "Names of mountain ranges",
-      "Names of oceans",
-      "Names of individual mountains",
-      "Names of famous buildings"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Articles",
-    "complexity_score": 4
+    "topic": "Critical Analysis of Passive Voice Function",
+    "complexity_score": 3
   }
 ]
