@@ -1,282 +1,282 @@
 [
   {
-    "question": "In a solution, what is the substance that gets dissolved called?",
-    "correct": "Solute",
+    "question": "According to the lesson, what is the primary characteristic of all deserts, whether they are hot or cold?",
+    "correct": "They are always dry.",
     "options": [
-      "Solvent",
-      "Solution",
-      "Solute",
-      "Residue"
+      "They are always hot.",
+      "They are filled with sand.",
+      "They have no plant life.",
+      "They are always dry."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Solutions",
+    "topic": "Desert Ecosystems",
     "complexity_score": 1
   },
   {
-    "question": "What are liquids, like milk and water, that mix completely with each other called?",
-    "correct": "Miscible liquids",
+    "question": "What is the key adaptation of a cactus that helps it store water in the desert?",
+    "correct": "It has a thick and fleshy stem.",
     "options": [
-      "Immiscible liquids",
-      "Saturated liquids",
-      "Miscible liquids",
-      "Solvent liquids"
+      "It has sharp spines that absorb moisture.",
+      "It has deep roots to find underground rivers.",
+      "It has large leaves to catch dew.",
+      "It has a thick and fleshy stem."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Properties of Liquids",
+    "topic": "Plant Adaptations",
     "complexity_score": 1
   },
   {
-    "question": "Why is water often referred to as the 'universal solvent'?",
-    "correct": "Because it can dissolve a large number of substances.",
+    "question": "The lesson defined 'biodiversity' by breaking the word down. What does the 'bio' part refer to?",
+    "correct": "Living organisms like plants and animals.",
     "options": [
-      "Because it is found everywhere in the universe.",
-      "Because it can dissolve all substances without exception.",
-      "Because it can dissolve a large number of substances.",
-      "Because its chemical formula is universal."
+      "A specific region or area.",
+      "The variety or differences between things.",
+      "The climate conditions.",
+      "Living organisms like plants and animals."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Solutions",
+    "topic": "Biodiversity",
     "complexity_score": 1
   },
   {
-    "question": "The substance that remains on the filter paper after filtration is known as the...",
-    "correct": "Residue",
+    "question": "What feature helps a fish breathe underwater?",
+    "correct": "Gills",
     "options": [
-      "Filtrate",
-      "Solute",
-      "Residue",
-      "Sediment"
+      "Streamlined body",
+      "Fins and a tail",
+      "Scales",
+      "Gills"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Separation Methods",
+    "topic": "Animal Adaptations",
     "complexity_score": 1
   },
   {
-    "question": "A solution that cannot dissolve any more solute at a given temperature is called a...",
-    "correct": "Saturated solution",
+    "question": "Why is the camel known as the 'ship of the desert'?",
+    "correct": "Because it is well-suited for travel and survival in the desert.",
     "options": [
-      "Universal solution",
-      "Soluble solution",
-      "Saturated solution",
-      "Miscible solution"
+      "Because it is as large as a ship.",
+      "Because it carries goods across sandy 'oceans'.",
+      "Because it floats on sand.",
+      "Because it is well-suited for travel and survival in the desert."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Solutions",
+    "topic": "Animal Adaptations",
     "complexity_score": 1
   },
   {
-    "question": "What is the liquid that passes through the filter paper during filtration called?",
-    "correct": "Filtrate",
+    "question": "What is the main purpose of the spines on a cactus?",
+    "correct": "To reduce water loss.",
     "options": [
-      "Solvent",
-      "Filtrate",
-      "Residue",
-      "Solute"
+      "To store water for later use.",
+      "To absorb sunlight for photosynthesis.",
+      "To attract pollinating insects.",
+      "To reduce water loss."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Separation Methods",
+    "topic": "Plant Adaptations",
     "complexity_score": 1
   },
   {
-    "question": "When you mix oil and water, the oil forms the top layer. What does this observation tell you about oil?",
-    "correct": "It is less dense than water.",
+    "question": "Why might the same type of plant, like a Rhododendron, look different in two different regions?",
+    "correct": "Because it adapts to different environmental and climatic conditions.",
     "options": [
-      "It is heavier than water.",
-      "It is a universal solvent.",
-      "It is less dense than water.",
-      "It is miscible with water."
+      "Because the soil has a different color.",
+      "Because animals in each region eat it differently.",
+      "Because it is a different age in each region.",
+      "Because it adapts to different environmental and climatic conditions."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Properties of Liquids",
+    "topic": "Adaptation and Environment",
     "complexity_score": 2
   },
   {
-    "question": "If you have a saturated salt solution at room temperature, what can you do to dissolve more salt into it?",
-    "correct": "Heat the solution",
+    "question": "The teacher compared a hot desert camel with a cold desert camel. What is a key difference in their adaptations?",
+    "correct": "The cold desert camel has shorter legs and thicker fur.",
     "options": [
-      "Add more water",
-      "Stir it faster",
-      "Heat the solution",
-      "Cool the solution"
+      "The hot desert camel has thicker fur for sun protection.",
+      "The cold desert camel has longer legs to walk through snow.",
+      "Only the hot desert camel can store water.",
+      "The cold desert camel has shorter legs and thicker fur."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Solutions",
+    "topic": "Animal Adaptations",
     "complexity_score": 2
   },
   {
-    "question": "Which two methods discussed in the lesson are suitable for separating a mixture of mustard oil and water?",
-    "correct": "Decantation and using a separating funnel",
+    "question": "Based on the lesson, why can you grow a snake plant in a room with air conditioning and less sunlight, but not a hibiscus plant?",
+    "correct": "The room's climate conditions are unsuitable for a hibiscus, which needs more light and warmth.",
     "options": [
-      "Filtration and evaporation",
-      "Distillation and filtration",
-      "Decantation and using a separating funnel",
-      "Reverse osmosis and decantation"
+      "Hibiscus plants are too large to grow indoors.",
+      "Snake plants do not need any water to survive.",
+      "Air conditioning is toxic to hibiscus plants.",
+      "The room's climate conditions are unsuitable for a hibiscus, which needs more light and warmth."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Separation Methods",
+    "topic": "Biodiversity and Environment",
     "complexity_score": 2
   },
   {
-    "question": "In a cup of sweet tea, the sugar is the ______ and the hot water is the ______.",
-    "correct": "solute; solvent",
+    "question": "What is the best definition of 'adaptation' based on the class discussion?",
+    "correct": "The presence of specific features that help a plant or animal survive in its habitat.",
     "options": [
-      "solvent; solute",
-      "solution; solvent",
-      "solute; solvent",
-      "residue; filtrate"
+      "The process of an animal learning a new skill.",
+      "The way an animal changes its color to hide.",
+      "The food that an animal eats in its environment.",
+      "The presence of specific features that help a plant or animal survive in its habitat."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Solutions",
+    "topic": "Adaptation",
     "complexity_score": 2
   },
   {
-    "question": "The lesson mentioned that home water purifiers often use 'RO'. This process relies on a special material called a...",
-    "correct": "Semi-permeable membrane",
+    "question": "A fish's streamlined, spindle-shaped body is an adaptation that primarily helps it to:",
+    "correct": "Move quickly and efficiently through water.",
     "options": [
-      "Filter paper",
-      "Separating funnel",
-      "Semi-permeable membrane",
-      "Glass rod"
+      "Breathe more easily.",
+      "Hide from predators.",
+      "Find food on the ocean floor.",
+      "Move quickly and efficiently through water."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Separation Methods",
+    "topic": "Animal Adaptations",
     "complexity_score": 2
   },
   {
-    "question": "If you cool down a hot, saturated sugar solution, what is the most likely outcome?",
-    "correct": "Some sugar will reappear at the bottom of the container.",
+    "question": "The lesson states that the biodiversity of two regions varies because their 'CC and EF' are different. What does 'CC and EF' stand for?",
+    "correct": "Climate Conditions and Environmental Factors",
     "options": [
-      "The water will evaporate completely.",
-      "The solution will become unsaturated.",
-      "More sugar will be able to dissolve.",
-      "Some sugar will reappear at the bottom of the container."
+      "Creature Count and Ecosystem Form.",
+      "Carbon Cycle and Energy Flow.",
+      "Coastal Climate and Forest Floor.",
+      "Climate Conditions and Environmental Factors"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Solutions",
+    "topic": "Biodiversity",
     "complexity_score": 2
   },
   {
-    "question": "In the experiment to separate oil and water, 'mustard oil forms the top layer' is an example of which step?",
-    "correct": "Observation",
+    "question": "The teacher used an example of adapting his teaching style for different students. How does this relate to adaptation in nature?",
+    "correct": "It shows that changing features or behaviors to suit a specific situation is a fundamental principle.",
     "options": [
-      "Aim",
-      "Procedure",
-      "Observation",
-      "Conclusion"
+      "It proves that teachers are a different species from students.",
+      "It suggests that animals also go to school to learn how to adapt.",
+      "It has no connection to adaptation in nature.",
+      "It shows that changing features or behaviors to suit a specific situation is a fundamental principle."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Scientific Method",
+    "topic": "Concept of Adaptation",
     "complexity_score": 2
   },
   {
-    "question": "Oil and water are described as immiscible liquids because they...",
-    "correct": "Do not mix and form separate layers.",
+    "question": "If a freshwater fish was suddenly moved to marine (salt) water, why would it struggle to survive according to the concept of adaptation?",
+    "correct": "Its specific features are adapted for freshwater, not the high-salt environment of marine water.",
     "options": [
-      "Are both very dense.",
-      "Can only be separated by heating.",
-      "Dissolve solids easily.",
-      "Do not mix and form separate layers."
+      "Marine water is always much colder than freshwater.",
+      "The fish would not be able to find the right food.",
+      "The pressure in marine water is too high for it.",
+      "Its specific features are adapted for freshwater, not the high-salt environment of marine water."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Properties of Liquids",
+    "topic": "Adaptation",
     "complexity_score": 2
   },
   {
-    "question": "A student finds that more salt can be dissolved in 100ml of water than sugar. What does this experiment demonstrate?",
-    "correct": "Salt and sugar have different solubilities in water.",
+    "question": "A scientist finds a plant in a very windy, cold, and dry mountain region. Based on the lesson about Rhododendrons and cacti, what adaptations would you PREDICT this plant has?",
+    "correct": "Short stature, small leaves, and a water-storing system.",
     "options": [
-      "Salt is a better solvent than sugar.",
-      "Water is a solute for both.",
-      "Heating is required to dissolve sugar.",
-      "Salt and sugar have different solubilities in water."
+      "Tall stature, large leaves, and deep roots.",
+      "Brightly colored flowers and very thin stems.",
+      "No leaves at all and a very dark color.",
+      "Short stature, small leaves, and a water-storing system."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Solutions",
+    "topic": "Applying Adaptation Concepts",
     "complexity_score": 3
   },
   {
-    "question": "What is the primary advantage of using distillation to separate salt from water, compared to just boiling the water away (evaporation)?",
-    "correct": "Distillation collects the purified water, while evaporation does not.",
+    "question": "The lesson implies a direct relationship between an environment's conditions and the features of organisms living there. Which statement best summarizes this relationship?",
+    "correct": "The unique challenges of a habitat drive the development of specific survival features in its inhabitants.",
     "options": [
-      "Distillation is much faster than evaporation.",
-      "Distillation uses less heat than evaporation.",
-      "Distillation collects the purified water, while evaporation does not.",
-      "Distillation can separate any type of mixture."
+      "All organisms can change their features at will to survive anywhere.",
+      "All hot places have organisms with the exact same features.",
+      "The environment has little to no effect on the features of an organism.",
+      "The unique challenges of a habitat drive the development of specific survival features in its inhabitants."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Separation Methods",
+    "topic": "Adaptation and Environment",
     "complexity_score": 3
   },
   {
-    "question": "A semi-permeable membrane lets water pass through but not impurities. This suggests the membrane works by...",
-    "correct": "Having pores that are larger than water molecules but smaller than impurity particles.",
+    "question": "Imagine a region's climate slowly changes over thousands of years from cold and snowy to hot and dry. What would likely happen to the biodiversity of that region?",
+    "correct": "The types of plants and animals would change, favoring those adapted to hot, dry conditions.",
     "options": [
-      "Chemically reacting with the impurities.",
-      "Having an electrical charge that repels impurities.",
-      "Having pores that are larger than water molecules but smaller than impurity particles.",
-      "Melting the impurities so they cannot pass through."
+      "All the original plants and animals would learn to survive in the heat.",
+      "The biodiversity would completely disappear.",
+      "The biodiversity would stay exactly the same.",
+      "The types of plants and animals would change, favoring those adapted to hot, dry conditions."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Separation Methods",
+    "topic": "Biodiversity and Change",
     "complexity_score": 3
   },
   {
-    "question": "The lesson explains that solubility 'increases with an increase in the temperature'. What does this scientific principle mean in simple terms?",
-    "correct": "You can dissolve more of a substance in hot water than in cold water.",
+    "question": "Considering the adaptations of both the cactus and the cold desert camel, what is a common survival problem they have both solved, despite being in different climates?",
+    "correct": "Conserving a vital resource that is scarce in their environment (water for the cactus, heat for the camel).",
     "options": [
-      "The hotter a substance is, the faster it dissolves.",
-      "You can dissolve more of a substance in hot water than in cold water.",
-      "Only hot water can create saturated solutions.",
-      "Temperature makes the solute particles bigger."
+      "The need to walk on unstable surfaces (sand and snow).",
+      "The ability to survive extreme temperatures.",
+      "Protecting themselves from predators.",
+      "Conserving a vital resource that is scarce in their environment (water for the cactus, heat for the camel)."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Solutions",
+    "topic": "Comparative Adaptations",
     "complexity_score": 3
   },
   {
-    "question": "If you used a separating funnel to separate oil and water, which liquid would you drain from the bottom tap first?",
-    "correct": "Water, because it is the denser bottom layer.",
+    "question": "The lesson corrected a common misconception about cactus spines. Why is it more advantageous for a desert plant to have spines instead of large leaves?",
+    "correct": "Large leaves have a greater surface area, which would lead to more water loss through evaporation.",
     "options": [
-      "Oil, because it is the lighter top layer.",
-      "It doesn't matter which one is drained first.",
-      "Water, because it is the denser bottom layer.",
-      "Both would come out at the same time."
+      "Spines are better at performing photosynthesis than leaves.",
+      "Spines can move to track the sun throughout the day.",
+      "Leaves are too heavy for a desert plant to support.",
+      "Large leaves have a greater surface area, which would lead to more water loss through evaporation."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Separation Methods",
+    "topic": "Plant Adaptations",
     "complexity_score": 3
   },
   {
-    "question": "Imagine you have a mixture of sand and salt. To separate them, you add water to dissolve the salt. What scientific property are you taking advantage of?",
-    "correct": "Salt is soluble in water, while sand is not.",
+    "question": "Which of the following is the BEST example of biodiversity as explained in the lesson?",
+    "correct": "A forest containing oak trees, ferns, squirrels, deer, and various insects.",
     "options": [
-      "Sand is denser than salt.",
-      "Salt is a liquid and sand is a solid.",
-      "Salt is soluble in water, while sand is not.",
-      "Water is a universal solute."
+      "A large herd of camels all living together in one desert.",
+      "A single, very large cactus plant that is 100 years old.",
+      "A classroom with many students from different backgrounds.",
+      "A forest containing oak trees, ferns, squirrels, deer, and various insects."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Properties of Matter",
+    "topic": "Biodiversity",
     "complexity_score": 3
   }
 ]
