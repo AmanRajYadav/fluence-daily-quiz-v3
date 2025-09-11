@@ -1,282 +1,282 @@
 [
   {
-    "question": "This quiz could not be generated because the provided transcription was...",
-    "correct": "Lacking any identifiable academic subject matter for analysis.",
+    "question": "What is the group of lions known as?",
+    "correct": "A pride",
     "options": [
-      "Too long to process.",
-      "In a language the system does not understand.",
-      "Lacking any identifiable academic subject matter for analysis.",
-      "Focused on advanced theoretical physics."
+      "A herd",
+      "A pack",
+      "A pride",
+      "A flock"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Input Analysis",
+    "topic": "General Knowledge - Animals",
     "complexity_score": 1
   },
   {
-    "question": "Based on the prompt's core principles, creating questions from non-academic content would violate the mission to...",
-    "correct": "Transform raw class transcriptions into powerful learning experiences.",
+    "question": "Which award is described as the highest civilian award of India?",
+    "correct": "Bharat Ratna",
     "options": [
-      "Generate exactly 20 questions.",
-      "Output a perfect JSON structure.",
-      "Analyze emotional engagement opportunities.",
-      "Transform raw class transcriptions into powerful learning experiences."
+      "Param Vir Chakra",
+      "Ashok Chakra",
+      "Bharat Ratna",
+      "Dadasaheb Phalke Award"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Mission Integrity",
+    "topic": "General Knowledge - Awards",
     "complexity_score": 1
   },
   {
-    "question": "The transcription primarily contained discussions about...",
-    "correct": "Class logistics, technical issues, and non-educational chatter.",
+    "question": "According to the lesson, what happens when you bring two 'like' poles of magnets (e.g., North and North) close to each other?",
+    "correct": "They repel each other.",
     "options": [
-      "The principles of statistical analysis.",
-      "Advanced concepts in computational linguistics.",
-      "Historical events of the 20th century.",
-      "Class logistics, technical issues, and non-educational chatter."
+      "They attract each other.",
+      "They become hotter.",
+      "They repel each other.",
+      "Nothing happens."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Content Identification",
+    "topic": "Science - Magnetism",
     "complexity_score": 1
   },
   {
-    "question": "Which core principle is impossible to apply when no central concept is taught?",
-    "correct": "Zone of Proximal Development (stretching students beyond comfort).",
+    "question": "What is the basic definition of 'biodiversity' discussed in the class?",
+    "correct": "The variety of plants, animals, and other living organisms in a region.",
     "options": [
-      "Generating a JSON output.",
-      "Adhering to a question count.",
-      "Zone of Proximal Development (stretching students beyond comfort).",
-      "Following formatting instructions."
+      "The total number of animals in a forest.",
+      "The study of plants only.",
+      "The variety of plants, animals, and other living organisms in a region.",
+      "The different types of non-living things in an environment."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Pedagogical Principles",
+    "topic": "Science - Biodiversity",
     "complexity_score": 1
   },
   {
-    "question": "The repeated phrase 'chattis' (छत्तीस), meaning 'thirty-six', was presented without...",
-    "correct": "Any mathematical or conceptual context.",
+    "question": "The lesson mentioned that a tiger's stripes are unique to each individual. What human feature were they compared to?",
+    "correct": "Thumbprint",
     "options": [
-      "Proper pronunciation.",
-      "Any mathematical or conceptual context.",
-      "A corresponding visual aid.",
-      "An English translation."
+      "Hair color",
+      "Height",
+      "Thumbprint",
+      "Voice"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Contextual Analysis",
+    "topic": "General Knowledge - Animals",
     "complexity_score": 1
   },
   {
-    "question": "A reference to 'laptop' and it being 'kharab' (broken/faulty) is an example of what kind of classroom event?",
-    "correct": "A technical or logistical issue, not a learning topic.",
+    "question": "Which animal is an extremely intelligent ape that scientists have taught complex tasks?",
+    "correct": "Chimpanzee",
     "options": [
-      "A lesson on computer hardware.",
-      "A Socratic dialogue about technology.",
-      "A scientific experiment.",
-      "A technical or logistical issue, not a learning topic."
+      "Giraffe",
+      "Polar Bear",
+      "Chimpanzee",
+      "Lion"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Distinguishing Content from Logistics",
+    "topic": "General Knowledge - Animals",
     "complexity_score": 1
   },
   {
-    "question": "If a student were asked to summarize the provided transcription, what would be the most accurate summary?",
-    "correct": "A series of instructions and comments about class procedures and technical problems.",
+    "question": "Why would using a 'footstep' be an unreliable or 'non-standard' unit for measuring length?",
+    "correct": "Because everyone's foot size is different, leading to inconsistent measurements.",
     "options": [
-      "A deep dive into a specific academic subject.",
-      "A debate between the teacher and students.",
-      "A series of instructions and comments about class procedures and technical problems.",
-      "A lecture on the importance of spaced repetition."
+      "Because it is too difficult to count footsteps.",
+      "Because shoes get dirty and would ruin the measurement.",
+      "Because everyone's foot size is different, leading to inconsistent measurements.",
+      "Because footsteps can only measure short distances."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Content Synthesis",
+    "topic": "Science - Measurement",
     "complexity_score": 2
   },
   {
-    "question": "Why would creating a 'Growth Mindset' prompt be inappropriate for this transcription?",
-    "correct": "There was no academic challenge presented that a student needed to overcome.",
+    "question": "If an object is moving in a perfect circle, always staying the same distance from the center point, what type of motion is it demonstrating?",
+    "correct": "Circular motion",
     "options": [
-      "The student already has a perfect growth mindset.",
-      "Growth mindset only applies to mathematics.",
-      "The transcription was too short.",
-      "There was no academic challenge presented that a student needed to overcome."
+      "Linear motion",
+      "Random motion",
+      "Circular motion",
+      "Vibratory motion"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Application of Principles",
+    "topic": "Science - Motion",
     "complexity_score": 2
   },
   {
-    "question": "The presence of multiple languages and garbled text suggests the transcription may have been generated by...",
-    "correct": "An automated speech-to-text service struggling with a noisy or multilingual environment.",
+    "question": "The Dadasaheb Phalke Award is the highest honor in which field for extraordinary contributions?",
+    "correct": "Indian Cinema",
     "options": [
-      "A professional human transcriber.",
-      "A student taking meticulous notes.",
-      "An advanced AI designed for linguistic analysis.",
-      "An automated speech-to-text service struggling with a noisy or multilingual environment."
+      "Sports",
+      "Science",
+      "Indian Cinema",
+      "Military Service"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Source Analysis",
+    "topic": "General Knowledge - Awards",
     "complexity_score": 2
   },
   {
-    "question": "Imagine you are the educator AI. What is the first and most critical step you must take before generating learning content?",
-    "correct": "Analyze the input to identify core concepts and student understanding.",
+    "question": "The Shola forest plants in the Nilgiri region are shorter to cope with cold and humidity. This is a real-world example of:",
+    "correct": "Adaptation",
     "options": [
-      "Count the number of words in the transcription.",
-      "Choose a catchy title for the quiz.",
-      "Analyze the input to identify core concepts and student understanding.",
-      "Immediately start writing 20 questions."
+      "Photosynthesis",
+      "Reproduction",
+      "Adaptation",
+      "Germination"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Process and Prioritization",
+    "topic": "Science - Biodiversity",
     "complexity_score": 2
   },
   {
-    "question": "The request to create a learning experience from this specific text is analogous to asking a chef to...",
-    "correct": "Cook a gourmet meal using only a list of kitchen appliances.",
+    "question": "What color is a polar bear's skin underneath its white fur, and what is the advantage of this?",
+    "correct": "Black, to absorb heat.",
     "options": [
-      "Bake a cake with a detailed recipe and ingredients.",
-      "Cook a gourmet meal using only a list of kitchen appliances.",
-      "Prepare a salad with fresh vegetables.",
-      "Teach a cooking class to beginners."
+      "White, to match its fur.",
+      "Pink, like other mammals.",
+      "Black, to absorb heat.",
+      "Transparent, to let light through."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Analogical Reasoning",
+    "topic": "General Knowledge - Animals",
     "complexity_score": 3
   },
   {
-    "question": "How does this flawed input highlight the importance of the 'Input Analysis Phase' mentioned in the instructions?",
-    "correct": "It demonstrates that without quality input, meaningful output is impossible.",
+    "question": "Which of the following pairs of numbers is 'co-prime' (meaning they have no common factors other than 1)?",
+    "correct": "9 and 10",
     "options": [
-      "It shows that the analysis phase is optional.",
-      "It proves that any text can be turned into a learning experience.",
-      "It demonstrates that without quality input, meaningful output is impossible.",
-      "It suggests that analysis should focus only on keywords."
+      "12 and 15",
+      "6 and 9",
+      "9 and 10",
+      "10 and 20"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Metacognition of the Task",
+    "topic": "Mathematics - Number Theory",
     "complexity_score": 3
   },
   {
-    "question": "If the word 'Statistics' appeared once without context, why is it incorrect to create a quiz on statistics?",
-    "correct": "A single, isolated word does not constitute 'subject matter taught'.",
+    "question": "The activity to separate soil from water likely involves pouring the mixture through a filter. What is this scientific separation technique called?",
+    "correct": "Filtration",
     "options": [
-      "Statistics is too difficult a subject.",
-      "The student might not be interested in statistics.",
-      "A single, isolated word does not constitute 'subject matter taught'.",
-      "The word was likely a transcription error."
+      "Evaporation",
+      "Magnetism",
+      "Filtration",
+      "Condensation"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Evidentiary Standards",
-    "complexity_score": 3
+    "topic": "Science - Separation of Substances",
+    "complexity_score": 2
   },
   {
-    "question": "The failure to generate a valid quiz from this text is a practical example of what concept in computer science and data analysis?",
-    "correct": "Garbage In, Garbage Out (GIGO)",
+    "question": "Which is the world's tallest living land animal?",
+    "correct": "Giraffe",
     "options": [
-      "Moore's Law",
-      "The Turing Test",
-      "Garbage In, Garbage Out (GIGO)",
-      "Network Latency"
+      "Elephant",
+      "Ostrich",
+      "Giraffe",
+      "Tiger"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cross-Disciplinary Connection",
-    "complexity_score": 3
+    "topic": "General Knowledge - Animals",
+    "complexity_score": 2
   },
   {
-    "question": "From an educator's perspective, what is the most constructive feedback for the user who provided this transcription?",
-    "correct": "Please provide a transcription of the core lesson content, excluding logistical discussions.",
+    "question": "Two prime numbers that have a difference of exactly 2 (like 5 and 7) are known as:",
+    "correct": "Twin primes",
     "options": [
-      "The system is broken and cannot process your request.",
-      "Please provide a transcription of the core lesson content, excluding logistical discussions.",
-      "You must use a different format for your request.",
-      "The topic discussed in class is not supported."
+      "Co-primes",
+      "Composite primes",
+      "Twin primes",
+      "Even primes"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Constructive Feedback",
+    "topic": "Mathematics - Number Theory",
     "complexity_score": 4
   },
   {
-    "question": "This entire exercise of analyzing a failed input and explaining the reasons serves to reinforce which core principle for the user?",
-    "correct": "Metacognitive Awareness (understanding HOW the learning generation process works).",
+    "question": "The Ashok Chakra is described as a 'peace time' military decoration. What does this imply about when it is awarded?",
+    "correct": "For acts of courage and sacrifice away from the battlefield.",
     "options": [
-      "Spaced Repetition & Interleaving.",
-      "Intrinsic Motivation.",
-      "Metacognitive Awareness (understanding HOW the learning generation process works).",
-      "Growth Mindset Cultivation."
+      "Only to soldiers who have retired.",
+      "Only to civilians, not military personnel.",
+      "For acts of courage and sacrifice away from the battlefield.",
+      "For winning a war."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Meta-Learning",
+    "topic": "General Knowledge - Awards",
     "complexity_score": 4
   },
   {
-    "question": "A superior AI would refuse to generate content from this transcription to avoid what potential negative outcome?",
-    "correct": "Creating a confusing or irrelevant learning experience that undermines student trust.",
+    "question": "Why is having a standardized system of measurement, like SI units (meter, kilogram), crucial for global science and engineering?",
+    "correct": "It ensures results are consistent, understandable, and replicable anywhere in the world.",
     "options": [
-      "Wasting computational resources.",
-      "Violating the user's instructions.",
-      "Creating a confusing or irrelevant learning experience that undermines student trust.",
-      "Failing to meet the 20-question quota."
+      "It makes calculations harder and more challenging for scientists.",
+      "It is the oldest system, so it is used out of tradition.",
+      "It ensures results are consistent, understandable, and replicable anywhere in the world.",
+      "It is only important for scientists in one specific country."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Ethical AI in Education",
+    "topic": "Science - Measurement",
+    "complexity_score": 4
+  },
+  {
+    "question": "If two numbers both have 5 as a prime factor, can they be co-prime? ",
+    "correct": "No, because they share a common factor other than 1.",
+    "options": [
+      "Yes, because all numbers with a 5 are co-prime.",
+      "Only if one of the numbers is 5 itself.",
+      "No, because they share a common factor other than 1.",
+      "It is impossible to tell without knowing the numbers."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Mathematics - Number Theory",
     "complexity_score": 5
   },
   {
-    "question": "Evaluate the transcription from the perspective of John Dewey's principle of 'experience and education.' Why does it fail as an educative experience?",
-    "correct": "It represents a 'mis-educative' experience, as it is disconnected and lacks continuity or purpose.",
+    "question": "Based on the discussion of magnets, how could you use a magnet to separate a mixture of sand and iron filings?",
+    "correct": "Move the magnet over the mixture; it will attract only the iron filings.",
     "options": [
-      "It did not happen in a traditional school building.",
-      "It involved technology, which Dewey was wary of.",
-      "It represents a 'mis-educative' experience, as it is disconnected and lacks continuity or purpose.",
-      "It was not long enough to be considered an experience."
+      "Dissolve the mixture in water; the magnet will make the iron float.",
+      "Heat the mixture; the magnet will cool down the iron.",
+      "Move the magnet over the mixture; it will attract only the iron filings.",
+      "It's not possible to separate them with a magnet."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Educational Philosophy Application",
-    "complexity_score": 5
+    "topic": "Science - Magnetism & Separation",
+    "complexity_score": 4
   },
   {
-    "question": "Considering Vygotsky's theories, the interaction in the transcript fails to be a learning event because...",
-    "correct": "It lacks a 'More Knowledgeable Other' guiding a learner through a specific, challenging task.",
+    "question": "The Shanti Swarup Bhatnagar Prize is awarded for outstanding contributions in a multi-disciplinary field. What is that field?",
+    "correct": "Science",
     "options": [
-      "The student was not using a physical tool.",
-      "It lacks a 'More Knowledgeable Other' guiding a learner through a specific, challenging task.",
-      "The language used was not formal academic language.",
-      "The interaction was synchronous, not asynchronous."
+      "Sports",
+      "Film",
+      "Science",
+      "Literature"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cognitive Psychology Analysis",
-    "complexity_score": 5
-  },
-  {
-    "question": "The core challenge this transcription presents is a conflict between which two strict requirements of the prompt?",
-    "correct": "The requirement to generate 20 questions and the requirement that they be based ONLY on subject matter taught.",
-    "options": [
-      "The requirement for a JSON output and the need for a summary.",
-      "The requirement to never ask about points and the need to assess difficulty.",
-      "The requirement to generate 20 questions and the requirement that they be based ONLY on subject matter taught.",
-      "The requirement for a greeting and the need for a parent report."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Instructional Analysis",
-    "complexity_score": 5
+    "topic": "General Knowledge - Awards",
+    "complexity_score": 4
   }
 ]
