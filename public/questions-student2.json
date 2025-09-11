@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the fundamental purpose of a magnetic compass?",
-    "correct": "To determine direction by aligning with the Earth's magnetic field",
+    "question": "According to the lesson, what is the primary function of governance?",
+    "correct": "The process of making and ensuring laws and rules are followed.",
     "options": [
-      "To measure the strength of a magnet",
-      "To find deposits of iron ore",
-      "To determine direction by aligning with the Earth's magnetic field",
-      "To predict the weather"
+      "To provide entertainment and festivals for citizens.",
+      "The process of making and ensuring laws and rules are followed.",
+      "Exclusively to protect the country with an army.",
+      "To manage the finances of individual families."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Importance",
+    "topic": "Governance",
     "complexity_score": 1
   },
   {
-    "question": "Which part of a typical magnetic compass is the actual magnet?",
-    "correct": "The needle",
+    "question": "What is the main line of latitude from which other latitudes are measured?",
+    "correct": "The Equator",
     "options": [
-      "The casing",
-      "The pivot",
-      "The needle",
-      "The glass cover"
+      "The Prime Meridian",
+      "The Equator",
+      "The North Pole",
+      "The Tropic of Cancer"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Structure",
+    "topic": "Geography",
     "complexity_score": 1
   },
   {
-    "question": "The part of the compass needle that points towards the Earth's magnetic north is typically which pole of the magnet?",
-    "correct": "The north-seeking pole",
+    "question": "Which of the following is an example of a non-economic activity discussed in class?",
+    "correct": "Taking care of grandparents.",
     "options": [
-      "The east-seeking pole",
-      "The south-seeking pole",
-      "The north-seeking pole",
-      "The west-seeking pole"
+      "Selling spices to traders.",
+      "Working in a hospital.",
+      "Taking care of grandparents.",
+      "Building roads for the government."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Structure",
+    "topic": "Family & Community",
     "complexity_score": 1
   },
   {
-    "question": "Why is the needle in a magnetic compass able to spin freely?",
-    "correct": "It is balanced on a low-friction pivot point",
+    "question": "What material is the case of a magnetic compass typically made from?",
+    "correct": "Aluminum",
     "options": [
-      "It is made of a very light material",
-      "It is balanced on a low-friction pivot point",
-      "It is suspended in a special type of oil",
-      "It is repelled by the compass casing"
+      "Iron",
+      "Steel",
+      "Aluminum",
+      "Glass"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Structure",
+    "topic": "Magnetism",
     "complexity_score": 1
   },
   {
-    "question": "What invisible force causes the needle of a compass to move?",
-    "correct": "The Earth's magnetic field",
+    "question": "Which of these was mentioned as a reason for people to travel to India in ancient times?",
+    "correct": "To study subjects like medicine and astronomy.",
     "options": [
-      "The Earth's gravity",
-      "The Earth's magnetic field",
-      "The static electricity in the air",
-      "The rotation of the Earth"
+      "To go on beach holidays.",
+      "To learn modern computer programming.",
+      "To escape cold weather.",
+      "To study subjects like medicine and astronomy."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Working Principle",
+    "topic": "Indian History",
     "complexity_score": 1
   },
   {
-    "question": "For which of the following activities would a magnetic compass be most important?",
-    "correct": "Hiking in a dense, unfamiliar forest",
+    "question": "What do the lines of longitude do at the North and South Poles?",
+    "correct": "They meet at a single point.",
     "options": [
-      "Baking a cake in the kitchen",
-      "Driving through a city with many street signs",
-      "Hiking in a dense, unfamiliar forest",
-      "Reading a book indoors"
+      "They run parallel to each other.",
+      "They become horizontal.",
+      "They disappear.",
+      "They meet at a single point."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Importance",
+    "topic": "Geography",
     "complexity_score": 1
   },
   {
-    "question": "If you place a strong bar magnet next to a compass, what is most likely to happen?",
-    "correct": "The compass needle will point towards the bar magnet's pole",
+    "question": "Why is it important for a magnetic compass casing to be made of a non-magnetic material like aluminum?",
+    "correct": "To avoid interfering with the magnetic needle's direction.",
     "options": [
-      "The compass needle will spin uncontrollably",
-      "The compass will stop working permanently",
-      "The compass needle will point towards the bar magnet's pole",
-      "Nothing will happen to the compass needle"
+      "Because aluminum is cheaper than iron.",
+      "To make the compass heavier and more stable.",
+      "To avoid interfering with the magnetic needle's direction.",
+      "Because aluminum does not rust."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Working Principle",
+    "topic": "Magnetism",
     "complexity_score": 2
   },
   {
-    "question": "Why is the casing of a magnetic compass typically made from a non-magnetic material like plastic or brass?",
-    "correct": "To prevent it from interfering with the magnetic needle",
+    "question": "How does the celebration of Makar Sankranti exemplify 'unity in diversity'?",
+    "correct": "It's celebrated nationwide on the same date for the same core reason (harvest), but with different regional names and customs.",
     "options": [
-      "Because these materials are cheaper than iron",
-      "To make the compass waterproof",
-      "To prevent it from interfering with the magnetic needle",
-      "To make the compass lighter"
+      "Everyone in the country celebrates it in the exact same way.",
+      "It is a festival celebrated by only one community in India.",
+      "It's celebrated nationwide on the same date for the same core reason (harvest), but with different regional names and customs.",
+      "It is a festival that changes dates every year depending on the location."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Structure",
+    "topic": "Unity in Diversity",
     "complexity_score": 2
   },
   {
-    "question": "A compass points to the Earth's Magnetic North Pole. How does this differ from the Geographic North Pole?",
-    "correct": "They are in two different physical locations",
+    "question": "Which of the following best describes the role of a family in shaping an individual, as discussed in the lesson?",
+    "correct": "It provides emotional support and helps form a person's identity and values.",
     "options": [
-      "They are the exact same place",
-      "The Magnetic North Pole is at the equator",
-      "The Geographic North Pole moves, but the Magnetic North Pole is fixed",
-      "They are in two different physical locations"
+      "It is solely responsible for a person's financial success.",
+      "It primarily teaches academic subjects like math and science.",
+      "It provides emotional support and helps form a person's identity and values.",
+      "Its only role is to provide food and shelter."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Importance",
+    "topic": "Family & Community",
     "complexity_score": 2
   },
   {
-    "question": "Imagine you are in a car made of steel. Why might your magnetic compass give an inaccurate reading?",
-    "correct": "The car's metal body can distort the Earth's magnetic field",
+    "question": "Based on the description, how is the work of a historian similar to that of a detective?",
+    "correct": "Both examine evidence from various sources to understand past events.",
     "options": [
-      "The car's engine heat demagnetizes the needle",
-      "The car's movement is too fast for the compass",
-      "The car's metal body can distort the Earth's magnetic field",
-      "The glass windows block the magnetic field"
+      "Both can travel back in time to witness events directly.",
+      "Both primarily rely on a single book for all their information.",
+      "Both examine evidence from various sources to understand past events.",
+      "Both are only concerned with events that happened yesterday."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Application",
+    "topic": "Studying the Past",
     "complexity_score": 2
   },
   {
-    "question": "Before the invention of the magnetic compass, how might ancient sailors have navigated on cloudy nights when they couldn't see the stars?",
-    "correct": "They would have great difficulty and might rely on coastline or wind patterns",
+    "question": "The lesson mentioned that rules can be unfair. Which of these is an example of such an unfair rule?",
+    "correct": "A rule based on stereotypes that doesn't consider everyone's needs.",
     "options": [
-      "They used special maps that showed magnetic fields",
-      "They would have great difficulty and might rely on coastline or wind patterns",
-      "They followed the direction of migrating birds",
-      "They had other non-magnetic devices to find north"
+      "A rule that requires everyone to wait their turn in a line.",
+      "A rule that protects people from danger.",
+      "A rule that asks students to complete their homework.",
+      "A rule based on stereotypes that doesn't consider everyone's needs."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Importance",
+    "topic": "Governance",
     "complexity_score": 2
   },
   {
-    "question": "Which of these components is NOT essential for a basic working magnetic compass?",
-    "correct": "A liquid-filled housing",
+    "question": "How does a simple garment like a sari reflect both unity and diversity in India?",
+    "correct": "It is a single, unstitched piece of cloth (unity) worn in many different styles and designs across regions (diversity).",
     "options": [
-      "A magnetized pointer",
-      "A low-friction pivot",
-      "A liquid-filled housing",
-      "A freely rotating needle"
+      "Every sari in India is identical in color and design.",
+      "Only one state in India is known for making saris.",
+      "It is a single, unstitched piece of cloth (unity) worn in many different styles and designs across regions (diversity).",
+      "The sari is a modern invention with no historical diversity."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Structure",
+    "topic": "Unity in Diversity",
     "complexity_score": 2
   },
   {
-    "question": "The 'structure' of a magnetic compass relies on the principle that 'like poles repel, and opposite poles attract'. How does this apply to the compass and the Earth?",
-    "correct": "The north-seeking pole of the compass needle is attracted to the Earth's magnetic south pole (located near the geographic north)",
+    "question": "Which of the following government services directly relates to the function of 'maintaining an army and military'?",
+    "correct": "Protecting the nation's borders from other countries.",
     "options": [
-      "The north-seeking pole of the compass needle is repelled by the Earth's geographic North Pole",
-      "The north-seeking pole of the compass needle is attracted to the Earth's magnetic south pole (located near the geographic north)",
-      "The south-seeking pole of the compass needle is attracted to the Earth's geographic South Pole",
-      "The entire compass needle is attracted to the Earth's core"
+      "Building new schools and hospitals.",
+      "Ensuring the progress of the nation's economy.",
+      "Protecting the nation's borders from other countries.",
+      "Making laws about local traffic."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Working Principle",
+    "topic": "Governance",
+    "complexity_score": 2
+  },
+  {
+    "question": "How does scientific research, like the study of genetics, contribute to our understanding of the past?",
+    "correct": "It allows us to study the genetic makeup of ancient people.",
+    "options": [
+      "It helps us invent new types of historical documents.",
+      "It allows us to study the genetic makeup of ancient people.",
+      "It proves that all historical records are incorrect.",
+      "It can perfectly predict the future based on the past."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Studying the Past",
+    "complexity_score": 2
+  },
+  {
+    "question": "According to the quotation from Sri Aurobindo, what is India's most unique and profound achievement?",
+    "correct": "Attaining a deep spiritual and cultural unity as part of its collective identity.",
+    "options": [
+      "Having the largest variety of spices for trade.",
+      "Building the most powerful ancient army.",
+      "Achieving economic wealth before other nations.",
+      "Attaining a deep spiritual and cultural unity as part of its collective identity."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Indian History",
     "complexity_score": 3
   },
   {
-    "question": "Why is a magnetic compass particularly important for ships and airplanes, even with modern GPS technology?",
-    "correct": "It works without power or satellite signals, making it a reliable backup",
+    "question": "If a city creates a new rule that benefits shop owners but makes it difficult for elderly residents to access the market, this rule fails because it...",
+    "correct": "does not consider everyone's needs and situations.",
     "options": [
-      "It is more accurate than GPS over short distances",
-      "It is required by law but never actually used",
-      "It can predict turbulence or rough seas",
-      "It works without power or satellite signals, making it a reliable backup"
+      "is not confusing enough.",
+      "was made by the government.",
+      "does not consider everyone's needs and situations.",
+      "is unfair to children specifically."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Importance",
+    "topic": "Governance",
     "complexity_score": 3
   },
   {
-    "question": "If you were to use a magnetic compass near one of the Earth's magnetic poles, what would you observe?",
-    "correct": "The compass needle would try to point straight down or up",
+    "question": "You are navigating in a forest. Your compass needle is pointing north, but you also see the sun rising to your right. What can you infer about your direction of travel?",
+    "correct": "You are facing North, with East to your right.",
     "options": [
-      "The compass would spin around rapidly in a circle",
-      "The compass needle would point towards the equator",
-      "The compass needle would try to point straight down or up",
-      "The compass would work exactly the same as anywhere else"
+      "You are facing East, where the sun is rising.",
+      "You are facing West, away from the sunrise.",
+      "The compass is broken because the sun is not in the north.",
+      "You are facing North, with East to your right."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Application",
+    "topic": "Magnetism & Geography",
     "complexity_score": 3
   },
   {
-    "question": "A student tries to make a compass with an iron nail. They rub it with a magnet and float it on a piece of cork in water. It works. What is the most crucial step they performed to make the iron nail a magnet?",
-    "correct": "Stroking the nail in one direction with one pole of the magnet",
+    "question": "The discussion mentioned that tribal communities like the Mundas and Gonds have their own versions of the Ramayana and Mahabharata. What does this fact primarily demonstrate?",
+    "correct": "The diversity of cultural interpretation within India.",
     "options": [
-      "Placing the nail in water",
-      "Attaching the nail to the cork",
-      "Tapping the nail with the magnet",
-      "Stroking the nail in one direction with one pole of the magnet"
+      "That these stories are not important to Indian culture.",
+      "That there is only one correct version of these epics.",
+      "The diversity of cultural interpretation within India.",
+      "That these communities did not interact with mainstream culture."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Structure",
+    "topic": "Unity in Diversity",
     "complexity_score": 3
   },
   {
-    "question": "Scientists know that the Earth's magnetic field has reversed its polarity many times over millions of years. If a reversal happened today, what would a compass that previously pointed North now do?",
-    "correct": "It would point South",
+    "question": "Which statement best synthesizes the relationship between 'family unity' and 'community support' as discussed in the lesson?",
+    "correct": "Strong family units, which provide identity and support, are the building blocks of a supportive wider community.",
     "options": [
-      "It would point East",
-      "It would point South",
-      "It would stop working",
-      "It would point North anyway"
+      "Family unity and community support are opposing forces.",
+      "A strong community can exist without any united families.",
+      "Strong family units, which provide identity and support, are the building blocks of a supportive wider community.",
+      "Family is only important for individuals, while community is only important for the government."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Working Principle",
-    "complexity_score": 4
-  },
-  {
-    "question": "An explorer is using a very precise map and a compass. To get to their exact destination, they must account for 'magnetic declination'. What does this concept most likely refer to?",
-    "correct": "The angle of difference between Magnetic North and true Geographic North",
-    "options": [
-      "The gradual weakening of the compass needle over time",
-      "The angle of difference between Magnetic North and true Geographic North",
-      "The interference from solar flares on the compass",
-      "The tendency of the compass to dip downwards"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Magnetic Compass Importance",
-    "complexity_score": 4
-  },
-  {
-    "question": "Two compasses are placed side-by-side. One is a high-quality hiking compass filled with liquid. The other is a simple needle on a pin. When both are shaken, the hiking compass's needle settles much faster. Why is this an important structural feature?",
-    "correct": "The liquid dampens oscillations, providing a quicker and more stable reading",
-    "options": [
-      "The liquid magnifies the Earth's magnetic field",
-      "The liquid cools the needle to make it more sensitive",
-      "The liquid dampens oscillations, providing a quicker and more stable reading",
-      "The liquid protects the needle from rust"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Magnetic Compass Structure",
+    "topic": "Family & Community",
     "complexity_score": 3
   },
   {
-    "question": "Considering the structure of the Earth itself, what is the most accepted scientific theory for *why* it has a magnetic field that a compass can detect?",
-    "correct": "The movement of molten iron in the Earth's outer core",
+    "question": "A historian studying an ancient city finds documents describing a great famine and also discovers scientific data showing a long period of drought at the same time. This process is most similar to a detective who...",
+    "correct": "corroborates a witness statement with physical evidence from the crime scene.",
     "options": [
-      "A giant, solid bar magnet at the center of the Earth",
-      "The gravitational pull of the moon and sun",
-      "The movement of molten iron in the Earth's outer core",
-      "The combined magnetic fields of all the ore deposits in the crust"
+      "interviews only one suspect to solve a case.",
+      "ignores all written evidence and only looks at fingerprints.",
+      "corroborates a witness statement with physical evidence from the crime scene.",
+      "decides who is guilty before looking at any evidence."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Magnetic Compass Working Principle",
-    "complexity_score": 4
+    "topic": "Studying the Past",
+    "complexity_score": 3
   }
 ]
