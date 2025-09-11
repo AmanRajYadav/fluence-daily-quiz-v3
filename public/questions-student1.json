@@ -1,118 +1,104 @@
 [
   {
-    "question": "What is the group of lions known as?",
-    "correct": "A pride",
+    "question": "A group of lions is known as a...",
+    "correct": "Pride",
     "options": [
-      "A herd",
-      "A pack",
-      "A pride",
-      "A flock"
+      "Herd",
+      "Pack",
+      "Pride",
+      "Flock"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "General Knowledge - Animals",
+    "topic": "General Knowledge: Animals",
     "complexity_score": 1
   },
   {
-    "question": "Which award is described as the highest civilian award of India?",
+    "question": "What is the actual skin color of a polar bear, hidden beneath its thick white fur?",
+    "correct": "Black",
+    "options": [
+      "White",
+      "Pink",
+      "Black",
+      "Grey"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Science: Animal Adaptations",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which award is recognized as the highest civilian award in India?",
     "correct": "Bharat Ratna",
     "options": [
       "Param Vir Chakra",
-      "Ashok Chakra",
+      "Ashoka Chakra",
       "Bharat Ratna",
       "Dadasaheb Phalke Award"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "General Knowledge - Awards",
+    "topic": "General Knowledge: Indian Awards",
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, what happens when you bring two 'like' poles of magnets (e.g., North and North) close to each other?",
-    "correct": "They repel each other.",
+    "question": "If you bring two 'like' poles of magnets together (e.g., North and North), they will...",
+    "correct": "Repel each other",
     "options": [
-      "They attract each other.",
-      "They become hotter.",
-      "They repel each other.",
-      "Nothing happens."
+      "Attract each other",
+      "Become warmer",
+      "Repel each other",
+      "Lose their magnetism"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science - Magnetism",
+    "topic": "Science: Magnetism",
     "complexity_score": 1
   },
   {
-    "question": "What is the basic definition of 'biodiversity' discussed in the class?",
-    "correct": "The variety of plants, animals, and other living organisms in a region.",
+    "question": "The stripes of which large cat are unique to each individual, much like a human's fingerprint?",
+    "correct": "Tiger",
     "options": [
-      "The total number of animals in a forest.",
-      "The study of plants only.",
-      "The variety of plants, animals, and other living organisms in a region.",
-      "The different types of non-living things in an environment."
+      "Leopard",
+      "Cheetah",
+      "Tiger",
+      "Jaguar"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science - Biodiversity",
+    "topic": "General Knowledge: Animals",
     "complexity_score": 1
   },
   {
-    "question": "The lesson mentioned that a tiger's stripes are unique to each individual. What human feature were they compared to?",
-    "correct": "Thumbprint",
+    "question": "Which continent is the only one where giraffes live in the wild?",
+    "correct": "Africa",
     "options": [
-      "Hair color",
-      "Height",
-      "Thumbprint",
-      "Voice"
+      "Asia",
+      "Australia",
+      "Africa",
+      "South America"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "General Knowledge - Animals",
+    "topic": "General Knowledge: Animals",
     "complexity_score": 1
   },
   {
-    "question": "Which animal is an extremely intelligent ape that scientists have taught complex tasks?",
-    "correct": "Chimpanzee",
+    "question": "Why is a personal measurement like a 'footstep' not used as a standard unit of length in science?",
+    "correct": "Because everyone's foot size is different, making it inconsistent.",
     "options": [
-      "Giraffe",
-      "Polar Bear",
-      "Chimpanzee",
-      "Lion"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "General Knowledge - Animals",
-    "complexity_score": 1
-  },
-  {
-    "question": "Why would using a 'footstep' be an unreliable or 'non-standard' unit for measuring length?",
-    "correct": "Because everyone's foot size is different, leading to inconsistent measurements.",
-    "options": [
-      "Because it is too difficult to count footsteps.",
-      "Because shoes get dirty and would ruin the measurement.",
-      "Because everyone's foot size is different, leading to inconsistent measurements.",
-      "Because footsteps can only measure short distances."
+      "Because it is too difficult to measure a footstep accurately.",
+      "Because feet are not long enough for large measurements.",
+      "Because everyone's foot size is different, making it inconsistent.",
+      "Because scientists prefer using metric units only."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science - Measurement",
+    "topic": "Science: Measurement",
     "complexity_score": 2
   },
   {
-    "question": "If an object is moving in a perfect circle, always staying the same distance from the center point, what type of motion is it demonstrating?",
-    "correct": "Circular motion",
-    "options": [
-      "Linear motion",
-      "Random motion",
-      "Circular motion",
-      "Vibratory motion"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Science - Motion",
-    "complexity_score": 2
-  },
-  {
-    "question": "The Dadasaheb Phalke Award is the highest honor in which field for extraordinary contributions?",
+    "question": "The Dadasaheb Phalke Award is given for extraordinary contribution to which field?",
     "correct": "Indian Cinema",
     "options": [
       "Sports",
@@ -122,161 +108,175 @@
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "General Knowledge - Awards",
+    "topic": "General Knowledge: Indian Awards",
     "complexity_score": 2
   },
   {
-    "question": "The Shola forest plants in the Nilgiri region are shorter to cope with cold and humidity. This is a real-world example of:",
-    "correct": "Adaptation",
+    "question": "What is 'biodiversity'?",
+    "correct": "The variety of plants, animals, and other living organisms in a particular region.",
     "options": [
-      "Photosynthesis",
-      "Reproduction",
-      "Adaptation",
-      "Germination"
+      "The total number of animals in the world.",
+      "The study of plant biology.",
+      "The variety of plants, animals, and other living organisms in a particular region.",
+      "The different types of non-living things in an environment."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science - Biodiversity",
+    "topic": "Science: Biodiversity",
     "complexity_score": 2
   },
   {
-    "question": "What color is a polar bear's skin underneath its white fur, and what is the advantage of this?",
-    "correct": "Black, to absorb heat.",
+    "question": "If you bring the North pole of one magnet close to the South pole of another magnet, what will happen?",
+    "correct": "They will attract and pull towards each other.",
     "options": [
-      "White, to match its fur.",
-      "Pink, like other mammals.",
-      "Black, to absorb heat.",
-      "Transparent, to let light through."
+      "They will repel and push away from each other.",
+      "Nothing will happen.",
+      "They will attract and pull towards each other.",
+      "They will spin in circles."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "General Knowledge - Animals",
+    "topic": "Science: Magnetism",
+    "complexity_score": 2
+  },
+  {
+    "question": "Two numbers that have no common factors other than 1 are called:",
+    "correct": "Co-prime numbers",
+    "options": [
+      "Twin prime numbers",
+      "Even numbers",
+      "Co-prime numbers",
+      "Composite numbers"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics: Number Theory",
+    "complexity_score": 2
+  },
+  {
+    "question": "The lesson mentioned that plants in the Shola forest of the Nilgiris have shorter leaves. This is an adaptation to what kind of conditions?",
+    "correct": "Cold conditions and high humidity",
+    "options": [
+      "Hot and dry desert conditions",
+      "Strong winds and low sunlight",
+      "Cold conditions and high humidity",
+      "Very salty soil"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Science: Plant Adaptations",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which of the following pairs is an example of 'twin primes'?",
+    "correct": "5 and 7",
+    "options": [
+      "2 and 4",
+      "7 and 13",
+      "5 and 7",
+      "9 and 11"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Mathematics: Number Theory",
+    "complexity_score": 2
+  },
+  {
+    "question": "The Ashoka Chakra is a peacetime military decoration. How does this differ from an award for 'valour' during a war?",
+    "correct": "It is awarded for courage shown when not in active battle against an enemy.",
+    "options": [
+      "It is only given to civilians, not soldiers.",
+      "It is a less prestigious award.",
+      "It is awarded for courage shown when not in active battle against an enemy.",
+      "It is made of a different metal."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "General Knowledge: Indian Awards",
+    "complexity_score": 2
+  },
+  {
+    "question": "Based on the lesson, if a plant species from a very windy place were to grow in a calm, protected valley for thousands of years, what might happen to it?",
+    "correct": "It might evolve to grow taller and have larger leaves.",
+    "options": [
+      "It would stay exactly the same.",
+      "It would lose its ability to perform photosynthesis.",
+      "It might evolve to grow taller and have larger leaves.",
+      "It would immediately grow thorns for protection."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Science: Critical Thinking",
     "complexity_score": 3
   },
   {
-    "question": "Which of the following pairs of numbers is 'co-prime' (meaning they have no common factors other than 1)?",
-    "correct": "9 and 10",
+    "question": "The numbers 29 and 31 are twin primes. According to the definition discussed, what must be true about the number 30, which is between them?",
+    "correct": "It must be a composite number.",
     "options": [
-      "12 and 15",
-      "6 and 9",
-      "9 and 10",
-      "10 and 20"
+      "It must also be a prime number.",
+      "It has no factors.",
+      "It must be a composite number.",
+      "It is an odd number."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Mathematics - Number Theory",
+    "topic": "Mathematics: Application",
     "complexity_score": 3
   },
   {
-    "question": "The activity to separate soil from water likely involves pouring the mixture through a filter. What is this scientific separation technique called?",
-    "correct": "Filtration",
+    "question": "You have a mixture of fine sand and small iron filings. Based on the topics discussed, what would be the most effective tool to separate them?",
+    "correct": "A magnet",
     "options": [
-      "Evaporation",
-      "Magnetism",
-      "Filtration",
-      "Condensation"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Science - Separation of Substances",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which is the world's tallest living land animal?",
-    "correct": "Giraffe",
-    "options": [
-      "Elephant",
-      "Ostrich",
-      "Giraffe",
-      "Tiger"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "General Knowledge - Animals",
-    "complexity_score": 2
-  },
-  {
-    "question": "Two prime numbers that have a difference of exactly 2 (like 5 and 7) are known as:",
-    "correct": "Twin primes",
-    "options": [
-      "Co-primes",
-      "Composite primes",
-      "Twin primes",
-      "Even primes"
+      "A sieve",
+      "Water",
+      "A magnet",
+      "A filter paper"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Mathematics - Number Theory",
-    "complexity_score": 4
+    "topic": "Science: Application",
+    "complexity_score": 3
   },
   {
-    "question": "The Ashok Chakra is described as a 'peace time' military decoration. What does this imply about when it is awarded?",
-    "correct": "For acts of courage and sacrifice away from the battlefield.",
+    "question": "What fundamental concept connects a polar bear having black skin to a plant in Sikkim growing taller due to less wind?",
+    "correct": "Adaptation to the specific environment",
     "options": [
-      "Only to soldiers who have retired.",
-      "Only to civilians, not military personnel.",
-      "For acts of courage and sacrifice away from the battlefield.",
-      "For winning a war."
+      "They are both examples of camouflage.",
+      "They are both related to the animal's diet.",
+      "Adaptation to the specific environment",
+      "The effect of gravity on living things."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "General Knowledge - Awards",
-    "complexity_score": 4
+    "topic": "Science: Synthesis",
+    "complexity_score": 3
   },
   {
-    "question": "Why is having a standardized system of measurement, like SI units (meter, kilogram), crucial for global science and engineering?",
-    "correct": "It ensures results are consistent, understandable, and replicable anywhere in the world.",
+    "question": "The lesson covered several SI (standard international) units of measurement. Which of these correctly pairs a quantity with its SI unit symbol mentioned?",
+    "correct": "Mass - kg",
     "options": [
-      "It makes calculations harder and more challenging for scientists.",
-      "It is the oldest system, so it is used out of tradition.",
-      "It ensures results are consistent, understandable, and replicable anywhere in the world.",
-      "It is only important for scientists in one specific country."
+      "Length - cm",
+      "Temperature - C",
+      "Mass - kg",
+      "Time - min"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Science - Measurement",
-    "complexity_score": 4
+    "topic": "Science: Measurement",
+    "complexity_score": 3
   },
   {
-    "question": "If two numbers both have 5 as a prime factor, can they be co-prime? ",
-    "correct": "No, because they share a common factor other than 1.",
+    "question": "If you want to draw a diagram showing two magnets repelling each other, what must be true about the poles that are facing each other?",
+    "correct": "Both poles must be the same (North facing North, or South facing South).",
     "options": [
-      "Yes, because all numbers with a 5 are co-prime.",
-      "Only if one of the numbers is 5 itself.",
-      "No, because they share a common factor other than 1.",
-      "It is impossible to tell without knowing the numbers."
+      "One pole must be North and the other must be South.",
+      "The magnets must be different sizes.",
+      "Both poles must be the same (North facing North, or South facing South).",
+      "The drawing must include arrows pointing towards each other."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Mathematics - Number Theory",
-    "complexity_score": 5
-  },
-  {
-    "question": "Based on the discussion of magnets, how could you use a magnet to separate a mixture of sand and iron filings?",
-    "correct": "Move the magnet over the mixture; it will attract only the iron filings.",
-    "options": [
-      "Dissolve the mixture in water; the magnet will make the iron float.",
-      "Heat the mixture; the magnet will cool down the iron.",
-      "Move the magnet over the mixture; it will attract only the iron filings.",
-      "It's not possible to separate them with a magnet."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Science - Magnetism & Separation",
-    "complexity_score": 4
-  },
-  {
-    "question": "The Shanti Swarup Bhatnagar Prize is awarded for outstanding contributions in a multi-disciplinary field. What is that field?",
-    "correct": "Science",
-    "options": [
-      "Sports",
-      "Film",
-      "Science",
-      "Literature"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "General Knowledge - Awards",
-    "complexity_score": 4
+    "topic": "Science: Magnetism Application",
+    "complexity_score": 3
   }
 ]
