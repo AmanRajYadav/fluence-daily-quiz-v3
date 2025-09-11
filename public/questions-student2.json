@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, what is the primary characteristic of all deserts, whether they are hot or cold?",
-    "correct": "They are always dry.",
+    "question": "What is the fundamental purpose of a magnetic compass?",
+    "correct": "To determine direction by aligning with the Earth's magnetic field",
     "options": [
-      "They are always hot.",
-      "They are filled with sand.",
-      "They have no plant life.",
-      "They are always dry."
+      "To measure the strength of a magnet",
+      "To find deposits of iron ore",
+      "To determine direction by aligning with the Earth's magnetic field",
+      "To predict the weather"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Desert Ecosystems",
+    "topic": "Magnetic Compass Importance",
     "complexity_score": 1
   },
   {
-    "question": "What is the key adaptation of a cactus that helps it store water in the desert?",
-    "correct": "It has a thick and fleshy stem.",
+    "question": "Which part of a typical magnetic compass is the actual magnet?",
+    "correct": "The needle",
     "options": [
-      "It has sharp spines that absorb moisture.",
-      "It has deep roots to find underground rivers.",
-      "It has large leaves to catch dew.",
-      "It has a thick and fleshy stem."
+      "The casing",
+      "The pivot",
+      "The needle",
+      "The glass cover"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Plant Adaptations",
+    "topic": "Magnetic Compass Structure",
     "complexity_score": 1
   },
   {
-    "question": "The lesson defined 'biodiversity' by breaking the word down. What does the 'bio' part refer to?",
-    "correct": "Living organisms like plants and animals.",
+    "question": "The part of the compass needle that points towards the Earth's magnetic north is typically which pole of the magnet?",
+    "correct": "The north-seeking pole",
     "options": [
-      "A specific region or area.",
-      "The variety or differences between things.",
-      "The climate conditions.",
-      "Living organisms like plants and animals."
+      "The east-seeking pole",
+      "The south-seeking pole",
+      "The north-seeking pole",
+      "The west-seeking pole"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Biodiversity",
+    "topic": "Magnetic Compass Structure",
     "complexity_score": 1
   },
   {
-    "question": "What feature helps a fish breathe underwater?",
-    "correct": "Gills",
+    "question": "Why is the needle in a magnetic compass able to spin freely?",
+    "correct": "It is balanced on a low-friction pivot point",
     "options": [
-      "Streamlined body",
-      "Fins and a tail",
-      "Scales",
-      "Gills"
+      "It is made of a very light material",
+      "It is balanced on a low-friction pivot point",
+      "It is suspended in a special type of oil",
+      "It is repelled by the compass casing"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Animal Adaptations",
+    "topic": "Magnetic Compass Structure",
     "complexity_score": 1
   },
   {
-    "question": "Why is the camel known as the 'ship of the desert'?",
-    "correct": "Because it is well-suited for travel and survival in the desert.",
+    "question": "What invisible force causes the needle of a compass to move?",
+    "correct": "The Earth's magnetic field",
     "options": [
-      "Because it is as large as a ship.",
-      "Because it carries goods across sandy 'oceans'.",
-      "Because it floats on sand.",
-      "Because it is well-suited for travel and survival in the desert."
+      "The Earth's gravity",
+      "The Earth's magnetic field",
+      "The static electricity in the air",
+      "The rotation of the Earth"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Animal Adaptations",
+    "topic": "Magnetic Compass Working Principle",
     "complexity_score": 1
   },
   {
-    "question": "What is the main purpose of the spines on a cactus?",
-    "correct": "To reduce water loss.",
+    "question": "For which of the following activities would a magnetic compass be most important?",
+    "correct": "Hiking in a dense, unfamiliar forest",
     "options": [
-      "To store water for later use.",
-      "To absorb sunlight for photosynthesis.",
-      "To attract pollinating insects.",
-      "To reduce water loss."
+      "Baking a cake in the kitchen",
+      "Driving through a city with many street signs",
+      "Hiking in a dense, unfamiliar forest",
+      "Reading a book indoors"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Plant Adaptations",
+    "topic": "Magnetic Compass Importance",
     "complexity_score": 1
   },
   {
-    "question": "Why might the same type of plant, like a Rhododendron, look different in two different regions?",
-    "correct": "Because it adapts to different environmental and climatic conditions.",
+    "question": "If you place a strong bar magnet next to a compass, what is most likely to happen?",
+    "correct": "The compass needle will point towards the bar magnet's pole",
     "options": [
-      "Because the soil has a different color.",
-      "Because animals in each region eat it differently.",
-      "Because it is a different age in each region.",
-      "Because it adapts to different environmental and climatic conditions."
+      "The compass needle will spin uncontrollably",
+      "The compass will stop working permanently",
+      "The compass needle will point towards the bar magnet's pole",
+      "Nothing will happen to the compass needle"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Adaptation and Environment",
+    "topic": "Magnetic Compass Working Principle",
     "complexity_score": 2
   },
   {
-    "question": "The teacher compared a hot desert camel with a cold desert camel. What is a key difference in their adaptations?",
-    "correct": "The cold desert camel has shorter legs and thicker fur.",
+    "question": "Why is the casing of a magnetic compass typically made from a non-magnetic material like plastic or brass?",
+    "correct": "To prevent it from interfering with the magnetic needle",
     "options": [
-      "The hot desert camel has thicker fur for sun protection.",
-      "The cold desert camel has longer legs to walk through snow.",
-      "Only the hot desert camel can store water.",
-      "The cold desert camel has shorter legs and thicker fur."
+      "Because these materials are cheaper than iron",
+      "To make the compass waterproof",
+      "To prevent it from interfering with the magnetic needle",
+      "To make the compass lighter"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Animal Adaptations",
+    "topic": "Magnetic Compass Structure",
     "complexity_score": 2
   },
   {
-    "question": "Based on the lesson, why can you grow a snake plant in a room with air conditioning and less sunlight, but not a hibiscus plant?",
-    "correct": "The room's climate conditions are unsuitable for a hibiscus, which needs more light and warmth.",
+    "question": "A compass points to the Earth's Magnetic North Pole. How does this differ from the Geographic North Pole?",
+    "correct": "They are in two different physical locations",
     "options": [
-      "Hibiscus plants are too large to grow indoors.",
-      "Snake plants do not need any water to survive.",
-      "Air conditioning is toxic to hibiscus plants.",
-      "The room's climate conditions are unsuitable for a hibiscus, which needs more light and warmth."
+      "They are the exact same place",
+      "The Magnetic North Pole is at the equator",
+      "The Geographic North Pole moves, but the Magnetic North Pole is fixed",
+      "They are in two different physical locations"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Biodiversity and Environment",
+    "topic": "Magnetic Compass Importance",
     "complexity_score": 2
   },
   {
-    "question": "What is the best definition of 'adaptation' based on the class discussion?",
-    "correct": "The presence of specific features that help a plant or animal survive in its habitat.",
+    "question": "Imagine you are in a car made of steel. Why might your magnetic compass give an inaccurate reading?",
+    "correct": "The car's metal body can distort the Earth's magnetic field",
     "options": [
-      "The process of an animal learning a new skill.",
-      "The way an animal changes its color to hide.",
-      "The food that an animal eats in its environment.",
-      "The presence of specific features that help a plant or animal survive in its habitat."
+      "The car's engine heat demagnetizes the needle",
+      "The car's movement is too fast for the compass",
+      "The car's metal body can distort the Earth's magnetic field",
+      "The glass windows block the magnetic field"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Adaptation",
+    "topic": "Magnetic Compass Application",
     "complexity_score": 2
   },
   {
-    "question": "A fish's streamlined, spindle-shaped body is an adaptation that primarily helps it to:",
-    "correct": "Move quickly and efficiently through water.",
+    "question": "Before the invention of the magnetic compass, how might ancient sailors have navigated on cloudy nights when they couldn't see the stars?",
+    "correct": "They would have great difficulty and might rely on coastline or wind patterns",
     "options": [
-      "Breathe more easily.",
-      "Hide from predators.",
-      "Find food on the ocean floor.",
-      "Move quickly and efficiently through water."
+      "They used special maps that showed magnetic fields",
+      "They would have great difficulty and might rely on coastline or wind patterns",
+      "They followed the direction of migrating birds",
+      "They had other non-magnetic devices to find north"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Animal Adaptations",
+    "topic": "Magnetic Compass Importance",
     "complexity_score": 2
   },
   {
-    "question": "The lesson states that the biodiversity of two regions varies because their 'CC and EF' are different. What does 'CC and EF' stand for?",
-    "correct": "Climate Conditions and Environmental Factors",
+    "question": "Which of these components is NOT essential for a basic working magnetic compass?",
+    "correct": "A liquid-filled housing",
     "options": [
-      "Creature Count and Ecosystem Form.",
-      "Carbon Cycle and Energy Flow.",
-      "Coastal Climate and Forest Floor.",
-      "Climate Conditions and Environmental Factors"
+      "A magnetized pointer",
+      "A low-friction pivot",
+      "A liquid-filled housing",
+      "A freely rotating needle"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Biodiversity",
+    "topic": "Magnetic Compass Structure",
     "complexity_score": 2
   },
   {
-    "question": "The teacher used an example of adapting his teaching style for different students. How does this relate to adaptation in nature?",
-    "correct": "It shows that changing features or behaviors to suit a specific situation is a fundamental principle.",
+    "question": "The 'structure' of a magnetic compass relies on the principle that 'like poles repel, and opposite poles attract'. How does this apply to the compass and the Earth?",
+    "correct": "The north-seeking pole of the compass needle is attracted to the Earth's magnetic south pole (located near the geographic north)",
     "options": [
-      "It proves that teachers are a different species from students.",
-      "It suggests that animals also go to school to learn how to adapt.",
-      "It has no connection to adaptation in nature.",
-      "It shows that changing features or behaviors to suit a specific situation is a fundamental principle."
+      "The north-seeking pole of the compass needle is repelled by the Earth's geographic North Pole",
+      "The north-seeking pole of the compass needle is attracted to the Earth's magnetic south pole (located near the geographic north)",
+      "The south-seeking pole of the compass needle is attracted to the Earth's geographic South Pole",
+      "The entire compass needle is attracted to the Earth's core"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Concept of Adaptation",
-    "complexity_score": 2
-  },
-  {
-    "question": "If a freshwater fish was suddenly moved to marine (salt) water, why would it struggle to survive according to the concept of adaptation?",
-    "correct": "Its specific features are adapted for freshwater, not the high-salt environment of marine water.",
-    "options": [
-      "Marine water is always much colder than freshwater.",
-      "The fish would not be able to find the right food.",
-      "The pressure in marine water is too high for it.",
-      "Its specific features are adapted for freshwater, not the high-salt environment of marine water."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Adaptation",
-    "complexity_score": 2
-  },
-  {
-    "question": "A scientist finds a plant in a very windy, cold, and dry mountain region. Based on the lesson about Rhododendrons and cacti, what adaptations would you PREDICT this plant has?",
-    "correct": "Short stature, small leaves, and a water-storing system.",
-    "options": [
-      "Tall stature, large leaves, and deep roots.",
-      "Brightly colored flowers and very thin stems.",
-      "No leaves at all and a very dark color.",
-      "Short stature, small leaves, and a water-storing system."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Applying Adaptation Concepts",
+    "topic": "Magnetic Compass Working Principle",
     "complexity_score": 3
   },
   {
-    "question": "The lesson implies a direct relationship between an environment's conditions and the features of organisms living there. Which statement best summarizes this relationship?",
-    "correct": "The unique challenges of a habitat drive the development of specific survival features in its inhabitants.",
+    "question": "Why is a magnetic compass particularly important for ships and airplanes, even with modern GPS technology?",
+    "correct": "It works without power or satellite signals, making it a reliable backup",
     "options": [
-      "All organisms can change their features at will to survive anywhere.",
-      "All hot places have organisms with the exact same features.",
-      "The environment has little to no effect on the features of an organism.",
-      "The unique challenges of a habitat drive the development of specific survival features in its inhabitants."
+      "It is more accurate than GPS over short distances",
+      "It is required by law but never actually used",
+      "It can predict turbulence or rough seas",
+      "It works without power or satellite signals, making it a reliable backup"
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Adaptation and Environment",
+    "topic": "Magnetic Compass Importance",
     "complexity_score": 3
   },
   {
-    "question": "Imagine a region's climate slowly changes over thousands of years from cold and snowy to hot and dry. What would likely happen to the biodiversity of that region?",
-    "correct": "The types of plants and animals would change, favoring those adapted to hot, dry conditions.",
+    "question": "If you were to use a magnetic compass near one of the Earth's magnetic poles, what would you observe?",
+    "correct": "The compass needle would try to point straight down or up",
     "options": [
-      "All the original plants and animals would learn to survive in the heat.",
-      "The biodiversity would completely disappear.",
-      "The biodiversity would stay exactly the same.",
-      "The types of plants and animals would change, favoring those adapted to hot, dry conditions."
+      "The compass would spin around rapidly in a circle",
+      "The compass needle would point towards the equator",
+      "The compass needle would try to point straight down or up",
+      "The compass would work exactly the same as anywhere else"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Biodiversity and Change",
+    "topic": "Magnetic Compass Application",
     "complexity_score": 3
   },
   {
-    "question": "Considering the adaptations of both the cactus and the cold desert camel, what is a common survival problem they have both solved, despite being in different climates?",
-    "correct": "Conserving a vital resource that is scarce in their environment (water for the cactus, heat for the camel).",
+    "question": "A student tries to make a compass with an iron nail. They rub it with a magnet and float it on a piece of cork in water. It works. What is the most crucial step they performed to make the iron nail a magnet?",
+    "correct": "Stroking the nail in one direction with one pole of the magnet",
     "options": [
-      "The need to walk on unstable surfaces (sand and snow).",
-      "The ability to survive extreme temperatures.",
-      "Protecting themselves from predators.",
-      "Conserving a vital resource that is scarce in their environment (water for the cactus, heat for the camel)."
+      "Placing the nail in water",
+      "Attaching the nail to the cork",
+      "Tapping the nail with the magnet",
+      "Stroking the nail in one direction with one pole of the magnet"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Comparative Adaptations",
+    "topic": "Magnetic Compass Structure",
     "complexity_score": 3
   },
   {
-    "question": "The lesson corrected a common misconception about cactus spines. Why is it more advantageous for a desert plant to have spines instead of large leaves?",
-    "correct": "Large leaves have a greater surface area, which would lead to more water loss through evaporation.",
+    "question": "Scientists know that the Earth's magnetic field has reversed its polarity many times over millions of years. If a reversal happened today, what would a compass that previously pointed North now do?",
+    "correct": "It would point South",
     "options": [
-      "Spines are better at performing photosynthesis than leaves.",
-      "Spines can move to track the sun throughout the day.",
-      "Leaves are too heavy for a desert plant to support.",
-      "Large leaves have a greater surface area, which would lead to more water loss through evaporation."
+      "It would point East",
+      "It would point South",
+      "It would stop working",
+      "It would point North anyway"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Plant Adaptations",
+    "topic": "Magnetic Compass Working Principle",
+    "complexity_score": 4
+  },
+  {
+    "question": "An explorer is using a very precise map and a compass. To get to their exact destination, they must account for 'magnetic declination'. What does this concept most likely refer to?",
+    "correct": "The angle of difference between Magnetic North and true Geographic North",
+    "options": [
+      "The gradual weakening of the compass needle over time",
+      "The angle of difference between Magnetic North and true Geographic North",
+      "The interference from solar flares on the compass",
+      "The tendency of the compass to dip downwards"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Magnetic Compass Importance",
+    "complexity_score": 4
+  },
+  {
+    "question": "Two compasses are placed side-by-side. One is a high-quality hiking compass filled with liquid. The other is a simple needle on a pin. When both are shaken, the hiking compass's needle settles much faster. Why is this an important structural feature?",
+    "correct": "The liquid dampens oscillations, providing a quicker and more stable reading",
+    "options": [
+      "The liquid magnifies the Earth's magnetic field",
+      "The liquid cools the needle to make it more sensitive",
+      "The liquid dampens oscillations, providing a quicker and more stable reading",
+      "The liquid protects the needle from rust"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Magnetic Compass Structure",
     "complexity_score": 3
   },
   {
-    "question": "Which of the following is the BEST example of biodiversity as explained in the lesson?",
-    "correct": "A forest containing oak trees, ferns, squirrels, deer, and various insects.",
+    "question": "Considering the structure of the Earth itself, what is the most accepted scientific theory for *why* it has a magnetic field that a compass can detect?",
+    "correct": "The movement of molten iron in the Earth's outer core",
     "options": [
-      "A large herd of camels all living together in one desert.",
-      "A single, very large cactus plant that is 100 years old.",
-      "A classroom with many students from different backgrounds.",
-      "A forest containing oak trees, ferns, squirrels, deer, and various insects."
+      "A giant, solid bar magnet at the center of the Earth",
+      "The gravitational pull of the moon and sun",
+      "The movement of molten iron in the Earth's outer core",
+      "The combined magnetic fields of all the ore deposits in the crust"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Biodiversity",
-    "complexity_score": 3
+    "topic": "Magnetic Compass Working Principle",
+    "complexity_score": 4
   }
 ]
