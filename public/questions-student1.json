@@ -1,282 +1,282 @@
 [
   {
-    "question": "A group of lions is known as a...",
-    "correct": "Pride",
+    "question": "According to the story's premise, who are Clovis and Jane?",
+    "correct": "Two characters navigating a psychologically challenging situation",
     "options": [
-      "Herd",
-      "Pack",
-      "Pride",
-      "Flock"
+      "Historians studying ancient artifacts",
+      "Scientists conducting an experiment",
+      "Two characters navigating a psychologically challenging situation",
+      "Explorers on a journey to a new land"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "General Knowledge: Animals",
+    "topic": "Character Identification",
     "complexity_score": 1
   },
   {
-    "question": "What is the actual skin color of a polar bear, hidden beneath its thick white fur?",
-    "correct": "Black",
+    "question": "What is the central question discussed in class regarding Clovis and Jane's story?",
+    "correct": "What factors would lead a person to 'go mad'?",
     "options": [
-      "White",
-      "Pink",
-      "Black",
-      "Grey"
+      "What is the fastest way to travel?",
+      "How to build a successful business?",
+      "What factors would lead a person to 'go mad'?",
+      "Where did the characters hide the treasure?"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science: Animal Adaptations",
+    "topic": "Central Theme",
     "complexity_score": 1
   },
   {
-    "question": "Which award is recognized as the highest civilian award in India?",
-    "correct": "Bharat Ratna",
+    "question": "The term 'go mad' in the context of the story most closely means...",
+    "correct": "To lose one's grip on reality or sanity",
     "options": [
-      "Param Vir Chakra",
-      "Ashoka Chakra",
-      "Bharat Ratna",
-      "Dadasaheb Phalke Award"
+      "To become very angry",
+      "To feel extremely happy",
+      "To lose one's grip on reality or sanity",
+      "To start a long journey"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "General Knowledge: Indian Awards",
+    "topic": "Vocabulary in Context",
     "complexity_score": 1
   },
   {
-    "question": "If you bring two 'like' poles of magnets together (e.g., North and North), they will...",
-    "correct": "Repel each other",
+    "question": "What was described as a key element that the characters felt 'trapped' by?",
+    "correct": "Social expectations and invisible pressures",
     "options": [
-      "Attract each other",
-      "Become warmer",
-      "Repel each other",
-      "Lose their magnetism"
+      "A literal cage",
+      "A powerful storm",
+      "Social expectations and invisible pressures",
+      "A financial debt"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science: Magnetism",
-    "complexity_score": 1
+    "topic": "Plot Elements",
+    "complexity_score": 2
   },
   {
-    "question": "The stripes of which large cat are unique to each individual, much like a human's fingerprint?",
-    "correct": "Tiger",
+    "question": "The discussion implied that the 'madness' was caused by what type of factor?",
+    "correct": "An external pressure affecting their internal state",
     "options": [
-      "Leopard",
-      "Cheetah",
-      "Tiger",
-      "Jaguar"
+      "A sudden magical curse",
+      "A physical illness",
+      "An external pressure affecting their internal state",
+      "A simple misunderstanding"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "General Knowledge: Animals",
-    "complexity_score": 1
+    "topic": "Cause and Effect",
+    "complexity_score": 2
   },
   {
-    "question": "Which continent is the only one where giraffes live in the wild?",
-    "correct": "Africa",
+    "question": "The story uses the characters of Clovis and Jane to explore the fragility of what?",
+    "correct": "The human mind under stress",
     "options": [
-      "Asia",
-      "Australia",
-      "Africa",
-      "South America"
+      "The political system",
+      "The natural environment",
+      "The human mind under stress",
+      "The economy"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "General Knowledge: Animals",
-    "complexity_score": 1
-  },
-  {
-    "question": "Why is a personal measurement like a 'footstep' not used as a standard unit of length in science?",
-    "correct": "Because everyone's foot size is different, making it inconsistent.",
-    "options": [
-      "Because it is too difficult to measure a footstep accurately.",
-      "Because feet are not long enough for large measurements.",
-      "Because everyone's foot size is different, making it inconsistent.",
-      "Because scientists prefer using metric units only."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Science: Measurement",
+    "topic": "Thematic Concepts",
     "complexity_score": 2
   },
   {
-    "question": "The Dadasaheb Phalke Award is given for extraordinary contribution to which field?",
-    "correct": "Indian Cinema",
+    "question": "How might Clovis's perspective on reality differ from Jane's based on the theme of 'madness'?",
+    "correct": "They might perceive the same events in fundamentally different, conflicting ways.",
     "options": [
-      "Sports",
-      "Science",
-      "Indian Cinema",
-      "Military Service"
+      "They would always agree on everything.",
+      "Clovis would be unable to see, while Jane would be unable to hear.",
+      "They might perceive the same events in fundamentally different, conflicting ways.",
+      "Their perspectives would be identical, but they would pretend to disagree."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "General Knowledge: Indian Awards",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is 'biodiversity'?",
-    "correct": "The variety of plants, animals, and other living organisms in a particular region.",
-    "options": [
-      "The total number of animals in the world.",
-      "The study of plant biology.",
-      "The variety of plants, animals, and other living organisms in a particular region.",
-      "The different types of non-living things in an environment."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Science: Biodiversity",
-    "complexity_score": 2
-  },
-  {
-    "question": "If you bring the North pole of one magnet close to the South pole of another magnet, what will happen?",
-    "correct": "They will attract and pull towards each other.",
-    "options": [
-      "They will repel and push away from each other.",
-      "Nothing will happen.",
-      "They will attract and pull towards each other.",
-      "They will spin in circles."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Science: Magnetism",
-    "complexity_score": 2
-  },
-  {
-    "question": "Two numbers that have no common factors other than 1 are called:",
-    "correct": "Co-prime numbers",
-    "options": [
-      "Twin prime numbers",
-      "Even numbers",
-      "Co-prime numbers",
-      "Composite numbers"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematics: Number Theory",
-    "complexity_score": 2
-  },
-  {
-    "question": "The lesson mentioned that plants in the Shola forest of the Nilgiris have shorter leaves. This is an adaptation to what kind of conditions?",
-    "correct": "Cold conditions and high humidity",
-    "options": [
-      "Hot and dry desert conditions",
-      "Strong winds and low sunlight",
-      "Cold conditions and high humidity",
-      "Very salty soil"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Science: Plant Adaptations",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which of the following pairs is an example of 'twin primes'?",
-    "correct": "5 and 7",
-    "options": [
-      "2 and 4",
-      "7 and 13",
-      "5 and 7",
-      "9 and 11"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Mathematics: Number Theory",
-    "complexity_score": 2
-  },
-  {
-    "question": "The Ashoka Chakra is a peacetime military decoration. How does this differ from an award for 'valour' during a war?",
-    "correct": "It is awarded for courage shown when not in active battle against an enemy.",
-    "options": [
-      "It is only given to civilians, not soldiers.",
-      "It is a less prestigious award.",
-      "It is awarded for courage shown when not in active battle against an enemy.",
-      "It is made of a different metal."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "General Knowledge: Indian Awards",
-    "complexity_score": 2
-  },
-  {
-    "question": "Based on the lesson, if a plant species from a very windy place were to grow in a calm, protected valley for thousands of years, what might happen to it?",
-    "correct": "It might evolve to grow taller and have larger leaves.",
-    "options": [
-      "It would stay exactly the same.",
-      "It would lose its ability to perform photosynthesis.",
-      "It might evolve to grow taller and have larger leaves.",
-      "It would immediately grow thorns for protection."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Science: Critical Thinking",
+    "topic": "Character Analysis",
     "complexity_score": 3
   },
   {
-    "question": "The numbers 29 and 31 are twin primes. According to the definition discussed, what must be true about the number 30, which is between them?",
-    "correct": "It must be a composite number.",
+    "question": "The concept of being 'trapped' in the story is likely a metaphor for...",
+    "correct": "Feeling powerless against societal norms or personal circumstances.",
     "options": [
-      "It must also be a prime number.",
-      "It has no factors.",
-      "It must be a composite number.",
-      "It is an odd number."
+      "Being physically locked in a room.",
+      "Enjoying a very predictable and safe life.",
+      "Feeling powerless against societal norms or personal circumstances.",
+      "A desire for more adventure."
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Mathematics: Application",
-    "complexity_score": 3
+    "topic": "Literary Devices",
+    "complexity_score": 4
   },
   {
-    "question": "You have a mixture of fine sand and small iron filings. Based on the topics discussed, what would be the most effective tool to separate them?",
-    "correct": "A magnet",
+    "question": "If a new character was introduced who was completely free of social pressure, how would they likely view Clovis and Jane?",
+    "correct": "As behaving irrationally because they wouldn't understand the pressures.",
     "options": [
-      "A sieve",
-      "Water",
-      "A magnet",
-      "A filter paper"
+      "As powerful leaders to be emulated.",
+      "As their closest and most understandable friends.",
+      "As behaving irrationally because they wouldn't understand the pressures.",
+      "As boring and uninteresting."
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science: Application",
-    "complexity_score": 3
+    "topic": "Character Dynamics",
+    "complexity_score": 5
   },
   {
-    "question": "What fundamental concept connects a polar bear having black skin to a plant in Sikkim growing taller due to less wind?",
-    "correct": "Adaptation to the specific environment",
+    "question": "The story seems to suggest that 'madness' is not random, but rather a...",
+    "correct": "Consequence of specific, sustained pressures.",
     "options": [
-      "They are both examples of camouflage.",
-      "They are both related to the animal's diet.",
-      "Adaptation to the specific environment",
-      "The effect of gravity on living things."
+      "Genetic trait one is born with.",
+      "Choice that characters make willingly.",
+      "Consequence of specific, sustained pressures.",
+      "Form of creative expression."
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science: Synthesis",
-    "complexity_score": 3
+    "topic": "Thematic Interpretation",
+    "complexity_score": 4
   },
   {
-    "question": "The lesson covered several SI (standard international) units of measurement. Which of these correctly pairs a quantity with its SI unit symbol mentioned?",
-    "correct": "Mass - kg",
+    "question": "Why would an author choose to explore a theme like 'madness' through a story?",
+    "correct": "To comment on societal issues and the human condition in a safe, fictional space.",
     "options": [
-      "Length - cm",
-      "Temperature - C",
-      "Mass - kg",
-      "Time - min"
+      "Because it is the only theme that sells books.",
+      "To confuse the reader intentionally.",
+      "To comment on societal issues and the human condition in a safe, fictional space.",
+      "To provide a simple story with a happy ending."
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science: Measurement",
-    "complexity_score": 3
+    "topic": "Author's Purpose",
+    "complexity_score": 5
   },
   {
-    "question": "If you want to draw a diagram showing two magnets repelling each other, what must be true about the poles that are facing each other?",
-    "correct": "Both poles must be the same (North facing North, or South facing South).",
+    "question": "Connecting to our own world, what is a modern equivalent of the pressures faced by Clovis and Jane?",
+    "correct": "The pressure to maintain a perfect image on social media.",
     "options": [
-      "One pole must be North and the other must be South.",
-      "The magnets must be different sizes.",
-      "Both poles must be the same (North facing North, or South facing South).",
-      "The drawing must include arrows pointing towards each other."
+      "The need to drink water to survive.",
+      "The laws of physics.",
+      "The pressure to maintain a perfect image on social media.",
+      "The changing of the seasons."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Real-World Connection",
+    "complexity_score": 5
+  },
+  {
+    "question": "What literary element is most crucial for making the theme of psychological distress feel real to the reader?",
+    "correct": "Internal monologue and point of view",
+    "options": [
+      "Detailed descriptions of the landscape",
+      "A fast-paced, action-packed plot",
+      "Internal monologue and point of view",
+      "A complex and confusing timeline"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Literary Elements",
+    "complexity_score": 4
+  },
+  {
+    "question": "The class discussion implied that the 'trap' was not the situation itself, but rather...",
+    "correct": "The characters' inability to see a way out.",
+    "options": [
+      "The physical strength of the antagonist.",
+      "The lack of available technology.",
+      "The characters' inability to see a way out.",
+      "A map that was drawn incorrectly."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Conceptual Analysis",
+    "complexity_score": 5
+  },
+  {
+    "question": "The story of Clovis and Jane primarily serves as a critique of what?",
+    "correct": "A society that values conformity over individual mental well-being.",
+    "options": [
+      "The pursuit of scientific knowledge at all costs.",
+      "The dangers of unchecked technological advancement.",
+      "A society that values conformity over individual mental well-being.",
+      "An economic system based on free trade."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Science: Magnetism Application",
-    "complexity_score": 3
+    "topic": "Critical Analysis",
+    "complexity_score": 7
+  },
+  {
+    "question": "How does the author use the ambiguity of 'madness' to challenge the reader?",
+    "correct": "It forces the reader to question their own definitions of normal and abnormal behavior.",
+    "options": [
+      "It makes the story's ending clear from the beginning.",
+      "It provides a simple moral lesson that is easy to understand.",
+      "It forces the reader to question their own definitions of normal and abnormal behavior.",
+      "It suggests that none of the events in the story actually happened."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Reader Interpretation",
+    "complexity_score": 8
+  },
+  {
+    "question": "If we define sanity as 'adapting to one's environment,' how does the story complicate this idea?",
+    "correct": "It suggests that adapting to a 'mad' environment may require a form of madness itself.",
+    "options": [
+      "It proves that sanity is impossible to achieve for anyone.",
+      "It shows that the environment has no effect on a person's sanity.",
+      "It suggests that adapting to a 'mad' environment may require a form of madness itself.",
+      "It defines sanity as being wealthy and successful."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Philosophical Inquiry",
+    "complexity_score": 9
+  },
+  {
+    "question": "What is the most significant difference between a character feeling 'trapped' by external forces versus their own mind?",
+    "correct": "A mental trap is portable and inescapable, following the character everywhere.",
+    "options": [
+      "An external trap is always more dangerous.",
+      "A mental trap can be easily escaped with positive thinking.",
+      "A mental trap is portable and inescapable, following the character everywhere.",
+      "There is no significant difference between the two."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Conceptual Distinction",
+    "complexity_score": 8
+  },
+  {
+    "question": "The author likely chose two characters, Clovis and Jane, instead of one to illustrate what concept?",
+    "correct": "How shared psychological pressure can isolate individuals from each other, even when they are together.",
+    "options": [
+      "That all problems can be solved by working in a team.",
+      "To make the story longer and more complex.",
+      "How shared psychological pressure can isolate individuals from each other, even when they are together.",
+      "To show a perfect, idealized romantic relationship."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Authorial Intent",
+    "complexity_score": 9
+  },
+  {
+    "question": "Considering the central theme, what would be the most ironic ending for the story?",
+    "correct": "Clovis and Jane escape their situation only to find the outside world operates by the same maddening rules.",
+    "options": [
+      "They find a hidden treasure and become rich.",
+      "They wake up and discover it was all a dream.",
+      "Clovis and Jane escape their situation only to find the outside world operates by the same maddening rules.",
+      "A superhero arrives and solves all their problems for them."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Predictive Analysis",
+    "complexity_score": 8
   }
 ]
