@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, what is the primary function of governance?",
-    "correct": "The process of making and ensuring laws and rules are followed.",
+    "question": "In 'Before the Match', who is the main character who wants to practice for his cricket match?",
+    "correct": "Swami",
     "options": [
-      "To provide entertainment and festivals for citizens.",
-      "The process of making and ensuring laws and rules are followed.",
-      "Exclusively to protect the country with an army.",
-      "To manage the finances of individual families."
+      "Rajam",
+      "The Drill Master",
+      "Swami",
+      "Dr. T. K. Subbal"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Governance",
+    "topic": "Before the Match",
     "complexity_score": 1
   },
   {
-    "question": "What is the main line of latitude from which other latitudes are measured?",
-    "correct": "The Equator",
+    "question": "In 'Making Friends', what is the name of the lonely boy who lives opposite the March sisters?",
+    "correct": "Laurie",
     "options": [
-      "The Prime Meridian",
-      "The Equator",
-      "The North Pole",
-      "The Tropic of Cancer"
+      "Jo",
+      "Laurie",
+      "Mr. Lawrence",
+      "Subbal"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geography",
+    "topic": "Making Friends",
     "complexity_score": 1
   },
   {
-    "question": "Which of the following is an example of a non-economic activity discussed in class?",
-    "correct": "Taking care of grandparents.",
+    "question": "What excuse did Swami give his drill master to try and leave practice?",
+    "correct": "He claimed he was delirious the whole night.",
     "options": [
-      "Selling spices to traders.",
-      "Working in a hospital.",
-      "Taking care of grandparents.",
-      "Building roads for the government."
+      "He said he had a stomach ache.",
+      "He claimed he was delirious the whole night.",
+      "He said his friend Rajam was sick.",
+      "He told him he had a cricket match that day."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Family & Community",
+    "topic": "Before the Match",
     "complexity_score": 1
   },
   {
-    "question": "What material is the case of a magnetic compass typically made from?",
-    "correct": "Aluminum",
+    "question": "What gift did Beth send to Laurie to comfort him?",
+    "correct": "Three kittens",
     "options": [
-      "Iron",
-      "Steel",
-      "Aluminum",
-      "Glass"
+      "A book",
+      "Blancmange",
+      "A letter",
+      "Three kittens"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Magnetism",
+    "topic": "Making Friends",
     "complexity_score": 1
   },
   {
-    "question": "Which of these was mentioned as a reason for people to travel to India in ancient times?",
-    "correct": "To study subjects like medicine and astronomy.",
+    "question": "What was the name of Swami's cricket team?",
+    "correct": "MCC (Malgudi Cricket Club)",
     "options": [
-      "To go on beach holidays.",
-      "To learn modern computer programming.",
-      "To escape cold weather.",
-      "To study subjects like medicine and astronomy."
+      "Young Men's Union",
+      "MCC (Malgudi Cricket Club)",
+      "The Drill Masters",
+      "Rajam's Eleven"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Indian History",
+    "topic": "Before the Match",
     "complexity_score": 1
   },
   {
-    "question": "What do the lines of longitude do at the North and South Poles?",
-    "correct": "They meet at a single point.",
+    "question": "What did Jo offer to do for Laurie when she first spoke to him?",
+    "correct": "Come over and read to him",
     "options": [
-      "They run parallel to each other.",
-      "They become horizontal.",
-      "They disappear.",
-      "They meet at a single point."
+      "Invite him for dinner",
+      "Come over and read to him",
+      "Bring him some medicine",
+      "Play cricket with him"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Geography",
+    "topic": "Making Friends",
     "complexity_score": 1
   },
   {
-    "question": "Why is it important for a magnetic compass casing to be made of a non-magnetic material like aluminum?",
-    "correct": "To avoid interfering with the magnetic needle's direction.",
+    "question": "Why was Swami afraid to go home right after leaving the drill ground?",
+    "correct": "He was worried the drill master would see him practicing cricket.",
     "options": [
-      "Because aluminum is cheaper than iron.",
-      "To make the compass heavier and more stable.",
-      "To avoid interfering with the magnetic needle's direction.",
-      "Because aluminum does not rust."
+      "He thought his mother would be angry he was late.",
+      "He wanted to play longer with his friend Rajam.",
+      "He was worried the drill master would see him practicing cricket.",
+      "He forgot his school bag at the drill ground."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Magnetism",
+    "topic": "Before the Match",
     "complexity_score": 2
   },
   {
-    "question": "How does the celebration of Makar Sankranti exemplify 'unity in diversity'?",
-    "correct": "It's celebrated nationwide on the same date for the same core reason (harvest), but with different regional names and customs.",
+    "question": "How did Laurie know the names of all the March sisters before meeting Jo?",
+    "correct": "He would hear them calling to each other from his window.",
     "options": [
-      "Everyone in the country celebrates it in the exact same way.",
-      "It is a festival celebrated by only one community in India.",
-      "It's celebrated nationwide on the same date for the same core reason (harvest), but with different regional names and customs.",
-      "It is a festival that changes dates every year depending on the location."
+      "His grandfather had told him their names.",
+      "He had read about them in a local newspaper.",
+      "He would hear them calling to each other from his window.",
+      "Jo introduced them all when she arrived."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Unity in Diversity",
+    "topic": "Making Friends",
     "complexity_score": 2
   },
   {
-    "question": "Which of the following best describes the role of a family in shaping an individual, as discussed in the lesson?",
-    "correct": "It provides emotional support and helps form a person's identity and values.",
+    "question": "When Swami claimed to have 'diarrhoea', why did the doctor laugh so hard?",
+    "correct": "Because Swami misunderstood what diarrhoea was, thinking it was a simple stomach ache.",
     "options": [
-      "It is solely responsible for a person's financial success.",
-      "It primarily teaches academic subjects like math and science.",
-      "It provides emotional support and helps form a person's identity and values.",
-      "Its only role is to provide food and shelter."
+      "Because Swami pronounced the word incorrectly.",
+      "Because the doctor thought Swami was telling a funny joke.",
+      "Because Swami misunderstood what diarrhoea was, thinking it was a simple stomach ache.",
+      "Because the doctor did not believe in giving medical certificates."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Family & Community",
+    "topic": "Before the Match",
     "complexity_score": 2
   },
   {
-    "question": "Based on the description, how is the work of a historian similar to that of a detective?",
-    "correct": "Both examine evidence from various sources to understand past events.",
+    "question": "Why was Jo initially surprised by Laurie's library?",
+    "correct": "It was filled with books, pictures, statues, and interesting objects.",
     "options": [
-      "Both can travel back in time to witness events directly.",
-      "Both primarily rely on a single book for all their information.",
-      "Both examine evidence from various sources to understand past events.",
-      "Both are only concerned with events that happened yesterday."
+      "It was completely empty and clean.",
+      "It only had books about cricket.",
+      "It was smaller than her own room.",
+      "It was filled with books, pictures, statues, and interesting objects."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Studying the Past",
+    "topic": "Making Friends",
     "complexity_score": 2
   },
   {
-    "question": "The lesson mentioned that rules can be unfair. Which of these is an example of such an unfair rule?",
-    "correct": "A rule based on stereotypes that doesn't consider everyone's needs.",
+    "question": "What does the doctor's final decision to talk to the headmaster, instead of giving a fake certificate, reveal about his character?",
+    "correct": "He is kind and helpful but also ethical and unwilling to lie.",
     "options": [
-      "A rule that requires everyone to wait their turn in a line.",
-      "A rule that protects people from danger.",
-      "A rule that asks students to complete their homework.",
-      "A rule based on stereotypes that doesn't consider everyone's needs."
+      "He is strict and doesn't care about Swami's problem.",
+      "He is afraid of the drill master and wants to avoid trouble.",
+      "He is kind and helpful but also ethical and unwilling to lie.",
+      "He thinks cricket is more important than school drills."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Governance",
+    "topic": "Before the Match",
     "complexity_score": 2
   },
   {
-    "question": "How does a simple garment like a sari reflect both unity and diversity in India?",
-    "correct": "It is a single, unstitched piece of cloth (unity) worn in many different styles and designs across regions (diversity).",
+    "question": "Laurie tells Jo, 'when the lamps are lighted, it's like looking at a picture.' What feeling is he expressing about her family?",
+    "correct": "Admiration and longing for their warmth and togetherness.",
     "options": [
-      "Every sari in India is identical in color and design.",
-      "Only one state in India is known for making saris.",
-      "It is a single, unstitched piece of cloth (unity) worn in many different styles and designs across regions (diversity).",
-      "The sari is a modern invention with no historical diversity."
+      "Curiosity about what they eat for dinner.",
+      "Annoyance that their lights are too bright.",
+      "Admiration and longing for their warmth and togetherness.",
+      "Concern that they are not safe."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Unity in Diversity",
+    "topic": "Making Friends",
     "complexity_score": 2
   },
   {
-    "question": "Which of the following government services directly relates to the function of 'maintaining an army and military'?",
-    "correct": "Protecting the nation's borders from other countries.",
+    "question": "Why did the author describe the drill master as a 'square man' with a 'protruding chest' and a 'silk turban wound in a military style'?",
+    "correct": "To create an image of a strict, imposing, and disciplined authority figure.",
     "options": [
-      "Building new schools and hospitals.",
-      "Ensuring the progress of the nation's economy.",
-      "Protecting the nation's borders from other countries.",
-      "Making laws about local traffic."
+      "To show that he was a very fashionable person.",
+      "To suggest he was secretly a kind and gentle man.",
+      "To create an image of a strict, imposing, and disciplined authority figure.",
+      "To indicate that he was not very healthy."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Governance",
+    "topic": "Before the Match",
     "complexity_score": 2
   },
   {
-    "question": "How does scientific research, like the study of genetics, contribute to our understanding of the past?",
-    "correct": "It allows us to study the genetic makeup of ancient people.",
+    "question": "When Jo says she wishes Laurie could 'come over with us' instead of 'peeping', what is she demonstrating about her character?",
+    "correct": "She is inclusive, compassionate, and desires genuine connection.",
     "options": [
-      "It helps us invent new types of historical documents.",
-      "It allows us to study the genetic makeup of ancient people.",
-      "It proves that all historical records are incorrect.",
-      "It can perfectly predict the future based on the past."
+      "She is nosy and wants to know more about his house.",
+      "She is bossy and likes to tell people what to do.",
+      "She is embarrassed that he has been watching her family.",
+      "She is inclusive, compassionate, and desires genuine connection."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Studying the Past",
+    "topic": "Making Friends",
     "complexity_score": 2
   },
   {
-    "question": "According to the quotation from Sri Aurobindo, what is India's most unique and profound achievement?",
-    "correct": "Attaining a deep spiritual and cultural unity as part of its collective identity.",
+    "question": "The drill master's reaction to Swami's claim of being 'delirious' was to be 'stunned'. Why was this his reaction?",
+    "correct": "Because 'delirious' is a very serious condition, and it was an unexpectedly dramatic excuse from a schoolboy.",
     "options": [
-      "Having the largest variety of spices for trade.",
-      "Building the most powerful ancient army.",
-      "Achieving economic wealth before other nations.",
-      "Attaining a deep spiritual and cultural unity as part of its collective identity."
+      "Because he had never heard the word 'delirious' before.",
+      "Because he was worried that Swami was truly very ill.",
+      "Because he was impressed by Swami's large vocabulary.",
+      "Because 'delirious' is a very serious condition, and it was an unexpectedly dramatic excuse from a schoolboy."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Indian History",
+    "topic": "Before the Match",
     "complexity_score": 3
   },
   {
-    "question": "If a city creates a new rule that benefits shop owners but makes it difficult for elderly residents to access the market, this rule fails because it...",
-    "correct": "does not consider everyone's needs and situations.",
+    "question": "What does the portrait of Laurie's grandfather, described as having 'kind eyes but a grim mouth', suggest about his personality?",
+    "correct": "He might be a complex person who is kind deep down but appears stern and unapproachable.",
     "options": [
-      "is not confusing enough.",
-      "was made by the government.",
-      "does not consider everyone's needs and situations.",
-      "is unfair to children specifically."
+      "He was a happy person who smiled all the time.",
+      "He was an unkind person who was always angry.",
+      "He might be a complex person who is kind deep down but appears stern and unapproachable.",
+      "He was not a very important person in Laurie's life."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Governance",
+    "topic": "Making Friends",
     "complexity_score": 3
   },
   {
-    "question": "You are navigating in a forest. Your compass needle is pointing north, but you also see the sun rising to your right. What can you infer about your direction of travel?",
-    "correct": "You are facing North, with East to your right.",
+    "question": "The phrase 'in the pink of health' is a figure of speech. When the doctor uses it to describe Swami, what is he implying?",
+    "correct": "That Swami is perfectly healthy and there is nothing wrong with him.",
     "options": [
-      "You are facing East, where the sun is rising.",
-      "You are facing West, away from the sunrise.",
-      "The compass is broken because the sun is not in the north.",
-      "You are facing North, with East to your right."
+      "That Swami's skin has turned pink from a fever.",
+      "That Swami should wear more pink-colored clothes.",
+      "That Swami is perfectly healthy and there is nothing wrong with him.",
+      "That Swami's illness is only in its early stages."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Magnetism & Geography",
+    "topic": "Before the Match",
     "complexity_score": 3
   },
   {
-    "question": "The discussion mentioned that tribal communities like the Mundas and Gonds have their own versions of the Ramayana and Mahabharata. What does this fact primarily demonstrate?",
-    "correct": "The diversity of cultural interpretation within India.",
+    "question": "Jo says, 'I'm not quiet and nice, but I'll come' to Laurie. What does this self-description reveal about how she sees herself compared to a typical girl of her time?",
+    "correct": "She sees herself as unconventional and spirited, not conforming to quiet, demure stereotypes.",
     "options": [
-      "That these stories are not important to Indian culture.",
-      "That there is only one correct version of these epics.",
-      "The diversity of cultural interpretation within India.",
-      "That these communities did not interact with mainstream culture."
+      "She believes she is rude and unlikable.",
+      "She thinks Laurie will not like her because she is too loud.",
+      "She is apologizing for being a girl instead of a boy.",
+      "She sees herself as unconventional and spirited, not conforming to quiet, demure stereotypes."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Unity in Diversity",
+    "topic": "Making Friends",
     "complexity_score": 3
   },
   {
-    "question": "Which statement best synthesizes the relationship between 'family unity' and 'community support' as discussed in the lesson?",
-    "correct": "Strong family units, which provide identity and support, are the building blocks of a supportive wider community.",
+    "question": "Swami's decision to 'exaggerate' his illness to the drill master is a key moment. What is the most likely reason an author would include this detail?",
+    "correct": "To show the comical desperation of a child trying to solve a problem with limited power.",
     "options": [
-      "Family unity and community support are opposing forces.",
-      "A strong community can exist without any united families.",
-      "Strong family units, which provide identity and support, are the building blocks of a supportive wider community.",
-      "Family is only important for individuals, while community is only important for the government."
+      "To teach readers new vocabulary words like 'exaggerate'.",
+      "To prove that Swami is a dishonest character who should not be trusted.",
+      "To show the comical desperation of a child trying to solve a problem with limited power.",
+      "To suggest that the drill master is easily fooled by students."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Family & Community",
+    "topic": "Before the Match",
     "complexity_score": 3
   },
   {
-    "question": "A historian studying an ancient city finds documents describing a great famine and also discovers scientific data showing a long period of drought at the same time. This process is most similar to a detective who...",
-    "correct": "corroborates a witness statement with physical evidence from the crime scene.",
+    "question": "The story 'Making Friends' contrasts Laurie's large, empty mansion with the March's lively, full house. What is the purpose of this contrast?",
+    "correct": "To highlight the theme that emotional warmth and family are more valuable than material wealth.",
     "options": [
-      "interviews only one suspect to solve a case.",
-      "ignores all written evidence and only looks at fingerprints.",
-      "corroborates a witness statement with physical evidence from the crime scene.",
-      "decides who is guilty before looking at any evidence."
+      "To show that rich people are always lonely and poor people are always happy.",
+      "To suggest that the March family should move into Laurie's house.",
+      "To describe the architectural differences between the two homes.",
+      "To highlight the theme that emotional warmth and family are more valuable than material wealth."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Studying the Past",
+    "topic": "Making Friends",
     "complexity_score": 3
   }
 ]
