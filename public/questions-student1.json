@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the story's premise, who are Clovis and Jane?",
-    "correct": "Two characters navigating a psychologically challenging situation",
+    "question": "What is the primary function of the mitochondria in a cell?",
+    "correct": "Producing energy (ATP)",
     "options": [
-      "Historians studying ancient artifacts",
-      "Scientists conducting an experiment",
-      "Two characters navigating a psychologically challenging situation",
-      "Explorers on a journey to a new land"
+      "Storing genetic information",
+      "Producing energy (ATP)",
+      "Transporting proteins",
+      "Breaking down waste materials"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Character Identification",
+    "topic": "Organelle Functions",
     "complexity_score": 1
   },
   {
-    "question": "What is the central question discussed in class regarding Clovis and Jane's story?",
-    "correct": "What factors would lead a person to 'go mad'?",
+    "question": "Which organelle is responsible for protein synthesis in eukaryotic cells?",
+    "correct": "Ribosomes",
     "options": [
-      "What is the fastest way to travel?",
-      "How to build a successful business?",
-      "What factors would lead a person to 'go mad'?",
-      "Where did the characters hide the treasure?"
+      "Golgi apparatus",
+      "Endoplasmic reticulum",
+      "Ribosomes",
+      "Lysosomes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Central Theme",
+    "topic": "Protein Synthesis",
     "complexity_score": 1
   },
   {
-    "question": "The term 'go mad' in the context of the story most closely means...",
-    "correct": "To lose one's grip on reality or sanity",
+    "question": "What distinguishes prokaryotic cells from eukaryotic cells?",
+    "correct": "Lack of membrane-bound organelles",
     "options": [
-      "To become very angry",
-      "To feel extremely happy",
-      "To lose one's grip on reality or sanity",
-      "To start a long journey"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Vocabulary in Context",
-    "complexity_score": 1
-  },
-  {
-    "question": "What was described as a key element that the characters felt 'trapped' by?",
-    "correct": "Social expectations and invisible pressures",
-    "options": [
-      "A literal cage",
-      "A powerful storm",
-      "Social expectations and invisible pressures",
-      "A financial debt"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Plot Elements",
-    "complexity_score": 2
-  },
-  {
-    "question": "The discussion implied that the 'madness' was caused by what type of factor?",
-    "correct": "An external pressure affecting their internal state",
-    "options": [
-      "A sudden magical curse",
-      "A physical illness",
-      "An external pressure affecting their internal state",
-      "A simple misunderstanding"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Cause and Effect",
-    "complexity_score": 2
-  },
-  {
-    "question": "The story uses the characters of Clovis and Jane to explore the fragility of what?",
-    "correct": "The human mind under stress",
-    "options": [
-      "The political system",
-      "The natural environment",
-      "The human mind under stress",
-      "The economy"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Thematic Concepts",
-    "complexity_score": 2
-  },
-  {
-    "question": "How might Clovis's perspective on reality differ from Jane's based on the theme of 'madness'?",
-    "correct": "They might perceive the same events in fundamentally different, conflicting ways.",
-    "options": [
-      "They would always agree on everything.",
-      "Clovis would be unable to see, while Jane would be unable to hear.",
-      "They might perceive the same events in fundamentally different, conflicting ways.",
-      "Their perspectives would be identical, but they would pretend to disagree."
+      "Presence of cell wall",
+      "Lack of membrane-bound organelles",
+      "Ability to perform photosynthesis",
+      "Smaller size only"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Character Analysis",
+    "topic": "Cell Types",
+    "complexity_score": 2
+  },
+  {
+    "question": "The fluid mosaic model describes the structure of which cellular component?",
+    "correct": "Plasma membrane",
+    "options": [
+      "Nuclear envelope",
+      "Mitochondrial membrane",
+      "Plasma membrane",
+      "Endoplasmic reticulum"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cell Membrane",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which cellular structure contains the genetic material in eukaryotic cells?",
+    "correct": "Nucleus",
+    "options": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosomes",
+      "Golgi apparatus"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Genetic Storage",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the main function of lysosomes in animal cells?",
+    "correct": "Digesting cellular waste",
+    "options": [
+      "Energy production",
+      "Protein synthesis",
+      "Digesting cellular waste",
+      "Cell division"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Cellular Digestion",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which organelle is involved in modifying, sorting, and packaging proteins for secretion?",
+    "correct": "Golgi apparatus",
+    "options": [
+      "Rough ER",
+      "Smooth ER",
+      "Golgi apparatus",
+      "Mitochondria"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Protein Processing",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the function of chloroplasts in plant cells?",
+    "correct": "Photosynthesis",
+    "options": [
+      "Cellular respiration",
+      "Photosynthesis",
+      "Protein synthesis",
+      "Waste removal"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Plant Cell Organelles",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which cellular structure provides support and shape to plant cells?",
+    "correct": "Cell wall",
+    "options": [
+      "Cell membrane",
+      "Cytoskeleton",
+      "Cell wall",
+      "Nuclear envelope"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Cell Structure",
+    "complexity_score": 1
+  },
+  {
+    "question": "The endosymbiotic theory explains the origin of which organelles?",
+    "correct": "Mitochondria and chloroplasts",
+    "options": [
+      "Nucleus and ER",
+      "Mitochondria and chloroplasts",
+      "Ribosomes and lysosomes",
+      "Golgi and peroxisomes"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Cell Evolution",
     "complexity_score": 3
   },
   {
-    "question": "The concept of being 'trapped' in the story is likely a metaphor for...",
-    "correct": "Feeling powerless against societal norms or personal circumstances.",
+    "question": "What is the primary role of the cytoskeleton in cells?",
+    "correct": "Maintaining cell shape and enabling movement",
     "options": [
-      "Being physically locked in a room.",
-      "Enjoying a very predictable and safe life.",
-      "Feeling powerless against societal norms or personal circumstances.",
-      "A desire for more adventure."
+      "Energy production",
+      "Maintaining cell shape and enabling movement",
+      "Genetic storage",
+      "Membrane transport"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Literary Devices",
-    "complexity_score": 4
+    "topic": "Cellular Structure",
+    "complexity_score": 2
   },
   {
-    "question": "If a new character was introduced who was completely free of social pressure, how would they likely view Clovis and Jane?",
-    "correct": "As behaving irrationally because they wouldn't understand the pressures.",
+    "question": "Which organelle is responsible for lipid synthesis and detoxification?",
+    "correct": "Smooth endoplasmic reticulum",
     "options": [
-      "As powerful leaders to be emulated.",
-      "As their closest and most understandable friends.",
-      "As behaving irrationally because they wouldn't understand the pressures.",
-      "As boring and uninteresting."
+      "Rough endoplasmic reticulum",
+      "Smooth endoplasmic reticulum",
+      "Golgi apparatus",
+      "Lysosomes"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Character Dynamics",
-    "complexity_score": 5
+    "topic": "Lipid Metabolism",
+    "complexity_score": 2
   },
   {
-    "question": "The story seems to suggest that 'madness' is not random, but rather a...",
-    "correct": "Consequence of specific, sustained pressures.",
+    "question": "What is the function of ribosomes in protein synthesis?",
+    "correct": "Assembling amino acids into proteins",
     "options": [
-      "Genetic trait one is born with.",
-      "Choice that characters make willingly.",
-      "Consequence of specific, sustained pressures.",
-      "Form of creative expression."
+      "Storing genetic code",
+      "Assembling amino acids into proteins",
+      "Transporting proteins",
+      "Modifying protein structure"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Protein Synthesis",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which cellular process occurs in the mitochondria?",
+    "correct": "Cellular respiration",
+    "options": [
+      "Photosynthesis",
+      "Protein synthesis",
+      "Cellular respiration",
+      "DNA replication"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Energy Production",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the role of the nuclear envelope?",
+    "correct": "Separating genetic material from cytoplasm",
+    "options": [
+      "Producing ribosomes",
+      "Separating genetic material from cytoplasm",
+      "Regulating protein synthesis",
+      "Controlling cell division"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Thematic Interpretation",
-    "complexity_score": 4
+    "topic": "Nuclear Structure",
+    "complexity_score": 2
   },
   {
-    "question": "Why would an author choose to explore a theme like 'madness' through a story?",
-    "correct": "To comment on societal issues and the human condition in a safe, fictional space.",
+    "question": "Which structure allows for communication between adjacent animal cells?",
+    "correct": "Gap junctions",
     "options": [
-      "Because it is the only theme that sells books.",
-      "To confuse the reader intentionally.",
-      "To comment on societal issues and the human condition in a safe, fictional space.",
-      "To provide a simple story with a happy ending."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Author's Purpose",
-    "complexity_score": 5
-  },
-  {
-    "question": "Connecting to our own world, what is a modern equivalent of the pressures faced by Clovis and Jane?",
-    "correct": "The pressure to maintain a perfect image on social media.",
-    "options": [
-      "The need to drink water to survive.",
-      "The laws of physics.",
-      "The pressure to maintain a perfect image on social media.",
-      "The changing of the seasons."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Real-World Connection",
-    "complexity_score": 5
-  },
-  {
-    "question": "What literary element is most crucial for making the theme of psychological distress feel real to the reader?",
-    "correct": "Internal monologue and point of view",
-    "options": [
-      "Detailed descriptions of the landscape",
-      "A fast-paced, action-packed plot",
-      "Internal monologue and point of view",
-      "A complex and confusing timeline"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Literary Elements",
-    "complexity_score": 4
-  },
-  {
-    "question": "The class discussion implied that the 'trap' was not the situation itself, but rather...",
-    "correct": "The characters' inability to see a way out.",
-    "options": [
-      "The physical strength of the antagonist.",
-      "The lack of available technology.",
-      "The characters' inability to see a way out.",
-      "A map that was drawn incorrectly."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Conceptual Analysis",
-    "complexity_score": 5
-  },
-  {
-    "question": "The story of Clovis and Jane primarily serves as a critique of what?",
-    "correct": "A society that values conformity over individual mental well-being.",
-    "options": [
-      "The pursuit of scientific knowledge at all costs.",
-      "The dangers of unchecked technological advancement.",
-      "A society that values conformity over individual mental well-being.",
-      "An economic system based on free trade."
+      "Plasmodesmata",
+      "Tight junctions",
+      "Gap junctions",
+      "Desmosomes"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Critical Analysis",
-    "complexity_score": 7
+    "topic": "Cell Communication",
+    "complexity_score": 3
   },
   {
-    "question": "How does the author use the ambiguity of 'madness' to challenge the reader?",
-    "correct": "It forces the reader to question their own definitions of normal and abnormal behavior.",
+    "question": "What is the primary function of the cell membrane?",
+    "correct": "Regulating what enters and leaves the cell",
     "options": [
-      "It makes the story's ending clear from the beginning.",
-      "It provides a simple moral lesson that is easy to understand.",
-      "It forces the reader to question their own definitions of normal and abnormal behavior.",
-      "It suggests that none of the events in the story actually happened."
+      "Providing structural support",
+      "Regulating what enters and leaves the cell",
+      "Producing energy",
+      "Storing genetic information"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Membrane Function",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which organelle contains enzymes that break down hydrogen peroxide?",
+    "correct": "Peroxisomes",
+    "options": [
+      "Lysosomes",
+      "Peroxisomes",
+      "Mitochondria",
+      "Golgi apparatus"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Reader Interpretation",
-    "complexity_score": 8
+    "topic": "Cellular Detoxification",
+    "complexity_score": 3
   },
   {
-    "question": "If we define sanity as 'adapting to one's environment,' how does the story complicate this idea?",
-    "correct": "It suggests that adapting to a 'mad' environment may require a form of madness itself.",
+    "question": "What is the function of the nucleolus within the nucleus?",
+    "correct": "Ribosome production",
     "options": [
-      "It proves that sanity is impossible to achieve for anyone.",
-      "It shows that the environment has no effect on a person's sanity.",
-      "It suggests that adapting to a 'mad' environment may require a form of madness itself.",
-      "It defines sanity as being wealthy and successful."
+      "DNA replication",
+      "Ribosome production",
+      "Protein synthesis",
+      "Energy storage"
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Philosophical Inquiry",
-    "complexity_score": 9
+    "topic": "Nuclear Functions",
+    "complexity_score": 2
   },
   {
-    "question": "What is the most significant difference between a character feeling 'trapped' by external forces versus their own mind?",
-    "correct": "A mental trap is portable and inescapable, following the character everywhere.",
+    "question": "Which cellular structure is composed of phospholipids and proteins?",
+    "correct": "Plasma membrane",
     "options": [
-      "An external trap is always more dangerous.",
-      "A mental trap can be easily escaped with positive thinking.",
-      "A mental trap is portable and inescapable, following the character everywhere.",
-      "There is no significant difference between the two."
+      "Cell wall",
+      "Nuclear envelope",
+      "Plasma membrane",
+      "Mitochondrial membrane"
     ],
-    "difficulty": "hard",
+    "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Conceptual Distinction",
-    "complexity_score": 8
-  },
-  {
-    "question": "The author likely chose two characters, Clovis and Jane, instead of one to illustrate what concept?",
-    "correct": "How shared psychological pressure can isolate individuals from each other, even when they are together.",
-    "options": [
-      "That all problems can be solved by working in a team.",
-      "To make the story longer and more complex.",
-      "How shared psychological pressure can isolate individuals from each other, even when they are together.",
-      "To show a perfect, idealized romantic relationship."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Authorial Intent",
-    "complexity_score": 9
-  },
-  {
-    "question": "Considering the central theme, what would be the most ironic ending for the story?",
-    "correct": "Clovis and Jane escape their situation only to find the outside world operates by the same maddening rules.",
-    "options": [
-      "They find a hidden treasure and become rich.",
-      "They wake up and discover it was all a dream.",
-      "Clovis and Jane escape their situation only to find the outside world operates by the same maddening rules.",
-      "A superhero arrives and solves all their problems for them."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Predictive Analysis",
-    "complexity_score": 8
+    "topic": "Membrane Composition",
+    "complexity_score": 1
   }
 ]
