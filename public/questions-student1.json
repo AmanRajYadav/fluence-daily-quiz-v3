@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the primary function of the mitochondria in a cell?",
-    "correct": "Producing energy (ATP)",
+    "question": "What is the primary purpose of photosynthesis for a plant?",
+    "correct": "To create its own food (glucose)",
     "options": [
-      "Storing genetic information",
-      "Producing energy (ATP)",
-      "Transporting proteins",
-      "Breaking down waste materials"
+      "To absorb water from the soil",
+      "To release carbon dioxide into the air",
+      "To create its own food (glucose)",
+      "To produce flowers and seeds"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Organelle Functions",
+    "topic": "Purpose of Photosynthesis",
     "complexity_score": 1
   },
   {
-    "question": "Which organelle is responsible for protein synthesis in eukaryotic cells?",
-    "correct": "Ribosomes",
+    "question": "What gas do plants take in from the atmosphere for photosynthesis?",
+    "correct": "Carbon Dioxide",
     "options": [
-      "Golgi apparatus",
-      "Endoplasmic reticulum",
-      "Ribosomes",
-      "Lysosomes"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Protein Synthesis",
-    "complexity_score": 1
-  },
-  {
-    "question": "What distinguishes prokaryotic cells from eukaryotic cells?",
-    "correct": "Lack of membrane-bound organelles",
-    "options": [
-      "Presence of cell wall",
-      "Lack of membrane-bound organelles",
-      "Ability to perform photosynthesis",
-      "Smaller size only"
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon Dioxide"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cell Types",
+    "topic": "Inputs of Photosynthesis",
     "complexity_score": 2
   },
   {
-    "question": "The fluid mosaic model describes the structure of which cellular component?",
-    "correct": "Plasma membrane",
+    "question": "Where inside the plant cell does photosynthesis take place?",
+    "correct": "Chloroplasts",
     "options": [
-      "Nuclear envelope",
-      "Mitochondrial membrane",
-      "Plasma membrane",
-      "Endoplasmic reticulum"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cell Membrane",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which cellular structure contains the genetic material in eukaryotic cells?",
-    "correct": "Nucleus",
-    "options": [
-      "Mitochondria",
       "Nucleus",
-      "Ribosomes",
-      "Golgi apparatus"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Genetic Storage",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the main function of lysosomes in animal cells?",
-    "correct": "Digesting cellular waste",
-    "options": [
-      "Energy production",
-      "Protein synthesis",
-      "Digesting cellular waste",
-      "Cell division"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Digestion",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which organelle is involved in modifying, sorting, and packaging proteins for secretion?",
-    "correct": "Golgi apparatus",
-    "options": [
-      "Rough ER",
-      "Smooth ER",
-      "Golgi apparatus",
-      "Mitochondria"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Protein Processing",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the function of chloroplasts in plant cells?",
-    "correct": "Photosynthesis",
-    "options": [
-      "Cellular respiration",
-      "Photosynthesis",
-      "Protein synthesis",
-      "Waste removal"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Plant Cell Organelles",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which cellular structure provides support and shape to plant cells?",
-    "correct": "Cell wall",
-    "options": [
-      "Cell membrane",
-      "Cytoskeleton",
-      "Cell wall",
-      "Nuclear envelope"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Cell Structure",
-    "complexity_score": 1
-  },
-  {
-    "question": "The endosymbiotic theory explains the origin of which organelles?",
-    "correct": "Mitochondria and chloroplasts",
-    "options": [
-      "Nucleus and ER",
-      "Mitochondria and chloroplasts",
-      "Ribosomes and lysosomes",
-      "Golgi and peroxisomes"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cell Evolution",
-    "complexity_score": 3
-  },
-  {
-    "question": "What is the primary role of the cytoskeleton in cells?",
-    "correct": "Maintaining cell shape and enabling movement",
-    "options": [
-      "Energy production",
-      "Maintaining cell shape and enabling movement",
-      "Genetic storage",
-      "Membrane transport"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cellular Structure",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which organelle is responsible for lipid synthesis and detoxification?",
-    "correct": "Smooth endoplasmic reticulum",
-    "options": [
-      "Rough endoplasmic reticulum",
-      "Smooth endoplasmic reticulum",
-      "Golgi apparatus",
-      "Lysosomes"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Lipid Metabolism",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the function of ribosomes in protein synthesis?",
-    "correct": "Assembling amino acids into proteins",
-    "options": [
-      "Storing genetic code",
-      "Assembling amino acids into proteins",
-      "Transporting proteins",
-      "Modifying protein structure"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Protein Synthesis",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which cellular process occurs in the mitochondria?",
-    "correct": "Cellular respiration",
-    "options": [
-      "Photosynthesis",
-      "Protein synthesis",
-      "Cellular respiration",
-      "DNA replication"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Energy Production",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the role of the nuclear envelope?",
-    "correct": "Separating genetic material from cytoplasm",
-    "options": [
-      "Producing ribosomes",
-      "Separating genetic material from cytoplasm",
-      "Regulating protein synthesis",
-      "Controlling cell division"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Nuclear Structure",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which structure allows for communication between adjacent animal cells?",
-    "correct": "Gap junctions",
-    "options": [
-      "Plasmodesmata",
-      "Tight junctions",
-      "Gap junctions",
-      "Desmosomes"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cell Communication",
-    "complexity_score": 3
-  },
-  {
-    "question": "What is the primary function of the cell membrane?",
-    "correct": "Regulating what enters and leaves the cell",
-    "options": [
-      "Providing structural support",
-      "Regulating what enters and leaves the cell",
-      "Producing energy",
-      "Storing genetic information"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Membrane Function",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which organelle contains enzymes that break down hydrogen peroxide?",
-    "correct": "Peroxisomes",
-    "options": [
-      "Lysosomes",
-      "Peroxisomes",
       "Mitochondria",
-      "Golgi apparatus"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cellular Detoxification",
-    "complexity_score": 3
-  },
-  {
-    "question": "What is the function of the nucleolus within the nucleus?",
-    "correct": "Ribosome production",
-    "options": [
-      "DNA replication",
-      "Ribosome production",
-      "Protein synthesis",
-      "Energy storage"
+      "Chloroplasts",
+      "Cell membrane"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Nuclear Functions",
+    "topic": "Location of Photosynthesis",
     "complexity_score": 2
   },
   {
-    "question": "Which cellular structure is composed of phospholipids and proteins?",
-    "correct": "Plasma membrane",
+    "question": "What is the name of the green pigment that captures energy from sunlight?",
+    "correct": "Chlorophyll",
     "options": [
-      "Cell wall",
-      "Nuclear envelope",
-      "Plasma membrane",
-      "Mitochondrial membrane"
+      "Glucose",
+      "Stomata",
+      "Chlorophyll",
+      "Hemoglobin"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Membrane Composition",
+    "topic": "Key Pigments",
     "complexity_score": 1
+  },
+  {
+    "question": "What are the two main PRODUCTS (outputs) of photosynthesis?",
+    "correct": "Glucose and Oxygen",
+    "options": [
+      "Water and Carbon Dioxide",
+      "Sunlight and Chlorophyll",
+      "Starch and Water",
+      "Glucose and Oxygen"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Outputs of Photosynthesis",
+    "complexity_score": 2
+  },
+  {
+    "question": "How does a plant store extra glucose for later use?",
+    "correct": "As starch",
+    "options": [
+      "As chlorophyll",
+      "As carbon dioxide",
+      "As pure water",
+      "As starch"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Energy Storage",
+    "complexity_score": 3
+  },
+  {
+    "question": "Why does photosynthesis stop at night?",
+    "correct": "There is no sunlight available",
+    "options": [
+      "The plant runs out of water",
+      "The air gets too cold",
+      "There is no sunlight available",
+      "The plant needs to sleep"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Conditions for Photosynthesis",
+    "complexity_score": 1
+  },
+  {
+    "question": "The oxygen that plants release is considered a...",
+    "correct": "Waste product",
+    "options": [
+      "Primary food source",
+      "Waste product",
+      "Key ingredient",
+      "Energy source"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Outputs of Photosynthesis",
+    "complexity_score": 2
+  },
+  {
+    "question": "How do most plants get the water needed for photosynthesis?",
+    "correct": "Through their roots",
+    "options": [
+      "By absorbing it from the air through leaves",
+      "Through their flowers",
+      "Through their roots",
+      "By creating it during respiration"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Inputs of Photosynthesis",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the name of the tiny pores on leaves that allow carbon dioxide to enter?",
+    "correct": "Stomata",
+    "options": [
+      "Chloroplasts",
+      "Veins",
+      "Stomata",
+      "Roots"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Plant Anatomy",
+    "complexity_score": 3
+  },
+  {
+    "question": "Which of these is the main source of energy that powers photosynthesis?",
+    "correct": "Light energy from the sun",
+    "options": [
+      "Chemical energy from the soil",
+      "Heat energy from the air",
+      "Light energy from the sun",
+      "Energy stored in water molecules"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Energy for Photosynthesis",
+    "complexity_score": 1
+  },
+  {
+    "question": "Besides providing oxygen, how is photosynthesis fundamental to most food chains?",
+    "correct": "It creates the energy (food) that plant-eaters consume",
+    "options": [
+      "It cleans the air of pollutants",
+      "It provides shade for small animals",
+      "It creates the energy (food) that plant-eaters consume",
+      "It helps water evaporate into the clouds"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Ecological Importance",
+    "complexity_score": 3
+  },
+  {
+    "question": "What is the role of chlorophyll in the chloroplast?",
+    "correct": "It absorbs light energy",
+    "options": [
+      "It produces water",
+      "It stores glucose as starch",
+      "It absorbs light energy",
+      "It releases carbon dioxide"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Key Pigments",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which of the following is NOT an input required for photosynthesis?",
+    "correct": "Oxygen",
+    "options": [
+      "Water",
+      "Sunlight",
+      "Carbon Dioxide",
+      "Oxygen"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Inputs vs Outputs",
+    "complexity_score": 2
+  },
+  {
+    "question": "The glucose a plant makes is a type of...",
+    "correct": "Sugar",
+    "options": [
+      "Protein",
+      "Salt",
+      "Sugar",
+      "Acid"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Outputs of Photosynthesis",
+    "complexity_score": 1
+  },
+  {
+    "question": "What process do plants use to release energy from stored glucose, especially at night?",
+    "correct": "Cellular Respiration",
+    "options": [
+      "Photosynthesis",
+      "Transpiration",
+      "Cellular Respiration",
+      "Evaporation"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Related Processes",
+    "complexity_score": 3
+  },
+  {
+    "question": "If a plant's leaves were not green, what essential substance would it likely be missing?",
+    "correct": "Chlorophyll",
+    "options": [
+      "Carbon Dioxide",
+      "Chlorophyll",
+      "Water",
+      "Starch"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Key Pigments",
+    "complexity_score": 2
+  },
+  {
+    "question": "The comparison of a chloroplast to a 'tiny solar panel' or 'chef' helps explain its role in...",
+    "correct": "Converting raw ingredients into energy-rich food",
+    "options": [
+      "Storing water for the plant",
+      "Giving the plant its structure",
+      "Protecting the plant from insects",
+      "Converting raw ingredients into energy-rich food"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Analogies in Photosynthesis",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which statement accurately describes the flow of gases during daytime photosynthesis?",
+    "correct": "Carbon dioxide in, oxygen out",
+    "options": [
+      "Oxygen in, carbon dioxide out",
+      "Both oxygen and carbon dioxide in",
+      "Carbon dioxide in, oxygen out",
+      "Nitrogen in, oxygen out"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Gas Exchange",
+    "complexity_score": 3
+  },
+  {
+    "question": "What three things are the essential 'ingredients' for photosynthesis?",
+    "correct": "Carbon dioxide, water, and light energy",
+    "options": [
+      "Oxygen, soil, and water",
+      "Sugar, oxygen, and sunlight",
+      "Carbon dioxide, water, and light energy",
+      "Chlorophyll, roots, and leaves"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Inputs of Photosynthesis",
+    "complexity_score": 2
   }
 ]
