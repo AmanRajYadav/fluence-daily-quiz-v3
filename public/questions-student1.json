@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the primary purpose of photosynthesis for a plant?",
-    "correct": "To create its own food (glucose)",
+    "question": "Who wrote the original poem that became the lyrics for 'Silent Night'?",
+    "correct": "Father Joseph Mohr",
     "options": [
-      "To absorb water from the soil",
-      "To release carbon dioxide into the air",
-      "To create its own food (glucose)",
-      "To produce flowers and seeds"
+      "Franz Xaver Gruber",
+      "The Strasser Children",
+      "Father Joseph Mohr",
+      "An unknown organ builder"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Purpose of Photosynthesis",
+    "topic": "Creation of 'Silent Night'",
     "complexity_score": 1
   },
   {
-    "question": "What gas do plants take in from the atmosphere for photosynthesis?",
-    "correct": "Carbon Dioxide",
+    "question": "Who composed the melody for 'Silent Night'?",
+    "correct": "Franz Xaver Gruber",
     "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Hydrogen",
-      "Carbon Dioxide"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Inputs of Photosynthesis",
-    "complexity_score": 2
-  },
-  {
-    "question": "Where inside the plant cell does photosynthesis take place?",
-    "correct": "Chloroplasts",
-    "options": [
-      "Nucleus",
-      "Mitochondria",
-      "Chloroplasts",
-      "Cell membrane"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Location of Photosynthesis",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the name of the green pigment that captures energy from sunlight?",
-    "correct": "Chlorophyll",
-    "options": [
-      "Glucose",
-      "Stomata",
-      "Chlorophyll",
-      "Hemoglobin"
+      "Father Joseph Mohr",
+      "Franz Xaver Gruber",
+      "Karl Mauracher",
+      "A German King"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Key Pigments",
+    "topic": "Creation of 'Silent Night'",
     "complexity_score": 1
   },
   {
-    "question": "What are the two main PRODUCTS (outputs) of photosynthesis?",
-    "correct": "Glucose and Oxygen",
+    "question": "What practical problem led to the creation of 'Silent Night' for the guitar?",
+    "correct": "The church organ was broken.",
     "options": [
-      "Water and Carbon Dioxide",
-      "Sunlight and Chlorophyll",
-      "Starch and Water",
-      "Glucose and Oxygen"
+      "The church had no piano.",
+      "The singers had lost their sheet music.",
+      "The church organ was broken.",
+      "It was too cold to play the organ."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Creation of 'Silent Night'",
+    "complexity_score": 1
+  },
+  {
+    "question": "On what instrument was 'Silent Night' first performed?",
+    "correct": "Guitar",
+    "options": [
+      "Organ",
+      "Piano",
+      "Violin",
+      "Guitar"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Creation of 'Silent Night'",
+    "complexity_score": 1
+  },
+  {
+    "question": "What was the original language of 'Silent Night'?",
+    "correct": "German",
+    "options": [
+      "English",
+      "Latin",
+      "German",
+      "Austrian"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Cultural Origin",
+    "complexity_score": 1
+  },
+  {
+    "question": "The Strasser children were a family of traveling...",
+    "correct": "Glove-makers who were also folk singers.",
+    "options": [
+      "Organ builders.",
+      "School teachers.",
+      "Royal musicians.",
+      "Glove-makers who were also folk singers."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Spread of the Song",
+    "complexity_score": 1
+  },
+  {
+    "question": "How did the song first travel outside of Father Mohr's village?",
+    "correct": "An organ builder fixing the organ heard it and took a copy.",
+    "options": [
+      "Father Mohr published it in a newspaper.",
+      "Franz Gruber sent it to a music competition.",
+      "An organ builder fixing the organ heard it and took a copy.",
+      "A traveling merchant heard it and sang it in the next town."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Outputs of Photosynthesis",
+    "topic": "Spread of the Song",
     "complexity_score": 2
   },
   {
-    "question": "How does a plant store extra glucose for later use?",
-    "correct": "As starch",
+    "question": "What role did the Strasser children play in the song's history?",
+    "correct": "They performed it widely, making it famous across Germany.",
     "options": [
-      "As chlorophyll",
-      "As carbon dioxide",
-      "As pure water",
-      "As starch"
+      "They helped compose the original melody.",
+      "They fixed the broken organ.",
+      "They performed it widely, making it famous across Germany.",
+      "They wrote the English translation."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Spread of the Song",
+    "complexity_score": 2
+  },
+  {
+    "question": "The story mentions a significant moment during World War I related to the song. What happened?",
+    "correct": "German and British soldiers sang it together during the Christmas truce.",
+    "options": [
+      "It was declared the official anthem of peace.",
+      "German and British soldiers sang it together during the Christmas truce.",
+      "A famous general ordered it to be sung every morning.",
+      "The song was banned because it made soldiers homesick."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Historical Impact",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why was the fact that both German and British soldiers knew 'Silent Night' so important in 1914?",
+    "correct": "It was a piece of shared culture that could bridge the divide of war.",
+    "options": [
+      "It proved that their musical training was similar.",
+      "It was a secret code to arrange a surrender.",
+      "It was a piece of shared culture that could bridge the divide of war.",
+      "It was a coincidence with no real significance."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Historical Impact",
+    "complexity_score": 2
+  },
+  {
+    "question": "The creation of 'Silent Night' is a powerful example of...",
+    "correct": "Creativity thriving in response to a limitation or problem.",
+    "options": [
+      "The importance of having expensive instruments.",
+      "Why all songs should be simple.",
+      "Needing royal permission to create art.",
+      "Creativity thriving in response to a limitation or problem."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Thematic Analysis",
+    "complexity_score": 2
+  },
+  {
+    "question": "The journey of the song from a small village to global fame, via an organ builder and traveling singers, illustrates what about the 19th century?",
+    "correct": "Culture spread slowly through personal contact and travel.",
+    "options": [
+      "Everyone had access to printed sheet music.",
+      "Culture spread slowly through personal contact and travel.",
+      "Only royalty could make a song popular.",
+      "Songs rarely became famous outside their home country."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Historical Context",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the relationship between Father Joseph Mohr and Franz Xaver Gruber in the story?",
+    "correct": "Collaborators: one as lyricist, the other as composer.",
+    "options": [
+      "Rivals competing to write the best carol.",
+      "Teacher and student.",
+      "Collaborators: one as lyricist, the other as composer.",
+      "They never actually met."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Character Roles",
+    "complexity_score": 2
+  },
+  {
+    "question": "The story mentions that the Strasser children were invited to sing at a 'musical concert'. What does this event signify in the song's journey?",
+    "correct": "Its transition from a simple folk song to a piece of formal entertainment.",
+    "options": [
+      "It was the first time it was ever sung.",
+      "It was the moment the song was officially copyrighted.",
+      "Its transition from a simple folk song to a piece of formal entertainment.",
+      "The song was judged to be technically imperfect."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Spread of the Song",
+    "complexity_score": 2
+  },
+  {
+    "question": "The initial, humble performance of 'Silent Night' contrasts with its later status as a world-famous carol. What does this suggest about the nature of art?",
+    "correct": "Great art can come from simple origins and unexpected circumstances.",
+    "options": [
+      "Art must be performed in a grand hall to be considered great.",
+      "The value of art is determined by how much it costs to produce.",
+      "Great art can come from simple origins and unexpected circumstances.",
+      "Only professionally trained musicians can create lasting works."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Energy Storage",
+    "topic": "Thematic Analysis",
     "complexity_score": 3
   },
   {
-    "question": "Why does photosynthesis stop at night?",
-    "correct": "There is no sunlight available",
+    "question": "Based on the narrative, what can be inferred about the cultural importance of church music in 19th-century Austria?",
+    "correct": "It was a central part of community life, especially during holidays.",
     "options": [
-      "The plant runs out of water",
-      "The air gets too cold",
-      "There is no sunlight available",
-      "The plant needs to sleep"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Conditions for Photosynthesis",
-    "complexity_score": 1
-  },
-  {
-    "question": "The oxygen that plants release is considered a...",
-    "correct": "Waste product",
-    "options": [
-      "Primary food source",
-      "Waste product",
-      "Key ingredient",
-      "Energy source"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Outputs of Photosynthesis",
-    "complexity_score": 2
-  },
-  {
-    "question": "How do most plants get the water needed for photosynthesis?",
-    "correct": "Through their roots",
-    "options": [
-      "By absorbing it from the air through leaves",
-      "Through their flowers",
-      "Through their roots",
-      "By creating it during respiration"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Inputs of Photosynthesis",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the name of the tiny pores on leaves that allow carbon dioxide to enter?",
-    "correct": "Stomata",
-    "options": [
-      "Chloroplasts",
-      "Veins",
-      "Stomata",
-      "Roots"
+      "It was a dying tradition that few people cared about.",
+      "It was a central part of community life, especially during holidays.",
+      "Only the wealthiest citizens were allowed to participate.",
+      "Instrumental music was considered more important than singing."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Plant Anatomy",
+    "topic": "Historical Context",
     "complexity_score": 3
   },
   {
-    "question": "Which of these is the main source of energy that powers photosynthesis?",
-    "correct": "Light energy from the sun",
+    "question": "The organ builder, Karl Mauracher, didn't just fix the organ and leave. He took the music with him. This action was the 'spark' for the song's spread. What does his action imply?",
+    "correct": "He recognized the song's unique beauty and felt it deserved a wider audience.",
     "options": [
-      "Chemical energy from the soil",
-      "Heat energy from the air",
-      "Light energy from the sun",
-      "Energy stored in water molecules"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Energy for Photosynthesis",
-    "complexity_score": 1
-  },
-  {
-    "question": "Besides providing oxygen, how is photosynthesis fundamental to most food chains?",
-    "correct": "It creates the energy (food) that plant-eaters consume",
-    "options": [
-      "It cleans the air of pollutants",
-      "It provides shade for small animals",
-      "It creates the energy (food) that plant-eaters consume",
-      "It helps water evaporate into the clouds"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Ecological Importance",
-    "complexity_score": 3
-  },
-  {
-    "question": "What is the role of chlorophyll in the chloroplast?",
-    "correct": "It absorbs light energy",
-    "options": [
-      "It produces water",
-      "It stores glucose as starch",
-      "It absorbs light energy",
-      "It releases carbon dioxide"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Key Pigments",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which of the following is NOT an input required for photosynthesis?",
-    "correct": "Oxygen",
-    "options": [
-      "Water",
-      "Sunlight",
-      "Carbon Dioxide",
-      "Oxygen"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Inputs vs Outputs",
-    "complexity_score": 2
-  },
-  {
-    "question": "The glucose a plant makes is a type of...",
-    "correct": "Sugar",
-    "options": [
-      "Protein",
-      "Salt",
-      "Sugar",
-      "Acid"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Outputs of Photosynthesis",
-    "complexity_score": 1
-  },
-  {
-    "question": "What process do plants use to release energy from stored glucose, especially at night?",
-    "correct": "Cellular Respiration",
-    "options": [
-      "Photosynthesis",
-      "Transpiration",
-      "Cellular Respiration",
-      "Evaporation"
+      "He was following a standard procedure for all new songs he heard.",
+      "He believed he could sell the song for a large profit.",
+      "He thought the song was written incorrectly and wanted to fix it.",
+      "He recognized the song's unique beauty and felt it deserved a wider audience."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Related Processes",
+    "topic": "Character Motivation",
     "complexity_score": 3
   },
   {
-    "question": "If a plant's leaves were not green, what essential substance would it likely be missing?",
-    "correct": "Chlorophyll",
+    "question": "The story of 'Silent Night' can be seen as a chain of events where each person played a crucial role. If the Strasser children had decided not to sing it, what would have been the most likely outcome?",
+    "correct": "The song might have remained a local folk tune known only in the Zillertal valley.",
     "options": [
-      "Carbon Dioxide",
-      "Chlorophyll",
-      "Water",
-      "Starch"
+      "Father Mohr would have written a different song.",
+      "The song would have become famous through another family instead.",
+      "The church organ would have never been fixed.",
+      "The song might have remained a local folk tune known only in the Zillertal valley."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Key Pigments",
-    "complexity_score": 2
-  },
-  {
-    "question": "The comparison of a chloroplast to a 'tiny solar panel' or 'chef' helps explain its role in...",
-    "correct": "Converting raw ingredients into energy-rich food",
-    "options": [
-      "Storing water for the plant",
-      "Giving the plant its structure",
-      "Protecting the plant from insects",
-      "Converting raw ingredients into energy-rich food"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Analogies in Photosynthesis",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which statement accurately describes the flow of gases during daytime photosynthesis?",
-    "correct": "Carbon dioxide in, oxygen out",
-    "options": [
-      "Oxygen in, carbon dioxide out",
-      "Both oxygen and carbon dioxide in",
-      "Carbon dioxide in, oxygen out",
-      "Nitrogen in, oxygen out"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Gas Exchange",
+    "topic": "Cause and Effect",
     "complexity_score": 3
   },
   {
-    "question": "What three things are the essential 'ingredients' for photosynthesis?",
-    "correct": "Carbon dioxide, water, and light energy",
+    "question": "Considering the song's journey, which statement best analyzes its success?",
+    "correct": "Its success was a combination of its simple, heartfelt appeal and a series of fortunate encounters.",
     "options": [
-      "Oxygen, soil, and water",
-      "Sugar, oxygen, and sunlight",
-      "Carbon dioxide, water, and light energy",
-      "Chlorophyll, roots, and leaves"
+      "Its success was guaranteed because it was written by a priest.",
+      "Its success was a result of a massive, planned marketing campaign.",
+      "Its success was a combination of its simple, heartfelt appeal and a series of fortunate encounters.",
+      "Its success was solely due to its use during World War I."
     ],
-    "difficulty": "easy",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Inputs of Photosynthesis",
-    "complexity_score": 2
+    "topic": "Analytical Thinking",
+    "complexity_score": 3
+  },
+  {
+    "question": "The fact that this story is still told today demonstrates the power of narrative. What is the central lesson or theme that makes this story so enduring?",
+    "correct": "That beauty and hope can arise from unexpected problems and simple circumstances.",
+    "options": [
+      "The importance of regular organ maintenance.",
+      "That fame is the most important goal for a musician.",
+      "That beauty and hope can arise from unexpected problems and simple circumstances.",
+      "The superiority of guitar music over organ music."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Thematic Synthesis",
+    "complexity_score": 3
   }
 ]
