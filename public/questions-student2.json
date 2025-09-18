@@ -1,11 +1,11 @@
 [
   {
     "question": "In 'A Song from Heaven', where were the destitute children living?",
-    "correct": "Leipzig",
+    "correct": "Zillertal",
     "options": [
       "Saxony",
       "Berlin",
-      "Leipzig",
+      "Zillertal",
       "Munich"
     ],
     "difficulty": "easy",
@@ -84,7 +84,7 @@
     "complexity_score": 1
   },
   {
-    "question": "In the story 'The Hand', why did Jane Martin originally want the exotic hen from Dora?",
+    "question": "In the story 'The Hen', why did Jane Martlet originally want the exotic hen from Dora?",
     "correct": "She expected it to lay many eggs and repay her investment.",
     "options": [
       "She wanted it as a beautiful pet.",
@@ -154,7 +154,7 @@
     "complexity_score": 2
   },
   {
-    "question": "What was the primary conflict that damaged the friendship between Jane and Dora in 'The Hand'?",
+    "question": "What was the primary conflict that damaged the friendship between Jane and Dora in 'The Hen'?",
     "correct": "A feeling of betrayal over an unfulfilled expectation.",
     "options": [
       "A simple argument over money.",
@@ -169,12 +169,12 @@
   },
   {
     "question": "According to Clovis and Jane, what can 'drive a person mad'?",
-    "correct": "Being in the same surroundings for too long.",
+    "correct": "Being too orderly for too long in the same surrounding.",
     "options": [
       "Losing a valuable possession.",
       "Having a friendship end.",
       "Owning an animal that causes trouble.",
-      "Being in the same surroundings for too long."
+      "Being too orderly for too long in the same surrounding."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
