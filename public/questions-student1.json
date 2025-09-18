@@ -1,282 +1,282 @@
 [
   {
-    "question": "Who wrote the original poem that became the lyrics for 'Silent Night'?",
-    "correct": "Father Joseph Mohr",
+    "question": "In the story discussed, who lives in a large, empty mansion opposite the March sisters?",
+    "correct": "Laurie",
     "options": [
-      "Franz Xaver Gruber",
-      "The Strasser Children",
-      "Father Joseph Mohr",
-      "An unknown organ builder"
+      "Swaminathan",
+      "The Drill Master",
+      "Laurie",
+      "Jean Martlett"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Creation of 'Silent Night'",
+    "topic": "Making Friends (Little Women)",
     "complexity_score": 1
   },
   {
-    "question": "Who composed the melody for 'Silent Night'?",
-    "correct": "Franz Xaver Gruber",
+    "question": "What ailment did Swaminathan pretend to have to the doctor?",
+    "correct": "Delirium",
     "options": [
-      "Father Joseph Mohr",
-      "Franz Xaver Gruber",
-      "Karl Mauracher",
-      "A German King"
+      "A fever",
+      "A broken arm",
+      "Delirium",
+      "A stomach ache"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Creation of 'Silent Night'",
+    "topic": "Swami and Friends",
     "complexity_score": 1
   },
   {
-    "question": "What practical problem led to the creation of 'Silent Night' for the guitar?",
-    "correct": "The church organ was broken.",
+    "question": "According to the poem 'The Land of Dreams', what does the speaker find in their head when they go to bed at seven?",
+    "correct": "Castles with dragons and magic gardens",
     "options": [
-      "The church had no piano.",
-      "The singers had lost their sheet music.",
-      "The church organ was broken.",
-      "It was too cold to play the organ."
+      "School books and homework",
+      "A chair and a carpet",
+      "Castles with dragons and magic gardens",
+      "Their friends and family"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Creation of 'Silent Night'",
+    "topic": "Poetry Analysis",
     "complexity_score": 1
   },
   {
-    "question": "On what instrument was 'Silent Night' first performed?",
-    "correct": "Guitar",
+    "question": "In the story of the Strasser children, where did their family go every year in the spring to sell clothes?",
+    "correct": "Leipzig",
     "options": [
-      "Organ",
-      "Piano",
-      "Violin",
-      "Guitar"
+      "Saxony",
+      "Berlin",
+      "Leipzig",
+      "Vienna"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Creation of 'Silent Night'",
+    "topic": "The Strasser Children Story",
     "complexity_score": 1
   },
   {
-    "question": "What was the original language of 'Silent Night'?",
-    "correct": "German",
+    "question": "How does the blind boy in the poem know the sun is shining?",
+    "correct": "He feels its warmth",
     "options": [
-      "English",
-      "Latin",
-      "German",
-      "Austrian"
+      "Someone tells him",
+      "He sees a bright light",
+      "He hears the birds singing",
+      "He feels its warmth"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cultural Origin",
+    "topic": "The Blind Boy (Poem)",
     "complexity_score": 1
   },
   {
-    "question": "The Strasser children were a family of traveling...",
-    "correct": "Glove-makers who were also folk singers.",
+    "question": "What was described as being wound in a military style on the Drill Master's head?",
+    "correct": "A silk turban",
     "options": [
-      "Organ builders.",
-      "School teachers.",
-      "Royal musicians.",
-      "Glove-makers who were also folk singers."
+      "A woolen cap",
+      "A soldier's helmet",
+      "A silk turban",
+      "A leather band"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Spread of the Song",
+    "topic": "Swami and Friends",
     "complexity_score": 1
   },
   {
-    "question": "How did the song first travel outside of Father Mohr's village?",
-    "correct": "An organ builder fixing the organ heard it and took a copy.",
+    "question": "Why did Swaminathan stay at Rajam's house until it was dark?",
+    "correct": "He was worried the Drill Master would be spying on him if he left earlier.",
     "options": [
-      "Father Mohr published it in a newspaper.",
-      "Franz Gruber sent it to a music competition.",
-      "An organ builder fixing the organ heard it and took a copy.",
-      "A traveling merchant heard it and sang it in the next town."
+      "He wanted to finish his homework with Rajam.",
+      "He had lost track of time while playing cricket.",
+      "He was waiting for his parents to pick him up.",
+      "He was worried the Drill Master would be spying on him if he left earlier."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Spread of the Song",
+    "topic": "Swami and Friends",
     "complexity_score": 2
   },
   {
-    "question": "What role did the Strasser children play in the song's history?",
-    "correct": "They performed it widely, making it famous across Germany.",
+    "question": "What event caused the Strasser children to feel delighted during their trip to the fair?",
+    "correct": "They were invited to sing at a music concert.",
     "options": [
-      "They helped compose the original melody.",
-      "They fixed the broken organ.",
-      "They performed it widely, making it famous across Germany.",
-      "They wrote the English translation."
+      "They sold all of the clothes they made.",
+      "They earned a lot of money from singing in the street.",
+      "They were invited to sing at a music concert.",
+      "They finally found their way after being lost."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Spread of the Song",
+    "topic": "The Strasser Children Story",
     "complexity_score": 2
   },
   {
-    "question": "The story mentions a significant moment during World War I related to the song. What happened?",
-    "correct": "German and British soldiers sang it together during the Christmas truce.",
+    "question": "How did Laurie know the names of all the March sisters before he officially met Jo?",
+    "correct": "He could see and hear them from his window as they talked to each other.",
     "options": [
-      "It was declared the official anthem of peace.",
-      "German and British soldiers sang it together during the Christmas truce.",
-      "A famous general ordered it to be sung every morning.",
-      "The song was banned because it made soldiers homesick."
+      "His grandfather introduced them to him.",
+      "He read about them in the town newspaper.",
+      "Jo told him all their names when she first visited.",
+      "He could see and hear them from his window as they talked to each other."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Historical Impact",
+    "topic": "Making Friends (Little Women)",
     "complexity_score": 2
   },
   {
-    "question": "Why was the fact that both German and British soldiers knew 'Silent Night' so important in 1914?",
-    "correct": "It was a piece of shared culture that could bridge the divide of war.",
+    "question": "In the poem 'The Blind Boy', how does the speaker create his own 'day' and 'night'?",
+    "correct": "He considers it day when he is awake and playing, and night when he sleeps.",
     "options": [
-      "It proved that their musical training was similar.",
-      "It was a secret code to arrange a surrender.",
-      "It was a piece of shared culture that could bridge the divide of war.",
-      "It was a coincidence with no real significance."
+      "He asks people to tell him when it is day or night.",
+      "He follows the sounds of the morning birds and evening crickets.",
+      "He considers it day when he is awake and playing, and night when he sleeps.",
+      "He uses a special clock that tells him the time."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Historical Impact",
+    "topic": "The Blind Boy (Poem)",
     "complexity_score": 2
   },
   {
-    "question": "The creation of 'Silent Night' is a powerful example of...",
-    "correct": "Creativity thriving in response to a limitation or problem.",
+    "question": "According to the teacher's explanation, what is the main difference between the Drill Master's 'appearance' and his 'personality'?",
+    "correct": "Appearance is how he looks, while personality is how he behaves and what he values.",
     "options": [
-      "The importance of having expensive instruments.",
-      "Why all songs should be simple.",
-      "Needing royal permission to create art.",
-      "Creativity thriving in response to a limitation or problem."
+      "Appearance is his military-style turban, and personality is his mustache.",
+      "Appearance and personality are the same thing.",
+      "Appearance is how he looks, while personality is how he behaves and what he values.",
+      "Appearance is his clothing, while personality is his physical strength."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Thematic Analysis",
+    "topic": "Literary Analysis Skills",
     "complexity_score": 2
   },
   {
-    "question": "The journey of the song from a small village to global fame, via an organ builder and traveling singers, illustrates what about the 19th century?",
-    "correct": "Culture spread slowly through personal contact and travel.",
+    "question": "What is the main contrast explored in the poem 'The Land of Dreams'?",
+    "correct": "The magical, exciting world of dreams versus the ordinary, plain waking world.",
     "options": [
-      "Everyone had access to printed sheet music.",
-      "Culture spread slowly through personal contact and travel.",
-      "Only royalty could make a song popular.",
-      "Songs rarely became famous outside their home country."
+      "The difference between being happy and being sad.",
+      "The contrast between day and night.",
+      "The magical, exciting world of dreams versus the ordinary, plain waking world.",
+      "The difference between castles and regular houses."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Historical Context",
+    "topic": "Poetry Analysis",
     "complexity_score": 2
   },
   {
-    "question": "What is the relationship between Father Joseph Mohr and Franz Xaver Gruber in the story?",
-    "correct": "Collaborators: one as lyricist, the other as composer.",
+    "question": "The library in Laurie's house was described as being filled with books, statues, and cabinets. What did this description suggest about Laurie's home life?",
+    "correct": "That it was wealthy but lacked the warmth of family interaction.",
     "options": [
-      "Rivals competing to write the best carol.",
-      "Teacher and student.",
-      "Collaborators: one as lyricist, the other as composer.",
-      "They never actually met."
+      "That it was a place of constant learning and fun.",
+      "That his family were famous artists and writers.",
+      "That it was very messy and disorganized.",
+      "That it was wealthy but lacked the warmth of family interaction."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Character Roles",
+    "topic": "Making Friends (Little Women)",
     "complexity_score": 2
   },
   {
-    "question": "The story mentions that the Strasser children were invited to sing at a 'musical concert'. What does this event signify in the song's journey?",
-    "correct": "Its transition from a simple folk song to a piece of formal entertainment.",
+    "question": "According to Clovis, who was the ghost of Jean Martlett bothering?",
+    "correct": "The houseguests",
     "options": [
-      "It was the first time it was ever sung.",
-      "It was the moment the song was officially copyrighted.",
-      "Its transition from a simple folk song to a piece of formal entertainment.",
-      "The song was judged to be technically imperfect."
+      "The other ghosts in the house",
+      "The children of the family",
+      "The houseguests",
+      "Only Clovis himself"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Spread of the Song",
+    "topic": "Jean Martlett Story",
     "complexity_score": 2
   },
   {
-    "question": "The initial, humble performance of 'Silent Night' contrasts with its later status as a world-famous carol. What does this suggest about the nature of art?",
-    "correct": "Great art can come from simple origins and unexpected circumstances.",
+    "question": "What does the doctor's final decision to talk to the headmaster instead of giving Swami a fake certificate reveal about his character?",
+    "correct": "He is a responsible and principled person who doesn't approve of dishonesty.",
     "options": [
-      "Art must be performed in a grand hall to be considered great.",
-      "The value of art is determined by how much it costs to produce.",
-      "Great art can come from simple origins and unexpected circumstances.",
-      "Only professionally trained musicians can create lasting works."
+      "He is afraid of the Drill Master and wants to get Swami in trouble.",
+      "He does not believe Swami is actually sick.",
+      "He is a responsible and principled person who doesn't approve of dishonesty.",
+      "He wants to get more money from the headmaster."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Thematic Analysis",
+    "topic": "Swami and Friends",
     "complexity_score": 3
   },
   {
-    "question": "Based on the narrative, what can be inferred about the cultural importance of church music in 19th-century Austria?",
-    "correct": "It was a central part of community life, especially during holidays.",
+    "question": "What is the literary purpose of contrasting Laurie's large, empty mansion with the Marches' lively, full house?",
+    "correct": "To emphasize Laurie's loneliness and his longing for family connection.",
     "options": [
-      "It was a dying tradition that few people cared about.",
-      "It was a central part of community life, especially during holidays.",
-      "Only the wealthiest citizens were allowed to participate.",
-      "Instrumental music was considered more important than singing."
+      "To show that the March family was poor and lived in a small house.",
+      "To suggest that big houses are always unhappy places.",
+      "To create a mysterious and scary setting for the story.",
+      "To emphasize Laurie's loneliness and his longing for family connection."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Historical Context",
+    "topic": "Making Friends (Little Women)",
     "complexity_score": 3
   },
   {
-    "question": "The organ builder, Karl Mauracher, didn't just fix the organ and leave. He took the music with him. This action was the 'spark' for the song's spread. What does his action imply?",
-    "correct": "He recognized the song's unique beauty and felt it deserved a wider audience.",
+    "question": "In 'The Blind Boy', the speaker says, 'While thus I sing, I am a king'. What does this line suggest about his state of mind?",
+    "correct": "He feels powerful and content because he controls his own happiness, despite his blindness.",
     "options": [
-      "He was following a standard procedure for all new songs he heard.",
-      "He believed he could sell the song for a large profit.",
-      "He thought the song was written incorrectly and wanted to fix it.",
-      "He recognized the song's unique beauty and felt it deserved a wider audience."
+      "He believes he is actual royalty and will one day rule a kingdom.",
+      "He is pretending to be a king to make the people around him feel better.",
+      "He feels powerful and content because he controls his own happiness, despite his blindness.",
+      "He is sad and singing is the only thing that distracts him from his condition."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Character Motivation",
+    "topic": "The Blind Boy (Poem)",
     "complexity_score": 3
   },
   {
-    "question": "The story of 'Silent Night' can be seen as a chain of events where each person played a crucial role. If the Strasser children had decided not to sing it, what would have been the most likely outcome?",
-    "correct": "The song might have remained a local folk tune known only in the Zillertal valley.",
+    "question": "The description of the Drill Master as a 'square man with a protruding chest' and a 'silk turban wound in a military style' is intended to make the reader feel that he is...",
+    "correct": "Strict, rigid, and authoritative.",
     "options": [
-      "Father Mohr would have written a different song.",
-      "The song would have become famous through another family instead.",
-      "The church organ would have never been fixed.",
-      "The song might have remained a local folk tune known only in the Zillertal valley."
+      "Kind, friendly, and approachable.",
+      "Wealthy, fashionable, and important.",
+      "Strict, rigid, and authoritative.",
+      "Sad, lonely, and misunderstood."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cause and Effect",
+    "topic": "Swami and Friends",
     "complexity_score": 3
   },
   {
-    "question": "Considering the song's journey, which statement best analyzes its success?",
-    "correct": "Its success was a combination of its simple, heartfelt appeal and a series of fortunate encounters.",
+    "question": "In 'The Land of Dreams,' the speaker 'seeks the magic land in vain' upon waking. What does this reveal about the nature of imagination and reality?",
+    "correct": "That the wonders of imagination can feel intensely real but are separate from the physical world.",
     "options": [
-      "Its success was guaranteed because it was written by a priest.",
-      "Its success was a result of a massive, planned marketing campaign.",
-      "Its success was a combination of its simple, heartfelt appeal and a series of fortunate encounters.",
-      "Its success was solely due to its use during World War I."
+      "That the speaker is forgetful and cannot remember their dreams.",
+      "That the magic land is a real place that the speaker is trying to find.",
+      "That the waking world is more interesting than the dream world.",
+      "That the wonders of imagination can feel intensely real but are separate from the physical world."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analytical Thinking",
+    "topic": "Poetry Analysis",
     "complexity_score": 3
   },
   {
-    "question": "The fact that this story is still told today demonstrates the power of narrative. What is the central lesson or theme that makes this story so enduring?",
-    "correct": "That beauty and hope can arise from unexpected problems and simple circumstances.",
+    "question": "The teacher corrected a student who described the Drill Master's personality by listing his physical features. This correction highlights a key literary skill: the ability to...",
+    "correct": "Infer character traits from actions and values, not just from physical descriptions.",
     "options": [
-      "The importance of regular organ maintenance.",
-      "That fame is the most important goal for a musician.",
-      "That beauty and hope can arise from unexpected problems and simple circumstances.",
-      "The superiority of guitar music over organ music."
+      "Memorize every word of the text perfectly.",
+      "Draw an accurate picture of the characters.",
+      "Infer character traits from actions and values, not just from physical descriptions.",
+      "Only focus on the main character of a story."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Thematic Synthesis",
+    "topic": "Literary Analysis Skills",
     "complexity_score": 3
   }
 ]
