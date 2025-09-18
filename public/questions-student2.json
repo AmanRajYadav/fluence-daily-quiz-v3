@@ -1,282 +1,282 @@
 [
   {
-    "question": "In 'Before the Match', who is the main character who wants to practice for his cricket match?",
-    "correct": "Swami",
+    "question": "In 'A Song from Heaven', where were the destitute children living?",
+    "correct": "Leipzig",
     "options": [
-      "Rajam",
-      "The Drill Master",
-      "Swami",
-      "Dr. T. K. Subbal"
+      "Saxony",
+      "Berlin",
+      "Leipzig",
+      "Munich"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Before the Match",
+    "topic": "A Song from Heaven",
     "complexity_score": 1
   },
   {
-    "question": "In 'Making Friends', what is the name of the lonely boy who lives opposite the March sisters?",
-    "correct": "Laurie",
+    "question": "According to the poem 'The Blind Boy', how does the boy know the sun is shining?",
+    "correct": "He can feel its warmth.",
     "options": [
-      "Jo",
-      "Laurie",
-      "Mr. Lawrence",
-      "Subbal"
+      "Someone tells him it is daytime.",
+      "He can hear the birds singing.",
+      "He can feel its warmth.",
+      "He sees a faint glow."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Making Friends",
+    "topic": "The Blind Boy",
     "complexity_score": 1
   },
   {
-    "question": "What excuse did Swami give his drill master to try and leave practice?",
-    "correct": "He claimed he was delirious the whole night.",
+    "question": "In 'Endangered Treasures', what kind of habitat does the Bengal Florican need to thrive?",
+    "correct": "Dry grasslands",
     "options": [
-      "He said he had a stomach ache.",
-      "He claimed he was delirious the whole night.",
-      "He said his friend Rajam was sick.",
-      "He told him he had a cricket match that day."
+      "Dense forests",
+      "Wetlands and marshes",
+      "Dry grasslands",
+      "Mountainous regions"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Before the Match",
+    "topic": "Endangered Treasures",
     "complexity_score": 1
   },
   {
-    "question": "What gift did Beth send to Laurie to comfort him?",
-    "correct": "Three kittens",
+    "question": "What is the first line of the song the children sing for the King and Queen in 'A Song from Heaven'?",
+    "correct": "Silent Night, Holy Night",
     "options": [
-      "A book",
-      "Blancmange",
-      "A letter",
-      "Three kittens"
+      "O Holy Night",
+      "Joy to the World",
+      "Silent Night, Holy Night",
+      "Hark! The Herald Angels Sing"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Making Friends",
+    "topic": "A Song from Heaven",
     "complexity_score": 1
   },
   {
-    "question": "What was the name of Swami's cricket team?",
-    "correct": "MCC (Malgudi Cricket Club)",
+    "question": "In 'A Child's Thought', what does the child see in his head when he goes to bed?",
+    "correct": "Castles with dragons",
     "options": [
-      "Young Men's Union",
-      "MCC (Malgudi Cricket Club)",
-      "The Drill Masters",
-      "Rajam's Eleven"
+      "Spaceships and aliens",
+      "His school and friends",
+      "The events of his day",
+      "Castles with dragons"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Before the Match",
+    "topic": "A Child's Thought",
     "complexity_score": 1
   },
   {
-    "question": "What did Jo offer to do for Laurie when she first spoke to him?",
-    "correct": "Come over and read to him",
+    "question": "The Red Panda, mentioned in 'Endangered Treasures', primarily lives where?",
+    "correct": "In trees",
     "options": [
-      "Invite him for dinner",
-      "Come over and read to him",
-      "Bring him some medicine",
-      "Play cricket with him"
+      "In underground burrows",
+      "On grassy plains",
+      "In trees",
+      "Near rivers"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Making Friends",
+    "topic": "Endangered Treasures",
     "complexity_score": 1
   },
   {
-    "question": "Why was Swami afraid to go home right after leaving the drill ground?",
-    "correct": "He was worried the drill master would see him practicing cricket.",
+    "question": "In the story 'The Hand', why did Jane Martin originally want the exotic hen from Dora?",
+    "correct": "She expected it to lay many eggs and repay her investment.",
     "options": [
-      "He thought his mother would be angry he was late.",
-      "He wanted to play longer with his friend Rajam.",
-      "He was worried the drill master would see him practicing cricket.",
-      "He forgot his school bag at the drill ground."
+      "She wanted it as a beautiful pet.",
+      "She planned to enter it into a competition.",
+      "She expected it to lay many eggs and repay her investment.",
+      "Dora insisted that she take it."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Before the Match",
+    "topic": "The Hand",
     "complexity_score": 2
   },
   {
-    "question": "How did Laurie know the names of all the March sisters before meeting Jo?",
-    "correct": "He would hear them calling to each other from his window.",
+    "question": "Why does the poet in 'Endangered Treasures' compare the rhinoceros to a 'fabled unicorn'?",
+    "correct": "Because hunting has made it almost as rare as a mythical creature.",
     "options": [
-      "His grandfather had told him their names.",
-      "He had read about them in a local newspaper.",
-      "He would hear them calling to each other from his window.",
-      "Jo introduced them all when she arrived."
+      "Because both have a single, prominent horn.",
+      "Because the rhinoceros has magical properties.",
+      "Because hunting has made it almost as rare as a mythical creature.",
+      "Because both animals only live in stories."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Making Friends",
+    "topic": "Endangered Treasures",
     "complexity_score": 2
   },
   {
-    "question": "When Swami claimed to have 'diarrhoea', why did the doctor laugh so hard?",
-    "correct": "Because Swami misunderstood what diarrhoea was, thinking it was a simple stomach ache.",
+    "question": "According to the blind boy, what is the main difference between his 'day' and 'night'?",
+    "correct": "Whether he is awake and playing or sleeping.",
     "options": [
-      "Because Swami pronounced the word incorrectly.",
-      "Because the doctor thought Swami was telling a funny joke.",
-      "Because Swami misunderstood what diarrhoea was, thinking it was a simple stomach ache.",
-      "Because the doctor did not believe in giving medical certificates."
+      "The warmth or coldness of the air.",
+      "The presence or absence of the sun's light.",
+      "Whether he is awake and playing or sleeping.",
+      "The sounds he hears around him."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Before the Match",
+    "topic": "The Blind Boy",
     "complexity_score": 2
   },
   {
-    "question": "Why was Jo initially surprised by Laurie's library?",
-    "correct": "It was filled with books, pictures, statues, and interesting objects.",
+    "question": "What caused the number of Hangul Stags to decrease, according to the poem?",
+    "correct": "Humans built houses on the grasslands where the stags grazed.",
     "options": [
-      "It was completely empty and clean.",
-      "It only had books about cricket.",
-      "It was smaller than her own room.",
-      "It was filled with books, pictures, statues, and interesting objects."
+      "They were hunted for sport like the rhinoceros.",
+      "A widespread disease affected the population.",
+      "Humans built houses on the grasslands where the stags grazed.",
+      "Other animals competed for their food source."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Making Friends",
+    "topic": "Endangered Treasures",
     "complexity_score": 2
   },
   {
-    "question": "What does the doctor's final decision to talk to the headmaster, instead of giving a fake certificate, reveal about his character?",
-    "correct": "He is kind and helpful but also ethical and unwilling to lie.",
+    "question": "In 'A Child's Thought', what happens to the magical dream world when the speaker wakes up?",
+    "correct": "It disappears and is replaced by ordinary objects like a chair and a carpet.",
     "options": [
-      "He is strict and doesn't care about Swami's problem.",
-      "He is afraid of the drill master and wants to avoid trouble.",
-      "He is kind and helpful but also ethical and unwilling to lie.",
-      "He thinks cricket is more important than school drills."
+      "The magical creatures hide until he falls asleep again.",
+      "It disappears and is replaced by ordinary objects like a chair and a carpet.",
+      "He can still see faint images of it during the day.",
+      "He writes about it in a diary to remember it."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Before the Match",
+    "topic": "A Child's Thought",
     "complexity_score": 2
   },
   {
-    "question": "Laurie tells Jo, 'when the lamps are lighted, it's like looking at a picture.' What feeling is he expressing about her family?",
-    "correct": "Admiration and longing for their warmth and togetherness.",
+    "question": "What was the primary conflict that damaged the friendship between Jane and Dora in 'The Hand'?",
+    "correct": "A feeling of betrayal over an unfulfilled expectation.",
     "options": [
-      "Curiosity about what they eat for dinner.",
-      "Annoyance that their lights are too bright.",
-      "Admiration and longing for their warmth and togetherness.",
-      "Concern that they are not safe."
+      "A simple argument over money.",
+      "A competition to see who had the better hen.",
+      "A feeling of betrayal over an unfulfilled expectation.",
+      "A rumor started by Clovis."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Making Friends",
+    "topic": "The Hand",
     "complexity_score": 2
   },
   {
-    "question": "Why did the author describe the drill master as a 'square man' with a 'protruding chest' and a 'silk turban wound in a military style'?",
-    "correct": "To create an image of a strict, imposing, and disciplined authority figure.",
+    "question": "According to Clovis and Jane, what can 'drive a person mad'?",
+    "correct": "Being in the same surroundings for too long.",
     "options": [
-      "To show that he was a very fashionable person.",
-      "To suggest he was secretly a kind and gentle man.",
-      "To create an image of a strict, imposing, and disciplined authority figure.",
-      "To indicate that he was not very healthy."
+      "Losing a valuable possession.",
+      "Having a friendship end.",
+      "Owning an animal that causes trouble.",
+      "Being in the same surroundings for too long."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Before the Match",
+    "topic": "The Hand",
     "complexity_score": 2
   },
   {
-    "question": "When Jo says she wishes Laurie could 'come over with us' instead of 'peeping', what is she demonstrating about her character?",
-    "correct": "She is inclusive, compassionate, and desires genuine connection.",
+    "question": "In 'A Song from Heaven', why were the children initially unaware they would be singing in a concert?",
+    "correct": "The Director of Music only invited them, without specifying the performance.",
     "options": [
-      "She is nosy and wants to know more about his house.",
-      "She is bossy and likes to tell people what to do.",
-      "She is embarrassed that he has been watching her family.",
-      "She is inclusive, compassionate, and desires genuine connection."
+      "They were too young to understand the invitation.",
+      "They thought they were being invited for a meal.",
+      "The Director of Music only invited them, without specifying the performance.",
+      "The invitation was written in a language they couldn't read."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Making Friends",
+    "topic": "A Song from Heaven",
     "complexity_score": 2
   },
   {
-    "question": "The drill master's reaction to Swami's claim of being 'delirious' was to be 'stunned'. Why was this his reaction?",
-    "correct": "Because 'delirious' is a very serious condition, and it was an unexpectedly dramatic excuse from a schoolboy.",
+    "question": "The line 'Then let not what I cannot have / My cheer of mind destroy' from 'The Blind Boy' best demonstrates the boy's...",
+    "correct": "Resilience and positive mindset.",
     "options": [
-      "Because he had never heard the word 'delirious' before.",
-      "Because he was worried that Swami was truly very ill.",
-      "Because he was impressed by Swami's large vocabulary.",
-      "Because 'delirious' is a very serious condition, and it was an unexpectedly dramatic excuse from a schoolboy."
+      "Sadness about his condition.",
+      "Curiosity about the world.",
+      "Resilience and positive mindset.",
+      "Frustration with others."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Before the Match",
+    "topic": "The Blind Boy",
     "complexity_score": 3
   },
   {
-    "question": "What does the portrait of Laurie's grandfather, described as having 'kind eyes but a grim mouth', suggest about his personality?",
-    "correct": "He might be a complex person who is kind deep down but appears stern and unapproachable.",
+    "question": "What central theme connects the stories of the Bengal Florican, the Rhinoceros, and the Hangul Stag in 'Endangered Treasures'?",
+    "correct": "The negative impact of human activity on animal habitats and populations.",
     "options": [
-      "He was a happy person who smiled all the time.",
-      "He was an unkind person who was always angry.",
-      "He might be a complex person who is kind deep down but appears stern and unapproachable.",
-      "He was not a very important person in Laurie's life."
+      "The natural process of animal extinction.",
+      "The beauty of rare animals.",
+      "The negative impact of human activity on animal habitats and populations.",
+      "The success of conservation efforts in India."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Making Friends",
+    "topic": "Endangered Treasures",
     "complexity_score": 3
   },
   {
-    "question": "The phrase 'in the pink of health' is a figure of speech. When the doctor uses it to describe Swami, what is he implying?",
-    "correct": "That Swami is perfectly healthy and there is nothing wrong with him.",
+    "question": "What is the key difference between the speaker's perception of reality in 'A Child's Thought' and the boy's perception in 'The Blind Boy'?",
+    "correct": "One finds magic in an internal dream world, while the other finds contentment in his external sensory world.",
     "options": [
-      "That Swami's skin has turned pink from a fever.",
-      "That Swami should wear more pink-colored clothes.",
-      "That Swami is perfectly healthy and there is nothing wrong with him.",
-      "That Swami's illness is only in its early stages."
+      "One is happy with his world, while the other is sad about his.",
+      "One finds magic in an internal dream world, while the other finds contentment in his external sensory world.",
+      "Both are trying to escape their reality.",
+      "One relies on imagination, while the other relies on stories from others."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Before the Match",
+    "topic": "Comparative Analysis",
     "complexity_score": 3
   },
   {
-    "question": "Jo says, 'I'm not quiet and nice, but I'll come' to Laurie. What does this self-description reveal about how she sees herself compared to a typical girl of her time?",
-    "correct": "She sees herself as unconventional and spirited, not conforming to quiet, demure stereotypes.",
+    "question": "Why does the blind boy consider himself a 'king'?",
+    "correct": "Because he has mastery over his own happiness and is not saddened by what he lacks.",
     "options": [
-      "She believes she is rude and unlikable.",
-      "She thinks Laurie will not like her because she is too loud.",
-      "She is apologizing for being a girl instead of a boy.",
-      "She sees herself as unconventional and spirited, not conforming to quiet, demure stereotypes."
+      "Because everyone treats him with special care.",
+      "Because he imagines he rules a kingdom in his mind.",
+      "Because he has mastery over his own happiness and is not saddened by what he lacks.",
+      "Because he believes he will one day gain his sight."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Making Friends",
+    "topic": "The Blind Boy",
     "complexity_score": 3
   },
   {
-    "question": "Swami's decision to 'exaggerate' his illness to the drill master is a key moment. What is the most likely reason an author would include this detail?",
-    "correct": "To show the comical desperation of a child trying to solve a problem with limited power.",
+    "question": "The final stanza of 'Endangered Treasures' acts as a...",
+    "correct": "Call to action for conservation and protection.",
     "options": [
-      "To teach readers new vocabulary words like 'exaggerate'.",
-      "To prove that Swami is a dishonest character who should not be trusted.",
-      "To show the comical desperation of a child trying to solve a problem with limited power.",
-      "To suggest that the drill master is easily fooled by students."
+      "Sad farewell to the animals.",
+      "Summary of the animals discussed.",
+      "Call to action for conservation and protection.",
+      "Question about the future of the planet."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Before the Match",
+    "topic": "Endangered Treasures",
     "complexity_score": 3
   },
   {
-    "question": "The story 'Making Friends' contrasts Laurie's large, empty mansion with the March's lively, full house. What is the purpose of this contrast?",
-    "correct": "To highlight the theme that emotional warmth and family are more valuable than material wealth.",
+    "question": "In 'A Child's Thought,' the contrast between the 'castle front' and the 'chair' highlights the theme of...",
+    "correct": "The power of imagination to transform the ordinary.",
     "options": [
-      "To show that rich people are always lonely and poor people are always happy.",
-      "To suggest that the March family should move into Laurie's house.",
-      "To describe the architectural differences between the two homes.",
-      "To highlight the theme that emotional warmth and family are more valuable than material wealth."
+      "The disappointment of waking up.",
+      "The comfort of a familiar bedroom.",
+      "The difference between wealth and poverty.",
+      "The power of imagination to transform the ordinary."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Making Friends",
+    "topic": "A Child's Thought",
     "complexity_score": 3
   }
 ]
