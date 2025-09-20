@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the story discussed, who lives in a large, empty mansion opposite the March sisters?",
-    "correct": "Laurie",
+    "question": "According to the lesson, what is the basic definition of 'governance'?",
+    "correct": "The process of making decisions, creating rules for society, and ensuring they are followed.",
     "options": [
-      "Swaminathan",
-      "The Drill Master",
-      "Laurie",
-      "Jean Martlett"
+      "Only the act of voting for a Prime Minister.",
+      "The process of making decisions, creating rules for society, and ensuring they are followed.",
+      "A group of people who control a country.",
+      "The military protecting the country's borders."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Making Friends (Little Women)",
+    "topic": "Governance",
     "complexity_score": 1
   },
   {
-    "question": "What ailment did Swaminathan pretend to have to the doctor?",
-    "correct": "Delirium",
+    "question": "The word 'democracy' comes from two Greek words. What does 'Demos' mean?",
+    "correct": "People",
     "options": [
-      "A fever",
-      "A broken arm",
-      "Delirium",
-      "A stomach ache"
+      "Rule",
+      "Power",
+      "Government",
+      "People"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Swami and Friends",
+    "topic": "Democracy",
     "complexity_score": 1
   },
   {
-    "question": "According to the poem 'The Land of Dreams', what does the speaker find in their head when they go to bed at seven?",
-    "correct": "Castles with dragons and magic gardens",
+    "question": "Which of these is a service the government provides, as mentioned in the class?",
+    "correct": "Hospitals, schools, and roads",
     "options": [
-      "School books and homework",
-      "A chair and a carpet",
-      "Castles with dragons and magic gardens",
-      "Their friends and family"
+      "Private Instagram accounts",
+      "Hospitals, schools, and roads",
+      "Movie tickets and video games",
+      "Delivering food to homes"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Poetry Analysis",
+    "topic": "Role of Government",
     "complexity_score": 1
   },
   {
-    "question": "In the story of the Strasser children, where did their family go every year in the spring to sell clothes?",
-    "correct": "Leipzig",
+    "question": "Complete the sentence correctly as practiced in the lesson: 'When winter arrives, he _______ drinking tea.'",
+    "correct": "starts",
     "options": [
-      "Saxony",
-      "Berlin",
-      "Leipzig",
-      "Vienna"
+      "start",
+      "started",
+      "will start",
+      "starts"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "The Strasser Children Story",
+    "topic": "English Grammar (Simple Present)",
     "complexity_score": 1
   },
   {
-    "question": "How does the blind boy in the poem know the sun is shining?",
-    "correct": "He feels its warmth",
+    "question": "Which sentence is in the passive voice, as discussed in the class?",
+    "correct": "It has been made by him.",
     "options": [
-      "Someone tells him",
-      "He sees a bright light",
-      "He hears the birds singing",
-      "He feels its warmth"
+      "He made this.",
+      "He has made it.",
+      "It has been made by him.",
+      "He is making it now."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "The Blind Boy (Poem)",
+    "topic": "English Grammar (Passive Voice)",
     "complexity_score": 1
   },
   {
-    "question": "What was described as being wound in a military style on the Drill Master's head?",
-    "correct": "A silk turban",
+    "question": "One key reason we need a government is to make rules so that everyone can live...",
+    "correct": "safely and peacefully.",
     "options": [
-      "A woolen cap",
-      "A soldier's helmet",
-      "A silk turban",
-      "A leather band"
+      "without paying taxes.",
+      "exactly the same way.",
+      "safely and peacefully.",
+      "in a very rich country."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Swami and Friends",
+    "topic": "Role of Government",
     "complexity_score": 1
   },
   {
-    "question": "Why did Swaminathan stay at Rajam's house until it was dark?",
-    "correct": "He was worried the Drill Master would be spying on him if he left earlier.",
+    "question": "The teacher compared the act of governing a class to being a 'class monitor'. Why is this a good analogy for governance?",
+    "correct": "Because a monitor helps enforce rules to keep the class organized, just like governance does for society.",
     "options": [
-      "He wanted to finish his homework with Rajam.",
-      "He had lost track of time while playing cricket.",
-      "He was waiting for his parents to pick him up.",
-      "He was worried the Drill Master would be spying on him if he left earlier."
+      "Because a monitor gets to leave class early.",
+      "Because a monitor is always the most popular student.",
+      "Because a monitor helps enforce rules to keep the class organized, just like governance does for society.",
+      "Because a monitor writes the questions for the exam."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Swami and Friends",
+    "topic": "Governance",
     "complexity_score": 2
   },
   {
-    "question": "What event caused the Strasser children to feel delighted during their trip to the fair?",
-    "correct": "They were invited to sing at a music concert.",
+    "question": "What is the key difference between a 'government' and 'governance' based on the lesson?",
+    "correct": "Government is the group of people or system, while governance is the process of ruling.",
     "options": [
-      "They sold all of the clothes they made.",
-      "They earned a lot of money from singing in the street.",
-      "They were invited to sing at a music concert.",
-      "They finally found their way after being lost."
+      "There is no difference; the words mean the same thing.",
+      "Government is only the Prime Minister, and governance is everything else.",
+      "Government is the group of people or system, while governance is the process of ruling.",
+      "Governance happens in schools, but government only happens in the capital city."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Strasser Children Story",
+    "topic": "Government vs Governance",
     "complexity_score": 2
   },
   {
-    "question": "How did Laurie know the names of all the March sisters before he officially met Jo?",
-    "correct": "He could see and hear them from his window as they talked to each other.",
+    "question": "In a democracy, why are leaders 'answerable for their actions'?",
+    "correct": "Because the power is in the people's hands, and they can vote the leaders out.",
     "options": [
-      "His grandfather introduced them to him.",
-      "He read about them in the town newspaper.",
-      "Jo told him all their names when she first visited.",
-      "He could see and hear them from his window as they talked to each other."
+      "Because the police will arrest them if they make one mistake.",
+      "Because they are not allowed to make any decisions on their own.",
+      "Because the power is in the people's hands, and they can vote the leaders out.",
+      "Because they have to pass a special test every year."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Making Friends (Little Women)",
+    "topic": "Democracy",
     "complexity_score": 2
   },
   {
-    "question": "In the poem 'The Blind Boy', how does the speaker create his own 'day' and 'night'?",
-    "correct": "He considers it day when he is awake and playing, and night when he sleeps.",
+    "question": "Based on the grammar corrections, which sentence correctly uses the third conditional structure?",
+    "correct": "If I had known you were vegetarian, I would not have made chicken.",
     "options": [
-      "He asks people to tell him when it is day or night.",
-      "He follows the sounds of the morning birds and evening crickets.",
-      "He considers it day when he is awake and playing, and night when he sleeps.",
-      "He uses a special clock that tells him the time."
+      "If I knew you are vegetarian, I would not make chicken.",
+      "If I had known you were vegetarian, I would not have made chicken.",
+      "If I know you are vegetarian, I will not make chicken.",
+      "If I would have known you were vegetarian, I did not make chicken."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Blind Boy (Poem)",
+    "topic": "English Grammar (Conditionals)",
     "complexity_score": 2
   },
   {
-    "question": "According to the teacher's explanation, what is the main difference between the Drill Master's 'appearance' and his 'personality'?",
-    "correct": "Appearance is how he looks, while personality is how he behaves and what he values.",
+    "question": "The lesson states that in a democracy, 'every citizen is treated equally, regardless of caste, religion or gender.' What fundamental right does this refer to?",
+    "correct": "The Right to Equality",
     "options": [
-      "Appearance is his military-style turban, and personality is his mustache.",
-      "Appearance and personality are the same thing.",
-      "Appearance is how he looks, while personality is how he behaves and what he values.",
-      "Appearance is his clothing, while personality is his physical strength."
+      "The Right to Vote",
+      "The Right to Speech",
+      "The Right to Religion",
+      "The Right to Equality"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Literary Analysis Skills",
+    "topic": "Democracy & Fundamental Rights",
     "complexity_score": 2
   },
   {
-    "question": "What is the main contrast explored in the poem 'The Land of Dreams'?",
-    "correct": "The magical, exciting world of dreams versus the ordinary, plain waking world.",
+    "question": "Why did the teacher say people can criticize the government on YouTube in India but not in China?",
+    "correct": "Because India is a democracy that protects freedom of speech, while China is not.",
     "options": [
-      "The difference between being happy and being sad.",
-      "The contrast between day and night.",
-      "The magical, exciting world of dreams versus the ordinary, plain waking world.",
-      "The difference between castles and regular houses."
+      "Because India has a better internet connection than China.",
+      "Because the Chinese government does not use YouTube.",
+      "Because people in India are braver than people in China.",
+      "Because India is a democracy that protects freedom of speech, while China is not."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Poetry Analysis",
+    "topic": "Democracy",
     "complexity_score": 2
   },
   {
-    "question": "The library in Laurie's house was described as being filled with books, statues, and cabinets. What did this description suggest about Laurie's home life?",
-    "correct": "That it was wealthy but lacked the warmth of family interaction.",
+    "question": "The teacher corrects the sentence 'He has stopped playing the picture.' This correction focuses on the use of a gerund after the verb 'stop'. Which of the following sentences uses a similar correct structure?",
+    "correct": "He keeps on watching the movie.",
     "options": [
-      "That it was a place of constant learning and fun.",
-      "That his family were famous artists and writers.",
-      "That it was very messy and disorganized.",
-      "That it was wealthy but lacked the warmth of family interaction."
+      "He keeps on watching the movie.",
+      "He is start to play.",
+      "He did stopped to work.",
+      "He likes played cricket."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Making Friends (Little Women)",
+    "topic": "English Grammar (Gerunds)",
     "complexity_score": 2
   },
   {
-    "question": "According to Clovis, who was the ghost of Jean Martlett bothering?",
-    "correct": "The houseguests",
+    "question": "What is the main role of the army, as clarified in the discussion?",
+    "correct": "To protect the country from attacks by other countries.",
     "options": [
-      "The other ghosts in the house",
-      "The children of the family",
-      "The houseguests",
-      "Only Clovis himself"
+      "To control crime within cities.",
+      "To protect citizens from wild animals.",
+      "To provide services like schools and hospitals.",
+      "To protect the country from attacks by other countries."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Jean Martlett Story",
+    "topic": "Role of Government",
     "complexity_score": 2
   },
   {
-    "question": "What does the doctor's final decision to talk to the headmaster instead of giving Swami a fake certificate reveal about his character?",
-    "correct": "He is a responsible and principled person who doesn't approve of dishonesty.",
+    "question": "The discussion about Hitler was used to illustrate the opposite of democracy. What is the most significant difference highlighted between Hitler's rule and a democracy?",
+    "correct": "In a democracy people have power and can remove leaders, but under a dictator like Hitler, the leader has all the power and cannot be removed by the people.",
     "options": [
-      "He is afraid of the Drill Master and wants to get Swami in trouble.",
-      "He does not believe Swami is actually sick.",
-      "He is a responsible and principled person who doesn't approve of dishonesty.",
-      "He wants to get more money from the headmaster."
+      "Hitler was from Germany, while democracy is from Greece.",
+      "Hitler could not build roads or hospitals.",
+      "In a democracy people have power and can remove leaders, but under a dictator like Hitler, the leader has all the power and cannot be removed by the people.",
+      "Democracies have armies, but Hitler did not."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Swami and Friends",
+    "topic": "Democracy vs Dictatorship",
     "complexity_score": 3
   },
   {
-    "question": "What is the literary purpose of contrasting Laurie's large, empty mansion with the Marches' lively, full house?",
-    "correct": "To emphasize Laurie's loneliness and his longing for family connection.",
+    "question": "The teacher explains that taxes (like income tax) are paid by people. How does this money relate to the functions of the government that were discussed?",
+    "correct": "The government uses tax money to pay for services like roads, hospitals, schools, and the army.",
     "options": [
-      "To show that the March family was poor and lived in a small house.",
-      "To suggest that big houses are always unhappy places.",
-      "To create a mysterious and scary setting for the story.",
-      "To emphasize Laurie's loneliness and his longing for family connection."
+      "The tax money is given directly to the Prime Minister as a salary.",
+      "The government uses tax money to pay for services like roads, hospitals, schools, and the army.",
+      "Tax money has no connection to government services; it is stored in a vault.",
+      "Only criminals have to pay taxes as punishment."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Making Friends (Little Women)",
+    "topic": "Role of Government",
     "complexity_score": 3
   },
   {
-    "question": "In 'The Blind Boy', the speaker says, 'While thus I sing, I am a king'. What does this line suggest about his state of mind?",
-    "correct": "He feels powerful and content because he controls his own happiness, despite his blindness.",
+    "question": "Considering the Greek roots 'Demos' (people) and 'Kratos' (rule/power), why is it logical that in a democracy, citizens 'have the right to vote and take part in decision making'?",
+    "correct": "Because if democracy means 'rule of the people', then the people must have a way to exercise their rule, which is through voting and participation.",
     "options": [
-      "He believes he is actual royalty and will one day rule a kingdom.",
-      "He is pretending to be a king to make the people around him feel better.",
-      "He feels powerful and content because he controls his own happiness, despite his blindness.",
-      "He is sad and singing is the only thing that distracts him from his condition."
+      "Because the word 'Kratos' sounds like 'voting'.",
+      "Because the ancient Greeks were the only ones who were allowed to vote.",
+      "Because if democracy means 'rule of the people', then the people must have a way to exercise their rule, which is through voting and participation.",
+      "Because 'Demos' means that only some people get to make decisions."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "The Blind Boy (Poem)",
+    "topic": "Democracy",
     "complexity_score": 3
   },
   {
-    "question": "The description of the Drill Master as a 'square man with a protruding chest' and a 'silk turban wound in a military style' is intended to make the reader feel that he is...",
-    "correct": "Strict, rigid, and authoritative.",
+    "question": "The teacher states, 'If you are not able to do this, you are not a good learner. You are not able to do governance nicely.' What does this imply about the concept of governance?",
+    "correct": "That governance is a skill that involves ensuring rules are followed, and it can be applied even on a small scale like in a classroom.",
     "options": [
-      "Kind, friendly, and approachable.",
-      "Wealthy, fashionable, and important.",
-      "Strict, rigid, and authoritative.",
-      "Sad, lonely, and misunderstood."
+      "That only people who get good grades can be in the government.",
+      "That governance is a skill that involves ensuring rules are followed, and it can be applied even on a small scale like in a classroom.",
+      "That if you fail a test, you cannot be a citizen.",
+      "That governance is only about being quiet and listening to the teacher."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Swami and Friends",
+    "topic": "Governance",
     "complexity_score": 3
   },
   {
-    "question": "In 'The Land of Dreams,' the speaker 'seeks the magic land in vain' upon waking. What does this reveal about the nature of imagination and reality?",
-    "correct": "That the wonders of imagination can feel intensely real but are separate from the physical world.",
+    "question": "The transcript shows a lot of practice with 'do/does/did' and changing active sentences to passive ones. What is the primary learning goal of these exercises?",
+    "correct": "To help the student understand and correctly use auxiliary verbs and different voice structures to form more complex and accurate English sentences.",
     "options": [
-      "That the speaker is forgetful and cannot remember their dreams.",
-      "That the magic land is a real place that the speaker is trying to find.",
-      "That the waking world is more interesting than the dream world.",
-      "That the wonders of imagination can feel intensely real but are separate from the physical world."
+      "To memorize a list of English vocabulary words.",
+      "To prepare for a social science debate.",
+      "To practice speaking as quickly as possible.",
+      "To help the student understand and correctly use auxiliary verbs and different voice structures to form more complex and accurate English sentences."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Poetry Analysis",
+    "topic": "English Grammar (Syntax)",
     "complexity_score": 3
   },
   {
-    "question": "The teacher corrected a student who described the Drill Master's personality by listing his physical features. This correction highlights a key literary skill: the ability to...",
-    "correct": "Infer character traits from actions and values, not just from physical descriptions.",
+    "question": "Why is the idea that 'every citizen is treated equally' considered a theory in the lesson, even if it's a rule in a democracy?",
+    "correct": "Because in reality (in practice), inequalities based on caste, religion, and gender still exist, even if the law says everyone is equal.",
     "options": [
-      "Memorize every word of the text perfectly.",
-      "Draw an accurate picture of the characters.",
-      "Infer character traits from actions and values, not just from physical descriptions.",
-      "Only focus on the main character of a story."
+      "Because it is a new idea that no one has tested yet.",
+      "Because some people are not citizens.",
+      "Because in reality (in practice), inequalities based on caste,religion, and gender still exist, even if the law says everyone is equal.",
+      "Because only the government is treated equally."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Literary Analysis Skills",
+    "topic": "Democracy",
     "complexity_score": 3
   }
 ]
