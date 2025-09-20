@@ -1,282 +1,282 @@
 [
   {
-    "question": "In 'A Song from Heaven', where were the destitute children living?",
-    "correct": "Zillertal",
+    "question": "According to the lesson, what are the two Greek words that form the word 'democracy'?",
+    "correct": "Demos and Kratos",
     "options": [
-      "Saxony",
-      "Berlin",
-      "Zillertal",
-      "Munich"
+      "Demos and Logos",
+      "Polis and Kratos",
+      "Demos and Kratos",
+      "Argos and Demos"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "A Song from Heaven",
+    "topic": "Democracy",
     "complexity_score": 1
   },
   {
-    "question": "According to the poem 'The Blind Boy', how does the boy know the sun is shining?",
-    "correct": "He can feel its warmth.",
+    "question": "What is the primary function of the 'Legislative' organ of government?",
+    "correct": "To make new laws",
     "options": [
-      "Someone tells him it is daytime.",
-      "He can hear the birds singing.",
-      "He can feel its warmth.",
-      "He sees a faint glow."
+      "To enforce laws and maintain order",
+      "To interpret laws and settle disputes",
+      "To make new laws",
+      "To manage the army"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "The Blind Boy",
+    "topic": "Organs of Government",
     "complexity_score": 1
   },
   {
-    "question": "In 'Endangered Treasures', what kind of habitat does the Bengal Florican need to thrive?",
-    "correct": "Dry grasslands",
+    "question": "In the Christmas Truce story discussed, what did the English and German soldiers do together?",
+    "correct": "They sang carols",
     "options": [
-      "Dense forests",
-      "Wetlands and marshes",
-      "Dry grasslands",
-      "Mountainous regions"
+      "They played a game of football",
+      "They exchanged gifts",
+      "They signed a peace treaty",
+      "They sang carols"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Endangered Treasures",
+    "topic": "English Literature",
     "complexity_score": 1
   },
   {
-    "question": "What is the first line of the song the children sing for the King and Queen in 'A Song from Heaven'?",
-    "correct": "Silent Night, Holy Night",
+    "question": "Which branch of government is responsible for implementing laws and ensuring they are followed?",
+    "correct": "The Executive",
     "options": [
-      "O Holy Night",
-      "Joy to the World",
-      "Silent Night, Holy Night",
-      "Hark! The Herald Angels Sing"
+      "The Judiciary",
+      "The Legislative",
+      "The Executive",
+      "The Monarchy"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "A Song from Heaven",
+    "topic": "Organs of Government",
     "complexity_score": 1
   },
   {
-    "question": "In 'A Child's Thought', what does the child see in his head when he goes to bed?",
-    "correct": "Castles with dragons",
+    "question": "Based on the discussion, what does the Greek word 'Demos' mean?",
+    "correct": "People",
     "options": [
-      "Spaceships and aliens",
-      "His school and friends",
-      "The events of his day",
-      "Castles with dragons"
+      "Power",
+      "Rule",
+      "Law",
+      "People"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "A Child's Thought",
+    "topic": "Democracy",
     "complexity_score": 1
   },
   {
-    "question": "The Red Panda, mentioned in 'Endangered Treasures', primarily lives where?",
-    "correct": "In trees",
+    "question": "Which of the following tasks would most likely be handled by a local government?",
+    "correct": "Fixing streetlights in a neighborhood",
     "options": [
-      "In underground burrows",
-      "On grassy plains",
-      "In trees",
-      "Near rivers"
+      "Negotiating international treaties",
+      "Managing the entire country's army",
+      "Fixing streetlights in a neighborhood",
+      "Printing national currency"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Endangered Treasures",
+    "topic": "Tiers of Government",
     "complexity_score": 1
   },
   {
-    "question": "In the story 'The Hen', why did Jane Martlet originally want the exotic hen from Dora?",
-    "correct": "She expected it to lay many eggs and repay her investment.",
+    "question": "What is the key difference between a direct democracy and a representative democracy?",
+    "correct": "In a representative democracy, people elect officials to make decisions for them.",
     "options": [
-      "She wanted it as a beautiful pet.",
-      "She planned to enter it into a competition.",
-      "She expected it to lay many eggs and repay her investment.",
-      "Dora insisted that she take it."
+      "Direct democracy only works in large countries.",
+      "Representative democracy doesn't involve voting.",
+      "In a representative democracy, people elect officials to make decisions for them.",
+      "Direct democracy is a system with a king or queen."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Hand",
+    "topic": "Types of Democracy",
     "complexity_score": 2
   },
   {
-    "question": "Why does the poet in 'Endangered Treasures' compare the rhinoceros to a 'fabled unicorn'?",
-    "correct": "Because hunting has made it almost as rare as a mythical creature.",
+    "question": "The teacher mentioned that in India, citizens have 'free speech' and can criticize the government. This is a key feature of which system?",
+    "correct": "Democracy",
     "options": [
-      "Because both have a single, prominent horn.",
-      "Because the rhinoceros has magical properties.",
-      "Because hunting has made it almost as rare as a mythical creature.",
-      "Because both animals only live in stories."
+      "Monarchy",
+      "Dictatorship",
+      "Democracy",
+      "Communism"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Endangered Treasures",
+    "topic": "Democracy",
     "complexity_score": 2
   },
   {
-    "question": "According to the blind boy, what is the main difference between his 'day' and 'night'?",
-    "correct": "Whether he is awake and playing or sleeping.",
+    "question": "If a citizen feels a law violates their basic rights, which organ of government would they appeal to for a final decision?",
+    "correct": "The Judiciary",
     "options": [
-      "The warmth or coldness of the air.",
-      "The presence or absence of the sun's light.",
-      "Whether he is awake and playing or sleeping.",
-      "The sounds he hears around him."
+      "The Legislative",
+      "The Executive",
+      "The Judiciary",
+      "The Local Government"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Blind Boy",
+    "topic": "Organs of Government",
     "complexity_score": 2
   },
   {
-    "question": "What caused the number of Hangul Stags to decrease, according to the poem?",
-    "correct": "Humans built houses on the grasslands where the stags grazed.",
+    "question": "The sentence 'A new car is purchased by my father' is an example of the passive voice. Which sentence correctly changes it to the active voice?",
+    "correct": "My father purchased a new car.",
     "options": [
-      "They were hunted for sport like the rhinoceros.",
-      "A widespread disease affected the population.",
-      "Humans built houses on the grasslands where the stags grazed.",
-      "Other animals competed for their food source."
+      "My father is purchasing a new car.",
+      "A new car was purchased by my father.",
+      "My father purchased a new car.",
+      "Purchasing a new car is my father."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Endangered Treasures",
+    "topic": "English Grammar",
     "complexity_score": 2
   },
   {
-    "question": "In 'A Child's Thought', what happens to the magical dream world when the speaker wakes up?",
-    "correct": "It disappears and is replaced by ordinary objects like a chair and a carpet.",
+    "question": "Building a new highway that connects several large towns within a single state would be the responsibility of which tier of government?",
+    "correct": "State Government",
     "options": [
-      "The magical creatures hide until he falls asleep again.",
-      "It disappears and is replaced by ordinary objects like a chair and a carpet.",
-      "He can still see faint images of it during the day.",
-      "He writes about it in a diary to remember it."
+      "Local Government",
+      "Central Government",
+      "State Government",
+      "International Government"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "A Child's Thought",
+    "topic": "Tiers of Government",
     "complexity_score": 2
   },
   {
-    "question": "What was the primary conflict that damaged the friendship between Jane and Dora in 'The Hen'?",
-    "correct": "A feeling of betrayal over an unfulfilled expectation.",
+    "question": "Why is it important in a democracy that citizens are treated equally, regardless of caste, religion, or gender?",
+    "correct": "It ensures that the 'rule of the people' includes all people fairly.",
     "options": [
-      "A simple argument over money.",
-      "A competition to see who had the better hen.",
-      "A feeling of betrayal over an unfulfilled expectation.",
-      "A rumor started by Clovis."
+      "It makes the country richer.",
+      "It ensures that the 'rule of the people' includes all people fairly.",
+      "It is a rule from the ancient kings.",
+      "It makes the government's job easier."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Hand",
+    "topic": "Democracy",
     "complexity_score": 2
   },
   {
-    "question": "According to Clovis and Jane, what can 'drive a person mad'?",
-    "correct": "Being too orderly for too long in the same surrounding.",
+    "question": "The poem about the 'Indian Juit Rezor' and other animals mentioned that 'everyone is in danger.' What is the most likely theme of this poem?",
+    "correct": "Endangered species and conservation",
     "options": [
-      "Losing a valuable possession.",
-      "Having a friendship end.",
-      "Owning an animal that causes trouble.",
-      "Being too orderly for too long in the same surrounding."
+      "The friendship between animals",
+      "The intelligence of animals",
+      "Endangered species and conservation",
+      "Animals in a circus"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "The Hand",
+    "topic": "English Literature",
     "complexity_score": 2
   },
   {
-    "question": "In 'A Song from Heaven', why were the children initially unaware they would be singing in a concert?",
-    "correct": "The Director of Music only invited them, without specifying the performance.",
+    "question": "The teacher mentioned that leaders in a democracy are 'answerable for their action.' What does this mean?",
+    "correct": "Leaders must explain their decisions and can be held accountable by the public.",
     "options": [
-      "They were too young to understand the invitation.",
-      "They thought they were being invited for a meal.",
-      "The Director of Music only invited them, without specifying the performance.",
-      "The invitation was written in a language they couldn't read."
+      "Leaders have to answer questions on a test.",
+      "Leaders can do whatever they want without explanation.",
+      "Leaders must explain their decisions and can be held accountable by the public.",
+      "Leaders only answer to the king or queen."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "A Song from Heaven",
+    "topic": "Democracy",
     "complexity_score": 2
   },
   {
-    "question": "The line 'Then let not what I cannot have / My cheer of mind destroy' from 'The Blind Boy' best demonstrates the boy's...",
-    "correct": "Resilience and positive mindset.",
+    "question": "The teacher explained India's three-tier government system. Which of the following issues would most likely require the direct involvement of the Central Government?",
+    "correct": "A natural disaster, like a massive earthquake, affecting the entire nation",
     "options": [
-      "Sadness about his condition.",
-      "Curiosity about the world.",
-      "Resilience and positive mindset.",
-      "Frustration with others."
+      "A dispute between two neighbors over a fence",
+      "A decision to build a new park in a single town",
+      "A natural disaster, like a massive earthquake, affecting the entire nation",
+      "A problem with garbage collection on one street"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "The Blind Boy",
+    "topic": "Tiers of Government",
     "complexity_score": 3
   },
   {
-    "question": "What central theme connects the stories of the Bengal Florican, the Rhinoceros, and the Hangul Stag in 'Endangered Treasures'?",
-    "correct": "The negative impact of human activity on animal habitats and populations.",
+    "question": "The lesson contrasted democracy with dictators like Hitler. How does the democratic principle of 'leaders being answerable for their actions' prevent such a situation?",
+    "correct": "It provides a system for the public and other government branches to question and remove a leader who abuses power.",
     "options": [
-      "The natural process of animal extinction.",
-      "The beauty of rare animals.",
-      "The negative impact of human activity on animal habitats and populations.",
-      "The success of conservation efforts in India."
+      "It ensures dictators can never be elected.",
+      "It makes all leaders take a public oath.",
+      "It provides a system for the public and other government branches to question and remove a leader who abuses power.",
+      "It automatically jails anyone who tries to become a dictator."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Endangered Treasures",
+    "topic": "Democracy",
     "complexity_score": 3
   },
   {
-    "question": "What is the key difference between the speaker's perception of reality in 'A Child's Thought' and the boy's perception in 'The Blind Boy'?",
-    "correct": "One finds magic in an internal dream world, while the other finds contentment in his external sensory world.",
+    "question": "Considering the Greek roots 'Demos' (people) and 'Kratos' (power), which scenario BEST illustrates the concept of democracy in action?",
+    "correct": "Citizens of a country voting to elect a new president.",
     "options": [
-      "One is happy with his world, while the other is sad about his.",
-      "One finds magic in an internal dream world, while the other finds contentment in his external sensory world.",
-      "Both are trying to escape their reality.",
-      "One relies on imagination, while the other relies on stories from others."
+      "A king making all the laws for his kingdom.",
+      "A group of powerful generals taking control of a country.",
+      "A wealthy CEO making decisions for their company.",
+      "Citizens of a country voting to elect a new president."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Comparative Analysis",
+    "topic": "Democracy",
     "complexity_score": 3
   },
   {
-    "question": "Why does the blind boy consider himself a 'king'?",
-    "correct": "Because he has mastery over his own happiness and is not saddened by what he lacks.",
+    "question": "What potential conflict of interest would arise if the Legislative branch (law-makers) also served as the Judiciary (law-interpreters)?",
+    "correct": "They could create unfair laws and then rule that those same laws are fair, leaving citizens with no recourse.",
     "options": [
-      "Because everyone treats him with special care.",
-      "Because he imagines he rules a kingdom in his mind.",
-      "Because he has mastery over his own happiness and is not saddened by what he lacks.",
-      "Because he believes he will one day gain his sight."
+      "It would make the government too efficient.",
+      "They would be too busy to do both jobs properly.",
+      "They could create unfair laws and then rule that those same laws are fair, leaving citizens with no recourse.",
+      "The executive branch would have nothing left to do."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "The Blind Boy",
+    "topic": "Organs of Government",
     "complexity_score": 3
   },
   {
-    "question": "The final stanza of 'Endangered Treasures' acts as a...",
-    "correct": "Call to action for conservation and protection.",
+    "question": "The discussion on Fundamental Rights mentioned that citizens are free to follow any religion they choose. This right directly protects people from which of the following situations?",
+    "correct": "A government forcing all citizens to practice a single, state-approved religion.",
     "options": [
-      "Sad farewell to the animals.",
-      "Summary of the animals discussed.",
-      "Call to action for conservation and protection.",
-      "Question about the future of the planet."
+      "A government building roads and hospitals.",
+      "A government requiring citizens to vote in elections.",
+      "A government forcing all citizens to practice a single, state-approved religion.",
+      "A government collecting taxes to fund the army."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Endangered Treasures",
+    "topic": "Democracy",
     "complexity_score": 3
   },
   {
-    "question": "In 'A Child's Thought,' the contrast between the 'castle front' and the 'chair' highlights the theme of...",
-    "correct": "The power of imagination to transform the ordinary.",
+    "question": "The Executive branch 'enforces law and order.' Which of the following is the BEST real-world example of this branch's function?",
+    "correct": "Police officers patrolling a city to ensure people are following traffic laws.",
     "options": [
-      "The disappointment of waking up.",
-      "The comfort of a familiar bedroom.",
-      "The difference between wealth and poverty.",
-      "The power of imagination to transform the ordinary."
+      "A parliament debating and passing a new environmental bill.",
+      "A judge listening to a case in a courtroom.",
+      "Police officers patrolling a city to ensure people are following traffic laws.",
+      "A group of citizens protesting a government decision."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "A Child's Thought",
+    "topic": "Organs of Government",
     "complexity_score": 3
   }
 ]
