@@ -1,48 +1,174 @@
 [
   {
-    "question": "According to the lesson, the word 'democracy' is formed from two Greek words, 'Demos' and 'Kratos'. What does 'Demos' mean?",
-    "correct": "People",
+    "question": "According to the lesson, what is the basic meaning of 'diversity' in the context of India?",
+    "correct": "Variety in aspects like food, language, and faith.",
     "options": [
-      "Power",
-      "Rule",
-      "People",
-      "Law"
+      "Everyone being exactly the same.",
+      "A type of government.",
+      "Variety in aspects like food, language, and faith.",
+      "A specific type of national festival."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Civics: Democracy",
+    "topic": "Unity in Diversity",
     "complexity_score": 1
   },
   {
-    "question": "Which organ of government is responsible for creating new laws?",
-    "correct": "The Legislative",
+    "question": "What is a 'salary' defined as in the class discussion?",
+    "correct": "A fixed, regular payment, usually paid monthly.",
     "options": [
-      "The Judiciary",
+      "A payment made for a one-time professional service.",
+      "Money paid daily for labor.",
+      "A fixed, regular payment, usually paid monthly.",
+      "Payment given only in the form of goods, like mangoes."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Forms of Compensation",
+    "complexity_score": 1
+  },
+  {
+    "question": "The term 'democracy' comes from two Greek words meaning:",
+    "correct": "Rule of the people",
+    "options": [
+      "Power of the king",
+      "Law of the land",
+      "Rule of the people",
+      "Wisdom of the elders"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Forms of Government",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which organ of government is primarily responsible for MAKING new laws?",
+    "correct": "The Legislature",
+    "options": [
       "The Executive",
-      "The Legislative",
-      "The Central"
+      "The Judiciary",
+      "The Legislature",
+      "The Central Government"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Civics: Organs of Government",
+    "topic": "Organs of Government",
     "complexity_score": 1
   },
   {
-    "question": "In the sentence 'He was cheating, so he was disqualified from the match,' what is the antonym of 'qualified' using a prefix?",
-    "correct": "disqualified",
+    "question": "What is Local Time based on?",
+    "correct": "The position of the sun in the sky at a specific place.",
     "options": [
-      "unqualified",
-      "requalified",
-      "disqualified",
-      "imqualified"
+      "The official time decided by the government for the whole country.",
+      "A clock in the center of a town.",
+      "The position of the sun in the sky at a specific place.",
+      "The time shown on international television."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Grammar: Prefixes",
+    "topic": "Local vs. Standard Time",
     "complexity_score": 1
   },
   {
-    "question": "Which tier of government would handle a major national security issue affecting the entire country?",
+    "question": "In a direct democracy, who participates in making laws and decisions?",
+    "correct": "The people participate directly.",
+    "options": [
+      "Only elected representatives.",
+      "A king or queen.",
+      "The people participate directly.",
+      "Only government officials."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Forms of Government",
+    "complexity_score": 1
+  },
+  {
+    "question": "Why is 'Unity in Diversity' considered a very appropriate term to describe India?",
+    "correct": "Because despite vast differences in culture, there is a deep sense of national oneness.",
+    "options": [
+      "Because everyone in India speaks the same language and eats the same food.",
+      "Because India has only one religion that everyone follows.",
+      "Because despite vast differences in culture, there is a deep sense of national oneness.",
+      "Because the government forces everyone to act the same way."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Unity in Diversity",
+    "complexity_score": 2
+  },
+  {
+    "question": "A freelance tuition teacher who is paid for their service is receiving what form of compensation?",
+    "correct": "Fees",
+    "options": [
+      "Salary",
+      "Wages",
+      "Fees",
+      "Bonus"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Forms of Compensation",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the main purpose of having a Standard Time for a whole country like India?",
+    "correct": "To avoid confusion and maintain uniformity for travel and communication.",
+    "options": [
+      "To make sure everyone sees the sun at the same time.",
+      "To force every place to operate on the same local solar time.",
+      "To avoid confusion and maintain uniformity for travel and communication.",
+      "To make it easier to calculate the time in other countries."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Local vs. Standard Time",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why is an indirect (representative) democracy more suitable for a country with a large population?",
+    "correct": "Because it is impractical for millions of people to vote on every single law.",
+    "options": [
+      "Because it is a faster way to make all decisions.",
+      "Because people in large countries don't like to vote.",
+      "Because it is impractical for millions of people to vote on every single law.",
+      "Because it ensures that only experts can make decisions."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Forms of Government",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the primary function of the Executive branch of government?",
+    "correct": "To implement and enforce the laws made by the legislature.",
+    "options": [
+      "To create new laws and debate them.",
+      "To interpret laws and settle legal disputes.",
+      "To implement and enforce the laws made by the legislature.",
+      "To directly ask citizens what laws they want."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Organs of Government",
+    "complexity_score": 2
+  },
+  {
+    "question": "The example of Sahil, the farm laborer, who was paid partly in cash and partly in mangoes, demonstrates that wages can be paid...",
+    "correct": "in both cash and in kind (goods).",
+    "options": [
+      "only on a monthly basis.",
+      "only to people who own a tractor.",
+      "in both cash and in kind (goods).",
+      "only if the work is done on a farm."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Forms of Compensation",
+    "complexity_score": 2
+  },
+  {
+    "question": "According to the lesson, an issue like national security or a natural disaster affecting the whole country would be handled by which tier of government?",
     "correct": "Central Government",
     "options": [
       "Local Government",
@@ -50,233 +176,107 @@
       "Central Government",
       "Village Council"
     ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Civics: Tiers of Government",
-    "complexity_score": 1
-  },
-  {
-    "question": "In the poem 'The Blind Boy', how does the boy know the sun is shining?",
-    "correct": "He feels its warmth",
-    "options": [
-      "He hears people talking about it",
-      "He feels its warmth",
-      "Someone tells him",
-      "He sees a faint light"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Literature: The Blind Boy",
-    "complexity_score": 1
-  },
-  {
-    "question": "The sentence 'The painter ______ the wall' requires the simple past tense. What is the correct verb form?",
-    "correct": "painted",
-    "options": [
-      "is painting",
-      "was painted",
-      "painted",
-      "has painted"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Grammar: Verb Tenses",
-    "complexity_score": 1
-  },
-  {
-    "question": "In a representative democracy, how do citizens participate in making laws?",
-    "correct": "They elect representatives to make decisions on their behalf.",
-    "options": [
-      "They directly vote on every single law.",
-      "They elect representatives to make decisions on their behalf.",
-      "They have no participation in the law-making process.",
-      "They can only protest laws after they are made."
-    ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Civics: Types of Democracy",
+    "topic": "Tiers of Government",
     "complexity_score": 2
   },
   {
-    "question": "The discussion about the Strasser family traveling to Leipzig was from which story?",
-    "correct": "The Song from Heaven",
+    "question": "The discussion about 'tolerance' suggests it is a key reason for India's unity because it involves...",
+    "correct": "Respecting and encouraging the customs and beliefs of others.",
     "options": [
-      "The Hand",
-      "Dancing in my Head",
-      "The Song from Heaven",
-      "The Blind Boy"
+      "Ignoring the beliefs of other people.",
+      "Forcing everyone to adopt one belief.",
+      "Respecting and encouraging the customs and beliefs of others.",
+      "Simply putting up with things you don't like."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Literature: The Song from Heaven",
+    "topic": "Unity in Diversity",
     "complexity_score": 2
   },
   {
-    "question": "If a city needs new streetlights installed and roads repaired, which level of government is typically responsible for these tasks?",
-    "correct": "Local Government",
+    "question": "The teacher states India's unity is 'not...imposed from outside. It is deep within us.' What does this imply about the nature of Indian unity?",
+    "correct": "It is an organic, cultural unity rather than one maintained by force.",
     "options": [
-      "Central Government",
-      "State Government",
-      "Local Government",
-      "National Parliament"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Civics: Tiers of Government",
-    "complexity_score": 2
-  },
-  {
-    "question": "The sentence 'A new car is purchased by my father' is an example of which grammatical voice?",
-    "correct": "Passive Voice",
-    "options": [
-      "Active Voice",
-      "Interrogative Voice",
-      "Passive Voice",
-      "Imperative Voice"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Grammar: Active/Passive Voice",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is one key reason discussed for why we NEED a government?",
-    "correct": "To make rules so people can live safely and peacefully.",
-    "options": [
-      "To make sure everyone has a job.",
-      "To make rules so people can live safely and peacefully.",
-      "To own all the property in the country.",
-      "To decide what everyone eats for dinner."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Civics: Purpose of Government",
-    "complexity_score": 2
-  },
-  {
-    "question": "In the sentence 'She _____ be sick, I'm not sure,' which modal verb correctly expresses possibility or uncertainty?",
-    "correct": "may",
-    "options": [
-      "must",
-      "can",
-      "may",
-      "should"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Grammar: Modal Verbs",
-    "complexity_score": 2
-  },
-  {
-    "question": "The story 'The Hand' was considered an appropriate title because...",
-    "correct": "A hand in the story brought two friends together.",
-    "options": [
-      "The main character had a unique hand.",
-      "The story was about learning to write by hand.",
-      "A hand in the story brought two friends together.",
-      "It was a story about a famous surgeon's hands."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Literature: The Hand",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which organ of government would be involved if someone broke a law and needed to be judged in court?",
-    "correct": "The Judiciary",
-    "options": [
-      "The Judiciary",
-      "The Executive",
-      "The Legislative",
-      "The Local Government"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Civics: Organs of Government",
-    "complexity_score": 2
-  },
-  {
-    "question": "Based on the class discussion, why would a direct democracy be very difficult to implement in a country with a very large population?",
-    "correct": "It would be impractical for every citizen to vote on every single issue.",
-    "options": [
-      "Large populations are not interested in politics.",
-      "It would be too expensive to count all the votes.",
-      "It would be impractical for every citizen to vote on every single issue.",
-      "Direct democracy is only allowed in small countries by law."
+      "The government has strict rules to enforce unity.",
+      "Unity is a new concept that was recently introduced.",
+      "It is an organic, cultural unity rather than one maintained by force.",
+      "Other countries are responsible for India's unity."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Civics: Types of Democracy",
+    "topic": "Unity in Diversity",
     "complexity_score": 3
   },
   {
-    "question": "One of the key features of democracy discussed is that 'leaders are answerable for their actions.' What does this principle prevent?",
-    "correct": "It prevents leaders from making decisions without justification or consequences.",
+    "question": "If a country that spans a large area decided to use only Local Time, what would be the most significant problem for its national TV broadcaster?",
+    "correct": "A show scheduled for 8 PM would air at different actual times across the country.",
     "options": [
-      "It prevents leaders from ever making mistakes.",
-      "It stops leaders from creating any new laws.",
-      "It prevents leaders from making decisions without justification or consequences.",
-      "It forces leaders to hold a press conference every single day."
+      "The TV signal would get weaker in different time zones.",
+      "They would not be able to produce enough shows.",
+      "A show scheduled for 8 PM would air at different actual times across the country.",
+      "The clocks on the TV screens would all be wrong."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Civics: Importance of Democracy",
+    "topic": "Local vs. Standard Time",
     "complexity_score": 3
   },
   {
-    "question": "How do the roles of the Executive and Legislative organs of government differ but also depend on each other?",
-    "correct": "The Legislative creates laws, and the Executive enforces those same laws.",
+    "question": "The lesson explains that thousands of versions of the Ramayana exist. How does this fact serve as an example of 'Unity in Diversity'?",
+    "correct": "It shows a single, core cultural story (unity) being expressed in many different ways (diversity).",
     "options": [
-      "The Legislative can ignore the Executive's orders.",
-      "The Executive creates laws, and the Legislative enforces them.",
-      "They have the exact same function but in different buildings.",
-      "The Legislative creates laws, and the Executive enforces those same laws."
+      "It proves that people cannot agree on one story.",
+      "It shows that diversity is more important than unity.",
+      "It shows a single, core cultural story (unity) being expressed in many different ways (diversity).",
+      "It means that old stories are no longer relevant today."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Civics: Organs of Government",
+    "topic": "Unity in Diversity",
     "complexity_score": 3
   },
   {
-    "question": "The freedom for citizens to 'share opinions without fear' was highlighted as a key benefit of democracy. How does this contrast with a dictatorship?",
-    "correct": "In a dictatorship, criticizing the government can lead to severe punishment.",
+    "question": "Based on the discussion, why is decision-making generally slower in an indirect democracy compared to a direct one?",
+    "correct": "Because laws must be debated and passed through elected bodies like Parliament.",
     "options": [
-      "In a dictatorship, people are not allowed to have any opinions.",
-      "In a dictatorship, criticizing the government can lead to severe punishment.",
-      "Dictatorships also allow free speech, but only on weekends.",
-      "Dictatorships encourage public debate more than democracies."
+      "Because representatives are lazy and don't work quickly.",
+      "Because there are fewer people involved in the decision.",
+      "Because laws must be debated and passed through elected bodies like Parliament.",
+      "Because citizens take a long time to give their opinions directly."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Civics: Importance of Democracy",
+    "topic": "Forms of Government",
     "complexity_score": 3
   },
   {
-    "question": "The teacher explained that the three-tier government system exists because 'each tier deals with different matters.' What problem does this system solve?",
-    "correct": "It prevents the central government from being overwhelmed with local issues like streetlights.",
+    "question": "What is the crucial role of the Judiciary in a diverse country like India?",
+    "correct": "To interpret laws and ensure they are applied fairly to all different groups of people.",
     "options": [
-      "It makes the government more confusing for citizens.",
-      "It ensures that all government officials are paid the same salary.",
-      "It prevents the central government from being overwhelmed with local issues like streetlights.",
-      "It creates more jobs than a single-tier system."
+      "To lead the country's army and enforce order.",
+      "To make sure the government has enough money.",
+      "To interpret laws and ensure they are applied fairly to all different groups of people.",
+      "To write new laws that everyone will agree with."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Civics: Tiers of Government",
+    "topic": "Organs of Government",
     "complexity_score": 3
   },
   {
-    "question": "Considering the fundamental rights discussed in a democracy, why is it important that every citizen is treated equally 'regardless of caste, religion and gender'?",
-    "correct": "It ensures that the government represents and protects everyone, not just a select group.",
+    "question": "The system of having Local, State, and Central governments suggests that India's governance is designed to...",
+    "correct": "Address problems at the appropriate scale, from village roads to national defense.",
     "options": [
-      "It simplifies the process of counting votes.",
-      "It is only important for international relations.",
-      "It ensures that the government represents and protects everyone, not just a select group.",
-      "It makes it easier to create laws that apply to everyone."
+      "Create competition between different levels of government.",
+      "Make sure the Central government controls every small decision.",
+      "Address problems at the appropriate scale, from village roads to national defense.",
+      "Confuse citizens about who is in charge."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Civics: Importance of Democracy",
+    "topic": "Tiers of Government",
     "complexity_score": 3
   }
 ]
