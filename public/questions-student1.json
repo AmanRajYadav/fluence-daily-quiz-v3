@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, what is the basic definition of 'governance'?",
-    "correct": "The process of making decisions, creating rules for society, and ensuring they are followed.",
+    "question": "In the conversation, which activity was used as a key example to discuss strategy and teamwork?",
+    "correct": "Playing the video game Valorant",
     "options": [
-      "Only the act of voting for a Prime Minister.",
-      "The process of making decisions, creating rules for society, and ensuring they are followed.",
-      "A group of people who control a country.",
-      "The military protecting the country's borders."
+      "Studying Social Science",
+      "Reading English chapters",
+      "Learning Sanskrit",
+      "Playing the video game Valorant"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Governance",
+    "topic": "Using Analogies for Learning",
     "complexity_score": 1
   },
   {
-    "question": "The word 'democracy' comes from two Greek words. What does 'Demos' mean?",
-    "correct": "People",
+    "question": "What was the main point of the Valorant example?",
+    "correct": "Even with a team, you must be able to help yourself.",
     "options": [
-      "Rule",
-      "Power",
-      "Government",
-      "People"
+      "That winning is the only thing that matters.",
+      "That you should always wait for your team to help you.",
+      "Even with a team, you must be able to help yourself.",
+      "That playing games is more important than studying."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Democracy",
+    "topic": "Personal Responsibility",
     "complexity_score": 1
   },
   {
-    "question": "Which of these is a service the government provides, as mentioned in the class?",
-    "correct": "Hospitals, schools, and roads",
+    "question": "The student initially expressed difficulty with studying by repeatedly saying what phrase?",
+    "correct": "I don't know.",
     "options": [
-      "Private Instagram accounts",
-      "Hospitals, schools, and roads",
-      "Movie tickets and video games",
-      "Delivering food to homes"
+      "This is too hard.",
+      "I don't want to.",
+      "I don't know.",
+      "I will do it later."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Role of Government",
+    "topic": "Identifying Learning Obstacles",
     "complexity_score": 1
   },
   {
-    "question": "Complete the sentence correctly as practiced in the lesson: 'When winter arrives, he _______ drinking tea.'",
-    "correct": "starts",
+    "question": "The tutor suggested that the student's ability to study could change in what way?",
+    "correct": "That even if they don't know how now, they can learn to study in the future.",
     "options": [
-      "start",
-      "started",
-      "will start",
-      "starts"
+      "That studying is a talent you are born with.",
+      "That studying is not necessary if you are good at other things.",
+      "That everyone studies in exactly the same way.",
+      "That even if they don't know how now, they can learn to study in the future."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English Grammar (Simple Present)",
+    "topic": "Growth Mindset",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence is in the passive voice, as discussed in the class?",
-    "correct": "It has been made by him.",
+    "question": "What subject did the tutor identify as a challenge for the student because it involves names, places, and people?",
+    "correct": "Social Science",
     "options": [
-      "He made this.",
-      "He has made it.",
-      "It has been made by him.",
-      "He is making it now."
+      "Valorant",
+      "English",
+      "Social Science",
+      "Sanskrit"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English Grammar (Passive Voice)",
+    "topic": "Subject-Specific Challenges",
     "complexity_score": 1
   },
   {
-    "question": "One key reason we need a government is to make rules so that everyone can live...",
-    "correct": "safely and peacefully.",
+    "question": "The tutor's statement, 'if you have a good class, you should be able to help yourself,' connects the idea of a 'good class' to what?",
+    "correct": "A supportive team where individual effort is still crucial.",
     "options": [
-      "without paying taxes.",
-      "exactly the same way.",
-      "safely and peacefully.",
-      "in a very rich country."
+      "A place where the teacher does all the work for you.",
+      "An easy subject that requires no effort.",
+      "A supportive team where individual effort is still crucial.",
+      "A guarantee that you will get a good grade without trying."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Role of Government",
+    "topic": "Personal Responsibility",
     "complexity_score": 1
   },
   {
-    "question": "The teacher compared the act of governing a class to being a 'class monitor'. Why is this a good analogy for governance?",
-    "correct": "Because a monitor helps enforce rules to keep the class organized, just like governance does for society.",
+    "question": "How does the Valorant analogy translate to studying for a Social Science test?",
+    "correct": "Your classmates and teacher are your team, but you are responsible for learning the material yourself.",
     "options": [
-      "Because a monitor gets to leave class early.",
-      "Because a monitor is always the most popular student.",
-      "Because a monitor helps enforce rules to keep the class organized, just like governance does for society.",
-      "Because a monitor writes the questions for the exam."
+      "You should play Valorant instead of studying for your test.",
+      "Social Science is a competition against your classmates.",
+      "Your classmates and teacher are your team, but you are responsible for learning the material yourself.",
+      "You can only succeed in Social Science if you have the best teacher."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Governance",
+    "topic": "Applying Analogies",
     "complexity_score": 2
   },
   {
-    "question": "What is the key difference between a 'government' and 'governance' based on the lesson?",
-    "correct": "Government is the group of people or system, while governance is the process of ruling.",
+    "question": "The phrase 'you will have time, so that everything can be fine' in the context of the game analogy suggests what about preparing for a task?",
+    "correct": "Proper planning and time management lead to better outcomes.",
     "options": [
-      "There is no difference; the words mean the same thing.",
-      "Government is only the Prime Minister, and governance is everything else.",
-      "Government is the group of people or system, while governance is the process of ruling.",
-      "Governance happens in schools, but government only happens in the capital city."
+      "You can wait until the last minute and still succeed.",
+      "Time is not an important factor in success.",
+      "Proper planning and time management lead to better outcomes.",
+      "Success depends entirely on luck."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Government vs Governance",
+    "topic": "Strategic Planning",
     "complexity_score": 2
   },
   {
-    "question": "In a democracy, why are leaders 'answerable for their actions'?",
-    "correct": "Because the power is in the people's hands, and they can vote the leaders out.",
+    "question": "When the student says 'I don't know how to study,' this reflects a belief that the tutor tries to challenge. What is this challenge promoting?",
+    "correct": "A growth mindset, where ability can be developed.",
     "options": [
-      "Because the police will arrest them if they make one mistake.",
-      "Because they are not allowed to make any decisions on their own.",
-      "Because the power is in the people's hands, and they can vote the leaders out.",
-      "Because they have to pass a special test every year."
+      "A fixed mindset, where ability is unchangeable.",
+      "The idea that studying is not a learnable skill.",
+      "A growth mindset, where ability can be developed.",
+      "The belief that only some people are smart enough to study."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Democracy",
+    "topic": "Growth Mindset",
     "complexity_score": 2
   },
   {
-    "question": "Based on the grammar corrections, which sentence correctly uses the third conditional structure?",
-    "correct": "If I had known you were vegetarian, I would not have made chicken.",
+    "question": "What is the underlying purpose of using a gaming example to talk about studying?",
+    "correct": "To connect a difficult task to an area of interest and expertise for the student.",
     "options": [
-      "If I knew you are vegetarian, I would not make chicken.",
-      "If I had known you were vegetarian, I would not have made chicken.",
-      "If I know you are vegetarian, I will not make chicken.",
-      "If I would have known you were vegetarian, I did not make chicken."
+      "To prove that the tutor also plays video games.",
+      "To distract the student from the fact they have to study.",
+      "To suggest that studying should be turned into a video game.",
+      "To connect a difficult task to an area of interest and expertise for the student."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English Grammar (Conditionals)",
+    "topic": "Motivational Strategies",
     "complexity_score": 2
   },
   {
-    "question": "The lesson states that in a democracy, 'every citizen is treated equally, regardless of caste, religion or gender.' What fundamental right does this refer to?",
-    "correct": "The Right to Equality",
+    "question": "The tutor's approach of saying 'let me tell you about the information that you have told me. So, you will help me' positions the student as what?",
+    "correct": "An expert and an active participant in their own learning.",
     "options": [
-      "The Right to Vote",
-      "The Right to Speech",
-      "The Right to Religion",
-      "The Right to Equality"
+      "Someone who is completely dependent on the tutor.",
+      "An opponent in a debate.",
+      "A passive listener who needs to be told what to do.",
+      "An expert and an active participant in their own learning."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Democracy & Fundamental Rights",
+    "topic": "Student-Centered Learning",
     "complexity_score": 2
   },
   {
-    "question": "Why did the teacher say people can criticize the government on YouTube in India but not in China?",
-    "correct": "Because India is a democracy that protects freedom of speech, while China is not.",
+    "question": "The discussion implies that a 'good side' or 'good location' in a game is similar to what in an academic setting?",
+    "correct": "Having a good strategy or a productive study environment.",
     "options": [
-      "Because India has a better internet connection than China.",
-      "Because the Chinese government does not use YouTube.",
-      "Because people in India are braver than people in China.",
-      "Because India is a democracy that protects freedom of speech, while China is not."
+      "Having the textbook open to the correct page.",
+      "Sitting in the front row of the class.",
+      "Having a good strategy or a productive study environment.",
+      "Cheating on a test."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Democracy",
+    "topic": "Applying Analogies",
     "complexity_score": 2
   },
   {
-    "question": "The teacher corrects the sentence 'He has stopped playing the picture.' This correction focuses on the use of a gerund after the verb 'stop'. Which of the following sentences uses a similar correct structure?",
-    "correct": "He keeps on watching the movie.",
+    "question": "By shifting the conversation from 'Why didn't you study?' to the Valorant analogy, the tutor is changing the focus from...",
+    "correct": "past failure to future strategy.",
     "options": [
-      "He keeps on watching the movie.",
-      "He is start to play.",
-      "He did stopped to work.",
-      "He likes played cricket."
+      "a difficult subject to an easy one.",
+      "blame to praise.",
+      "past failure to future strategy.",
+      "individual work to group work."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English Grammar (Gerunds)",
+    "topic": "Educational Psychology",
     "complexity_score": 2
   },
   {
-    "question": "What is the main role of the army, as clarified in the discussion?",
-    "correct": "To protect the country from attacks by other countries.",
+    "question": "The tutor's statement 'social science doesn't know you. You know that you have been completely independent' can be interpreted as:",
+    "correct": "A call for the student to take ownership and apply their independent thinking skills to the subject.",
     "options": [
-      "To control crime within cities.",
-      "To protect citizens from wild animals.",
-      "To provide services like schools and hospitals.",
-      "To protect the country from attacks by other countries."
+      "A criticism that the student has not been paying attention.",
+      "A statement that Social Science is an unknowable subject.",
+      "A suggestion that the student should work with a partner.",
+      "A call for the student to take ownership and apply their independent thinking skills to the subject."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Role of Government",
+    "topic": "Metacognition",
     "complexity_score": 2
   },
   {
-    "question": "The discussion about Hitler was used to illustrate the opposite of democracy. What is the most significant difference highlighted between Hitler's rule and a democracy?",
-    "correct": "In a democracy people have power and can remove leaders, but under a dictator like Hitler, the leader has all the power and cannot be removed by the people.",
+    "question": "Why is the tutor's decision to use the Valorant analogy an effective teaching strategy in this specific situation?",
+    "correct": "It moves the student from a state of passive resistance ('I don't know') to active engagement by using their Zone of Proximal Development.",
     "options": [
-      "Hitler was from Germany, while democracy is from Greece.",
-      "Hitler could not build roads or hospitals.",
-      "In a democracy people have power and can remove leaders, but under a dictator like Hitler, the leader has all the power and cannot be removed by the people.",
-      "Democracies have armies, but Hitler did not."
+      "It proves that video games are educational.",
+      "It gives the student an excuse to talk about something other than school.",
+      "It rewards the student for not studying by talking about something fun.",
+      "It moves the student from a state of passive resistance ('I don't know') to active engagement by using their Zone of Proximal Development."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Democracy vs Dictatorship",
+    "topic": "Vygotsky's Learning Theory",
     "complexity_score": 3
   },
   {
-    "question": "The teacher explains that taxes (like income tax) are paid by people. How does this money relate to the functions of the government that were discussed?",
-    "correct": "The government uses tax money to pay for services like roads, hospitals, schools, and the army.",
+    "question": "The entire conversation is a real-time example of a tutor trying to shift a student's mindset. This shift is best described as moving from...",
+    "correct": "a fixed mindset ('I can't study') to a growth mindset ('I can learn how to study').",
     "options": [
-      "The tax money is given directly to the Prime Minister as a salary.",
-      "The government uses tax money to pay for services like roads, hospitals, schools, and the army.",
-      "Tax money has no connection to government services; it is stored in a vault.",
-      "Only criminals have to pay taxes as punishment."
+      "extrinsic motivation to intrinsic motivation.",
+      "concrete thinking to abstract thinking.",
+      "a fixed mindset ('I can't study') to a growth mindset ('I can learn how to study').",
+      "a state of confusion to a state of knowledge about Social Science."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Role of Government",
+    "topic": "Dweck's Mindset Theory",
     "complexity_score": 3
   },
   {
-    "question": "Considering the Greek roots 'Demos' (people) and 'Kratos' (rule/power), why is it logical that in a democracy, citizens 'have the right to vote and take part in decision making'?",
-    "correct": "Because if democracy means 'rule of the people', then the people must have a way to exercise their rule, which is through voting and participation.",
+    "question": "What core learning principle is demonstrated by using the student's interest in gaming to build a bridge to academic success?",
+    "correct": "Scaffolding: using what a learner already knows to build new knowledge and skills.",
     "options": [
-      "Because the word 'Kratos' sounds like 'voting'.",
-      "Because the ancient Greeks were the only ones who were allowed to vote.",
-      "Because if democracy means 'rule of the people', then the people must have a way to exercise their rule, which is through voting and participation.",
-      "Because 'Demos' means that only some people get to make decisions."
+      "Rote memorization: repeating facts until they are learned.",
+      "Negative reinforcement: punishing a student for not studying.",
+      "Scaffolding: using what a learner already knows to build new knowledge and skills.",
+      "Standardized testing: assessing all students in the same way."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Democracy",
+    "topic": "Instructional Scaffolding",
     "complexity_score": 3
   },
   {
-    "question": "The teacher states, 'If you are not able to do this, you are not a good learner. You are not able to do governance nicely.' What does this imply about the concept of governance?",
-    "correct": "That governance is a skill that involves ensuring rules are followed, and it can be applied even on a small scale like in a classroom.",
+    "question": "The tutor's focus on 'how to study' rather than just 'what to study' is an attempt to develop the student's...",
+    "correct": "metacognitive awareness.",
     "options": [
-      "That only people who get good grades can be in the government.",
-      "That governance is a skill that involves ensuring rules are followed, and it can be applied even on a small scale like in a classroom.",
-      "That if you fail a test, you cannot be a citizen.",
-      "That governance is only about being quiet and listening to the teacher."
+      "short-term memory.",
+      "social skills.",
+      "metacognitive awareness.",
+      "artistic ability."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Governance",
+    "topic": "Metacognition",
     "complexity_score": 3
   },
   {
-    "question": "The transcript shows a lot of practice with 'do/does/did' and changing active sentences to passive ones. What is the primary learning goal of these exercises?",
-    "correct": "To help the student understand and correctly use auxiliary verbs and different voice structures to form more complex and accurate English sentences.",
+    "question": "The statement 'you can study in the same way as other studies' suggests that...",
+    "correct": "the process and skills of learning are transferable across different subjects.",
     "options": [
-      "To memorize a list of English vocabulary words.",
-      "To prepare for a social science debate.",
-      "To practice speaking as quickly as possible.",
-      "To help the student understand and correctly use auxiliary verbs and different voice structures to form more complex and accurate English sentences."
+      "all academic subjects are identical in their content.",
+      "the student should copy how their friends study exactly.",
+      "the process and skills of learning are transferable across different subjects.",
+      "there is only one correct way to study for everything."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "English Grammar (Syntax)",
+    "topic": "Transfer of Learning",
     "complexity_score": 3
   },
   {
-    "question": "Why is the idea that 'every citizen is treated equally' considered a theory in the lesson, even if it's a rule in a democracy?",
-    "correct": "Because in reality (in practice), inequalities based on caste, religion, and gender still exist, even if the law says everyone is equal.",
+    "question": "Analyzing the tutor's strategy, what is the most significant risk of relying heavily on the gaming analogy?",
+    "correct": "The student might engage with the analogy but fail to transfer the strategic thinking to the actual academic task.",
     "options": [
-      "Because it is a new idea that no one has tested yet.",
-      "Because some people are not citizens.",
-      "Because in reality (in practice), inequalities based on caste,religion, and gender still exist, even if the law says everyone is equal.",
-      "Because only the government is treated equally."
+      "The parent might think the tutor is encouraging more video game playing.",
+      "The student might get bored of the game and the analogy will lose its power.",
+      "The student might not be very good at Valorant, making the analogy ineffective.",
+      "The student might engage with the analogy but fail to transfer the strategic thinking to the actual academic task."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Democracy",
+    "topic": "Critical Pedagogical Analysis",
     "complexity_score": 3
   }
 ]
