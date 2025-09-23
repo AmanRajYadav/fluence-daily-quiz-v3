@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the conversation, which activity was used as a key example to discuss strategy and teamwork?",
-    "correct": "Playing the video game Valorant",
+    "question": "According to the lesson, what is a primary goal of creating AI?",
+    "correct": "To make machines that can take decisions just like human beings",
     "options": [
-      "Studying Social Science",
-      "Reading English chapters",
-      "Learning Sanskrit",
-      "Playing the video game Valorant"
+      "To make computers that are faster than humans at everything",
+      "To replace all human jobs with robots",
+      "To make machines that can take decisions just like human beings",
+      "To create a new form of digital art"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Using Analogies for Learning",
+    "topic": "Fundamentals of AI",
     "complexity_score": 1
   },
   {
-    "question": "What was the main point of the Valorant example?",
-    "correct": "Even with a team, you must be able to help yourself.",
+    "question": "Which application was mentioned as using AI to update users about traffic congestion?",
+    "correct": "Google Maps",
     "options": [
-      "That winning is the only thing that matters.",
-      "That you should always wait for your team to help you.",
-      "Even with a team, you must be able to help yourself.",
-      "That playing games is more important than studying."
+      "Netflix",
+      "ChatGPT",
+      "Google Maps",
+      "Amazon Alexa"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Personal Responsibility",
+    "topic": "AI Applications",
     "complexity_score": 1
   },
   {
-    "question": "The student initially expressed difficulty with studying by repeatedly saying what phrase?",
-    "correct": "I don't know.",
+    "question": "The lesson stated that when compared to humans, computers are far better at performing...",
+    "correct": "Repetitive tasks and complex calculations",
     "options": [
-      "This is too hard.",
-      "I don't want to.",
-      "I don't know.",
-      "I will do it later."
+      "Creative thinking and imagination",
+      "Understanding emotions",
+      "Repetitive tasks and complex calculations",
+      "Making decisions in new situations"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Identifying Learning Obstacles",
+    "topic": "AI vs Human Intelligence",
     "complexity_score": 1
   },
   {
-    "question": "The tutor suggested that the student's ability to study could change in what way?",
-    "correct": "That even if they don't know how now, they can learn to study in the future.",
+    "question": "What does NLP stand for in the context of AI?",
+    "correct": "Natural Language Processing",
     "options": [
-      "That studying is a talent you are born with.",
-      "That studying is not necessary if you are good at other things.",
-      "That everyone studies in exactly the same way.",
-      "That even if they don't know how now, they can learn to study in the future."
+      "New Logic Programming",
+      "Natural Logic Progression",
+      "Neural Learning Pathway",
+      "Natural Language Processing"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Growth Mindset",
+    "topic": "AI Technologies",
     "complexity_score": 1
   },
   {
-    "question": "What subject did the tutor identify as a challenge for the student because it involves names, places, and people?",
-    "correct": "Social Science",
+    "question": "Which of these is NOT an application of AI discussed in the class?",
+    "correct": "Cooking food in restaurants",
     "options": [
-      "Valorant",
-      "English",
-      "Social Science",
-      "Sanskrit"
+      "Diagnosing diseases in healthcare",
+      "Driving cars",
+      "Creating music and art",
+      "Cooking food in restaurants"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Subject-Specific Challenges",
+    "topic": "AI Applications",
     "complexity_score": 1
   },
   {
-    "question": "The tutor's statement, 'if you have a good class, you should be able to help yourself,' connects the idea of a 'good class' to what?",
-    "correct": "A supportive team where individual effort is still crucial.",
+    "question": "What benefit of using AI robots in manufacturing was mentioned?",
+    "correct": "They can be available 24/7",
     "options": [
-      "A place where the teacher does all the work for you.",
-      "An easy subject that requires no effort.",
-      "A supportive team where individual effort is still crucial.",
-      "A guarantee that you will get a good grade without trying."
+      "They can have conversations with workers",
+      "They can be available 24/7",
+      "They are cheaper than human labor",
+      "They can design new products on their own"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Personal Responsibility",
+    "topic": "Benefits of AI",
     "complexity_score": 1
   },
   {
-    "question": "How does the Valorant analogy translate to studying for a Social Science test?",
-    "correct": "Your classmates and teacher are your team, but you are responsible for learning the material yourself.",
+    "question": "A chatbot helping a customer with a product-related query is a primary example of which AI technology?",
+    "correct": "Natural Language Processing (NLP)",
     "options": [
-      "You should play Valorant instead of studying for your test.",
-      "Social Science is a competition against your classmates.",
-      "Your classmates and teacher are your team, but you are responsible for learning the material yourself.",
-      "You can only succeed in Social Science if you have the best teacher."
+      "Computer Vision",
+      "Machine Learning",
+      "Natural Language Processing (NLP)",
+      "Robotics"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Applying Analogies",
+    "topic": "AI Technologies",
     "complexity_score": 2
   },
   {
-    "question": "The phrase 'you will have time, so that everything can be fine' in the context of the game analogy suggests what about preparing for a task?",
-    "correct": "Proper planning and time management lead to better outcomes.",
+    "question": "How does an AI-driven car 'see' its surroundings, according to the lesson?",
+    "correct": "Using various cameras and sensors",
     "options": [
-      "You can wait until the last minute and still succeed.",
-      "Time is not an important factor in success.",
-      "Proper planning and time management lead to better outcomes.",
-      "Success depends entirely on luck."
+      "By connecting to the driver's brain",
+      "By using the car's headlights",
+      "Using various cameras and sensors",
+      "By listening with built-in microphones"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Strategic Planning",
+    "topic": "AI Applications",
     "complexity_score": 2
   },
   {
-    "question": "When the student says 'I don't know how to study,' this reflects a belief that the tutor tries to challenge. What is this challenge promoting?",
-    "correct": "A growth mindset, where ability can be developed.",
+    "question": "The lesson explained that AI can help farmers by planning the agricultural cycle based on what?",
+    "correct": "Recent climatic changes",
     "options": [
-      "A fixed mindset, where ability is unchangeable.",
-      "The idea that studying is not a learnable skill.",
-      "A growth mindset, where ability can be developed.",
-      "The belief that only some people are smart enough to study."
+      "The price of crops in the market",
+      "The number of workers available",
+      "The type of soil on the farm",
+      "Recent climatic changes"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Growth Mindset",
+    "topic": "AI Applications",
     "complexity_score": 2
   },
   {
-    "question": "What is the underlying purpose of using a gaming example to talk about studying?",
-    "correct": "To connect a difficult task to an area of interest and expertise for the student.",
+    "question": "The concept of 'Computer Vision' is about replicating which human sense in machines?",
+    "correct": "Sight",
     "options": [
-      "To prove that the tutor also plays video games.",
-      "To distract the student from the fact they have to study.",
-      "To suggest that studying should be turned into a video game.",
-      "To connect a difficult task to an area of interest and expertise for the student."
+      "Hearing",
+      "Touch",
+      "Sight",
+      "Taste"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Motivational Strategies",
+    "topic": "AI Technologies",
     "complexity_score": 2
   },
   {
-    "question": "The tutor's approach of saying 'let me tell you about the information that you have told me. So, you will help me' positions the student as what?",
-    "correct": "An expert and an active participant in their own learning.",
+    "question": "Why is AI particularly helpful for doctors in diagnosing complex diseases like cancer?",
+    "correct": "AI can analyze huge amounts of data beyond human capacity",
     "options": [
-      "Someone who is completely dependent on the tutor.",
-      "An opponent in a debate.",
-      "A passive listener who needs to be told what to do.",
-      "An expert and an active participant in their own learning."
+      "AI can perform surgery better than any human",
+      "AI can talk to patients and calm them down",
+      "AI can analyze huge amounts of data beyond human capacity",
+      "AI is available in every hospital in the world"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Student-Centered Learning",
+    "topic": "AI Applications",
     "complexity_score": 2
   },
   {
-    "question": "The discussion implies that a 'good side' or 'good location' in a game is similar to what in an academic setting?",
-    "correct": "Having a good strategy or a productive study environment.",
+    "question": "The teacher mentioned that the increase in processing power and storage capacity of computers was foundational for what?",
+    "correct": "The development of modern AI technology",
     "options": [
-      "Having the textbook open to the correct page.",
-      "Sitting in the front row of the class.",
-      "Having a good strategy or a productive study environment.",
-      "Cheating on a test."
+      "The invention of the internet",
+      "The creation of the first car",
+      "The development of modern AI technology",
+      "The ability to send emails"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Applying Analogies",
+    "topic": "Fundamentals of AI",
     "complexity_score": 2
   },
   {
-    "question": "By shifting the conversation from 'Why didn't you study?' to the Valorant analogy, the tutor is changing the focus from...",
-    "correct": "past failure to future strategy.",
+    "question": "What is the core idea behind 'Machine Learning' as explained in the lesson?",
+    "correct": "Programming machines so they can learn independently",
     "options": [
-      "a difficult subject to an easy one.",
-      "blame to praise.",
-      "past failure to future strategy.",
-      "individual work to group work."
+      "Teaching machines how to speak human languages",
+      "Building robots that look exactly like humans",
+      "Giving machines access to the entire internet",
+      "Programming machines so they can learn independently"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Educational Psychology",
+    "topic": "AI Technologies",
     "complexity_score": 2
   },
   {
-    "question": "The tutor's statement 'social science doesn't know you. You know that you have been completely independent' can be interpreted as:",
-    "correct": "A call for the student to take ownership and apply their independent thinking skills to the subject.",
+    "question": "Netflix recommending a new movie based on what you've watched before is an example of AI helping with what?",
+    "correct": "Simplifying decision-making",
     "options": [
-      "A criticism that the student has not been paying attention.",
-      "A statement that Social Science is an unknowable subject.",
-      "A suggestion that the student should work with a partner.",
-      "A call for the student to take ownership and apply their independent thinking skills to the subject."
+      "Performing complex calculations",
+      "Replicating human vision",
+      "Simplifying decision-making",
+      "Processing natural language"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Metacognition",
+    "topic": "AI Applications",
     "complexity_score": 2
   },
   {
-    "question": "Why is the tutor's decision to use the Valorant analogy an effective teaching strategy in this specific situation?",
-    "correct": "It moves the student from a state of passive resistance ('I don't know') to active engagement by using their Zone of Proximal Development.",
+    "question": "Based on the lesson, what is the fundamental difference between how a human driver and an AI-driven car process information to make decisions?",
+    "correct": "A human uses their brain to process perceived information, while an AI uses its program.",
     "options": [
-      "It proves that video games are educational.",
-      "It gives the student an excuse to talk about something other than school.",
-      "It rewards the student for not studying by talking about something fun.",
-      "It moves the student from a state of passive resistance ('I don't know') to active engagement by using their Zone of Proximal Development."
+      "The AI car makes decisions faster than the human brain.",
+      "A human uses their brain to process perceived information, while an AI uses its program.",
+      "Only humans can perceive the environment; the AI cannot.",
+      "The AI car doesn't need to process information; it just follows a pre-set route."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Vygotsky's Learning Theory",
+    "topic": "AI vs Human Intelligence",
     "complexity_score": 3
   },
   {
-    "question": "The entire conversation is a real-time example of a tutor trying to shift a student's mindset. This shift is best described as moving from...",
-    "correct": "a fixed mindset ('I can't study') to a growth mindset ('I can learn how to study').",
+    "question": "The teacher mentioned AI can create music, paintings, and advertisement content. This capability challenges the traditional idea that...",
+    "correct": "Creativity is a uniquely human ability",
     "options": [
-      "extrinsic motivation to intrinsic motivation.",
-      "concrete thinking to abstract thinking.",
-      "a fixed mindset ('I can't study') to a growth mindset ('I can learn how to study').",
-      "a state of confusion to a state of knowledge about Social Science."
+      "Technology is only useful for logical tasks",
+      "Computers can only follow direct commands",
+      "Creativity is a uniquely human ability",
+      "Art requires physical tools to be created"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Dweck's Mindset Theory",
+    "topic": "Artificial Creativity",
     "complexity_score": 3
   },
   {
-    "question": "What core learning principle is demonstrated by using the student's interest in gaming to build a bridge to academic success?",
-    "correct": "Scaffolding: using what a learner already knows to build new knowledge and skills.",
+    "question": "The lesson explains that AI helps mankind by simplifying decision-making to take 'quick logical decisions with accuracy.' Which example BEST illustrates this entire process?",
+    "correct": "An AI diagnosing a disease by analyzing thousands of scans in minutes.",
     "options": [
-      "Rote memorization: repeating facts until they are learned.",
-      "Negative reinforcement: punishing a student for not studying.",
-      "Scaffolding: using what a learner already knows to build new knowledge and skills.",
-      "Standardized testing: assessing all students in the same way."
+      "A chatbot providing a company's hours of operation.",
+      "An AI robot assembling a car part on an assembly line.",
+      "An AI diagnosing a disease by analyzing thousands of scans in minutes.",
+      "AI software creating a thumbnail for a video."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Instructional Scaffolding",
+    "topic": "Fundamentals of AI",
     "complexity_score": 3
   },
   {
-    "question": "The tutor's focus on 'how to study' rather than just 'what to study' is an attempt to develop the student's...",
-    "correct": "metacognitive awareness.",
+    "question": "If a developer wants to create an AI that can analyze satellite images to identify areas of deforestation, which two AI fields from the lesson would be most crucial?",
+    "correct": "Computer Vision and Machine Learning",
     "options": [
-      "short-term memory.",
-      "social skills.",
-      "metacognitive awareness.",
-      "artistic ability."
+      "Natural Language Processing and Robotics",
+      "Computer Vision and Machine Learning",
+      "Robotics and Artificial Creativity",
+      "Natural Language Processing and Customer Support AI"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition",
+    "topic": "AI Technologies",
     "complexity_score": 3
   },
   {
-    "question": "The statement 'you can study in the same way as other studies' suggests that...",
-    "correct": "the process and skills of learning are transferable across different subjects.",
+    "question": "The teacher stated that 'AI will aid mankind.' Based on the examples of healthcare, agriculture, and driving, what is the most significant way AI provides this aid?",
+    "correct": "By processing vast amounts of data to identify patterns and solutions humans might miss.",
     "options": [
-      "all academic subjects are identical in their content.",
-      "the student should copy how their friends study exactly.",
-      "the process and skills of learning are transferable across different subjects.",
-      "there is only one correct way to study for everything."
+      "By performing physical labor so humans don't have to.",
+      "By providing entertainment through movies and music.",
+      "By processing vast amounts of data to identify patterns and solutions humans might miss.",
+      "By ensuring all decisions made are 100% perfect and without error."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Transfer of Learning",
+    "topic": "Benefits of AI",
     "complexity_score": 3
   },
   {
-    "question": "Analyzing the tutor's strategy, what is the most significant risk of relying heavily on the gaming analogy?",
-    "correct": "The student might engage with the analogy but fail to transfer the strategic thinking to the actual academic task.",
+    "question": "The class discussed that for a self-driving car, 'the program itself can be a problem.' What does this imply about the limitations of current AI?",
+    "correct": "AI's decisions and abilities are ultimately limited by how humans have programmed it.",
     "options": [
-      "The parent might think the tutor is encouraging more video game playing.",
-      "The student might get bored of the game and the analogy will lose its power.",
-      "The student might not be very good at Valorant, making the analogy ineffective.",
-      "The student might engage with the analogy but fail to transfer the strategic thinking to the actual academic task."
+      "AI programs often contain viruses that make them fail.",
+      "AI can decide to ignore its programming and do whatever it wants.",
+      "AI's decisions and abilities are ultimately limited by how humans have programmed it.",
+      "AI is not capable of controlling physical objects like cars."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Critical Pedagogical Analysis",
+    "topic": "AI vs Human Intelligence",
     "complexity_score": 3
   }
 ]
