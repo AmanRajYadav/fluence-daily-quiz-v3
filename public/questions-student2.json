@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, what is the basic meaning of 'diversity' in the context of India?",
-    "correct": "Variety in aspects like food, language, and faith.",
+    "question": "According to the discussion, who is the author of the play 'Hamlet'?",
+    "correct": "William Shakespeare",
     "options": [
-      "Everyone being exactly the same.",
-      "A type of government.",
-      "Variety in aspects like food, language, and faith.",
-      "A specific type of national festival."
+      "Charles Dickens",
+      "Jane Austen",
+      "William Shakespeare",
+      "John Keats"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Unity in Diversity",
+    "topic": "English Literature: Shakespeare",
     "complexity_score": 1
   },
   {
-    "question": "What is a 'salary' defined as in the class discussion?",
-    "correct": "A fixed, regular payment, usually paid monthly.",
+    "question": "What is the meaning of the word 'hamlet' as defined in the class?",
+    "correct": "A small village or settlement",
     "options": [
-      "A payment made for a one-time professional service.",
-      "Money paid daily for labor.",
-      "A fixed, regular payment, usually paid monthly.",
-      "Payment given only in the form of goods, like mangoes."
+      "A famous actor",
+      "A type of book",
+      "A small village or settlement",
+      "A tragic hero"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Forms of Compensation",
+    "topic": "Vocabulary & Context",
     "complexity_score": 1
   },
   {
-    "question": "The term 'democracy' comes from two Greek words meaning:",
-    "correct": "Rule of the people",
+    "question": "Which of the following categories for famous personalities was used in the guessing game?",
+    "correct": "Actor",
     "options": [
-      "Power of the king",
-      "Law of the land",
-      "Rule of the people",
-      "Wisdom of the elders"
+      "Scientist",
+      "Musician",
+      "Actor",
+      "Chef"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Forms of Government",
+    "topic": "Game Categories",
     "complexity_score": 1
   },
   {
-    "question": "Which organ of government is primarily responsible for MAKING new laws?",
-    "correct": "The Legislature",
+    "question": "One of the personalities discussed, Sachin Tendulkar, is famous in which field?",
+    "correct": "Cricket",
     "options": [
-      "The Executive",
-      "The Judiciary",
-      "The Legislature",
-      "The Central Government"
+      "Acting",
+      "Politics",
+      "Cricket",
+      "Writing"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Organs of Government",
+    "topic": "General Knowledge: Famous Personalities",
     "complexity_score": 1
   },
   {
-    "question": "What is Local Time based on?",
-    "correct": "The position of the sun in the sky at a specific place.",
+    "question": "The game played in class involved asking what type of questions to identify a secret personality?",
+    "correct": "Yes/No questions",
     "options": [
-      "The official time decided by the government for the whole country.",
-      "A clock in the center of a town.",
-      "The position of the sun in the sky at a specific place.",
-      "The time shown on international television."
+      "Open-ended questions",
+      "Multiple-choice questions",
+      "Yes/No questions",
+      "Riddles"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Local vs. Standard Time",
+    "topic": "Game Mechanics & Logic",
     "complexity_score": 1
   },
   {
-    "question": "In a direct democracy, who participates in making laws and decisions?",
-    "correct": "The people participate directly.",
+    "question": "The students connected the guessing game to their studies by asking if the person was mentioned in their...",
+    "correct": "English book",
     "options": [
-      "Only elected representatives.",
-      "A king or queen.",
-      "The people participate directly.",
-      "Only government officials."
+      "History textbook",
+      "Science journal",
+      "English book",
+      "Math workbook"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Forms of Government",
+    "topic": "Interdisciplinary Connections",
     "complexity_score": 1
   },
   {
-    "question": "Why is 'Unity in Diversity' considered a very appropriate term to describe India?",
-    "correct": "Because despite vast differences in culture, there is a deep sense of national oneness.",
+    "question": "In a deduction game, why is asking a broad category question like 'Is the person related to movies?' a good early strategy?",
+    "correct": "It eliminates a large number of possibilities at once.",
     "options": [
-      "Because everyone in India speaks the same language and eats the same food.",
-      "Because India has only one religion that everyone follows.",
-      "Because despite vast differences in culture, there is a deep sense of national oneness.",
-      "Because the government forces everyone to act the same way."
+      "It gives a specific clue about the person's name.",
+      "It confirms the person's age.",
+      "It eliminates a large number of possibilities at once.",
+      "It is the only type of question allowed."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Unity in Diversity",
+    "topic": "Logical Strategy",
     "complexity_score": 2
   },
   {
-    "question": "A freelance tuition teacher who is paid for their service is receiving what form of compensation?",
-    "correct": "Fees",
+    "question": "If you learn that a mystery person is an author mentioned in your English book, what would be a logical follow-up question?",
+    "correct": "'Is this person a poet?'",
     "options": [
-      "Salary",
-      "Wages",
-      "Fees",
-      "Bonus"
+      "'Is this person alive?'",
+      "'Is this person a politician?'",
+      "'Is this person a poet?'",
+      "'Is this person an actor?'"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Forms of Compensation",
+    "topic": "Deductive Reasoning",
     "complexity_score": 2
   },
   {
-    "question": "What is the main purpose of having a Standard Time for a whole country like India?",
-    "correct": "To avoid confusion and maintain uniformity for travel and communication.",
+    "question": "The discussion about Akshay Kumar's movie being in theaters was used as a clue to determine what about him?",
+    "correct": "Whether he is a current and active actor",
     "options": [
-      "To make sure everyone sees the sun at the same time.",
-      "To force every place to operate on the same local solar time.",
-      "To avoid confusion and maintain uniformity for travel and communication.",
-      "To make it easier to calculate the time in other countries."
+      "His exact age",
+      "His political views",
+      "Whether he is a current and active actor",
+      "The name of his first movie"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Local vs. Standard Time",
+    "topic": "Using Context Clues",
     "complexity_score": 2
   },
   {
-    "question": "Why is an indirect (representative) democracy more suitable for a country with a large population?",
-    "correct": "Because it is impractical for millions of people to vote on every single law.",
+    "question": "The mention of 'Hamlet' and the 'Blind boy' poem suggests the class is exploring different forms of what?",
+    "correct": "English Literature",
     "options": [
-      "Because it is a faster way to make all decisions.",
-      "Because people in large countries don't like to vote.",
-      "Because it is impractical for millions of people to vote on every single law.",
-      "Because it ensures that only experts can make decisions."
+      "Historical Events",
+      "Scientific Theories",
+      "English Literature",
+      "Political Systems"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Forms of Government",
+    "topic": "Identifying Themes",
     "complexity_score": 2
   },
   {
-    "question": "What is the primary function of the Executive branch of government?",
-    "correct": "To implement and enforce the laws made by the legislature.",
+    "question": "How does knowing the meaning of the word 'hamlet' (a small village) add depth to understanding Shakespeare's play 'Hamlet'?",
+    "correct": "It hints at the small, contained world of the royal court where the drama unfolds.",
     "options": [
-      "To create new laws and debate them.",
-      "To interpret laws and settle legal disputes.",
-      "To implement and enforce the laws made by the legislature.",
-      "To directly ask citizens what laws they want."
+      "It proves the main character was a famous politician.",
+      "It has no connection to the play's themes.",
+      "It hints at the small, contained world of the royal court where the drama unfolds.",
+      "It suggests the play is about building a new city."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Organs of Government",
+    "topic": "Literary Analysis",
     "complexity_score": 2
   },
   {
-    "question": "The example of Sahil, the farm laborer, who was paid partly in cash and partly in mangoes, demonstrates that wages can be paid...",
-    "correct": "in both cash and in kind (goods).",
+    "question": "When a player guessed a number, the other player responded, 'Very bad strategy.' This implies that a good strategy involves...",
+    "correct": "Narrowing down the range of possibilities systematically.",
     "options": [
-      "only on a monthly basis.",
-      "only to people who own a tractor.",
-      "in both cash and in kind (goods).",
-      "only if the work is done on a farm."
+      "Guessing random numbers immediately.",
+      "Asking for the answer directly.",
+      "Narrowing down the range of possibilities systematically.",
+      "Only guessing numbers that are dates."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Forms of Compensation",
+    "topic": "Metacognition: Evaluating Strategy",
     "complexity_score": 2
   },
   {
-    "question": "According to the lesson, an issue like national security or a natural disaster affecting the whole country would be handled by which tier of government?",
-    "correct": "Central Government",
+    "question": "The game of 'Guess the Personality' primarily develops which cognitive skill?",
+    "correct": "Deductive reasoning",
     "options": [
-      "Local Government",
-      "State Government",
-      "Central Government",
-      "Village Council"
+      "Rote memorization",
+      "Creative writing",
+      "Deductive reasoning",
+      "Athletic coordination"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Tiers of Government",
+    "topic": "Cognitive Skills",
     "complexity_score": 2
   },
   {
-    "question": "The discussion about 'tolerance' suggests it is a key reason for India's unity because it involves...",
-    "correct": "Respecting and encouraging the customs and beliefs of others.",
+    "question": "A player asks, 'Is his name mentioned in any of your books?' What is the player trying to connect?",
+    "correct": "General knowledge with specific academic curriculum",
     "options": [
-      "Ignoring the beliefs of other people.",
-      "Forcing everyone to adopt one belief.",
-      "Respecting and encouraging the customs and beliefs of others.",
-      "Simply putting up with things you don't like."
+      "The person's age with their profession",
+      "The person's nationality with their fame",
+      "General knowledge with specific academic curriculum",
+      "The game with a different game"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Unity in Diversity",
+    "topic": "Cross-Contextual Thinking",
     "complexity_score": 2
   },
   {
-    "question": "The teacher states India's unity is 'not...imposed from outside. It is deep within us.' What does this imply about the nature of Indian unity?",
-    "correct": "It is an organic, cultural unity rather than one maintained by force.",
+    "question": "Imagine the clues are: 1) The person is in your English book. 2) The person is NOT a poet. 3) The person is a 'he'. Which of the following is the most likely category for the mystery person?",
+    "correct": "The author of a prose chapter or a playwright",
     "options": [
-      "The government has strict rules to enforce unity.",
-      "Unity is a new concept that was recently introduced.",
-      "It is an organic, cultural unity rather than one maintained by force.",
-      "Other countries are responsible for India's unity."
+      "An actress from a movie adaptation",
+      "A female poet from chapter one",
+      "The author of a prose chapter or a playwright",
+      "A politician mentioned in a footnote"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Unity in Diversity",
+    "topic": "Inference and Synthesis",
     "complexity_score": 3
   },
   {
-    "question": "If a country that spans a large area decided to use only Local Time, what would be the most significant problem for its national TV broadcaster?",
-    "correct": "A show scheduled for 8 PM would air at different actual times across the country.",
+    "question": "A player's question 'Is he young, below 40?' was discarded because the other player didn't know the answer. What does this reveal about the rules of a fair deduction game?",
+    "correct": "Questions must have verifiable 'yes' or 'no' answers known by the answerer.",
     "options": [
-      "The TV signal would get weaker in different time zones.",
-      "They would not be able to produce enough shows.",
-      "A show scheduled for 8 PM would air at different actual times across the country.",
-      "The clocks on the TV screens would all be wrong."
+      "Questions about age are not allowed.",
+      "Only five questions are permitted per turn.",
+      "Questions must have verifiable 'yes' or 'no' answers known by the answerer.",
+      "You can only ask about people over 40."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Local vs. Standard Time",
+    "topic": "Analyzing Game Theory & Fairness",
     "complexity_score": 3
   },
   {
-    "question": "The lesson explains that thousands of versions of the Ramayana exist. How does this fact serve as an example of 'Unity in Diversity'?",
-    "correct": "It shows a single, core cultural story (unity) being expressed in many different ways (diversity).",
+    "question": "Which question demonstrates the most effective synthesis of previous information: (A) Is he an actor? (B) Is he alive? (C) After learning a movie is in theaters, asking 'Is the person an actor in Jolly LLB 2?'",
+    "correct": "C) After learning a movie is in theaters, asking 'Is the person an actor in Jolly LLB 2?'",
     "options": [
-      "It proves that people cannot agree on one story.",
-      "It shows that diversity is more important than unity.",
-      "It shows a single, core cultural story (unity) being expressed in many different ways (diversity).",
-      "It means that old stories are no longer relevant today."
+      "A) Is he an actor?",
+      "B) Is he alive?",
+      "C) After learning a movie is in theaters, asking 'Is the person an actor in Jolly LLB 2?'",
+      "All three are equally effective."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Unity in Diversity",
+    "topic": "Evaluating Questioning Strategy",
     "complexity_score": 3
   },
   {
-    "question": "Based on the discussion, why is decision-making generally slower in an indirect democracy compared to a direct one?",
-    "correct": "Because laws must be debated and passed through elected bodies like Parliament.",
+    "question": "The game shifts from guessing a personality to guessing a number. This change in context tests the players' ability to...",
+    "correct": "Adapt their logical strategies to different types of problems.",
     "options": [
-      "Because representatives are lazy and don't work quickly.",
-      "Because there are fewer people involved in the decision.",
-      "Because laws must be debated and passed through elected bodies like Parliament.",
-      "Because citizens take a long time to give their opinions directly."
+      "Remember historical dates.",
+      "Recite multiplication tables.",
+      "Adapt their logical strategies to different types of problems.",
+      "Identify famous mathematicians."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Forms of Government",
+    "topic": "Cognitive Flexibility",
     "complexity_score": 3
   },
   {
-    "question": "What is the crucial role of the Judiciary in a diverse country like India?",
-    "correct": "To interpret laws and ensure they are applied fairly to all different groups of people.",
+    "question": "A player asks about a number: 'Does that number start with 4, 5, 6?'. The answer is 'No'. Then they ask 'Is it 8 or 9?' and the answer is 'No'. What can the player logically conclude?",
+    "correct": "If it's a single digit, it must be 1, 2, 3, or 7.",
     "options": [
-      "To lead the country's army and enforce order.",
-      "To make sure the government has enough money.",
-      "To interpret laws and ensure they are applied fairly to all different groups of people.",
-      "To write new laws that everyone will agree with."
+      "The number must be 10.",
+      "The number must be a two-digit number.",
+      "If it's a single digit, it must be 1, 2, 3, or 7.",
+      "The other player is not following the rules."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Organs of Government",
+    "topic": "Process of Elimination",
     "complexity_score": 3
   },
   {
-    "question": "The system of having Local, State, and Central governments suggests that India's governance is designed to...",
-    "correct": "Address problems at the appropriate scale, from village roads to national defense.",
+    "question": "Considering the class discussed Shakespeare and played a deduction game, what is a shared core element between the two activities?",
+    "correct": "Interpreting clues to understand a situation or character.",
     "options": [
-      "Create competition between different levels of government.",
-      "Make sure the Central government controls every small decision.",
-      "Address problems at the appropriate scale, from village roads to national defense.",
-      "Confuse citizens about who is in charge."
+      "Both were written in the 16th century.",
+      "Both are primarily about famous politicians.",
+      "Interpreting clues to understand a situation or character.",
+      "They have no elements in common."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Tiers of Government",
+    "topic": "Thematic Synthesis",
     "complexity_score": 3
   }
 ]
