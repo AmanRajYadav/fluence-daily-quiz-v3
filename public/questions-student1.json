@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, what is a primary goal of creating AI?",
-    "correct": "To make machines that can take decisions just like human beings",
+    "question": "In the stock market board game described, what is the main goal for the players?",
+    "correct": "To have the most money at the end",
     "options": [
-      "To make computers that are faster than humans at everything",
-      "To replace all human jobs with robots",
-      "To make machines that can take decisions just like human beings",
-      "To create a new form of digital art"
+      "To collect the most cards",
+      "To become chairman of all companies",
+      "To have the most money at the end",
+      "To bankrupt other players"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Fundamentals of AI",
+    "topic": "Game Mechanics",
     "complexity_score": 1
   },
   {
-    "question": "Which application was mentioned as using AI to update users about traffic congestion?",
-    "correct": "Google Maps",
+    "question": "According to the student's description of Christmas, what specific items are used for decoration?",
+    "correct": "Beautiful lights, small gates, and small balls",
     "options": [
-      "Netflix",
-      "ChatGPT",
-      "Google Maps",
-      "Amazon Alexa"
+      "Candles and flowers",
+      "Stars and ribbons",
+      "Beautiful lights, small gates, and small balls",
+      "Only a pine tree"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "AI Applications",
+    "topic": "Cultural Traditions",
     "complexity_score": 1
   },
   {
-    "question": "The lesson stated that when compared to humans, computers are far better at performing...",
-    "correct": "Repetitive tasks and complex calculations",
+    "question": "In the grammar practice, which sentence demonstrates the present perfect continuous tense?",
+    "correct": "I have been studying for five months.",
     "options": [
-      "Creative thinking and imagination",
-      "Understanding emotions",
-      "Repetitive tasks and complex calculations",
-      "Making decisions in new situations"
+      "I did not play cricket in school.",
+      "He keeps on playing.",
+      "I have been studying for five months.",
+      "I will throw her."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "AI vs Human Intelligence",
+    "topic": "English Grammar - Tenses",
     "complexity_score": 1
   },
   {
-    "question": "What does NLP stand for in the context of AI?",
-    "correct": "Natural Language Processing",
+    "question": "What advice was given for delivering a speech effectively?",
+    "correct": "Look at the audience instead of only the notebook",
     "options": [
-      "New Logic Programming",
-      "Natural Logic Progression",
-      "Neural Learning Pathway",
-      "Natural Language Processing"
+      "Read directly from the paper to be accurate",
+      "Write down every word you plan to say",
+      "Look at the audience instead of only the notebook",
+      "Speak as quickly as possible"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "AI Technologies",
+    "topic": "Public Speaking",
     "complexity_score": 1
   },
   {
-    "question": "Which of these is NOT an application of AI discussed in the class?",
-    "correct": "Cooking food in restaurants",
+    "question": "In the movie plot discussed, why were the children taken from their mother?",
+    "correct": "The authorities misunderstood her way of feeding them by hand.",
     "options": [
-      "Diagnosing diseases in healthcare",
-      "Driving cars",
-      "Creating music and art",
-      "Cooking food in restaurants"
+      "She was not able to speak English.",
+      "She did not have enough money.",
+      "The authorities misunderstood her way of feeding them by hand.",
+      "The children were sick."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "AI Applications",
+    "topic": "Story Comprehension",
     "complexity_score": 1
   },
   {
-    "question": "What benefit of using AI robots in manufacturing was mentioned?",
-    "correct": "They can be available 24/7",
+    "question": "What is the objective of the board game called 'Travel To'?",
+    "correct": "To complete missions by visiting specific airlines/countries for points",
     "options": [
-      "They can have conversations with workers",
-      "They can be available 24/7",
-      "They are cheaper than human labor",
-      "They can design new products on their own"
+      "To buy as many countries as possible",
+      "To be the first player to visit every country",
+      "To complete missions by visiting specific airlines/countries for points",
+      "To collect one card from each continent"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Benefits of AI",
+    "topic": "Game Mechanics",
     "complexity_score": 1
   },
   {
-    "question": "A chatbot helping a customer with a product-related query is a primary example of which AI technology?",
-    "correct": "Natural Language Processing (NLP)",
+    "question": "In the 'Game of Life', becoming a doctor was mentioned as a positive outcome because it resulted in what?",
+    "correct": "A higher salary",
     "options": [
-      "Computer Vision",
-      "Machine Learning",
-      "Natural Language Processing (NLP)",
-      "Robotics"
+      "Fewer working hours",
+      "A higher salary",
+      "The ability to help other players",
+      "Getting married first"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "AI Technologies",
+    "topic": "Game Strategy & Simulation",
     "complexity_score": 2
   },
   {
-    "question": "How does an AI-driven car 'see' its surroundings, according to the lesson?",
-    "correct": "Using various cameras and sensors",
+    "question": "The phrase 'He keeps on playing' describes a continuous or repeated action. Which of the following sentences has a similar meaning?",
+    "correct": "He continues to play.",
     "options": [
-      "By connecting to the driver's brain",
-      "By using the car's headlights",
-      "Using various cameras and sensors",
-      "By listening with built-in microphones"
+      "He will play later.",
+      "He played in the past.",
+      "He continues to play.",
+      "He is about to play."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "AI Applications",
+    "topic": "English Grammar - Phrasal Verbs",
     "complexity_score": 2
   },
   {
-    "question": "The lesson explained that AI can help farmers by planning the agricultural cycle based on what?",
-    "correct": "Recent climatic changes",
+    "question": "Based on the description of the stock market game, what action must a player take to become chairman of a company?",
+    "correct": "Buy a large number of shares in that company",
     "options": [
-      "The price of crops in the market",
-      "The number of workers available",
-      "The type of soil on the farm",
-      "Recent climatic changes"
+      "Land on a specific space on the board",
+      "Draw a special 'Chairman' card",
+      "Buy a large number of shares in that company",
+      "Pay a fee to the bank"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "AI Applications",
+    "topic": "Game Mechanics",
     "complexity_score": 2
   },
   {
-    "question": "The concept of 'Computer Vision' is about replicating which human sense in machines?",
-    "correct": "Sight",
+    "question": "The conflict in the movie described (Mrs. Chatterjee vs Norway) is based on a difference in what?",
+    "correct": "Cultural norms and parenting styles",
     "options": [
-      "Hearing",
-      "Touch",
-      "Sight",
-      "Taste"
+      "Economic status between countries",
+      "Legal systems for property ownership",
+      "Language and translation",
+      "Cultural norms and parenting styles"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "AI Technologies",
+    "topic": "Story Analysis",
     "complexity_score": 2
   },
   {
-    "question": "Why is AI particularly helpful for doctors in diagnosing complex diseases like cancer?",
-    "correct": "AI can analyze huge amounts of data beyond human capacity",
+    "question": "In the 'Travel To' game, a player might visit a country not on their mission card. Why would this be a good strategy?",
+    "correct": "To avoid another player from snatching a country on their mission card",
     "options": [
-      "AI can perform surgery better than any human",
-      "AI can talk to patients and calm them down",
-      "AI can analyze huge amounts of data beyond human capacity",
-      "AI is available in every hospital in the world"
+      "Because it gives bonus points",
+      "To collect more money",
+      "To avoid another player from snatching a country on their mission card",
+      "Because all countries must be visited eventually"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "AI Applications",
+    "topic": "Game Strategy",
     "complexity_score": 2
   },
   {
-    "question": "The teacher mentioned that the increase in processing power and storage capacity of computers was foundational for what?",
-    "correct": "The development of modern AI technology",
+    "question": "The sentence 'I had been picked' is in the past perfect passive voice. What does this imply?",
+    "correct": "Someone else performed the action of picking at a point in the past.",
     "options": [
-      "The invention of the internet",
-      "The creation of the first car",
-      "The development of modern AI technology",
-      "The ability to send emails"
+      "The speaker was in the process of picking something.",
+      "The speaker picked something a long time ago.",
+      "Someone else performed the action of picking at a point in the past.",
+      "The speaker is about to be picked."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Fundamentals of AI",
+    "topic": "English Grammar - Voice and Tense",
     "complexity_score": 2
   },
   {
-    "question": "What is the core idea behind 'Machine Learning' as explained in the lesson?",
-    "correct": "Programming machines so they can learn independently",
+    "question": "The public speaking advice to 'see the audience' is designed to help the speaker do what?",
+    "correct": "Create a connection with the listeners",
     "options": [
-      "Teaching machines how to speak human languages",
-      "Building robots that look exactly like humans",
-      "Giving machines access to the entire internet",
-      "Programming machines so they can learn independently"
+      "Remember their lines better",
+      "Make sure everyone can hear them",
+      "Create a connection with the listeners",
+      "Check if the time is up"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "AI Technologies",
+    "topic": "Public Speaking",
     "complexity_score": 2
   },
   {
-    "question": "Netflix recommending a new movie based on what you've watched before is an example of AI helping with what?",
-    "correct": "Simplifying decision-making",
+    "question": "What is a key difference between the stock market game and the 'Game of Life' as described in the class?",
+    "correct": "The stock market game focuses on financial investment, while the 'Game of Life' simulates broader life events.",
     "options": [
-      "Performing complex calculations",
-      "Replicating human vision",
-      "Simplifying decision-making",
-      "Processing natural language"
+      "Only one game uses money.",
+      "The 'Game of Life' is for single players, while the stock market game is for multiple players.",
+      "The stock market game focuses on financial investment, while the 'Game of life' simulates broader life events.",
+      "The stock market game is a computer game, while 'Game of Life' is only a board game."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "AI Applications",
+    "topic": "Comparative Analysis",
     "complexity_score": 2
   },
   {
-    "question": "Based on the lesson, what is the fundamental difference between how a human driver and an AI-driven car process information to make decisions?",
-    "correct": "A human uses their brain to process perceived information, while an AI uses its program.",
+    "question": "The repetitive grammar drill 'I would not live' explores a conditional or hypothetical situation. This phrase would best fit in a sentence that starts with...",
+    "correct": "'If I were a fish,...'",
     "options": [
-      "The AI car makes decisions faster than the human brain.",
-      "A human uses their brain to process perceived information, while an AI uses its program.",
-      "Only humans can perceive the environment; the AI cannot.",
-      "The AI car doesn't need to process information; it just follows a pre-set route."
+      "'Yesterday,...'",
+      "'Because I am here,...'",
+      "'If I were a fish,...'",
+      "'I promise that...'"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "AI vs Human Intelligence",
+    "topic": "Grammar Application",
     "complexity_score": 3
   },
   {
-    "question": "The teacher mentioned AI can create music, paintings, and advertisement content. This capability challenges the traditional idea that...",
-    "correct": "Creativity is a uniquely human ability",
+    "question": "The instructor suggested using 'Chajipurdi, Gogaal' (ChatGPT, Google) to prepare a speech on Mahatma Gandhi. What learning skill does this encourage?",
+    "correct": "Research and information synthesis",
     "options": [
-      "Technology is only useful for logical tasks",
-      "Computers can only follow direct commands",
-      "Creativity is a uniquely human ability",
-      "Art requires physical tools to be created"
+      "Creative writing without help",
+      "Memorization of facts",
+      "Research and information synthesis",
+      "Verbally translating from another language"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Artificial Creativity",
+    "topic": "Metacognition & Learning Skills",
     "complexity_score": 3
   },
   {
-    "question": "The lesson explains that AI helps mankind by simplifying decision-making to take 'quick logical decisions with accuracy.' Which example BEST illustrates this entire process?",
-    "correct": "An AI diagnosing a disease by analyzing thousands of scans in minutes.",
+    "question": "Both the stock market game and the movie plot involve systems of rules that impact individuals. What fundamental difference exists between these two systems?",
+    "correct": "The game's rules are for entertainment and are clear to all players, while the movie's societal rules are complex and can be misinterpreted.",
     "options": [
-      "A chatbot providing a company's hours of operation.",
-      "An AI robot assembling a car part on an assembly line.",
-      "An AI diagnosing a disease by analyzing thousands of scans in minutes.",
-      "AI software creating a thumbnail for a video."
+      "The game has rules about money, but the movie does not.",
+      "The game's rules are fair, while the movie's rules are intentionally unfair.",
+      "The game's rules are for entertainment and are clear to all players, while the movie's societal rules are complex and can be misinterpreted.",
+      "The game has a clear winner, while the situation in the movie does not."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Fundamentals of AI",
+    "topic": "Systems Thinking",
     "complexity_score": 3
   },
   {
-    "question": "If a developer wants to create an AI that can analyze satellite images to identify areas of deforestation, which two AI fields from the lesson would be most crucial?",
-    "correct": "Computer Vision and Machine Learning",
+    "question": "In the 'Game of Life' description, a player could take a loan for college. This action introduces what long-term consequence into the game?",
+    "correct": "The obligation to make future payments with interest",
     "options": [
-      "Natural Language Processing and Robotics",
-      "Computer Vision and Machine Learning",
-      "Robotics and Artificial Creativity",
-      "Natural Language Processing and Customer Support AI"
+      "An immediate increase in salary",
+      "The inability to get married in the game",
+      "A lower chance of buying a home",
+      "The obligation to make future payments with interest"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "AI Technologies",
+    "topic": "Cause and Effect Analysis",
     "complexity_score": 3
   },
   {
-    "question": "The teacher stated that 'AI will aid mankind.' Based on the examples of healthcare, agriculture, and driving, what is the most significant way AI provides this aid?",
-    "correct": "By processing vast amounts of data to identify patterns and solutions humans might miss.",
+    "question": "The repeated phrase 'Can't get scared?' serves as a challenge. This type of question is known as a rhetorical question because...",
+    "correct": "It is meant to make a point or provoke a thought, not to receive an answer.",
     "options": [
-      "By performing physical labor so humans don't have to.",
-      "By providing entertainment through movies and music.",
-      "By processing vast amounts of data to identify patterns and solutions humans might miss.",
-      "By ensuring all decisions made are 100% perfect and without error."
+      "It uses a negative verb.",
+      "It is grammatically incorrect.",
+      "It is meant to make a point or provoke a thought, not to receive an answer.",
+      "It is a direct command to the listener."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Benefits of AI",
+    "topic": "Literary & Rhetorical Devices",
     "complexity_score": 3
   },
   {
-    "question": "The class discussed that for a self-driving car, 'the program itself can be a problem.' What does this imply about the limitations of current AI?",
-    "correct": "AI's decisions and abilities are ultimately limited by how humans have programmed it.",
+    "question": "The instructor suggests the topic of Mahatma Gandhi is 'easy' for a speech. What underlying assumption is being made about the student's prior knowledge?",
+    "correct": "That Mahatma Gandhi is a familiar figure with readily available information.",
     "options": [
-      "AI programs often contain viruses that make them fail.",
-      "AI can decide to ignore its programming and do whatever it wants.",
-      "AI's decisions and abilities are ultimately limited by how humans have programmed it.",
-      "AI is not capable of controlling physical objects like cars."
+      "That the student has already written a speech on this topic.",
+      "That 'easy' topics require less preparation time.",
+      "That Mahatma Gandhi's life had no complex or difficult moments.",
+      "That Mahatma Gandhi is a familiar figure with readily available information."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "AI vs Human Intelligence",
+    "topic": "Critical Thinking & Inference",
     "complexity_score": 3
   }
 ]
