@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the stock market board game described, what is the main goal for the players?",
-    "correct": "To have the most money at the end",
+    "question": "According to the instructor, what is the primary goal of adding 'tiny details' to your writing?",
+    "correct": "To create a vivid picture in the reader's mind",
     "options": [
-      "To collect the most cards",
-      "To become chairman of all companies",
-      "To have the most money at the end",
-      "To bankrupt other players"
+      "To make the story longer",
+      "To prove that you remember the events correctly",
+      "To create a vivid picture in the reader's mind",
+      "To use more complicated words"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Game Mechanics",
+    "topic": "Creative Writing Techniques",
     "complexity_score": 1
   },
   {
-    "question": "According to the student's description of Christmas, what specific items are used for decoration?",
-    "correct": "Beautiful lights, small gates, and small balls",
+    "question": "Which sentence is an example of the causative verb structure discussed in the lesson?",
+    "correct": "I will get the AC repaired.",
     "options": [
-      "Candles and flowers",
-      "Stars and ribbons",
-      "Beautiful lights, small gates, and small balls",
-      "Only a pine tree"
+      "I will repair the AC.",
+      "The AC is repaired.",
+      "I will get the AC repaired.",
+      "I should repair the AC."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cultural Traditions",
+    "topic": "Grammar: Causative Verbs",
     "complexity_score": 1
   },
   {
-    "question": "In the grammar practice, which sentence demonstrates the present perfect continuous tense?",
-    "correct": "I have been studying for five months.",
+    "question": "The instructor corrected the student's writing from 'He does peaceful protests' to reflect past events. Which of the following would be a correct past tense version?",
+    "correct": "He did peaceful protests.",
     "options": [
-      "I did not play cricket in school.",
-      "He keeps on playing.",
-      "I have been studying for five months.",
-      "I will throw her."
+      "He will do peaceful protests.",
+      "He is doing peaceful protests.",
+      "He did peaceful protests.",
+      "He have done peaceful protests."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English Grammar - Tenses",
+    "topic": "Grammar: Simple Past Tense",
     "complexity_score": 1
   },
   {
-    "question": "What advice was given for delivering a speech effectively?",
-    "correct": "Look at the audience instead of only the notebook",
+    "question": "What was the instructor's advice on how to start a story like 'My Journey to London'?",
+    "correct": "Start with a small, specific detail, like booking the ticket.",
     "options": [
-      "Read directly from the paper to be accurate",
-      "Write down every word you plan to say",
-      "Look at the audience instead of only the notebook",
-      "Speak as quickly as possible"
+      "Start with a general statement, like 'London is a beautiful place'.",
+      "Start by listing all the places you visited.",
+      "Start with a small, specific detail, like booking the ticket.",
+      "Start with the most exciting part of the trip."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Public Speaking",
+    "topic": "Creative Writing: Narrative Structure",
     "complexity_score": 1
   },
   {
-    "question": "In the movie plot discussed, why were the children taken from their mother?",
-    "correct": "The authorities misunderstood her way of feeding them by hand.",
+    "question": "Which of the following spellings was corrected during the class?",
+    "correct": "cousins",
     "options": [
-      "She was not able to speak English.",
-      "She did not have enough money.",
-      "The authorities misunderstood her way of feeding them by hand.",
-      "The children were sick."
+      "beautiful",
+      "excitement",
+      "cousins",
+      "airport"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Story Comprehension",
+    "topic": "Vocabulary & Spelling",
     "complexity_score": 1
   },
   {
-    "question": "What is the objective of the board game called 'Travel To'?",
-    "correct": "To complete missions by visiting specific airlines/countries for points",
+    "question": "The phrase 'I used to play cricket' implies that...",
+    "correct": "It was a regular habit in the past, but is not happening now.",
     "options": [
-      "To buy as many countries as possible",
-      "To be the first player to visit every country",
-      "To complete missions by visiting specific airlines/countries for points",
-      "To collect one card from each continent"
+      "I played cricket one time yesterday.",
+      "I am playing cricket right now.",
+      "It was a regular habit in the past, but is not happening now.",
+      "I will play cricket in the future."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Game Mechanics",
+    "topic": "Grammar: Past Habits",
     "complexity_score": 1
   },
   {
-    "question": "In the 'Game of Life', becoming a doctor was mentioned as a positive outcome because it resulted in what?",
-    "correct": "A higher salary",
+    "question": "Which sentence best applies the 'show, don't tell' principle to the idea 'I was excited'?",
+    "correct": "For the next 30 days, I could not even sleep nicely and used to dream every day about that place.",
     "options": [
-      "Fewer working hours",
-      "A higher salary",
-      "The ability to help other players",
-      "Getting married first"
+      "I felt a very high level of excitement.",
+      "My excitement grew more and more.",
+      "For the next 30 days, I could not even sleep nicely and used to dream every day about that place.",
+      "It was a very exciting time for me before the trip."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Game Strategy & Simulation",
+    "topic": "Creative Writing Techniques",
     "complexity_score": 2
   },
   {
-    "question": "The phrase 'He keeps on playing' describes a continuous or repeated action. Which of the following sentences has a similar meaning?",
-    "correct": "He continues to play.",
+    "question": "The sentence 'When I reached the station, the train had already gone' uses two different past tenses. Why is 'had already gone' (Past Perfect) used?",
+    "correct": "To show that the train's departure happened before I arrived at the station.",
     "options": [
-      "He will play later.",
-      "He played in the past.",
-      "He continues to play.",
-      "He is about to play."
+      "Because the train journey was very long.",
+      "To show that the train's departure happened before I arrived at the station.",
+      "To describe two actions happening at the exact same time.",
+      "It is a more formal way of saying 'the train went'."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English Grammar - Phrasal Verbs",
+    "topic": "Grammar: Past Perfect Tense",
     "complexity_score": 2
   },
   {
-    "question": "Based on the description of the stock market game, what action must a player take to become chairman of a company?",
-    "correct": "Buy a large number of shares in that company",
+    "question": "Based on the rapid-fire quiz, how would you correctly rewrite this sentence: 'He was explaining to me from 5 days'?",
+    "correct": "He had been explaining to me for 5 days.",
     "options": [
-      "Land on a specific space on the board",
-      "Draw a special 'Chairman' card",
-      "Buy a large number of shares in that company",
-      "Pay a fee to the bank"
+      "He is explaining to me for 5 days.",
+      "He will be explaining to me for 5 days.",
+      "He had been explaining to me for 5 days.",
+      "He did explain to me for 5 days."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Game Mechanics",
+    "topic": "Grammar: Past Perfect Continuous",
     "complexity_score": 2
   },
   {
-    "question": "The conflict in the movie described (Mrs. Chatterjee vs Norway) is based on a difference in what?",
-    "correct": "Cultural norms and parenting styles",
+    "question": "Following the grammar rules from the quiz, which is the correct way to form this sentence? 'If I ____ a bird, I ____ fly everywhere.'",
+    "correct": "were / would",
     "options": [
-      "Economic status between countries",
-      "Legal systems for property ownership",
-      "Language and translation",
-      "Cultural norms and parenting styles"
+      "was / will",
+      "am / would",
+      "were / would",
+      "had been / would have"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Story Analysis",
+    "topic": "Grammar: Second Conditional",
     "complexity_score": 2
   },
   {
-    "question": "In the 'Travel To' game, a player might visit a country not on their mission card. Why would this be a good strategy?",
-    "correct": "To avoid another player from snatching a country on their mission card",
+    "question": "The instructor said, 'A picture should be made in reader's mind, not just words.' Which of these two options about Mahatma Gandhi best achieves this?",
+    "correct": "No one knew that a man with just a dhoti and a stick... can shake the British Empire.",
     "options": [
-      "Because it gives bonus points",
-      "To collect more money",
-      "To avoid another player from snatching a country on their mission card",
-      "Because all countries must be visited eventually"
+      "Mahatma Gandhi was the leader of India's independence movement against British rule.",
+      "No one knew that a man with just a dhoti and a stick... can shake the British Empire.",
+      "He promoted non-violence and truth and was known as the father of the nation.",
+      "Gandhi was born on the 2nd of October and he believed in simple living."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Game Strategy",
+    "topic": "Creative Writing: Imagery",
     "complexity_score": 2
   },
   {
-    "question": "The sentence 'I had been picked' is in the past perfect passive voice. What does this imply?",
-    "correct": "Someone else performed the action of picking at a point in the past.",
+    "question": "How would you correctly complete this sentence about a future event, based on the quiz? 'By this time tomorrow, I ____ the airport.'",
+    "correct": "will have reached",
     "options": [
-      "The speaker was in the process of picking something.",
-      "The speaker picked something a long time ago.",
-      "Someone else performed the action of picking at a point in the past.",
-      "The speaker is about to be picked."
+      "will reach",
+      "am reaching",
+      "will have reached",
+      "reached"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English Grammar - Voice and Tense",
+    "topic": "Grammar: Future Perfect Tense",
     "complexity_score": 2
   },
   {
-    "question": "The public speaking advice to 'see the audience' is designed to help the speaker do what?",
-    "correct": "Create a connection with the listeners",
+    "question": "The student wrote, 'We were downloading movies to watch in the next flight'. The instructor's feedback focused on grammar, but what creative writing advice could also be applied here?",
+    "correct": "Add a sensory detail, like the smell of coffee from the nearby Starbucks while they waited.",
     "options": [
-      "Remember their lines better",
-      "Make sure everyone can hear them",
-      "Create a connection with the listeners",
-      "Check if the time is up"
+      "Specify the exact number of movies downloaded.",
+      "Change the verb tense to future perfect.",
+      "Add a sensory detail, like the smell of coffee from the nearby Starbucks while they waited.",
+      "Explain the technical process of downloading."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Public Speaking",
+    "topic": "Creative Writing: Application",
     "complexity_score": 2
   },
   {
-    "question": "What is a key difference between the stock market game and the 'Game of Life' as described in the class?",
-    "correct": "The stock market game focuses on financial investment, while the 'Game of Life' simulates broader life events.",
+    "question": "The sentence 'The road has been constructed' is in the passive voice. What is the main reason a writer might choose the passive voice here?",
+    "correct": "The person or thing that constructed the road is unknown or unimportant.",
     "options": [
-      "Only one game uses money.",
-      "The 'Game of Life' is for single players, while the stock market game is for multiple players.",
-      "The stock market game focuses on financial investment, while the 'Game of life' simulates broader life events.",
-      "The stock market game is a computer game, while 'Game of Life' is only a board game."
+      "To make the sentence sound more active and exciting.",
+      "Because the road is the most important part of the sentence.",
+      "The person or thing that constructed the road is unknown or unimportant.",
+      "It is the only way to talk about construction in the past."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Comparative Analysis",
+    "topic": "Grammar: Passive Voice",
     "complexity_score": 2
   },
   {
-    "question": "The repetitive grammar drill 'I would not live' explores a conditional or hypothetical situation. This phrase would best fit in a sentence that starts with...",
-    "correct": "'If I were a fish,...'",
+    "question": "Why is the description 'a man with just a dhoti and a stick' more powerful than saying 'a simply dressed man'?",
+    "correct": "It uses specific, concrete images that the reader can visualize.",
     "options": [
-      "'Yesterday,...'",
-      "'Because I am here,...'",
-      "'If I were a fish,...'",
-      "'I promise that...'"
+      "It is shorter and easier to read.",
+      "It implies that all leaders should dress simply.",
+      "It uses specific, concrete images that the reader can visualize.",
+      "It explains the historical context of Indian clothing."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammar Application",
+    "topic": "Creative Writing: Analysis",
     "complexity_score": 3
   },
   {
-    "question": "The instructor suggested using 'Chajipurdi, Gogaal' (ChatGPT, Google) to prepare a speech on Mahatma Gandhi. What learning skill does this encourage?",
-    "correct": "Research and information synthesis",
+    "question": "Consider the third conditional structure: 'If I had known you were a vegetarian, I would have made vegetarian food.' What does this structure fundamentally imply?",
+    "correct": "A past situation that did not happen and its imagined past result.",
     "options": [
-      "Creative writing without help",
-      "Memorization of facts",
-      "Research and information synthesis",
-      "Verbally translating from another language"
+      "A possible situation in the future.",
+      "A general truth or scientific fact.",
+      "An impossible situation in the present.",
+      "A past situation that did not happen and its imagined past result."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition & Learning Skills",
+    "topic": "Grammar: Third Conditional",
     "complexity_score": 3
   },
   {
-    "question": "Both the stock market game and the movie plot involve systems of rules that impact individuals. What fundamental difference exists between these two systems?",
-    "correct": "The game's rules are for entertainment and are clear to all players, while the movie's societal rules are complex and can be misinterpreted.",
+    "question": "The instructor's detailed example of the London trip included the 'smell of the busyness of people' and 'the noise of people talking'. This technique of appealing to multiple senses is effective because it...",
+    "correct": "Creates a more immersive and realistic experience for the reader.",
     "options": [
-      "The game has rules about money, but the movie does not.",
-      "The game's rules are fair, while the movie's rules are intentionally unfair.",
-      "The game's rules are for entertainment and are clear to all players, while the movie's societal rules are complex and can be misinterpreted.",
-      "The game has a clear winner, while the situation in the movie does not."
+      "Distracts the reader from the main plot.",
+      "Is a requirement for all travel writing.",
+      "Creates a more immersive and realistic experience for the reader.",
+      "Proves the writer has a good memory."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Systems Thinking",
+    "topic": "Creative Writing: Sensory Details",
     "complexity_score": 3
   },
   {
-    "question": "In the 'Game of Life' description, a player could take a loan for college. This action introduces what long-term consequence into the game?",
-    "correct": "The obligation to make future payments with interest",
+    "question": "During the quiz, a student said, 'If you will give me money, I will pay the fees.' The instructor marked it wrong. What is the rule this sentence breaks?",
+    "correct": "In a first conditional sentence, the 'if' clause uses the simple present tense, not the future 'will'.",
     "options": [
-      "An immediate increase in salary",
-      "The inability to get married in the game",
-      "A lower chance of buying a home",
-      "The obligation to make future payments with interest"
+      "You should use 'would' instead of 'will' in the main clause.",
+      "The sentence should be in the passive voice.",
+      "The word 'then' must be added before 'I will pay'.",
+      "In a first conditional sentence, the 'if' clause uses the simple present tense, not the future 'will'."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cause and Effect Analysis",
+    "topic": "Grammar: First Conditional",
     "complexity_score": 3
   },
   {
-    "question": "The repeated phrase 'Can't get scared?' serves as a challenge. This type of question is known as a rhetorical question because...",
-    "correct": "It is meant to make a point or provoke a thought, not to receive an answer.",
+    "question": "The instructor contrasted 'Mahatma Gandhi was the leader' with a more story-like opening. What core principle of learning is demonstrated by this teaching method?",
+    "correct": "Connecting abstract facts to concrete, imaginable stories enhances memory and understanding.",
     "options": [
-      "It uses a negative verb.",
-      "It is grammatically incorrect.",
-      "It is meant to make a point or provoke a thought, not to receive an answer.",
-      "It is a direct command to the listener."
+      "Students learn best through memorization and repetition of facts.",
+      "The only goal of writing is to convey information accurately.",
+      "Connecting abstract facts to concrete, imaginable stories enhances memory and understanding.",
+      "Longer sentences are always better than shorter ones."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Literary & Rhetorical Devices",
+    "topic": "Learning Science",
     "complexity_score": 3
   },
   {
-    "question": "The instructor suggests the topic of Mahatma Gandhi is 'easy' for a speech. What underlying assumption is being made about the student's prior knowledge?",
-    "correct": "That Mahatma Gandhi is a familiar figure with readily available information.",
+    "question": "The student said, 'I could not have done homework'. Saksham later said, 'I could have played'. What is the subtle difference in meaning between 'could not have done' and 'could have done'?",
+    "correct": "'Could not have done' implies it was impossible, while 'could have done' implies the opportunity existed but was not taken.",
     "options": [
-      "That the student has already written a speech on this topic.",
-      "That 'easy' topics require less preparation time.",
-      "That Mahatma Gandhi's life had no complex or difficult moments.",
-      "That Mahatma Gandhi is a familiar figure with readily available information."
+      "There is no difference; they mean the same thing.",
+      "'Could not have done' is for the past, and 'could have done' is for the future.",
+      "'Could have done' is a more polite way of speaking.",
+      "'Could not have done' implies it was impossible, while 'could have done' implies the opportunity existed but was not taken."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Critical Thinking & Inference",
+    "topic": "Grammar: Modal Verbs (Past)",
     "complexity_score": 3
   }
 ]
