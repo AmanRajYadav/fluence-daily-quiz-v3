@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the instructor, what is the primary goal of adding 'tiny details' to your writing?",
-    "correct": "To create a vivid picture in the reader's mind",
+    "question": "According to the lesson's story, which type of geographical feature is mentioned as needing the article 'the'?",
+    "correct": "Rivers",
     "options": [
-      "To make the story longer",
-      "To prove that you remember the events correctly",
-      "To create a vivid picture in the reader's mind",
-      "To use more complicated words"
+      "Cities",
+      "Continents",
+      "Rivers",
+      "Single mountains"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Creative Writing Techniques",
+    "topic": "Geographical Names",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence is an example of the causative verb structure discussed in the lesson?",
-    "correct": "I will get the AC repaired.",
+    "question": "Which of the following requires 'the' because it is a superlative adjective?",
+    "correct": "The tallest boy",
     "options": [
-      "I will repair the AC.",
-      "The AC is repaired.",
-      "I will get the AC repaired.",
-      "I should repair the AC."
+      "A tall boy",
+      "Taller than the boy",
+      "The tallest boy",
+      "That tall boy"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Grammar: Causative Verbs",
+    "topic": "Superlative Degrees",
     "complexity_score": 1
   },
   {
-    "question": "The instructor corrected the student's writing from 'He does peaceful protests' to reflect past events. Which of the following would be a correct past tense version?",
-    "correct": "He did peaceful protests.",
+    "question": "The lesson mentioned using 'the' before names of specific holy books or scriptures. Which example was used?",
+    "correct": "The Ramayana",
     "options": [
-      "He will do peaceful protests.",
-      "He is doing peaceful protests.",
-      "He did peaceful protests.",
-      "He have done peaceful protests."
+      "The Dictionary",
+      "The Ramayana",
+      "The Textbook",
+      "The Atlas"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Grammar: Simple Past Tense",
+    "topic": "Proper Nouns (Books)",
     "complexity_score": 1
   },
   {
-    "question": "What was the instructor's advice on how to start a story like 'My Journey to London'?",
-    "correct": "Start with a small, specific detail, like booking the ticket.",
+    "question": "When referring to a unique object in the universe, like the one mentioned in the story, you should use 'the'. What was the example?",
+    "correct": "The moon",
     "options": [
-      "Start with a general statement, like 'London is a beautiful place'.",
-      "Start by listing all the places you visited.",
-      "Start with a small, specific detail, like booking the ticket.",
-      "Start with the most exciting part of the trip."
+      "A star",
+      "The moon",
+      "A planet",
+      "The galaxy"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Creative Writing: Narrative Structure",
+    "topic": "Unique Objects",
     "complexity_score": 1
   },
   {
-    "question": "Which of the following spellings was corrected during the class?",
-    "correct": "cousins",
+    "question": "The instructor explained that you should use 'the' before names of newspapers. Which newspaper was named in the story?",
+    "correct": "The Hindustan Times",
     "options": [
-      "beautiful",
-      "excitement",
-      "cousins",
-      "airport"
+      "The Daily Planet",
+      "The New York Times",
+      "The Local News",
+      "The Hindustan Times"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary & Spelling",
+    "topic": "Proper Nouns (Newspapers)",
     "complexity_score": 1
   },
   {
-    "question": "The phrase 'I used to play cricket' implies that...",
-    "correct": "It was a regular habit in the past, but is not happening now.",
+    "question": "Based on the class discussion, you should use 'the' before the names of musical instruments. Which sentence is correct?",
+    "correct": "She knows how to play the guitar.",
     "options": [
-      "I played cricket one time yesterday.",
-      "I am playing cricket right now.",
-      "It was a regular habit in the past, but is not happening now.",
-      "I will play cricket in the future."
+      "She knows how to play a guitar.",
+      "She knows how to play guitar.",
+      "She knows how to play the guitar.",
+      "She knows how to play of the guitar."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Grammar: Past Habits",
+    "topic": "Musical Instruments",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence best applies the 'show, don't tell' principle to the idea 'I was excited'?",
-    "correct": "For the next 30 days, I could not even sleep nicely and used to dream every day about that place.",
+    "question": "In the sentence 'He is the Shah Jahan of our class,' why is 'the' used before 'Shah Jahan,' which is normally a proper noun?",
+    "correct": "It's used as a common noun to represent qualities of that person.",
     "options": [
-      "I felt a very high level of excitement.",
-      "My excitement grew more and more.",
-      "For the next 30 days, I could not even sleep nicely and used to dream every day about that place.",
-      "It was a very exciting time for me before the trip."
+      "Because Shah Jahan is a historical figure.",
+      "It is a mistake; proper nouns never take 'the'.",
+      "It's used as a common noun to represent qualities of that person.",
+      "Because he is the only person with that name in the class."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Creative Writing Techniques",
+    "topic": "Nouns and Articles",
     "complexity_score": 2
   },
   {
-    "question": "The sentence 'When I reached the station, the train had already gone' uses two different past tenses. Why is 'had already gone' (Past Perfect) used?",
-    "correct": "To show that the train's departure happened before I arrived at the station.",
+    "question": "The lesson provided the rule: 'When a singular noun is meant to represent a whole class.' Which example best illustrates this rule?",
+    "correct": "The cow is a useful animal.",
     "options": [
-      "Because the train journey was very long.",
-      "To show that the train's departure happened before I arrived at the station.",
-      "To describe two actions happening at the exact same time.",
-      "It is a more formal way of saying 'the train went'."
+      "I saw a cow in the field.",
+      "The cow is a useful animal.",
+      "That is the cow I was telling you about.",
+      "Cows are useful animals."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Past Perfect Tense",
+    "topic": "Nouns Representing a Class",
     "complexity_score": 2
   },
   {
-    "question": "Based on the rapid-fire quiz, how would you correctly rewrite this sentence: 'He was explaining to me from 5 days'?",
-    "correct": "He had been explaining to me for 5 days.",
+    "question": "Based on the rules discussed, which sentence correctly uses 'the' with a mode of transportation?",
+    "correct": "We traveled to Mumbai by the Rajdhani Express.",
     "options": [
-      "He is explaining to me for 5 days.",
-      "He will be explaining to me for 5 days.",
-      "He had been explaining to me for 5 days.",
-      "He did explain to me for 5 days."
+      "I will take the car to work.",
+      "We traveled to Mumbai by the Rajdhani Express.",
+      "She came here on a bicycle.",
+      "He bought the ticket for bus."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Past Perfect Continuous",
+    "topic": "Proper Nouns (Vehicles)",
     "complexity_score": 2
   },
   {
-    "question": "Following the grammar rules from the quiz, which is the correct way to form this sentence? 'If I ____ a bird, I ____ fly everywhere.'",
-    "correct": "were / would",
+    "question": "The phrase 'The Indian cricketers' was used as an example for which rule?",
+    "correct": "Using 'the' before words that denote nationality.",
     "options": [
-      "was / will",
-      "am / would",
-      "were / would",
-      "had been / would have"
+      "Using 'the' before names of sports teams.",
+      "Using 'the' before plural nouns.",
+      "Using 'the' before words that denote nationality.",
+      "Using 'the' before names of professions."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Second Conditional",
+    "topic": "Nationality",
     "complexity_score": 2
   },
   {
-    "question": "The instructor said, 'A picture should be made in reader's mind, not just words.' Which of these two options about Mahatma Gandhi best achieves this?",
-    "correct": "No one knew that a man with just a dhoti and a stick... can shake the British Empire.",
+    "question": "The sentence structure 'The more you..., the more you...' demonstrates which rule for using 'the'?",
+    "correct": "With comparative degrees when there is a sense of proportion.",
     "options": [
-      "Mahatma Gandhi was the leader of India's independence movement against British rule.",
-      "No one knew that a man with just a dhoti and a stick... can shake the British Empire.",
-      "He promoted non-violence and truth and was known as the father of the nation.",
-      "Gandhi was born on the 2nd of October and he believed in simple living."
+      "With superlative degrees.",
+      "Before ordinal numbers.",
+      "With comparative degrees when there is a sense of proportion.",
+      "When referring to a specific item."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Creative Writing: Imagery",
+    "topic": "Comparative Degrees (Proportion)",
     "complexity_score": 2
   },
   {
-    "question": "How would you correctly complete this sentence about a future event, based on the quiz? 'By this time tomorrow, I ____ the airport.'",
-    "correct": "will have reached",
+    "question": "Why is 'the' used in the sentence: 'Give me the book I had given you yesterday'?",
+    "correct": "It refers to a particular book that has already been mentioned or is understood.",
     "options": [
-      "will reach",
-      "am reaching",
-      "will have reached",
-      "reached"
+      "Because 'book' is a singular noun.",
+      "It refers to a particular book that has already been mentioned or is understood.",
+      "Because it is the only book in the room.",
+      "It is part of a famous expression."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Future Perfect Tense",
+    "topic": "Specific Nouns",
     "complexity_score": 2
   },
   {
-    "question": "The student wrote, 'We were downloading movies to watch in the next flight'. The instructor's feedback focused on grammar, but what creative writing advice could also be applied here?",
-    "correct": "Add a sensory detail, like the smell of coffee from the nearby Starbucks while they waited.",
+    "question": "The lesson mentioned using 'the' before names of historical events. Which of these fits that rule?",
+    "correct": "The First World War",
     "options": [
-      "Specify the exact number of movies downloaded.",
-      "Change the verb tense to future perfect.",
-      "Add a sensory detail, like the smell of coffee from the nearby Starbucks while they waited.",
-      "Explain the technical process of downloading."
+      "The Monday",
+      "The Birthday Party",
+      "The Independence Day",
+      "The First World War"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Creative Writing: Application",
+    "topic": "Historical Events",
     "complexity_score": 2
   },
   {
-    "question": "The sentence 'The road has been constructed' is in the passive voice. What is the main reason a writer might choose the passive voice here?",
-    "correct": "The person or thing that constructed the road is unknown or unimportant.",
+    "question": "According to the storytelling tips at the end of the class, what is a key technique to keep the audience engaged?",
+    "correct": "Varying the pitch and tone of your voice.",
     "options": [
-      "To make the sentence sound more active and exciting.",
-      "Because the road is the most important part of the sentence.",
-      "The person or thing that constructed the road is unknown or unimportant.",
-      "It is the only way to talk about construction in the past."
+      "Telling the story as quickly as possible.",
+      "Making sure the story has a predictable ending.",
+      "Varying the pitch and tone of your voice.",
+      "Reading the story directly from a script."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Passive Voice",
+    "topic": "Storytelling Principles",
     "complexity_score": 2
   },
   {
-    "question": "Why is the description 'a man with just a dhoti and a stick' more powerful than saying 'a simply dressed man'?",
-    "correct": "It uses specific, concrete images that the reader can visualize.",
+    "question": "Which sentence correctly applies the rule for using 'the' with ordinal numbers?",
+    "correct": "He won the first prize in the competition.",
     "options": [
-      "It is shorter and easier to read.",
-      "It implies that all leaders should dress simply.",
-      "It uses specific, concrete images that the reader can visualize.",
-      "It explains the historical context of Indian clothing."
+      "He lives on two floor.",
+      "Chapter three is very interesting.",
+      "He won the first prize in the competition.",
+      "I need a one-dollar bill."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Creative Writing: Analysis",
+    "topic": "Ordinal Numbers",
     "complexity_score": 3
   },
   {
-    "question": "Consider the third conditional structure: 'If I had known you were a vegetarian, I would have made vegetarian food.' What does this structure fundamentally imply?",
-    "correct": "A past situation that did not happen and its imagined past result.",
+    "question": "The lesson explained two different uses of 'the' with comparative degrees. In which sentence is 'the' used to show SELECTION between two options?",
+    "correct": "She is the smarter of the two sisters.",
     "options": [
-      "A possible situation in the future.",
-      "A general truth or scientific fact.",
-      "An impossible situation in the present.",
-      "A past situation that did not happen and its imagined past result."
+      "The higher you climb, the colder it gets.",
+      "This box is heavier than that one.",
+      "She is the smarter of the two sisters.",
+      "He is a better singer than I am."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammar: Third Conditional",
+    "topic": "Comparative Degrees (Selection)",
     "complexity_score": 3
   },
   {
-    "question": "The instructor's detailed example of the London trip included the 'smell of the busyness of people' and 'the noise of people talking'. This technique of appealing to multiple senses is effective because it...",
-    "correct": "Creates a more immersive and realistic experience for the reader.",
+    "question": "Which of the following would require 'the' based on the rule for names of political, religious, or cultural groups?",
+    "correct": "The BJP is a political party in India.",
     "options": [
-      "Distracts the reader from the main plot.",
-      "Is a requirement for all travel writing.",
-      "Creates a more immersive and realistic experience for the reader.",
-      "Proves the writer has a good memory."
+      "Christians celebrate Christmas.",
+      "The BJP is a political party in India.",
+      "I am a student at the university.",
+      "She is a fan of pop music."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Creative Writing: Sensory Details",
+    "topic": "Social and Political Groups",
     "complexity_score": 3
   },
   {
-    "question": "During the quiz, a student said, 'If you will give me money, I will pay the fees.' The instructor marked it wrong. What is the rule this sentence breaks?",
-    "correct": "In a first conditional sentence, the 'if' clause uses the simple present tense, not the future 'will'.",
+    "question": "Considering all the rules, why is the first 'the' correct in 'The US is a powerful country,' but a 'the' would be incorrect in '___ China is a powerful country'?",
+    "correct": "'The' is used for countries whose names are short forms or include words like 'Republic' or 'Kingdom'.",
     "options": [
-      "You should use 'would' instead of 'will' in the main clause.",
-      "The sentence should be in the passive voice.",
-      "The word 'then' must be added before 'I will pay'.",
-      "In a first conditional sentence, the 'if' clause uses the simple present tense, not the future 'will'."
+      "All countries with two letters require 'the'.",
+      "'The' is used for countries whose names are short forms or include words like 'Republic' or 'Kingdom'.",
+      "'The' is only used for countries in the Western Hemisphere.",
+      "It is an exception that must be memorized with no specific rule."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammar: First Conditional",
+    "topic": "Geographical Names (Countries)",
     "complexity_score": 3
   },
   {
-    "question": "The instructor contrasted 'Mahatma Gandhi was the leader' with a more story-like opening. What core principle of learning is demonstrated by this teaching method?",
-    "correct": "Connecting abstract facts to concrete, imaginable stories enhances memory and understanding.",
+    "question": "One storytelling tip was to 'make the audience part of the story.' How was this demonstrated in the lesson's advice?",
+    "correct": "By suggesting the use of teachers as characters if speaking in a school.",
     "options": [
-      "Students learn best through memorization and repetition of facts.",
-      "The only goal of writing is to convey information accurately.",
-      "Connecting abstract facts to concrete, imaginable stories enhances memory and understanding.",
-      "Longer sentences are always better than shorter ones."
+      "By asking the audience direct questions.",
+      "By letting the audience choose the ending.",
+      "By making the story very long so everyone is involved.",
+      "By suggesting the use of teachers as characters if speaking in a school."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Learning Science",
+    "topic": "Storytelling Principles",
     "complexity_score": 3
   },
   {
-    "question": "The student said, 'I could not have done homework'. Saksham later said, 'I could have played'. What is the subtle difference in meaning between 'could not have done' and 'could have done'?",
-    "correct": "'Could not have done' implies it was impossible, while 'could have done' implies the opportunity existed but was not taken.",
+    "question": "Which of the following job titles requires 'the' because it refers to a main or unique post?",
+    "correct": "The Prime Minister of India will give a speech.",
     "options": [
-      "There is no difference; they mean the same thing.",
-      "'Could not have done' is for the past, and 'could have done' is for the future.",
-      "'Could have done' is a more polite way of speaking.",
-      "'Could not have done' implies it was impossible, while 'could have done' implies the opportunity existed but was not taken."
+      "She wants to become a doctor.",
+      "The Prime Minister of India will give a speech.",
+      "He works as an engineer.",
+      "My father is a teacher."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammar: Modal Verbs (Past)",
+    "topic": "Titles and Posts",
     "complexity_score": 3
   }
 ]
