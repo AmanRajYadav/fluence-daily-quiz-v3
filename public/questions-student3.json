@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the main English grammar topic for today's lesson?",
-    "correct": "Tenses",
-    "options": [
-      "Nouns",
-      "Adjectives",
-      "Tenses",
-      "Pronouns"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Lesson Introduction",
-    "complexity_score": 1
-  },
-  {
-    "question": "According to the teacher, what have the students already covered a lot of?",
-    "correct": "The grammar part",
-    "options": [
-      "Speaking practice",
-      "The grammar part",
-      "Vocabulary exercises",
-      "Reading comprehension"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Lesson Context",
-    "complexity_score": 1
-  },
-  {
-    "question": "The teacher described today's lesson as being more what?",
-    "correct": "Interesting",
-    "options": [
-      "Difficult",
-      "Interesting",
-      "Theoretical",
-      "Short"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Lesson Focus",
-    "complexity_score": 1
-  },
-  {
-    "question": "What are the two main practical skills the lesson will focus on?",
-    "correct": "How to talk and ask questions",
-    "options": [
-      "How to write essays and emails",
-      "How to read faster and understand",
-      "How to talk and ask questions",
-      "How to listen and take notes"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Lesson Goals",
-    "complexity_score": 1
-  },
-  {
-    "question": "Today's subject of study is...",
+    "question": "According to the teacher's announcement, what subject will be studied today?",
     "correct": "English",
     "options": [
+      "Mathematics",
       "Hindi",
-      "Science",
-      "Math",
-      "English"
+      "English",
+      "Science"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Lesson Introduction",
+    "topic": "Identifying the Class Subject",
     "complexity_score": 1
   },
   {
-    "question": "What did the teacher hint at by saying 'और भी बहुत कुछ' (and much more)?",
-    "correct": "The lesson will cover more than just the basics mentioned",
+    "question": "In which language was the teacher's opening statement, 'तो आज हम लोग पड़िं एंग्लिष', made?",
+    "correct": "Hindi",
     "options": [
-      "The class will be very long",
-      "There will be a surprise test",
-      "The lesson will cover more than just the basics mentioned",
-      "The grammar rules are very complex"
+      "English",
+      "Sanskrit",
+      "Hindi",
+      "Marathi"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Lesson Scope",
+    "topic": "Language of Instruction",
     "complexity_score": 1
   },
   {
-    "question": "Why is this lesson on tenses likely to be 'more interesting' than previous grammar lessons?",
-    "correct": "It focuses on using grammar for real-life conversation",
+    "question": "What does the word 'आज' (aaj) mean in the context of the sentence spoken?",
+    "correct": "Today",
     "options": [
-      "It involves fewer rules to memorize",
-      "It will have more pictures and videos",
-      "It focuses on using grammar for real-life conversation",
-      "It is the final grammar topic"
+      "Tomorrow",
+      "Yesterday",
+      "Today",
+      "Always"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Vocabulary: Time",
+    "complexity_score": 1
+  },
+  {
+    "question": "The phrase 'हम लोग' (hum log) translates to what in English?",
+    "correct": "We / We people",
+    "options": [
+      "You",
+      "They",
+      "We / We people",
+      "I"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Vocabulary: Pronouns",
+    "complexity_score": 1
+  },
+  {
+    "question": "The word 'एंग्लिष' in the transcript is the Hindi way of saying which subject?",
+    "correct": "English",
+    "options": [
+      "Geography",
+      "History",
+      "English",
+      "Art"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Subject Identification",
+    "complexity_score": 1
+  },
+  {
+    "question": "What action does the word 'पड़िं' (padhenge) indicate the class will be doing?",
+    "correct": "Studying",
+    "options": [
+      "Playing",
+      "Singing",
+      "Studying",
+      "Writing"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Vocabulary: Actions",
+    "complexity_score": 1
+  },
+  {
+    "question": "The teacher repeated the main sentence multiple times. What was the most likely purpose of this repetition?",
+    "correct": "To create focus and state the day's goal clearly",
+    "options": [
+      "Because the students were not listening",
+      "To practice pronunciation",
+      "To create focus and state the day's goal clearly",
+      "To fill time at the beginning of the class"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Application of Tenses",
+    "topic": "Pedagogical Strategy",
     "complexity_score": 2
   },
   {
-    "question": "What is the main difference between the previous lessons and the one being introduced?",
-    "correct": "The shift from theory to practical application",
+    "question": "The phrase 'पड़िं एंग्लिष' (padhenge English) suggests an action that will happen when?",
+    "correct": "In the near future (today)",
     "options": [
-      "The teacher will be speaking only in English",
-      "The shift from theory to practical application",
-      "Students will work in groups",
-      "There will be no homework"
+      "In the past (yesterday)",
+      "In the distant future (next year)",
+      "In the near future (today)",
+      "It is happening right now"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Pedagogical Approach",
+    "topic": "Grammar: Tense",
     "complexity_score": 2
   },
   {
-    "question": "The phrase 'हम सब ही कैसे बात कर सकते हैं' (how we can all talk) suggests the lesson's goal is to...",
-    "correct": "Improve everyone's spoken English skills",
+    "question": "What does the use of the term 'हम लोग' (hum log) imply about the learning process announced by the teacher?",
+    "correct": "It is a collective activity for the whole group",
     "options": [
-      "Identify the best speaker in the class",
-      "Focus only on public speaking",
-      "Correct pronunciation errors",
-      "Improve everyone's spoken English skills"
+      "Only the teacher will be learning",
+      "It is an individual activity for each student",
+      "It is a collective activity for the whole group",
+      "Learning is optional"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Lesson Goals",
+    "topic": "Inferring Learning Environment",
     "complexity_score": 2
   },
   {
-    "question": "How does learning to 'ask questions' with tenses help in a conversation?",
-    "correct": "It allows for active participation and gathering information",
+    "question": "The entire sentence 'तो आज हम लोग पड़िं एंग्लिष' serves as what for the lesson?",
+    "correct": "An introduction and statement of objective",
     "options": [
-      "It makes the conversation shorter",
-      "It allows for active participation and gathering information",
-      "It proves you know more grammar",
-      "It is only useful for interviews"
+      "A review of a previous lesson",
+      "A complex grammar exercise",
+      "An introduction and statement of objective",
+      "A concluding summary"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Application of Tenses",
+    "topic": "Lesson Structure",
     "complexity_score": 2
   },
   {
-    "question": "This lesson treats tenses not just as rules, but as tools for...",
-    "correct": "Communication",
+    "question": "Which specific word in the sentence identifies the topic of study?",
+    "correct": "एंग्लिष",
     "options": [
-      "Passing exams",
-      "Writing fiction",
-      "Communication",
-      "Memorization"
+      "आज",
+      "हम लोग",
+      "एंग्लिष",
+      "पड़िं"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Conceptual Understanding",
+    "topic": "Sentence Analysis",
     "complexity_score": 2
   },
   {
-    "question": "The lesson aims to bridge the gap between knowing grammar and...",
-    "correct": "Using grammar to speak confidently",
+    "question": "By announcing the subject in Hindi, the teacher is connecting with the students'...",
+    "correct": "Native language",
     "options": [
-      "Knowing advanced vocabulary",
-      "Forgetting old grammar rules",
-      "Using grammar to speak confidently",
-      "Teaching grammar to others"
+      "Favorite subject",
+      "Previous knowledge of English",
+      "Native language",
+      "Future career goals"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Pedagogical Approach",
+    "topic": "Teaching Methodology",
     "complexity_score": 2
   },
   {
-    "question": "Based on the introduction, successful learning in this lesson would look like a student...",
-    "correct": "Being able to have a simple conversation using correct tenses",
+    "question": "What is the primary function of the word 'तो' (to) at the very beginning of the sentence?",
+    "correct": "To act as a transition or discourse marker, like 'So' or 'Well then'",
     "options": [
-      "Reciting all tense rules from memory",
-      "Being able to have a simple conversation using correct tenses",
-      "Scoring perfectly on a grammar worksheet",
-      "Writing a long paragraph without errors"
+      "To ask a question",
+      "To name a person",
+      "To act as a transition or discourse marker, like 'So' or 'Well then'",
+      "To specify a location"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Learning Outcomes",
+    "topic": "Linguistic Nuance",
     "complexity_score": 2
   },
   {
-    "question": "The focus on speaking suggests that the ultimate goal of learning grammar is...",
-    "correct": "To become a fluent and effective communicator",
+    "question": "How does clearly stating 'Today we will study English' help a student's brain prepare for learning?",
+    "correct": "It activates prior knowledge and sets a clear expectation",
     "options": [
-      "To become a grammar teacher",
-      "To understand complex literature",
-      "To become a fluent and effective communicator",
-      "To win spelling competitions"
+      "It prevents the brain from thinking about other subjects",
+      "It makes the lesson seem shorter",
+      "It activates prior knowledge and sets a clear expectation",
+      "It guarantees the student will get a good grade"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Conceptual Understanding",
+    "topic": "Cognitive Science of Learning",
     "complexity_score": 2
   },
   {
-    "question": "Why is it logical to focus on speaking and asking questions *after* covering most of the grammar part?",
-    "correct": "To apply the learned theoretical knowledge in a practical context",
+    "question": "Analyzing the sentence structure, what is the grammatical role of 'एंग्लिष' in relation to the verb 'पड़िं'?",
+    "correct": "It is the object of the verb",
     "options": [
-      "Because speaking is the easiest part of learning a language",
-      "To give students a break from difficult grammar rules",
-      "To apply the learned theoretical knowledge in a practical context",
-      "Because the textbook is structured that way"
+      "It is the subject performing the action",
+      "It is an adjective describing the action",
+      "It is the object of the verb",
+      "It is a conjunction connecting two ideas"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Critical Analysis",
+    "topic": "Grammatical Analysis",
     "complexity_score": 3
   },
   {
-    "question": "What problem does this lesson's approach aim to solve for language learners?",
-    "correct": "Knowing rules but being unable to speak",
+    "question": "If the teacher wanted to say 'Today, I will study English' instead of 'we', how would the phrase 'हम लोग' (hum log) most likely change?",
+    "correct": "It would be replaced by 'मैं' (main)",
     "options": [
-      "Forgetting vocabulary words",
-      "Having a poor accent",
-      "Not enjoying reading books",
-      "Knowing rules but being unable to speak"
+      "It would be replaced by 'तुम' (tum)",
+      "It would be replaced by 'वे' (ve)",
+      "It would be replaced by 'मैं' (main)",
+      "It would not change"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Problem-Solving in Learning",
+    "topic": "Advanced Pronoun Application",
     "complexity_score": 3
   },
   {
-    "question": "The shift from 'what grammar is' to 'what grammar does' suggests that language proficiency is primarily about...",
-    "correct": "Function and communication",
+    "question": "The choice to introduce an English lesson in Hindi most strongly implies that the students are...",
+    "correct": "Native or fluent Hindi speakers learning English as a new language",
     "options": [
-      "Accuracy and perfection",
-      "Function and communication",
-      "Memory and recall",
-      "Speed and vocabulary size"
+      "Native English speakers learning Hindi",
+      "Experts in both English and Hindi",
+      "Native or fluent Hindi speakers learning English as a new language",
+      "Beginners in both Hindi and English"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Linguistic Philosophy",
+    "topic": "Deductive Reasoning",
     "complexity_score": 3
   },
   {
-    "question": "How does learning to use tenses for asking questions empower a student beyond the classroom?",
-    "correct": "It builds confidence and enables them to actively seek knowledge in real life",
+    "question": "How does this simple, direct opening statement align with the principle of creating a low-anxiety learning environment for a new language?",
+    "correct": "It provides a clear, achievable goal without overwhelming learners",
     "options": [
-      "It helps them score better on listening tests",
-      "It guarantees they will never make a mistake",
-      "It builds confidence and enables them to actively seek knowledge in real life",
-      "It is not a useful skill outside of school"
+      "It tests the students' listening skills immediately",
+      "It establishes the teacher's authority",
+      "It provides a clear, achievable goal without overwhelming learners",
+      "It forces students to speak a new language immediately"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Real-World Application",
+    "topic": "Learning Psychology",
     "complexity_score": 3
   },
   {
-    "question": "By framing the lesson as 'interesting', the teacher is likely trying to foster what kind of mindset in students?",
-    "correct": "A growth mindset where grammar is a useful and engaging tool",
+    "question": "Consider the repetitive nature of the announcement. In a pedagogical context, this could be seen as an effort to build what among the students?",
+    "correct": "A shared sense of purpose and anticipation",
     "options": [
-      "A competitive mindset to be the best student",
-      "A fixed mindset where grammar is naturally easy or hard",
-      "A growth mindset where grammar is a useful and engaging tool",
-      "A belief that English is more important than other subjects"
+      "Confusion about the day's topic",
+      "A competitive spirit",
+      "A shared sense of purpose and anticipation",
+      "A desire to learn Hindi instead"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition & Mindset",
+    "topic": "Classroom Dynamics",
     "complexity_score": 3
   },
   {
-    "question": "What is the most important long-term outcome of a lesson focused on using tenses to 'talk' and 'ask questions'?",
-    "correct": "Increased conversational fluency and confidence",
+    "question": "What fundamental learning principle is demonstrated by the teacher clearly stating the lesson's subject at the very beginning?",
+    "correct": "Setting a clear learning objective",
     "options": [
-      "Perfect grammatical accuracy on paper",
-      "The ability to diagram any sentence",
-      "A complete memorization of verb conjugations",
-      "Increased conversational fluency and confidence"
+      "Spaced repetition",
+      "Inquiry-based learning",
+      "Setting a clear learning objective",
+      "Peer-to-peer teaching"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Learning Outcomes",
+    "topic": "Educational Principles",
     "complexity_score": 3
   }
 ]
