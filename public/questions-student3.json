@@ -1,282 +1,282 @@
 [
   {
-    "question": "Which tense is used to describe an action that is happening right now?",
-    "correct": "Present Tense",
+    "question": "आज की क्लास का मुख्य विषय क्या है? (What is the main topic of today's class?)",
+    "correct": "Tenses",
+    "options": [
+      "Nouns",
+      "Adjectives",
+      "Tenses",
+      "Pronouns"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Lesson Introduction",
+    "complexity_score": 1
+  },
+  {
+    "question": "शिक्षक के अनुसार, व्याकरण के अलावा आज की क्लास किस पर ध्यान केंद्रित करेगी? (According to the teacher, besides grammar, what will today's class focus on?)",
+    "correct": "बात कैसे करें और सवाल कैसे पूछें (How to talk and how to ask questions)",
+    "options": [
+      "लंबे निबंध कैसे लिखें (How to write long essays)",
+      "कविता कैसे पढ़ें (How to read poetry)",
+      "बात कैसे करें और सवाल कैसे पूछें (How to talk and how to ask questions)",
+      "परीक्षा के लिए कैसे पढ़ें (How to study for exams)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Lesson Goals",
+    "complexity_score": 1
+  },
+  {
+    "question": "The lesson aims to make learning tenses more...",
+    "correct": "Interesting",
+    "options": [
+      "Difficult",
+      "Theoretical",
+      "Interesting",
+      "Confusing"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Lesson Approach",
+    "complexity_score": 1
+  },
+  {
+    "question": "The main purpose of learning tenses in this lesson is for...",
+    "correct": "Practical communication",
+    "options": [
+      "Passing a written test",
+      "Memorizing rules",
+      "Practical communication",
+      "Translating documents"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Lesson Application",
+    "complexity_score": 1
+  },
+  {
+    "question": "What fundamental aspect of an action do tenses help us understand?",
+    "correct": "The time of the action",
+    "options": [
+      "The location of the action",
+      "The person doing the action",
+      "The time of the action",
+      "The speed of the action"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Tense Function",
+    "complexity_score": 1
+  },
+  {
+    "question": "Based on the introduction, the class is shifting from just knowing grammar rules to...",
+    "correct": "Using grammar to speak",
+    "options": [
+      "Learning more complex rules",
+      "Forgetting all the old rules",
+      "Using grammar to speak",
+      "Focusing only on writing"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Learning Focus",
+    "complexity_score": 1
+  },
+  {
+    "question": "To ask a question about something that will happen tomorrow, which category of tense would you use?",
+    "correct": "Future Tense",
     "options": [
       "Past Tense",
-      "Future Tense",
       "Present Tense",
+      "Future Tense",
       "Perfect Tense"
     ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Tense Identification",
-    "complexity_score": 1
-  },
-  {
-    "question": "The sentence 'She will visit her grandmother tomorrow' is an example of which tense?",
-    "correct": "Future Tense",
-    "options": [
-      "Past Tense",
-      "Present Tense",
-      "Future Tense",
-      "Present Continuous Tense"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Tense Identification",
-    "complexity_score": 1
-  },
-  {
-    "question": "The main purpose of using different tenses is to show...",
-    "correct": "When an action takes place",
-    "options": [
-      "How long a sentence is",
-      "Who is performing the action",
-      "When an action takes place",
-      "Where an action happens"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Function of Tenses",
-    "complexity_score": 1
-  },
-  {
-    "question": "What tense would you use to talk about something that happened yesterday?",
-    "correct": "Past Tense",
-    "options": [
-      "Present Tense",
-      "Past Tense",
-      "Future Tense",
-      "Current Tense"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Tense Application",
-    "complexity_score": 1
-  },
-  {
-    "question": "The word 'grammar' in our lesson refers to...",
-    "correct": "The rules for how words are used in a language",
-    "options": [
-      "The number of words you know",
-      "How fast you can read",
-      "The rules for how words are used in a language",
-      "The history of dancing"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Core Concepts",
-    "complexity_score": 1
-  },
-  {
-    "question": "In the sentence 'They played outside all afternoon,' which word indicates the past tense?",
-    "correct": "played",
-    "options": [
-      "They",
-      "outside",
-      "played",
-      "afternoon"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Tense Identification",
-    "complexity_score": 1
-  },
-  {
-    "question": "To describe a 'situation' that has not happened yet, which tense is the most appropriate?",
-    "correct": "Future Tense",
-    "options": [
-      "Past Tense",
-      "Future Tense",
-      "Present Tense",
-      "A mix of all tenses"
-    ],
     "difficulty": "medium",
     "questionType": "mcq",
     "topic": "Tense Application",
     "complexity_score": 2
   },
   {
-    "question": "If you are telling a friend a story about your last birthday party, which tense would you use most often?",
-    "correct": "Past Tense",
+    "question": "The phrase 'how we can talk' implies that tenses are essential for...",
+    "correct": "Describing events clearly",
     "options": [
-      "Past Tense",
-      "Present Tense",
-      "Future Tense",
-      "It doesn't matter"
+      "Speaking very loudly",
+      "Using complicated vocabulary",
+      "Describing events clearly",
+      "Writing fictional stories"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Contextual Tense Usage",
+    "topic": "Tense Function in Speech",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly describes a current, ongoing situation?",
-    "correct": "I am learning about grammar.",
+    "question": "Which question correctly uses a tense to ask about an action happening right now?",
+    "correct": "What are you doing?",
     "options": [
-      "I learned about grammar.",
-      "I will learn about grammar.",
-      "I am learning about grammar.",
-      "I learn grammar yesterday."
+      "What did you do?",
+      "What will you do?",
+      "What are you doing?",
+      "What have you done?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Tense Application",
+    "topic": "Question Formulation",
     "complexity_score": 2
   },
   {
-    "question": "Why is it important to 'learn more and more' about grammar, as mentioned in the lesson?",
-    "correct": "To communicate more clearly and accurately about different situations.",
+    "question": "Why is 'learning how to ask questions' a key part of becoming a good conversationalist?",
+    "correct": "It shows you are engaged and helps you get information.",
     "options": [
-      "To make sentences as long as possible.",
-      "Because the teacher said so.",
-      "To communicate more clearly and accurately about different situations.",
-      "To use bigger words."
+      "It makes you seem more intelligent.",
+      "It allows you to control the conversation.",
+      "It shows you are engaged and helps you get information.",
+      "It is the only way to practice grammar."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Purpose of Learning Grammar",
+    "topic": "Conversational Skills",
     "complexity_score": 2
   },
   {
-    "question": "How does changing the tense of a verb change the 'situation' being described?",
-    "correct": "It changes the timeframe of the action.",
+    "question": "If your friend says, 'I went to the market yesterday,' the tense helps you understand...",
+    "correct": "The action is completed and happened in the past.",
     "options": [
-      "It makes the sentence more interesting.",
-      "It changes the person doing the action.",
-      "It changes the timeframe of the action.",
-      "It doesn't change the situation at all."
+      "The action is happening right now.",
+      "The action is a future plan.",
+      "The action is completed and happened in the past.",
+      "The action may or may not happen."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Function of Tenses",
+    "topic": "Tense Interpretation",
     "complexity_score": 2
   },
   {
-    "question": "A weather forecast says, 'It will rain later today.' The tense used helps you understand that...",
-    "correct": "The rain is a future event you should prepare for.",
+    "question": "This lesson connects the abstract concept of 'tenses' to the real-world skill of...",
+    "correct": "Speaking with others",
     "options": [
-      "It is raining right now.",
-      "The rain is a future event you should prepare for.",
-      "It rained earlier in the morning.",
-      "The forecast is just a guess."
+      "Academic research",
+      "Computer programming",
+      "Speaking with others",
+      "Mathematical calculation"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Real-World Application",
+    "topic": "Concept Connection",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which of the following is NOT a primary goal of this lesson, based on the teacher's introduction?",
+    "correct": "Analyzing complex poetry",
+    "options": [
+      "Improving spoken English",
+      "Learning to ask questions effectively",
+      "Making grammar interesting",
+      "Analyzing complex poetry"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Lesson Scope",
+    "complexity_score": 2
+  },
+  {
+    "question": "How do tenses provide context in a conversation?",
+    "correct": "By establishing a clear timeline for events.",
+    "options": [
+      "By making sentences longer.",
+      "By using more difficult words.",
+      "By establishing a clear timeline for events.",
+      "By changing the topic of conversation."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Tense Function",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why would a conversation become confusing if a speaker used the wrong tenses?",
+    "correct": "The sequence and timing of events would be unclear.",
+    "options": [
+      "The speaker's accent would change.",
+      "The volume of their voice would be too low.",
+      "The sequence and timing of events would be unclear.",
+      "It is impossible to use the wrong tense."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Critical Analysis",
     "complexity_score": 3
   },
   {
-    "question": "A history book primarily uses the past tense. Why is this the best choice?",
-    "correct": "Because it accurately describes events that have already concluded.",
+    "question": "The teacher's focus on 'how we can talk' suggests that the value of grammar is found in its...",
+    "correct": "Application",
     "options": [
-      "To make the stories sound more exciting.",
-      "Because it accurately describes events that have already concluded.",
-      "Because history books are always written in the future.",
-      "It is the only tense allowed in books."
+      "Complexity",
+      "History",
+      "Application",
+      "Memorization"
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Contextual Tense Usage",
+    "topic": "Pedagogical Approach",
     "complexity_score": 3
   },
   {
-    "question": "If you switch from saying 'I walk' to 'I am walking,' how does the meaning of the 'situation' change?",
-    "correct": "It changes from a general habit to an action happening right now.",
+    "question": "How does learning to ask questions in different tenses (past, present, future) make a conversation more dynamic?",
+    "correct": "It allows for discussion of a wider range of topics and experiences.",
     "options": [
-      "It means you are walking faster.",
-      "It changes from a past action to a future one.",
-      "It changes from a general habit to an action happening right now.",
-      "It has no change in meaning."
+      "It ensures the conversation never ends.",
+      "It forces the other person to answer in a specific way.",
+      "It allows for discussion of a wider range of topics and experiences.",
+      "It proves that you have memorized all the grammar rules."
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Nuances of Tense",
+    "topic": "Conversational Strategy",
     "complexity_score": 3
   },
   {
-    "question": "Read the sentences: 'I was nervous. Now I am confident. I will be successful.' How do the tenses work together here?",
-    "correct": "They show a progression of feelings over time.",
+    "question": "If you could only use the present tense, what would be the biggest limitation in your ability to communicate?",
+    "correct": "You could not share past experiences or talk about future plans.",
     "options": [
-      "They describe three different people.",
-      "They show a progression of feelings over time.",
-      "They are used incorrectly and confuse the reader.",
-      "They only describe a situation in the present."
+      "You would not be able to describe what is happening now.",
+      "You could not ask any questions at all.",
+      "You could not share past experiences or talk about future plans.",
+      "People would not understand your vocabulary."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Tense Combination Analysis",
-    "complexity_score": 4
+    "topic": "Hypothetical Analysis",
+    "complexity_score": 3
   },
   {
-    "question": "If a storyteller wants to create suspense about what is going to happen next, which tense would they most likely switch to?",
-    "correct": "Future Tense",
+    "question": "The teacher shifts the focus from 'what tenses are' to 'what tenses DO'. Why is this an effective learning strategy?",
+    "correct": "It connects rules to a clear, practical purpose, increasing motivation.",
     "options": [
-      "Past Tense, to describe what already happened.",
-      "Future Tense",
-      "Present Tense, to make it feel immediate.",
-      "They would not use any tense."
+      "It avoids the need to learn any rules.",
+      "It makes the lesson shorter and easier.",
+      "It connects rules to a clear, practical purpose, increasing motivation.",
+      "It is better for students who only like to read."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Authorial Intent and Tense",
-    "complexity_score": 4
+    "topic": "Learning Science",
+    "complexity_score": 3
   },
   {
-    "question": "The lesson mentioned moving beyond the 'grammar part' we already know to 'learn more and more.' What does this imply about our learning goal?",
-    "correct": "We are moving from simply identifying tenses to using them skillfully in context.",
+    "question": "Evaluating the teacher's method: Why is starting a tenses lesson with 'asking questions' a powerful way to engage students?",
+    "correct": "It immediately demonstrates a useful and interactive outcome of the lesson.",
     "options": [
-      "We must forget all the grammar we have learned.",
-      "We are moving from simply identifying tenses to using them skillfully in context.",
-      "We will only focus on one tense from now on.",
-      "Grammar is not important anymore."
+      "Because asking questions is the only use for tenses.",
+      "It's easier than explaining statements.",
+      "It immediately demonstrates a useful and interactive outcome of the lesson.",
+      "It helps the teacher check attendance quickly."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognitive Analysis",
-    "complexity_score": 5
-  },
-  {
-    "question": "Which of the following 'situations' is the most complex to describe because it requires a combination of tenses?",
-    "correct": "Explaining how something you learned yesterday will help you tomorrow.",
-    "options": [
-      "Describing what you are eating for lunch.",
-      "Listing the things you did this morning.",
-      "Explaining how something you learned yesterday will help you tomorrow.",
-      "Stating a plan for next weekend."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Complex Tense Application",
-    "complexity_score": 5
-  },
-  {
-    "question": "Someone says, 'I went to the store, and I will be making dinner soon.' What does the use of two different tenses tell you?",
-    "correct": "It connects a completed past action to a planned future action.",
-    "options": [
-      "The speaker is confused about when things happened.",
-      "It connects a completed past action to a planned future action.",
-      "The sentence is grammatically incorrect.",
-      "Both actions are happening at the same time."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Tense Combination Analysis",
-    "complexity_score": 4
-  },
-  {
-    "question": "How does mastering tenses help us 'talk about the situation' more effectively?",
-    "correct": "It allows us to place events in a clear timeline for the listener.",
-    "options": [
-      "It makes our sentences sound more poetic.",
-      "It guarantees that everyone will agree with us.",
-      "It allows us to place events in a clear timeline for the listener.",
-      "It is not related to talking about situations."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Synthesis of Concepts",
-    "complexity_score": 5
+    "topic": "Teaching Strategy Analysis",
+    "complexity_score": 3
   }
 ]
