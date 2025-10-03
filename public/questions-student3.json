@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the teacher's announcement, what subject will be studied today?",
-    "correct": "English",
+    "question": "आज की क्लास में हम कौन सा विषय (subject) पढ़ रहे हैं?",
+    "correct": "इंग्लिश (English)",
     "options": [
-      "Mathematics",
-      "Hindi",
-      "English",
-      "Science"
+      "हिंदी (Hindi)",
+      "गणित (Maths)",
+      "इंग्लिश (English)",
+      "विज्ञान (Science)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Identifying the Class Subject",
+    "topic": "Lesson Introduction",
     "complexity_score": 1
   },
   {
-    "question": "In which language was the teacher's opening statement, 'तो आज हम लोग पड़िं एंग्लिष', made?",
-    "correct": "Hindi",
+    "question": "इंग्लिश ग्रामर का कौन सा मुख्य टॉपिक आज सिखाया जा रहा है?",
+    "correct": "Tenses",
     "options": [
-      "English",
-      "Sanskrit",
-      "Hindi",
-      "Marathi"
+      "Nouns",
+      "Adjectives",
+      "Tenses",
+      "Pronouns"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Language of Instruction",
+    "topic": "Core Concept Identification",
     "complexity_score": 1
   },
   {
-    "question": "What does the word 'आज' (aaj) mean in the context of the sentence spoken?",
-    "correct": "Today",
+    "question": "आज की क्लास का मुख्य लक्ष्य (main goal) क्या है?",
+    "correct": "बात करना और सवाल पूछना सीखना",
     "options": [
-      "Tomorrow",
-      "Yesterday",
-      "Today",
-      "Always"
+      "एक परीक्षा पास करना",
+      "बात करना और सवाल पूछना सीखना",
+      "केवल ग्रामर के नियम लिखना",
+      "एक कहानी पढ़ना"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary: Time",
+    "topic": "Lesson Objective",
     "complexity_score": 1
   },
   {
-    "question": "The phrase 'हम लोग' (hum log) translates to what in English?",
-    "correct": "We / We people",
+    "question": "टीचर के अनुसार, पिछली ग्रामर क्लास की तुलना में आज की क्लास कैसी होगी?",
+    "correct": "और ज्यादा दिलचस्प (More interesting)",
     "options": [
-      "You",
-      "They",
-      "We / We people",
-      "I"
+      "और ज्यादा मुश्किल (More difficult)",
+      "पहले जैसी ही (The same as before)",
+      "और ज्यादा दिलचस्प (More interesting)",
+      "छोटी (Shorter)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary: Pronouns",
+    "topic": "Lesson Framing",
     "complexity_score": 1
   },
   {
-    "question": "The word 'एंग्लिष' in the transcript is the Hindi way of saying which subject?",
-    "correct": "English",
+    "question": "Tenses सीखने से हमें किस विशेष प्रकार की बातचीत करने में मदद मिलेगी?",
+    "correct": "सवाल पूछने में",
     "options": [
-      "Geography",
-      "History",
-      "English",
-      "Art"
+      "चुप रहने में",
+      "केवल लिखने में",
+      "सवाल पूछने में",
+      "दूसरों को अनदेखा करने में"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Subject Identification",
+    "topic": "Practical Application",
     "complexity_score": 1
   },
   {
-    "question": "What action does the word 'पड़िं' (padhenge) indicate the class will be doing?",
-    "correct": "Studying",
+    "question": "ट्रांसक्रिप्ट के अनुसार, छात्रों को ग्रामर का पहले से कितना ज्ञान है?",
+    "correct": "उन्होंने ग्रामर का अधिकांश भाग पूरा कर लिया है",
     "options": [
-      "Playing",
-      "Singing",
-      "Studying",
-      "Writing"
+      "उन्हें ग्रामर का कोई ज्ञान नहीं है",
+      "उन्होंने अभी ग्रामर शुरू की है",
+      "उन्होंने ग्रामर का अधिकांश भाग पूरा कर लिया है",
+      "वे ग्रामर में विशेषज्ञ हैं"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary: Actions",
+    "topic": "Prior Knowledge Assessment",
     "complexity_score": 1
   },
   {
-    "question": "The teacher repeated the main sentence multiple times. What was the most likely purpose of this repetition?",
-    "correct": "To create focus and state the day's goal clearly",
+    "question": "बातचीत पर ध्यान केंद्रित करने वाला पाठ (lesson) नियमों को याद करने वाले पाठ से 'और ज्यादा दिलचस्प' क्यों हो सकता है?",
+    "correct": "क्योंकि यह वास्तविक जीवन में भाषा का उपयोग करना सिखाता है",
     "options": [
-      "Because the students were not listening",
-      "To practice pronunciation",
-      "To create focus and state the day's goal clearly",
-      "To fill time at the beginning of the class"
+      "क्योंकि इसमें कम लिखना पड़ता है",
+      "क्योंकि यह हमेशा छोटा होता है",
+      "क्योंकि यह वास्तविक जीवन में भाषा का उपयोग करना सिखाता है",
+      "क्योंकि इसमें कोई नियम नहीं होते"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Pedagogical Strategy",
+    "topic": "Inferential Reasoning",
     "complexity_score": 2
   },
   {
-    "question": "The phrase 'पड़िं एंग्लिष' (padhenge English) suggests an action that will happen when?",
-    "correct": "In the near future (today)",
+    "question": "यह जानना कि 'कैसे सवाल पूछें' (how to ask questions), बातचीत के लिए क्यों महत्वपूर्ण है?",
+    "correct": "यह हमें जानकारी इकट्ठा करने और दूसरों में रुचि दिखाने की अनुमति देता है",
     "options": [
-      "In the past (yesterday)",
-      "In the distant future (next year)",
-      "In the near future (today)",
-      "It is happening right now"
+      "यह बातचीत को जल्दी खत्म करने में मदद करता है",
+      "इसका कोई महत्व नहीं है, केवल जवाब देना महत्वपूर्ण है",
+      "यह हमें जानकारी इकट्ठा करने और दूसरों में रुचि दिखाने की अनुमति देता है",
+      "यह केवल शिक्षकों के लिए महत्वपूर्ण है"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Tense",
+    "topic": "Application of Skills",
     "complexity_score": 2
   },
   {
-    "question": "What does the use of the term 'हम लोग' (hum log) imply about the learning process announced by the teacher?",
-    "correct": "It is a collective activity for the whole group",
+    "question": "Tenses सीखने और 'कैसे बात करें' के बीच क्या संबंध है?",
+    "correct": "Tenses हमें यह बताने में मदद करते हैं कि कोई घटना कब हुई (अतीत, वर्तमान, भविष्य)",
     "options": [
-      "Only the teacher will be learning",
-      "It is an individual activity for each student",
-      "It is a collective activity for the whole group",
-      "Learning is optional"
+      "कोई संबंध नहीं है; वे दो अलग-अलग विषय हैं",
+      "Tenses केवल लिखने के लिए होते हैं, बोलने के लिए नहीं",
+      "Tenses हमें यह बताने में मदद करते हैं कि कोई घटना कब हुई (अतीत, वर्तमान, भविष्य)",
+      "अच्छी तरह से बात करने के लिए Tenses सीखना अनावश्यक है"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Inferring Learning Environment",
+    "topic": "Connecting Concepts",
     "complexity_score": 2
   },
   {
-    "question": "The entire sentence 'तो आज हम लोग पड़िं एंग्लिष' serves as what for the lesson?",
-    "correct": "An introduction and statement of objective",
+    "question": "टीचर का यह कहना कि 'we have done most of the grammar part' का क्या तात्पर्य है?",
+    "correct": "आज का पाठ पिछले ज्ञान पर आधारित होगा",
     "options": [
-      "A review of a previous lesson",
-      "A complex grammar exercise",
-      "An introduction and statement of objective",
-      "A concluding summary"
+      "ग्रामर अब महत्वपूर्ण नहीं है",
+      "छात्रों को सब कुछ भूल जाना चाहिए जो उन्होंने सीखा है",
+      "आज का पाठ पिछले ज्ञान पर आधारित होगा",
+      "अब और ग्रामर नहीं सिखाई जाएगी"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Lesson Structure",
+    "topic": "Teacher's Intent",
     "complexity_score": 2
   },
   {
-    "question": "Which specific word in the sentence identifies the topic of study?",
-    "correct": "एंग्लिष",
+    "question": "आज के पाठ का फोकस ग्रामर के नियमों (rules) से हटकर किस चीज़ पर है?",
+    "correct": "ग्रामर के व्यावहारिक उपयोग (practical use) पर",
     "options": [
-      "आज",
-      "हम लोग",
-      "एंग्लिष",
-      "पड़िं"
+      "अधिक जटिल नियमों पर",
+      "ग्रामर के इतिहास पर",
+      "ग्रामर के व्यावहारिक उपयोग (practical use) पर",
+      "ग्रामर की परीक्षा पर"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Sentence Analysis",
+    "topic": "Pedagogical Approach",
     "complexity_score": 2
   },
   {
-    "question": "By announcing the subject in Hindi, the teacher is connecting with the students'...",
-    "correct": "Native language",
+    "question": "यह पाठ केवल 'क्या' जानना है (नियम) से आगे बढ़कर 'कैसे' जानना है (उपयोग) तक कैसे जाता है?",
+    "correct": "बातचीत और सवाल पूछने के अभ्यास पर ध्यान केंद्रित करके",
     "options": [
-      "Favorite subject",
-      "Previous knowledge of English",
-      "Native language",
-      "Future career goals"
+      "अधिक नियमों को सूचीबद्ध करके",
+      "एक लंबा व्याख्यान देकर",
+      "बातचीत और सवाल पूछने के अभ्यास पर ध्यान केंद्रित करके",
+      "एक कठिन परीक्षा लेकर"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Teaching Methodology",
+    "topic": "Learning Process Analysis",
     "complexity_score": 2
   },
   {
-    "question": "What is the primary function of the word 'तो' (to) at the very beginning of the sentence?",
-    "correct": "To act as a transition or discourse marker, like 'So' or 'Well then'",
+    "question": "Tenses का सही उपयोग करके सवाल पूछने की क्षमता विकसित करने से आपकी बातचीत पर क्या प्रभाव पड़ेगा?",
+    "correct": "आपकी बातचीत अधिक सार्थक और जानकारीपूर्ण हो जाएगी",
     "options": [
-      "To ask a question",
-      "To name a person",
-      "To act as a transition or discourse marker, like 'So' or 'Well then'",
-      "To specify a location"
+      "आपकी बातचीत छोटी हो जाएगी",
+      "आपकी बातचीत अधिक सार्थक और जानकारीपूर्ण हो जाएगी",
+      "लोग आपसे बात करने से बचेंगे",
+      "आपकी बातचीत पर कोई प्रभाव नहीं पड़ेगा"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Linguistic Nuance",
+    "topic": "Skill Impact",
     "complexity_score": 2
   },
   {
-    "question": "How does clearly stating 'Today we will study English' help a student's brain prepare for learning?",
-    "correct": "It activates prior knowledge and sets a clear expectation",
+    "question": "इस पाठ का उद्देश्य किस सोच को चुनौती देना है?",
+    "correct": "यह सोच कि ग्रामर केवल परीक्षाओं के लिए नियम याद करना है",
     "options": [
-      "It prevents the brain from thinking about other subjects",
-      "It makes the lesson seem shorter",
-      "It activates prior knowledge and sets a clear expectation",
-      "It guarantees the student will get a good grade"
+      "यह सोच कि अंग्रेजी सीखना आसान है",
+      "यह सोच कि ग्रामर केवल परीक्षाओं के लिए नियम याद करना है",
+      "यह सोच कि बोलना, लिखने से ज्यादा महत्वपूर्ण है",
+      "यह सोच कि Tenses अंग्रेजी का सबसे आसान हिस्सा है"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cognitive Science of Learning",
+    "topic": "Challenging Misconceptions",
     "complexity_score": 2
   },
   {
-    "question": "Analyzing the sentence structure, what is the grammatical role of 'एंग्लिष' in relation to the verb 'पड़िं'?",
-    "correct": "It is the object of the verb",
+    "question": "अगर कोई व्यक्ति सभी Tense के नियम जानता है, लेकिन बातचीत में सवाल नहीं पूछ पाता, तो इस पाठ के अनुसार उसमें किस चीज़ की कमी है?",
+    "correct": "नियमों को व्यावहारिक संचार में बदलने की क्षमता",
     "options": [
-      "It is the subject performing the action",
-      "It is an adjective describing the action",
-      "It is the object of the verb",
-      "It is a conjunction connecting two ideas"
+      "और अधिक नियम सीखने की आवश्यकता",
+      "एक बेहतर याददाश्त",
+      "नियमों को व्यावहारिक संचार में बदलने की क्षमता",
+      "बोलने में रुचि की कमी"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammatical Analysis",
+    "topic": "Critical Analysis",
     "complexity_score": 3
   },
   {
-    "question": "If the teacher wanted to say 'Today, I will study English' instead of 'we', how would the phrase 'हम लोग' (hum log) most likely change?",
-    "correct": "It would be replaced by 'मैं' (main)",
+    "question": "यह पाठ सीखने की प्रक्रिया के बारे में क्या बताता है?",
+    "correct": "सैद्धांतिक ज्ञान (theoretical knowledge) को व्यावहारिक कौशल (practical skills) में लागू करना सीखने का एक महत्वपूर्ण अगला कदम है",
     "options": [
-      "It would be replaced by 'तुम' (tum)",
-      "It would be replaced by 'वे' (ve)",
-      "It would be replaced by 'मैं' (main)",
-      "It would not change"
+      "व्यावहारिक कौशल सैद्धांतिक ज्ञान से अधिक महत्वपूर्ण हैं",
+      "सीखना केवल नियमों को याद रखने के बारे में है",
+      "सैद्धांतिक ज्ञान (theoretical knowledge) को व्यावहारिक कौशल (practical skills) में लागू करना सीखने का एक महत्वपूर्ण अगला कदम है",
+      "यदि आप नियम जानते हैं, तो आप स्वचालित रूप से बोल सकते हैं"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Advanced Pronoun Application",
+    "topic": "Metacognition",
     "complexity_score": 3
   },
   {
-    "question": "The choice to introduce an English lesson in Hindi most strongly implies that the students are...",
-    "correct": "Native or fluent Hindi speakers learning English as a new language",
+    "question": "Tenses का उपयोग करके 'कैसे बात करें' सीखने से केवल शब्दों को याद करने की तुलना में आपकी भाषा की समझ कैसे गहरी होती है?",
+    "correct": "यह आपको विचारों को समय और संदर्भ में व्यक्त करने की अनुमति देता है",
     "options": [
-      "Native English speakers learning Hindi",
-      "Experts in both English and Hindi",
-      "Native or fluent Hindi speakers learning English as a new language",
-      "Beginners in both Hindi and English"
+      "यह समझ को गहरा नहीं करता, केवल शब्दावली बढ़ाता है",
+      "यह आपको विचारों को समय और संदर्भ में व्यक्त करने की अनुमति देता है",
+      "यह आपको तेजी से बोलने में मदद करता है",
+      "यह केवल आपके उच्चारण में सुधार करता है"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Deductive Reasoning",
+    "topic": "Depth of Understanding",
     "complexity_score": 3
   },
   {
-    "question": "How does this simple, direct opening statement align with the principle of creating a low-anxiety learning environment for a new language?",
-    "correct": "It provides a clear, achievable goal without overwhelming learners",
+    "question": "पाठ का यह कहना कि यह 'और ज्यादा दिलचस्प होगा' छात्रों की प्रेरणा (motivation) को कैसे प्रभावित करने का प्रयास करता है?",
+    "correct": "यह विषय को प्रासंगिक और आकर्षक बनाकर आंतरिक जिज्ञासा को जगाने का प्रयास करता है",
     "options": [
-      "It tests the students' listening skills immediately",
-      "It establishes the teacher's authority",
-      "It provides a clear, achievable goal without overwhelming learners",
-      "It forces students to speak a new language immediately"
+      "यह एक बाहरी इनाम (external reward) का वादा करता है",
+      "यह डर पैदा करता है कि पिछला काम उबाऊ था",
+      "यह विषय को प्रासंगिक और आकर्षक बनाकर आंतरिक जिज्ञासा को जगाने का प्रयास करता है",
+      "यह बताता है कि पाठ आसान होगा"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Learning Psychology",
+    "topic": "Motivational Strategy",
     "complexity_score": 3
   },
   {
-    "question": "Consider the repetitive nature of the announcement. In a pedagogical context, this could be seen as an effort to build what among the students?",
-    "correct": "A shared sense of purpose and anticipation",
+    "question": "संचार (communication) के एक उपकरण के रूप में Tenses के अध्ययन का क्या महत्व है, बजाय केवल ग्रामर के नियमों के एक सेट के रूप में?",
+    "correct": "यह भाषा को एक जीवित, उपयोगी प्रणाली के रूप में देखने में मदद करता है, न कि केवल अकादमिक अभ्यास के रूप में",
     "options": [
-      "Confusion about the day's topic",
-      "A competitive spirit",
-      "A shared sense of purpose and anticipation",
-      "A desire to learn Hindi instead"
+      "कोई खास महत्व नहीं है; दोनों दृष्टिकोण समान परिणाम देते हैं",
+      "नियमों का एक सेट के रूप में अध्ययन करना बेहतर है क्योंकि यह अधिक संरचित है",
+      "यह भाषा को एक जीवित, उपयोगी प्रणाली के रूप में देखने में मदद करता है, न कि केवल अकादमिक अभ्यास के रूप में",
+      "संचार के एक उपकरण के रूप में अध्ययन करना केवल उन्नत शिक्षार्थियों के लिए है"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Classroom Dynamics",
+    "topic": "Conceptual Synthesis",
     "complexity_score": 3
   },
   {
-    "question": "What fundamental learning principle is demonstrated by the teacher clearly stating the lesson's subject at the very beginning?",
-    "correct": "Setting a clear learning objective",
+    "question": "यह पाठ छात्रों को 'ज्ञान के उपभोक्ता' (consumers of knowledge) से 'ज्ञान के उपयोगकर्ता' (users of knowledge) में बदलने में कैसे मदद करता है?",
+    "correct": "यह उन्हें सीखी हुई जानकारी को वास्तविक दुनिया की बातचीत में सक्रिय रूप से लागू करने के लिए प्रोत्साहित करता है",
     "options": [
-      "Spaced repetition",
-      "Inquiry-based learning",
-      "Setting a clear learning objective",
-      "Peer-to-peer teaching"
+      "यह उन्हें अधिक जानकारी का उपभोग करने के लिए कहता है",
+      "यह उन्हें सीखी हुई जानकारी को वास्तविक दुनिया की बातचीत में सक्रिय रूप से लागू करने के लिए प्रोत्साहित करता है",
+      "यह ज्ञान के उपयोग को हतोत्साहित करता है",
+      "यह केवल निष्क्रिय सुनने पर ध्यान केंद्रित करता है"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Educational Principles",
+    "topic": "Learning Philosophy",
     "complexity_score": 3
   }
 ]
