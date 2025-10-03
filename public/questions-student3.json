@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the total number of degrees in a full circle?",
-    "correct": "360 degrees",
+    "question": "Which tense is used to describe an action that is happening right now?",
+    "correct": "Present Tense",
     "options": [
-      "180 degrees",
-      "90 degrees",
-      "360 degrees",
-      "100 degrees"
+      "Past Tense",
+      "Future Tense",
+      "Present Tense",
+      "Perfect Tense"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Circle Geometry",
+    "topic": "Tense Identification",
     "complexity_score": 1
   },
   {
-    "question": "What is the process of dividing an angle into two equal halves called?",
-    "correct": "Bisecting an angle",
+    "question": "The sentence 'She will visit her grandmother tomorrow' is an example of which tense?",
+    "correct": "Future Tense",
     "options": [
-      "Measuring an angle",
-      "Creating an angle",
-      "Bisecting an angle",
-      "Intersecting an angle"
+      "Past Tense",
+      "Present Tense",
+      "Future Tense",
+      "Present Continuous Tense"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Angle Bisection",
+    "topic": "Tense Identification",
     "complexity_score": 1
   },
   {
-    "question": "A clock face is a full circle divided into 12 parts. What is the angle between each part (e.g., between the 12 and the 1)?",
-    "correct": "30 degrees",
+    "question": "The main purpose of using different tenses is to show...",
+    "correct": "When an action takes place",
     "options": [
-      "12 degrees",
-      "60 degrees",
-      "30 degrees",
-      "90 degrees"
+      "How long a sentence is",
+      "Who is performing the action",
+      "When an action takes place",
+      "Where an action happens"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Real-World Angles (Clocks)",
+    "topic": "Function of Tenses",
     "complexity_score": 1
   },
   {
-    "question": "A line that divides an angle into two equal parts is called a...",
-    "correct": "Bisector",
+    "question": "What tense would you use to talk about something that happened yesterday?",
+    "correct": "Past Tense",
     "options": [
-      "Protractor",
-      "Vertex",
-      "Bisector",
-      "Arm"
+      "Present Tense",
+      "Past Tense",
+      "Future Tense",
+      "Current Tense"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Angle Bisection",
+    "topic": "Tense Application",
     "complexity_score": 1
   },
   {
-    "question": "How many degrees are in a straight angle, like a straight line?",
-    "correct": "180 degrees",
+    "question": "The word 'grammar' in our lesson refers to...",
+    "correct": "The rules for how words are used in a language",
     "options": [
-      "360 degrees",
-      "180 degrees",
-      "90 degrees",
-      "270 degrees"
+      "The number of words you know",
+      "How fast you can read",
+      "The rules for how words are used in a language",
+      "The history of dancing"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Angle Types",
+    "topic": "Core Concepts",
     "complexity_score": 1
   },
   {
-    "question": "In the phrase 'angle BAC', which letter represents the vertex of the angle?",
-    "correct": "A",
+    "question": "In the sentence 'They played outside all afternoon,' which word indicates the past tense?",
+    "correct": "played",
     "options": [
-      "B",
-      "A",
-      "C",
-      "BAC"
+      "They",
+      "outside",
+      "played",
+      "afternoon"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Naming Angles",
+    "topic": "Tense Identification",
     "complexity_score": 1
   },
   {
-    "question": "If you bisect a 90-degree angle, what two angles do you create?",
-    "correct": "Two 45-degree angles",
+    "question": "To describe a 'situation' that has not happened yet, which tense is the most appropriate?",
+    "correct": "Future Tense",
     "options": [
-      "Two 90-degree angles",
-      "Two 30-degree angles",
-      "Two 45-degree angles",
-      "One 180-degree angle"
+      "Past Tense",
+      "Future Tense",
+      "Present Tense",
+      "A mix of all tenses"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Angle Bisection",
+    "topic": "Tense Application",
     "complexity_score": 2
   },
   {
-    "question": "What angle do the hands of a clock make at 5 o'clock?",
-    "correct": "150 degrees",
+    "question": "If you are telling a friend a story about your last birthday party, which tense would you use most often?",
+    "correct": "Past Tense",
     "options": [
-      "120 degrees",
-      "50 degrees",
-      "150 degrees",
-      "180 degrees"
+      "Past Tense",
+      "Present Tense",
+      "Future Tense",
+      "It doesn't matter"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Real-World Angles (Clocks)",
+    "topic": "Contextual Tense Usage",
     "complexity_score": 2
   },
   {
-    "question": "If you cut a circular pizza into 6 equal slices, what is the angle of each slice?",
-    "correct": "60 degrees",
+    "question": "Which sentence correctly describes a current, ongoing situation?",
+    "correct": "I am learning about grammar.",
     "options": [
-      "30 degrees",
-      "90 degrees",
-      "60 degrees",
-      "180 degrees"
+      "I learned about grammar.",
+      "I will learn about grammar.",
+      "I am learning about grammar.",
+      "I learn grammar yesterday."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Real-World Angles (Pizza)",
+    "topic": "Tense Application",
     "complexity_score": 2
   },
   {
-    "question": "When making the letter 'X' with two perpendicular lines, what is the measure of each of the four angles created at the center?",
-    "correct": "90 degrees",
+    "question": "Why is it important to 'learn more and more' about grammar, as mentioned in the lesson?",
+    "correct": "To communicate more clearly and accurately about different situations.",
     "options": [
-      "45 degrees",
-      "180 degrees",
-      "90 degrees",
-      "360 degrees"
+      "To make sentences as long as possible.",
+      "Because the teacher said so.",
+      "To communicate more clearly and accurately about different situations.",
+      "To use bigger words."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Applying Geometry",
+    "topic": "Purpose of Learning Grammar",
     "complexity_score": 2
   },
   {
-    "question": "If you bisect an angle that measures 110 degrees, what will be the measure of each new angle?",
-    "correct": "55 degrees",
+    "question": "How does changing the tense of a verb change the 'situation' being described?",
+    "correct": "It changes the timeframe of the action.",
     "options": [
-      "110 degrees",
-      "55 degrees",
-      "60 degrees",
-      "220 degrees"
+      "It makes the sentence more interesting.",
+      "It changes the person doing the action.",
+      "It changes the timeframe of the action.",
+      "It doesn't change the situation at all."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Angle Bisection",
+    "topic": "Function of Tenses",
     "complexity_score": 2
   },
   {
-    "question": "When measuring an angle with a protractor, what is the most important first step?",
-    "correct": "Align the vertex of the angle with the center point of the protractor and the baseline with one arm.",
+    "question": "A weather forecast says, 'It will rain later today.' The tense used helps you understand that...",
+    "correct": "The rain is a future event you should prepare for.",
     "options": [
-      "Make sure the paper is straight.",
-      "Look at the 90-degree mark first.",
-      "Align the vertex of the angle with the center point of the protractor and the baseline with one arm.",
-      "Choose the biggest number on the protractor."
+      "It is raining right now.",
+      "The rain is a future event you should prepare for.",
+      "It rained earlier in the morning.",
+      "The forecast is just a guess."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Using a Protractor",
-    "complexity_score": 2
-  },
-  {
-    "question": "The activity of folding a half-circle piece of paper in half creates what angle?",
-    "correct": "90 degrees",
-    "options": [
-      "45 degrees",
-      "180 degrees",
-      "90 degrees",
-      "360 degrees"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Applying Geometry",
-    "complexity_score": 2
-  },
-  {
-    "question": "What angle do the hands of a clock make at 9 o'clock?",
-    "correct": "90 degrees",
-    "options": [
-      "180 degrees",
-      "270 degrees",
-      "90 degrees",
-      "30 degrees"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Real-World Angles (Clocks)",
-    "complexity_score": 2
-  },
-  {
-    "question": "A student tried to find the angles in the letter 'X' by dividing 180 by 4. Why was this approach incorrect?",
-    "correct": "Because the angles in an 'X' form a full circle (360°), not a half circle (180°).",
-    "options": [
-      "Because they should have multiplied by 4, not divided.",
-      "Because the angles in an 'X' are not equal.",
-      "Because the letter 'X' has no angles.",
-      "Because the angles in an 'X' form a full circle (360°), not a half circle (180°)."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Analytical Thinking",
+    "topic": "Real-World Application",
     "complexity_score": 3
   },
   {
-    "question": "At 9 o'clock, the smaller angle between the clock hands is 90 degrees. What is the measure of the larger, reflex angle on the outside?",
-    "correct": "270 degrees",
+    "question": "A history book primarily uses the past tense. Why is this the best choice?",
+    "correct": "Because it accurately describes events that have already concluded.",
     "options": [
-      "90 degrees",
-      "180 degrees",
-      "270 degrees",
-      "360 degrees"
+      "To make the stories sound more exciting.",
+      "Because it accurately describes events that have already concluded.",
+      "Because history books are always written in the future.",
+      "It is the only tense allowed in books."
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Reflex Angles",
+    "topic": "Contextual Tense Usage",
     "complexity_score": 3
   },
   {
-    "question": "In the diagram of the letter 'X' with vertex A and points B, C, D, E on the arms, if angle BAC is 90°, what would be the measure of the reflex angle CAB?",
-    "correct": "270 degrees",
+    "question": "If you switch from saying 'I walk' to 'I am walking,' how does the meaning of the 'situation' change?",
+    "correct": "It changes from a general habit to an action happening right now.",
     "options": [
-      "90 degrees",
-      "180 degrees",
-      "270 degrees",
-      "It's the same as angle BAC."
+      "It means you are walking faster.",
+      "It changes from a past action to a future one.",
+      "It changes from a general habit to an action happening right now.",
+      "It has no change in meaning."
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Reflex Angles",
+    "topic": "Nuances of Tense",
     "complexity_score": 3
   },
   {
-    "question": "If a pizza is cut into 4 equal slices, and then each of those slices is bisected, what is the angle of the final, smallest slices?",
-    "correct": "45 degrees",
+    "question": "Read the sentences: 'I was nervous. Now I am confident. I will be successful.' How do the tenses work together here?",
+    "correct": "They show a progression of feelings over time.",
     "options": [
-      "90 degrees",
-      "30 degrees",
-      "45 degrees",
-      "60 degrees"
+      "They describe three different people.",
+      "They show a progression of feelings over time.",
+      "They are used incorrectly and confuse the reader.",
+      "They only describe a situation in the present."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Multi-step Problem Solving",
-    "complexity_score": 3
+    "topic": "Tense Combination Analysis",
+    "complexity_score": 4
   },
   {
-    "question": "At 11 o'clock, the larger angle between the hands is 330 degrees. What is the smaller angle?",
-    "correct": "30 degrees",
+    "question": "If a storyteller wants to create suspense about what is going to happen next, which tense would they most likely switch to?",
+    "correct": "Future Tense",
     "options": [
-      "11 degrees",
-      "60 degrees",
-      "30 degrees",
-      "110 degrees"
+      "Past Tense, to describe what already happened.",
+      "Future Tense",
+      "Present Tense, to make it feel immediate.",
+      "They would not use any tense."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Real-World Angles (Clocks)",
-    "complexity_score": 3
+    "topic": "Authorial Intent and Tense",
+    "complexity_score": 4
   },
   {
-    "question": "The sum of all the angles around the central vertex of the letter 'K' that you drew is:",
-    "correct": "Less than 360 degrees",
+    "question": "The lesson mentioned moving beyond the 'grammar part' we already know to 'learn more and more.' What does this imply about our learning goal?",
+    "correct": "We are moving from simply identifying tenses to using them skillfully in context.",
     "options": [
-      "Exactly 360 degrees",
-      "Exactly 180 degrees",
-      "Less than 360 degrees",
-      "It is impossible to tell."
+      "We must forget all the grammar we have learned.",
+      "We are moving from simply identifying tenses to using them skillfully in context.",
+      "We will only focus on one tense from now on.",
+      "Grammar is not important anymore."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analytical Thinking",
-    "complexity_score": 3
+    "topic": "Metacognitive Analysis",
+    "complexity_score": 5
+  },
+  {
+    "question": "Which of the following 'situations' is the most complex to describe because it requires a combination of tenses?",
+    "correct": "Explaining how something you learned yesterday will help you tomorrow.",
+    "options": [
+      "Describing what you are eating for lunch.",
+      "Listing the things you did this morning.",
+      "Explaining how something you learned yesterday will help you tomorrow.",
+      "Stating a plan for next weekend."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Complex Tense Application",
+    "complexity_score": 5
+  },
+  {
+    "question": "Someone says, 'I went to the store, and I will be making dinner soon.' What does the use of two different tenses tell you?",
+    "correct": "It connects a completed past action to a planned future action.",
+    "options": [
+      "The speaker is confused about when things happened.",
+      "It connects a completed past action to a planned future action.",
+      "The sentence is grammatically incorrect.",
+      "Both actions are happening at the same time."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Tense Combination Analysis",
+    "complexity_score": 4
+  },
+  {
+    "question": "How does mastering tenses help us 'talk about the situation' more effectively?",
+    "correct": "It allows us to place events in a clear timeline for the listener.",
+    "options": [
+      "It makes our sentences sound more poetic.",
+      "It guarantees that everyone will agree with us.",
+      "It allows us to place events in a clear timeline for the listener.",
+      "It is not related to talking about situations."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Synthesis of Concepts",
+    "complexity_score": 5
   }
 ]
