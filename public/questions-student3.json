@@ -1,12 +1,12 @@
 [
   {
-    "question": "आज की क्लास में हम कौन सा विषय (subject) पढ़ रहे हैं?",
-    "correct": "इंग्लिश (English)",
+    "question": "आज की English क्लास का मुख्य विषय क्या है? (What is the main topic of today's English class?)",
+    "correct": "Tenses",
     "options": [
-      "हिंदी (Hindi)",
-      "गणित (Maths)",
-      "इंग्लिश (English)",
-      "विज्ञान (Science)"
+      "Nouns",
+      "Adjectives",
+      "Tenses",
+      "Story Writing"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -14,269 +14,269 @@
     "complexity_score": 1
   },
   {
-    "question": "इंग्लिश ग्रामर का कौन सा मुख्य टॉपिक आज सिखाया जा रहा है?",
-    "correct": "Tenses",
+    "question": "शिक्षक के अनुसार, आज की क्लास पहले की ग्रामर क्लास से ज़्यादा ________ होगी। (According to the teacher, today's class will be more ________ than previous grammar classes.)",
+    "correct": "Interesting",
     "options": [
-      "Nouns",
-      "Adjectives",
-      "Tenses",
-      "Pronouns"
+      "Difficult",
+      "Boring",
+      "Interesting",
+      "Shorter"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Core Concept Identification",
+    "topic": "Lesson Focus",
     "complexity_score": 1
   },
   {
-    "question": "आज की क्लास का मुख्य लक्ष्य (main goal) क्या है?",
-    "correct": "बात करना और सवाल पूछना सीखना",
+    "question": "आज की क्लास में Tenses सीखने का एक मुख्य लक्ष्य क्या है? (What is one of the main goals of learning Tenses in today's class?)",
+    "correct": "बात करना सीखना (To learn how to talk)",
     "options": [
-      "एक परीक्षा पास करना",
-      "बात करना और सवाल पूछना सीखना",
-      "केवल ग्रामर के नियम लिखना",
-      "एक कहानी पढ़ना"
+      "एक परीक्षा पास करना (To pass an exam)",
+      "बात करना सीखना (To learn how to talk)",
+      "एक कविता लिखना (To write a poem)",
+      "ग्रामर के नियम याद करना (To memorize grammar rules)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Lesson Objective",
+    "topic": "Learning Objectives",
     "complexity_score": 1
   },
   {
-    "question": "टीचर के अनुसार, पिछली ग्रामर क्लास की तुलना में आज की क्लास कैसी होगी?",
-    "correct": "और ज्यादा दिलचस्प (More interesting)",
+    "question": "शिक्षक ने बताया कि छात्र पहले से ही ग्रामर का ज़्यादातर हिस्सा ________ चुके हैं। (The teacher mentioned that students have already ________ most of the grammar part.)",
+    "correct": "कर (Done)",
     "options": [
-      "और ज्यादा मुश्किल (More difficult)",
-      "पहले जैसी ही (The same as before)",
-      "और ज्यादा दिलचस्प (More interesting)",
-      "छोटी (Shorter)"
+      "भूल (Forgotten)",
+      "कर (Done)",
+      "शुरू (Started)",
+      "नजरअंदाज (Ignored)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Lesson Framing",
+    "topic": "Prior Knowledge",
     "complexity_score": 1
   },
   {
-    "question": "Tenses सीखने से हमें किस विशेष प्रकार की बातचीत करने में मदद मिलेगी?",
-    "correct": "सवाल पूछने में",
+    "question": "Tenses के अलावा, क्लास में और क्या सीखने पर ध्यान दिया जाएगा? (Besides tenses, what else will the class focus on learning?)",
+    "correct": "कैसे सवाल पूछें (How to ask questions)",
     "options": [
-      "चुप रहने में",
-      "केवल लिखने में",
-      "सवाल पूछने में",
-      "दूसरों को अनदेखा करने में"
+      "कैसे स्पेलिंग सही करें (How to correct spelling)",
+      "कैसे ज़ोर से पढ़ें (How to read aloud)",
+      "कैसे सवाल पूछें (How to ask questions)",
+      "कैसे पैराग्राफ लिखें (How to write paragraphs)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Practical Application",
-    "complexity_score": 1
-  },
-  {
-    "question": "ट्रांसक्रिप्ट के अनुसार, छात्रों को ग्रामर का पहले से कितना ज्ञान है?",
-    "correct": "उन्होंने ग्रामर का अधिकांश भाग पूरा कर लिया है",
-    "options": [
-      "उन्हें ग्रामर का कोई ज्ञान नहीं है",
-      "उन्होंने अभी ग्रामर शुरू की है",
-      "उन्होंने ग्रामर का अधिकांश भाग पूरा कर लिया है",
-      "वे ग्रामर में विशेषज्ञ हैं"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Prior Knowledge Assessment",
-    "complexity_score": 1
-  },
-  {
-    "question": "बातचीत पर ध्यान केंद्रित करने वाला पाठ (lesson) नियमों को याद करने वाले पाठ से 'और ज्यादा दिलचस्प' क्यों हो सकता है?",
-    "correct": "क्योंकि यह वास्तविक जीवन में भाषा का उपयोग करना सिखाता है",
-    "options": [
-      "क्योंकि इसमें कम लिखना पड़ता है",
-      "क्योंकि यह हमेशा छोटा होता है",
-      "क्योंकि यह वास्तविक जीवन में भाषा का उपयोग करना सिखाता है",
-      "क्योंकि इसमें कोई नियम नहीं होते"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Inferential Reasoning",
+    "topic": "Learning Objectives",
     "complexity_score": 2
   },
   {
-    "question": "यह जानना कि 'कैसे सवाल पूछें' (how to ask questions), बातचीत के लिए क्यों महत्वपूर्ण है?",
-    "correct": "यह हमें जानकारी इकट्ठा करने और दूसरों में रुचि दिखाने की अनुमति देता है",
+    "question": "आज की क्लास का मुख्य फोकस क्या है? (What is the main focus of today's class?)",
+    "correct": "Tenses का व्यावहारिक उपयोग (Practical use of Tenses)",
     "options": [
-      "यह बातचीत को जल्दी खत्म करने में मदद करता है",
-      "इसका कोई महत्व नहीं है, केवल जवाब देना महत्वपूर्ण है",
-      "यह हमें जानकारी इकट्ठा करने और दूसरों में रुचि दिखाने की अनुमति देता है",
-      "यह केवल शिक्षकों के लिए महत्वपूर्ण है"
+      "Tenses की परिभाषाएँ (Definitions of Tenses)",
+      "Tenses का इतिहास (History of Tenses)",
+      "Tenses का व्यावहारिक उपयोग (Practical use of Tenses)",
+      "Tenses के प्रकारों की सूची (A list of Tense types)"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Application of Skills",
+    "topic": "Lesson Focus",
     "complexity_score": 2
   },
   {
-    "question": "Tenses सीखने और 'कैसे बात करें' के बीच क्या संबंध है?",
-    "correct": "Tenses हमें यह बताने में मदद करते हैं कि कोई घटना कब हुई (अतीत, वर्तमान, भविष्य)",
+    "question": "शिक्षक ने आज की क्लास को 'और ज़्यादा interesting' क्यों कहा? (Why did the teacher call today's class 'even more interesting'?)",
+    "correct": "क्योंकि इसका फोकस बोलने और सवाल पूछने जैसे व्यावहारिक कौशल पर है (Because it focuses on practical skills like speaking and asking questions)",
     "options": [
-      "कोई संबंध नहीं है; वे दो अलग-अलग विषय हैं",
-      "Tenses केवल लिखने के लिए होते हैं, बोलने के लिए नहीं",
-      "Tenses हमें यह बताने में मदद करते हैं कि कोई घटना कब हुई (अतीत, वर्तमान, भविष्य)",
-      "अच्छी तरह से बात करने के लिए Tenses सीखना अनावश्यक है"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Connecting Concepts",
-    "complexity_score": 2
-  },
-  {
-    "question": "टीचर का यह कहना कि 'we have done most of the grammar part' का क्या तात्पर्य है?",
-    "correct": "आज का पाठ पिछले ज्ञान पर आधारित होगा",
-    "options": [
-      "ग्रामर अब महत्वपूर्ण नहीं है",
-      "छात्रों को सब कुछ भूल जाना चाहिए जो उन्होंने सीखा है",
-      "आज का पाठ पिछले ज्ञान पर आधारित होगा",
-      "अब और ग्रामर नहीं सिखाई जाएगी"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Teacher's Intent",
-    "complexity_score": 2
-  },
-  {
-    "question": "आज के पाठ का फोकस ग्रामर के नियमों (rules) से हटकर किस चीज़ पर है?",
-    "correct": "ग्रामर के व्यावहारिक उपयोग (practical use) पर",
-    "options": [
-      "अधिक जटिल नियमों पर",
-      "ग्रामर के इतिहास पर",
-      "ग्रामर के व्यावहारिक उपयोग (practical use) पर",
-      "ग्रामर की परीक्षा पर"
+      "क्योंकि इसमें एक गेम होगा (Because there will be a game)",
+      "क्योंकि क्लास छोटी होगी (Because the class will be short)",
+      "क्योंकि इसका फोकस बोलने और सवाल पूछने जैसे व्यावहारिक कौशल पर है (Because it focuses on practical skills like speaking and asking questions)",
+      "क्योंकि कोई होमवर्क नहीं होगा (Because there will be no homework)"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
     "topic": "Pedagogical Approach",
-    "complexity_score": 2
-  },
-  {
-    "question": "यह पाठ केवल 'क्या' जानना है (नियम) से आगे बढ़कर 'कैसे' जानना है (उपयोग) तक कैसे जाता है?",
-    "correct": "बातचीत और सवाल पूछने के अभ्यास पर ध्यान केंद्रित करके",
-    "options": [
-      "अधिक नियमों को सूचीबद्ध करके",
-      "एक लंबा व्याख्यान देकर",
-      "बातचीत और सवाल पूछने के अभ्यास पर ध्यान केंद्रित करके",
-      "एक कठिन परीक्षा लेकर"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Learning Process Analysis",
-    "complexity_score": 2
-  },
-  {
-    "question": "Tenses का सही उपयोग करके सवाल पूछने की क्षमता विकसित करने से आपकी बातचीत पर क्या प्रभाव पड़ेगा?",
-    "correct": "आपकी बातचीत अधिक सार्थक और जानकारीपूर्ण हो जाएगी",
-    "options": [
-      "आपकी बातचीत छोटी हो जाएगी",
-      "आपकी बातचीत अधिक सार्थक और जानकारीपूर्ण हो जाएगी",
-      "लोग आपसे बात करने से बचेंगे",
-      "आपकी बातचीत पर कोई प्रभाव नहीं पड़ेगा"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Skill Impact",
-    "complexity_score": 2
-  },
-  {
-    "question": "इस पाठ का उद्देश्य किस सोच को चुनौती देना है?",
-    "correct": "यह सोच कि ग्रामर केवल परीक्षाओं के लिए नियम याद करना है",
-    "options": [
-      "यह सोच कि अंग्रेजी सीखना आसान है",
-      "यह सोच कि ग्रामर केवल परीक्षाओं के लिए नियम याद करना है",
-      "यह सोच कि बोलना, लिखने से ज्यादा महत्वपूर्ण है",
-      "यह सोच कि Tenses अंग्रेजी का सबसे आसान हिस्सा है"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Challenging Misconceptions",
-    "complexity_score": 2
-  },
-  {
-    "question": "अगर कोई व्यक्ति सभी Tense के नियम जानता है, लेकिन बातचीत में सवाल नहीं पूछ पाता, तो इस पाठ के अनुसार उसमें किस चीज़ की कमी है?",
-    "correct": "नियमों को व्यावहारिक संचार में बदलने की क्षमता",
-    "options": [
-      "और अधिक नियम सीखने की आवश्यकता",
-      "एक बेहतर याददाश्त",
-      "नियमों को व्यावहारिक संचार में बदलने की क्षमता",
-      "बोलने में रुचि की कमी"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Critical Analysis",
     "complexity_score": 3
   },
   {
-    "question": "यह पाठ सीखने की प्रक्रिया के बारे में क्या बताता है?",
-    "correct": "सैद्धांतिक ज्ञान (theoretical knowledge) को व्यावहारिक कौशल (practical skills) में लागू करना सीखने का एक महत्वपूर्ण अगला कदम है",
+    "question": "ट्रांसक्रिप्शन के अनुसार, Tenses सीखना किस चीज़ में मदद करता है? (According to the transcription, learning Tenses helps with what?)",
+    "correct": "Communication",
     "options": [
-      "व्यावहारिक कौशल सैद्धांतिक ज्ञान से अधिक महत्वपूर्ण हैं",
-      "सीखना केवल नियमों को याद रखने के बारे में है",
-      "सैद्धांतिक ज्ञान (theoretical knowledge) को व्यावहारिक कौशल (practical skills) में लागू करना सीखने का एक महत्वपूर्ण अगला कदम है",
-      "यदि आप नियम जानते हैं, तो आप स्वचालित रूप से बोल सकते हैं"
+      "Memorization",
+      "Calculation",
+      "Communication",
+      "Imagination"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Application of Concepts",
+    "complexity_score": 3
+  },
+  {
+    "question": "यह कहना कि 'हम सब ही कैसे बात कर सकते हैं' (how we can all talk), Tenses के बारे में क्या बताता है? (Saying 'how we can all talk' suggests what about Tenses?)",
+    "correct": "Tenses केवल नियमों के बारे में नहीं हैं, बल्कि बातचीत का एक उपकरण हैं (Tenses are not just about rules, but a tool for conversation)",
+    "options": [
+      "Tenses केवल लिखने के लिए महत्वपूर्ण हैं (Tenses are only important for writing)",
+      "Tenses केवल नियमों के बारे में नहीं हैं, बल्कि बातचीत का एक उपकरण हैं (Tenses are not just about rules, but a tool for conversation)",
+      "Tenses सीखना बहुत मुश्किल है (Tenses are very difficult to learn)",
+      "Tenses का उपयोग केवल औपचारिक भाषण में किया जाता है (Tenses are only used in formal speech)"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Concept Connection",
+    "complexity_score": 4
+  },
+  {
+    "question": "शिक्षक का 'हमने ज़्यादातर ग्रामर कर लिया है' कहने का क्या मतलब है? (What does the teacher imply by saying 'we have done most of the grammar part'?)",
+    "correct": "छात्रों के पास पहले से ही एक आधार है जिस पर वे व्यावहारिक कौशल बना सकते हैं (Students already have a foundation to build practical skills upon)",
+    "options": [
+      "अब और ग्रामर नहीं पढ़ाया जाएगा (No more grammar will be taught)",
+      "छात्रों के पास पहले से ही एक आधार है जिस पर वे व्यावहारिक कौशल बना सकते हैं (Students already have a foundation to build practical skills upon)",
+      "ग्रामर महत्वपूर्ण नहीं है (Grammar is not important)",
+      "पिछली कक्षाएं सफल नहीं थीं (The previous classes were not successful)"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Inference",
+    "complexity_score": 4
+  },
+  {
+    "question": "सवाल पूछने की क्षमता को Tenses से जोड़ना क्यों महत्वपूर्ण है? (Why is it important to connect the ability to ask questions with Tenses?)",
+    "correct": "क्योंकि सही सवाल बनाने के लिए अक्सर सही Tense की आवश्यकता होती है (Because forming correct questions often requires the correct Tense)",
+    "options": [
+      "क्योंकि सवाल हमेशा छोटे होते हैं (Because questions are always short)",
+      "क्योंकि सवाल पूछने के लिए ग्रामर की ज़रूरत नहीं होती (Because asking questions doesn't require grammar)",
+      "क्योंकि सभी सवालों का जवाब 'हाँ' या 'नहीं' में होता है (Because all questions have 'yes' or 'no' answers)",
+      "क्योंकि सही सवाल बनाने के लिए अक्सर सही Tense की आवश्यकता होती है (Because forming correct questions often requires the correct Tense)"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Concept Connection",
+    "complexity_score": 5
+  },
+  {
+    "question": "आज का पाठ पिछले पाठों से किस प्रकार भिन्न है? (How does today's lesson differ from the previous ones?)",
+    "correct": "यह सैद्धांतिक ज्ञान से व्यावहारिक अनुप्रयोग की ओर बढ़ता है (It moves from theoretical knowledge to practical application)",
+    "options": [
+      "यह आसान से कठिन की ओर बढ़ता है (It moves from easy to difficult)",
+      "यह लिखने से पढ़ने की ओर बढ़ता है (It moves from writing to reading)",
+      "यह सैद्धांतिक ज्ञान से व्यावहारिक अनुप्रयोग की ओर बढ़ता है (It moves from theoretical knowledge to practical application)",
+      "यह अंग्रेजी से हिंदी की ओर बढ़ता है (It moves from English to Hindi)"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Pedagogical Shift",
+    "complexity_score": 5
+  },
+  {
+    "question": "शिक्षक का लक्ष्य छात्रों को Tenses को किस रूप में देखने के लिए प्रोत्साहित करना है? (The teacher's goal is to encourage students to see Tenses as what?)",
+    "correct": "संचार के लिए एक उपकरण (A tool for communication)",
+    "options": [
+      "याद रखने वाले नियमों का एक सेट (A set of rules to memorize)",
+      "परीक्षा में एक बाधा (An obstacle in exams)",
+      "संचार के लिए एक उपकरण (A tool for communication)",
+      "एक अप्रासंगिक विषय (An irrelevant topic)"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Learning Mindset",
+    "complexity_score": 4
+  },
+  {
+    "question": "वाक्यांश 'और भी बहुत कुछ' क्या संकेत देता है? (What does the phrase 'and much more' suggest?)",
+    "correct": "पाठ केवल बोलने और सवाल पूछने तक ही सीमित नहीं रहेगा (The lesson will not be limited to just talking and asking questions)",
+    "options": [
+      "शिक्षक को यकीन नहीं है कि आगे क्या पढ़ाना है (The teacher is not sure what to teach next)",
+      "पाठ केवल बोलने और सवाल पूछने तक ही सीमित नहीं रहेगा (The lesson will not be limited to just talking and asking questions)",
+      "कक्षा जल्दी खत्म हो जाएगी (The class will end early)",
+      "यह विषय बहुत आसान है (The topic is very easy)"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Inference",
+    "complexity_score": 3
+  },
+  {
+    "question": "इस शिक्षण दृष्टिकोण से कौन सा निष्कर्ष निकाला जा सकता है? (What conclusion can be drawn from this teaching approach?)",
+    "correct": "शिक्षक भाषा के उपयोग को नियमों के ज्ञान से अधिक महत्व देता है (The teacher values the use of language over the knowledge of rules)",
+    "options": [
+      "शिक्षक सख्त नियमों का पालन करना पसंद करता है (The teacher prefers to follow strict rules)",
+      "शिक्षक का मानना है कि ग्रामर अनावश्यक है (The teacher believes grammar is unnecessary)",
+      "शिक्षक भाषा के उपयोग को नियमों के ज्ञान से अधिक महत्व देता है (The teacher values the use of language over the knowledge of rules)",
+      "शिक्षक केवल उन्नत छात्रों पर ध्यान केंद्रित कर रहा है (The teacher is only focusing on advanced students)"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Pedagogical Analysis",
+    "complexity_score": 6
+  },
+  {
+    "question": "शिक्षक के परिचय के आधार पर, छात्र किस प्रकार की मानसिकता विकसित कर सकते हैं? (Based on the teacher's introduction, what kind of mindset might students develop?)",
+    "correct": "एक विकास मानसिकता, जहां भाषा कौशल को अभ्यास के माध्यम से सुधारा जा सकता है (A growth mindset, where language skills can be improved through practice)",
+    "options": [
+      "एक निश्चित मानसिकता, जहां भाषा की क्षमता जन्मजात होती है (A fixed mindset, where language ability is innate)",
+      "एक विकास मानसिकता, जहां भाषा कौशल को अभ्यास के माध्यम से सुधारा जा सकता है (A growth mindset, where language skills can be improved through practice)",
+      "एक निष्क्रिय मानसिकता, जहां सीखना शिक्षक की एकमात्र जिम्मेदारी है (A passive mindset, where learning is the teacher's sole responsibility)",
+      "एक परिणाम-उन्मुख मानसिकता, जहां केवल अंक मायने रखते हैं (A result-oriented mindset, where only marks matter)"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
     "topic": "Metacognition",
-    "complexity_score": 3
+    "complexity_score": 7
   },
   {
-    "question": "Tenses का उपयोग करके 'कैसे बात करें' सीखने से केवल शब्दों को याद करने की तुलना में आपकी भाषा की समझ कैसे गहरी होती है?",
-    "correct": "यह आपको विचारों को समय और संदर्भ में व्यक्त करने की अनुमति देता है",
+    "question": "यह पाठ किस सामान्य गलत धारणा को चुनौती देता है? (What common misconception does this lesson challenge?)",
+    "correct": "ग्रामर केवल परीक्षाओं के लिए नियमों का एक उबाऊ सेट है (That grammar is a boring set of rules only for exams)",
     "options": [
-      "यह समझ को गहरा नहीं करता, केवल शब्दावली बढ़ाता है",
-      "यह आपको विचारों को समय और संदर्भ में व्यक्त करने की अनुमति देता है",
-      "यह आपको तेजी से बोलने में मदद करता है",
-      "यह केवल आपके उच्चारण में सुधार करता है"
+      "अंग्रेजी सीखना आसान है (That English is easy to learn)",
+      "ग्रामर केवल परीक्षाओं के लिए नियमों का एक उबाऊ सेट है (That grammar is a boring set of rules only for exams)",
+      "केवल देशी वक्ता ही अंग्रेजी बोल सकते हैं (That only native speakers can speak English)",
+      "Tenses का कोई वास्तविक दुनिया में उपयोग नहीं है (That Tenses have no real-world use)"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Depth of Understanding",
-    "complexity_score": 3
+    "topic": "Critical Thinking",
+    "complexity_score": 7
   },
   {
-    "question": "पाठ का यह कहना कि यह 'और ज्यादा दिलचस्प होगा' छात्रों की प्रेरणा (motivation) को कैसे प्रभावित करने का प्रयास करता है?",
-    "correct": "यह विषय को प्रासंगिक और आकर्षक बनाकर आंतरिक जिज्ञासा को जगाने का प्रयास करता है",
+    "question": "कक्षा का फोकस 'कैसे बात कर सकते हैं' पर क्यों है, न कि 'सही वाक्य कैसे लिखें' पर? (Why is the class focus on 'how we can talk' and not 'how to write correct sentences'?)",
+    "correct": "यह आत्मविश्वास और प्रवाह को सटीकता से पहले प्राथमिकता देता है (It prioritizes confidence and fluency over perfect accuracy)",
     "options": [
-      "यह एक बाहरी इनाम (external reward) का वादा करता है",
-      "यह डर पैदा करता है कि पिछला काम उबाऊ था",
-      "यह विषय को प्रासंगिक और आकर्षक बनाकर आंतरिक जिज्ञासा को जगाने का प्रयास करता है",
-      "यह बताता है कि पाठ आसान होगा"
+      "क्योंकि छात्रों को लिखना नहीं आता (Because the students don't know how to write)",
+      "यह आत्मविश्वास और प्रवाह को सटीकता से पहले प्राथमिकता देता है (It prioritizes confidence and fluency over perfect accuracy)",
+      "क्योंकि बोलना लिखने से आसान है (Because speaking is easier than writing)",
+      "क्योंकि स्कूल में कलम और कागज नहीं हैं (Because there are no pens and paper in the school)"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Motivational Strategy",
-    "complexity_score": 3
+    "topic": "Pedagogical Analysis",
+    "complexity_score": 8
   },
   {
-    "question": "संचार (communication) के एक उपकरण के रूप में Tenses के अध्ययन का क्या महत्व है, बजाय केवल ग्रामर के नियमों के एक सेट के रूप में?",
-    "correct": "यह भाषा को एक जीवित, उपयोगी प्रणाली के रूप में देखने में मदद करता है, न कि केवल अकादमिक अभ्यास के रूप में",
+    "question": "यह पाठ छात्रों को सीखने की प्रक्रिया के बारे में क्या सिखाता है? (What does this lesson teach students about the learning process itself?)",
+    "correct": "ज्ञान को सार्थक बनाने के लिए उसे लागू करना आवश्यक है (Applying knowledge is essential to make it meaningful)",
     "options": [
-      "कोई खास महत्व नहीं है; दोनों दृष्टिकोण समान परिणाम देते हैं",
-      "नियमों का एक सेट के रूप में अध्ययन करना बेहतर है क्योंकि यह अधिक संरचित है",
-      "यह भाषा को एक जीवित, उपयोगी प्रणाली के रूप में देखने में मदद करता है, न कि केवल अकादमिक अभ्यास के रूप में",
-      "संचार के एक उपकरण के रूप में अध्ययन करना केवल उन्नत शिक्षार्थियों के लिए है"
+      "रटना सबसे प्रभावी तरीका है (Rote memorization is the most effective method)",
+      "ज्ञान को सार्थक बनाने के लिए उसे लागू करना आवश्यक है (Applying knowledge is essential to make it meaningful)",
+      "शिक्षक से सवाल पूछना सीखने में बाधा डालता है (Questioning the teacher hinders learning)",
+      "सैद्धांतिक ज्ञान व्यावहारिक कौशल से अधिक महत्वपूर्ण है (Theoretical knowledge is more important than practical skills)"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Conceptual Synthesis",
-    "complexity_score": 3
+    "topic": "Metacognition",
+    "complexity_score": 8
   },
   {
-    "question": "यह पाठ छात्रों को 'ज्ञान के उपभोक्ता' (consumers of knowledge) से 'ज्ञान के उपयोगकर्ता' (users of knowledge) में बदलने में कैसे मदद करता है?",
-    "correct": "यह उन्हें सीखी हुई जानकारी को वास्तविक दुनिया की बातचीत में सक्रिय रूप से लागू करने के लिए प्रोत्साहित करता है",
+    "question": "यदि इस पाठ का अगला तार्किक कदम चुनना हो, तो वह क्या होगा? (If you had to choose the next logical step for this lesson, what would it be?)",
+    "correct": "छात्रों को एक दूसरे से सवाल पूछने और जवाब देने के लिए एक रोल-प्ले गतिविधि (A role-play activity for students to ask and answer questions with each other)",
     "options": [
-      "यह उन्हें अधिक जानकारी का उपभोग करने के लिए कहता है",
-      "यह उन्हें सीखी हुई जानकारी को वास्तविक दुनिया की बातचीत में सक्रिय रूप से लागू करने के लिए प्रोत्साहित करता है",
-      "यह ज्ञान के उपयोग को हतोत्साहित करता है",
-      "यह केवल निष्क्रिय सुनने पर ध्यान केंद्रित करता है"
+      "सभी 12 Tenses पर एक लंबा परीक्षण (A long test on all 12 tenses)",
+      "Tenses के इतिहास पर एक व्याख्यान (A lecture on the history of tenses)",
+      "छात्रों को एक दूसरे से सवाल पूछने और जवाब देने के लिए एक रोल-प्ले गतिविधि (A role-play activity for students to ask and answer questions with each other)",
+      "अगले ग्रामर विषय पर जाना (Moving on to the next grammar topic)"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Learning Philosophy",
-    "complexity_score": 3
+    "topic": "Predictive Analysis",
+    "complexity_score": 7
   }
 ]
