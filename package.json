@@ -1,16 +1,20 @@
 {
-  "name": "fluence-quiz",
+  "name": "fluence-daily-quiz",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@supabase/supabase-js": "^2.58.0",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "framer-motion": "^12.23.22",
     "gh-pages": "^6.3.0",
+    "howler": "^2.2.4",
     "html2canvas": "^1.4.1",
     "lucide-react": "^0.525.0",
     "react": "^19.1.0",
+    "react-confetti": "^6.4.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
@@ -46,5 +50,5 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.1"
   },
-  "homepage": "https://amanrajyadav.github.io/fluence-quiz"
+  "homepage": "https://amanrajyadav.github.io/fluence-daily-quiz"
 }

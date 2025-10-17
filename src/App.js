@@ -1,1164 +1,910 @@
-import React, { useState, useEffect, useRef, useCallback } from 'react';
-import { Volume2, VolumeX, Star, Trophy, Target, Share2, Calendar } from 'lucide-react';
+import React, { useState, useEffect } from 'react';
+import { Volume2, VolumeX, ArrowRight, ArrowLeft, Heart } from 'lucide-react';
+import { motion, AnimatePresence } from 'framer-motion';
+import LoadingSpinner from './components/LoadingSpinner';
+import ResultScreen from './components/ResultScreen';
+import MCQQuestion from './components/QuestionTypes/MCQQuestion';
+import TrueFalseQuestion from './components/QuestionTypes/TrueFalseQuestion';
+import ShortAnswerQuestion from './components/QuestionTypes/ShortAnswerQuestion';
+import VoiceAnswerQuestion from './components/QuestionTypes/VoiceAnswerQuestion';
+import FillBlankQuestion from './components/QuestionTypes/FillBlankQuestion';
+import MatchQuestion from './components/QuestionTypes/MatchQuestion';
+import GameHeader from './components/Game/GameHeader';
+import ProgressBar from './components/Game/ProgressBar';
+import History from './components/History/History';
+import LeaderboardScreen from './components/LeaderboardScreen';
+import Settings from './components/Settings';
+import { getStudentByName, getActiveQuestions, updateLeaderboard, getTotalPoints } from './services/quizService';
+import { submitQuizResults } from './services/webhookService';
+import { saveQuizToHistory } from './services/historyService';
+import { checkAnswer } from './utils/answerChecker';
+import { calculateScore } from './utils/scoreCalculator';
+import { usePowerUps } from './hooks/usePowerUps';
+import { soundService } from './services/soundService';
 
-const HindiEnglishQuiz = () => {
+function App() {
+  // Student & Authentication
+  const [student, setStudent] = useState(null);
+  const [playerName, setPlayerName] = useState('');
+  const [totalPoints, setTotalPoints] = useState(0); // Cumulative points across all quizzes
+
+  // Quiz State
+  const [questions, setQuestions] = useState([]);
   const [currentQuestion, setCurrentQuestion] = useState(0);
-  const [score, setScore] = useState(0);
+  const [answers, setAnswers] = useState({});
+  const [questionTimers, setQuestionTimers] = useState({});
+  const [startTime, setStartTime] = useState(null);
+  const [totalTime, setTotalTime] = useState(0);
+
+  // Game Mechanics
+  // const [lives, setLives] = useState(3); // Commented for arcade mode - students answer all 30 questions
+  const [correctCount, setCorrectCount] = useState(0);
+  const [incorrectCount, setIncorrectCount] = useState(0);
   const [streak, setStreak] = useState(0);
   const [maxStreak, setMaxStreak] = useState(0);
-  const [highestScore, setHighestScore] = useState(0);
-  const [highestStreak, setHighestStreak] = useState(0);
-  const [gameState, setGameState] = useState('menu'); // menu, playing, results
-  const [selectedAnswer, setSelectedAnswer] = useState('');
+  const [score, setScore] = useState(0);
+  const [questionStartTime, setQuestionStartTime] = useState(null);
+  const [hiddenOptions, setHiddenOptions] = useState([]);
+  const [showCorrectAnswer, setShowCorrectAnswer] = useState(false);
+
+  // UI State
+  const [gameState, setGameState] = useState('menu'); // menu, playing, results, history, leaderboard, settings
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
   const [showResult, setShowResult] = useState(false);
-  const [timeLeft, setTimeLeft] = useState(60);
-  const [isCorrect, setIsCorrect] = useState(false);
-  const [musicEnabled, setMusicEnabled] = useState(true);
+  const [musicEnabled, setMusicEnabled] = useState(false); // Default OFF
   const [sfxEnabled, setSfxEnabled] = useState(true);
-  const [playerName, setPlayerName] = useState('');
-  const [lives, setLives] = useState(3);
-  const [powerUps, setPowerUps] = useState({ skipQuestion: 2, extraTime: 2, fiftyFifty: 2 });
-  const [showPowerUpEffect, setShowPowerUpEffect] = useState('');
-  
-  // Text-to-Speech states
-  const [voice, setVoice] = useState(null);
-  const [voices, setVoices] = useState([]);
-  const [pitch, setPitch] = useState(1);
-  const [rate, setRate] = useState(1);
-  const [volume, setVolume] = useState(1);
-  const [isPaused, setIsPaused] = useState(false);
-  const [isSpeaking, setIsSpeaking] = useState(false);
-  
-  // New states for the requested features
-  const [quizUpdateDate, setQuizUpdateDate] = useState(null);
-  const [showShareSuccess, setShowShareSuccess] = useState(false);
-  
-  // Track if this is a student-specific quiz link
-  const [isStudentQuiz, setIsStudentQuiz] = useState(false);
-  // Track if we're in student quiz mode (after entering student name)
-  const [studentQuizMode, setStudentQuizMode] = useState(false);
-  
-  // Analytics tracking for AI-driven learning
-  const [userPerformance, setUserPerformance] = useState({
-    totalQuestions: 0,
-    correctAnswers: 0,
-    incorrectAnswers: 0,
-    questionHistory: [], // Track each question and user's answer
-    weakAreas: {}, // Track which idioms/phrases user struggles with
-    strongAreas: {}, // Track which idioms/phrases user excels at
-    difficultyProgression: [], // Track difficulty changes
-    currentDifficulty: 'easy', // Current difficulty level
-    difficultyStats: {
-      easy: { correct: 0, total: 0 },
-      medium: { correct: 0, total: 0 },
-      hard: { correct: 0, total: 0 }
-    },
-    sessionStats: {
-      currentSession: 0,
-      totalSessions: 0,
-      averageAccuracy: 0,
-      bestStreak: 0
-    }
-  });
-  
-  const timerRef = useRef(null);
-  const backgroundMusicRef = useRef(null);
-  const utteranceRef = useRef(null);
+  const [blasterActive, setBlasterActive] = useState(false);
+  const [isReplayMode, setIsReplayMode] = useState(false); // Track replay mode
 
-  // Add error state for question loading
-  const [questionLoadError, setQuestionLoadError] = useState(null);
+  // Results
+  const [finalScore, setFinalScore] = useState(0);
+  const [submitting, setSubmitting] = useState(false);
+  const [submitted, setSubmitted] = useState(false);
+  const [submitError, setSubmitError] = useState(null);
+  const [resultsData, setResultsData] = useState(null);
 
-  const [questions, setQuestions] = useState([]);
-  const [currentOptions, setCurrentOptions] = useState([]);
+  // Power-ups hook
+  const {
+    powerUps,
+    useFiftyFifty: activateFiftyFifty,
+    useBlaster: activateBlaster,
+    useExtraTime: activateExtraTime,
+    resetQuestionPowerUps,
+    resetAllPowerUps
+  } = usePowerUps();
 
-  // Load highest scores and user performance from localStorage on component mount
+  // Load student from URL or name
   useEffect(() => {
-    const savedHighestScore = localStorage.getItem('highestScore');
-    const savedHighestStreak = localStorage.getItem('highestStreak');
-    const savedUserPerformance = localStorage.getItem('userPerformance');
-    
-    if (savedHighestScore) setHighestScore(parseInt(savedHighestScore));
-    if (savedHighestStreak) setHighestStreak(parseInt(savedHighestStreak));
-    if (savedUserPerformance) {
-      try {
-        setUserPerformance(JSON.parse(savedUserPerformance));
-      } catch (e) {
-        console.error('Error parsing saved user performance:', e);
-      }
+    const urlParams = new URLSearchParams(window.location.search);
+    const studentParam = urlParams.get('student');
+
+    if (studentParam) {
+      loadStudentById(studentParam);
     }
   }, []);
 
-  // Simplify question loading - always load 30 questions
+  // Reload points when returning to menu (fixes refresh bug)
   useEffect(() => {
-    const urlParams = new URLSearchParams(window.location.search);
-    const student = urlParams.get('student');
-    
-    // Check if we should auto-detect student based on name
-    let detectedStudent = null;
-    if (playerName) {
-      const nameLower = playerName.toLowerCase().trim();
-      if (nameLower === 'anaya') {
-        detectedStudent = '1';
-      } else if (nameLower === 'kavya') {
-        detectedStudent = '2';
-      } else if (nameLower === 'mamta') {
-        detectedStudent = '3';
-      }
-    }
-    
-    // Use detected student or URL parameter
-    const finalStudent = detectedStudent || student;
-    
-    if (finalStudent) {
-      setIsStudentQuiz(true);
-      setStudentQuizMode(true);
-      
-      // Update URL if we detected a student by name
-      if (detectedStudent && !student) {
-        const newUrl = new URL(window.location);
-        newUrl.searchParams.set('student', detectedStudent);
-        window.history.replaceState({}, '', newUrl);
-      }
-    }
-    
-    const questionFile = finalStudent ? `questions-student${finalStudent}.json` : 'questions.json';
-    
-    // Add a flag to prevent multiple simultaneous requests
-    let isMounted = true;
-    
-    fetch(questionFile)
-      .then(response => {
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
+    const reloadPoints = async () => {
+      if (student && gameState === 'menu') {
+        try {
+          const points = await getTotalPoints(student.id);
+          setTotalPoints(points);
+        } catch (err) {
+          console.error('Error reloading points:', err);
         }
-        const lastModified = response.headers.get('last-modified');
-        if (lastModified) {
-          setQuizUpdateDate(new Date(lastModified));
-        }
-        return response.json();
-      })
-      .then(data => {
-        if (!isMounted) return;
-        
-        // Always process and shuffle 30 questions
-        const processedQuestions = data.map((question, index) => ({
-          ...question,
-          id: question.id || index,
-        }));
-        const shuffledQuestions = [...processedQuestions].sort(() => Math.random() - 0.5).slice(0, 20);
-        setQuestions(shuffledQuestions);
-        setQuestionLoadError(null);
-      })
-      .catch(error => {
-        if (!isMounted) return;
-        console.error('Error loading questions:', error);
-        setQuestionLoadError('Could not load quiz questions. Please check your link or try again later.');
-        setQuestions([]);
-      });
-      
-    return () => {
-      isMounted = false;
+      }
     };
-  }, [playerName]); // Add playerName as dependency to re-run when name changes
 
-  // Fix options useEffect to only shuffle when currentQuestion changes
-  useEffect(() => {
-    if (questions.length > 0 && currentQuestion < questions.length) {
-      const options = [...questions[currentQuestion].options];
-      setCurrentOptions(options.sort(() => Math.random() - 0.5));
-    }
-  }, [questions, currentQuestion]); // Depend on questions and currentQuestion
+    reloadPoints();
+  }, [student, gameState]);
 
-  // Update speak function to accept rate and auto-select voice - wrapped in useCallback
-  const speak = useCallback((text, customRate = 1) => {
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-      const utter = new window.SpeechSynthesisUtterance(text);
-      const selectedVoice = getVoiceForText(text, voices);
-      utter.voice = selectedVoice;
-      utter.pitch = 1;
-      utter.rate = customRate;
-      utter.volume = 1;
-      utter.lang = selectedVoice?.lang || 'en-US';
-      utter.onstart = () => setIsSpeaking(true);
-      utter.onend = () => setIsSpeaking(false);
-      utter.onpause = () => setIsPaused(true);
-      utter.onresume = () => setIsPaused(false);
-      utteranceRef.current = utter;
-      window.speechSynthesis.speak(utter);
-    }
-  }, [voices]);
+  const loadStudentById = async (studentIdOrName) => {
+    setLoading(true);
+    setError(null);
 
-  // Auto-speak when question changes - use ref to avoid infinite loops
-  const speakRef = useRef(speak);
-  speakRef.current = speak;
+    try {
+      // Try to get student by name
+      const studentData = await getStudentByName(studentIdOrName);
 
-  // Fix speak useEffect to only speak when currentQuestion changes
-  useEffect(() => {
-    if (questions.length > 0 && currentQuestion < questions.length && gameState === 'playing') {
-      speakRef.current(questions[currentQuestion].question, 1);
-    }
-  }, [currentQuestion, gameState]); // Only depend on currentQuestion and gameState
+      if (studentData) {
+        setStudent(studentData);
+        setPlayerName(studentData.display_name);
+        await loadQuestions(studentData.id);
 
-  // Sound effects - wrapped in useCallback to prevent infinite loops
-  const playSound = useCallback((type) => {
-    if (!sfxEnabled) return;
-    // Sound effect logic here
-    console.log(`Playing ${type} sound`);
-  }, [sfxEnabled]);
-
-  // Move handleTimeUp here, before useEffect - wrapped in useCallback
-  const handleTimeUp = useCallback(() => {
-    setShowResult(true);
-    setIsCorrect(false);
-    setStreak(0);
-    setLives(prev => prev - 1);
-    playSound('wrong');
-    // Track timeout as incorrect answer for analytics
-    const currentQ = questions[currentQuestion];
-    if (currentQ) {
-      const questionKey = currentQ.question;
-      setUserPerformance(prev => {
-        const newHistory = [...prev.questionHistory, {
-          question: currentQ.question,
-          userAnswer: null,
-          correctAnswer: currentQ.correct,
-          isCorrect: false,
-          difficulty: currentQ.difficulty || 'easy',
-          masteryLevel: currentQ.masteryLevel || 0,
-          timestamp: new Date().toISOString(),
-          timeLeft: 0,
-          streak: 0
-        }];
-        const newWeakAreas = { ...prev.weakAreas };
-        newWeakAreas[questionKey] = (newWeakAreas[questionKey] || 0) + 1;
-        return {
-          ...prev,
-          totalQuestions: prev.totalQuestions + 1,
-          incorrectAnswers: prev.incorrectAnswers + 1,
-          questionHistory: newHistory,
-          weakAreas: newWeakAreas
-        };
-      });
-    }
-    setTimeout(() => {
-      if (currentQuestion + 1 < questions.length && lives > 1) {
-        // Use functional update to avoid dependency on nextQuestion
-        setCurrentQuestion(prev => prev + 1);
-        setTimeLeft(60);
-        setShowResult(false);
-        setSelectedAnswer('');
+        // Load total points accumulated
+        const points = await getTotalPoints(studentData.id);
+        setTotalPoints(points);
       } else {
-        // Use functional update to avoid dependency on endGame
-        setGameState('results');
-        setShowResult(false);
-        setSelectedAnswer('');
+        setError(`Student "${studentIdOrName}" not found`);
       }
-    }, 2000);
-  }, [currentQuestion, questions, lives, playSound]);
-
-  // Timer effect - use ref to avoid infinite loops
-  const handleTimeUpRef = useRef(handleTimeUp);
-  handleTimeUpRef.current = handleTimeUp;
-
-  useEffect(() => {
-    if (gameState === 'playing' && timeLeft > 0 && !showResult) {
-      timerRef.current = setTimeout(() => {
-        setTimeLeft(timeLeft - 1);
-      }, 1000);
-    } else if (timeLeft === 0 && !showResult) {
-      handleTimeUpRef.current();
+    } catch (err) {
+      console.error('Error loading student:', err);
+      setError('Failed to load student data. Please try again.');
+    } finally {
+      setLoading(false);
     }
-    return () => clearTimeout(timerRef.current);
-  }, [timeLeft, gameState, showResult]);
-
-  // Simplify handleAnswerSelect - remove isProcessingAnswer logic
-  const handleAnswerSelect = (option) => {
-    if (showResult) return; // Prevent multiple answers
-    
-    const currentQ = questions[currentQuestion];
-    if (!currentQ) return;
-    
-    setSelectedAnswer(option);
-    setShowResult(true);
-    
-    const isCorrectAnswer = option === currentQ?.correct;
-    const timeBonus = Math.max(0, timeLeft - 5) * 2; // Bonus points for quick answers
-    const streakBonus = streak > 0 ? streak * 5 : 0;
-    
-    setIsCorrect(isCorrectAnswer);
-    
-    if (isCorrectAnswer) {
-      // Correct answer logic
-      const pointsEarned = 100 + timeBonus + streakBonus;
-      setScore(score + pointsEarned);
-      setStreak(streak + 1);
-      setMaxStreak(Math.max(maxStreak, streak + 1));
-      playSound('correct');
-      
-      // Update mastery level for this question
-      const newMasteryLevel = Math.min(5, (currentQ.masteryLevel || 0) + 1);
-      setQuestions(prev => prev.map(q => 
-        q.id === currentQ.id ? { ...q, masteryLevel: newMasteryLevel } : q
-      ));
-      
-      // Update user performance analytics
-      setUserPerformance(prev => {
-        const newHistory = [...prev.questionHistory, {
-          question: currentQ.question,
-          userAnswer: option,
-          correctAnswer: currentQ.correct,
-          isCorrect: true,
-          difficulty: currentQ.difficulty || 'easy',
-          masteryLevel: newMasteryLevel,
-          timestamp: new Date().toISOString(),
-          timeLeft,
-          streak: streak + 1,
-          pointsEarned
-        }];
-        
-        const newStrongAreas = { ...prev.strongAreas };
-        newStrongAreas[currentQ.question] = (newStrongAreas[currentQ.question] || 0) + 1;
-        
-        const newDifficultyStats = { ...prev.difficultyStats };
-        const difficulty = currentQ.difficulty || 'easy';
-        const newTotal = (newDifficultyStats[difficulty]?.total ?? 0) + 1;
-        newDifficultyStats[difficulty] = {
-          total: newTotal,
-          correct: (newDifficultyStats[difficulty]?.correct ?? 0) + 1
-        };
-        
-        return {
-          ...prev,
-          totalQuestions: prev.totalQuestions + 1,
-          correctAnswers: prev.correctAnswers + 1,
-          questionHistory: newHistory,
-          strongAreas: newStrongAreas,
-          difficultyStats: newDifficultyStats
-        };
-      });
-      
-      // Update highest score and streak if needed
-      if (score + pointsEarned > highestScore) {
-        setHighestScore(score + pointsEarned);
-        localStorage.setItem('highestScore', score + pointsEarned);
-      }
-      if (streak + 1 > highestStreak) {
-        setHighestStreak(streak + 1);
-        localStorage.setItem('highestStreak', streak + 1);
-      }
-      
-    } else {
-      // Incorrect answer logic
-      setLives(lives - 1);
-      setStreak(0);
-      playSound('wrong');
-      
-      // Decrease mastery level for this question
-      const newMasteryLevel = Math.max(0, (currentQ.masteryLevel || 0) - 1);
-      setQuestions(prev => prev.map(q => 
-        q.id === currentQ.id ? { ...q, masteryLevel: newMasteryLevel } : q
-      ));
-      
-      // Update user performance analytics
-      setUserPerformance(prev => {
-        const newHistory = [...prev.questionHistory, {
-          question: currentQ.question,
-          userAnswer: option,
-          correctAnswer: currentQ.correct,
-          isCorrect: false,
-          difficulty: currentQ.difficulty || 'easy',
-          masteryLevel: newMasteryLevel,
-          timestamp: new Date().toISOString(),
-          timeLeft,
-          streak: 0
-        }];
-        
-        const newWeakAreas = { ...prev.weakAreas };
-        newWeakAreas[currentQ.question] = (newWeakAreas[currentQ.question] || 0) + 1;
-        
-        const newDifficultyStats = { ...prev.difficultyStats };
-        const difficulty = currentQ.difficulty || 'easy';
-        const newTotal = (newDifficultyStats[difficulty]?.total ?? 0) + 1;
-        newDifficultyStats[difficulty] = {
-          total: newTotal,
-          correct: (newDifficultyStats[difficulty]?.correct ?? 0)
-        };
-        
-        return {
-          ...prev,
-          totalQuestions: prev.totalQuestions + 1,
-          incorrectAnswers: prev.incorrectAnswers + 1,
-          questionHistory: newHistory,
-          weakAreas: newWeakAreas,
-          difficultyStats: newDifficultyStats
-        };
-      });
-    }
-    
-    // Schedule next question or end game
-    setTimeout(() => {
-      if (currentQuestion + 1 < questions.length && lives > (isCorrectAnswer ? 0 : 1)) {
-        nextQuestion();
-      } else {
-        endGame();
-      }
-    }, 2000);
   };
 
-  // Simplify nextQuestion function - just increment
-  const nextQuestion = () => {
-    setCurrentQuestion(currentQuestion + 1);
-    setSelectedAnswer('');
+  const loadQuestions = async (studentId) => {
+    try {
+      const questionsData = await getActiveQuestions(studentId);
+
+      if (!questionsData || questionsData.length === 0) {
+        setError('No active quiz questions found. Please contact your teacher.');
+        return;
+      }
+
+      setQuestions(questionsData);
+
+      // Initialize answers and timers
+      const initialAnswers = {};
+      const initialTimers = {};
+      questionsData.forEach((q, index) => {
+        initialAnswers[index] = '';
+        initialTimers[index] = 0;
+      });
+      setAnswers(initialAnswers);
+      setQuestionTimers(initialTimers);
+    } catch (err) {
+      console.error('Error loading questions:', err);
+      setError('Failed to load quiz questions. Please try again.');
+    }
+  };
+
+  const handleNameSubmit = async () => {
+    if (!playerName.trim()) {
+      setError('Please enter your name');
+      return;
+    }
+
+    await loadStudentById(playerName.trim());
+  };
+
+  const startQuiz = () => {
+    if (questions.length === 0) {
+      setError('No questions available');
+      return;
+    }
+
+    setGameState('playing');
+    setStartTime(Date.now());
+    setCurrentQuestion(0);
     setShowResult(false);
-    setTimeLeft(60);
+    setIsReplayMode(false); // Regular quiz mode
+
+    // Reset game mechanics
+    // setLives(3); // Commented for arcade mode
+    setCorrectCount(0);
+    setIncorrectCount(0);
+    setStreak(0);
+    setMaxStreak(0);
+    setScore(0);
+    setQuestionStartTime(Date.now());
+    setHiddenOptions([]);
+    setShowCorrectAnswer(false);
+    resetAllPowerUps();
+
+    // Start background music only if enabled (user interaction triggers it)
+    if (musicEnabled) {
+      soundService.startBackgroundMusic();
+    }
   };
 
-  // Generate performance insights and recommendations
-  const generateInsights = () => {
-    const { difficultyStats, questionHistory } = userPerformance;
-    
-    const insights = [];
-    const recommendations = [];
-    
-    // Analyze difficulty performance
-    const easyAccuracy = (difficultyStats.easy?.total > 0) ? (difficultyStats.easy?.correct / difficultyStats.easy.total) : 0;
-    const mediumAccuracy = (difficultyStats.medium?.total > 0) ? (difficultyStats.medium?.correct / difficultyStats.medium.total) : 0;
-    const hardAccuracy = (difficultyStats.hard?.total > 0) ? (difficultyStats.hard?.correct / difficultyStats.hard.total) : 0;
-    
-    // Difficulty insights
-    if (easyAccuracy >= 0.8 && (difficultyStats.easy?.total ?? 0) >= 5) {
-      insights.push("🎯 You're excelling at easy questions!");
-      recommendations.push("Try more medium difficulty questions to challenge yourself.");
-    }
-    
-    if (mediumAccuracy >= 0.7 && (difficultyStats.medium?.total ?? 0) >= 5) {
-      insights.push("🚀 Great progress on medium difficulty!");
-      recommendations.push("You're ready for harder challenges.");
-    }
-    
-    if (easyAccuracy < 0.6 && (difficultyStats.easy?.total ?? 0) >= 3) {
-      insights.push("📚 You might need more practice with basic concepts.");
-      recommendations.push("Focus on mastering fundamentals before moving up.");
-    }
-    
-    if (hardAccuracy < 0.4 && (difficultyStats.hard?.total ?? 0) >= 3) {
-      insights.push("💪 Hard questions are challenging - that's normal!");
-      recommendations.push("Practice more medium questions to build confidence.");
-    }
-    
-    // Spaced repetition insights
-    const dueForReview = questions.filter(q => 
-      q.nextReviewDate && new Date(q.nextReviewDate) <= new Date()
-    ).length;
-    
-    if (dueForReview > 0) {
-      insights.push(`⏰ You have ${dueForReview} questions due for review.`);
-      recommendations.push("Review these questions to maintain your progress.");
-    }
-    
-    // Mastery level insights
-    const masteredQuestions = questions.filter(q => q.masteryLevel >= 4).length;
-    const totalQuestions = questions.length;
-    const masteryPercentage = totalQuestions > 0 ? (masteredQuestions / totalQuestions * 100).toFixed(1) : 0;
-    
-    insights.push(`🏆 You've mastered ${masteryPercentage}% of the questions!`);
-    
-    if (masteryPercentage >= 80) {
-      recommendations.push("Excellent progress! Consider adding new questions to your study set.");
-    } else if (masteryPercentage >= 50) {
-      recommendations.push("Good progress! Keep practicing to reach mastery.");
-    } else {
-      recommendations.push("Keep practicing regularly to improve your mastery level.");
-    }
-    
-    return { insights, recommendations };
-  };
+  const handleAnswerSelect = (answer) => {
+    setAnswers(prev => ({
+      ...prev,
+      [currentQuestion]: answer
+    }));
 
-  const generateAnalyticsReport = () => {
-    const { totalQuestions, correctAnswers, incorrectAnswers, weakAreas, strongAreas, questionHistory, difficultyStats } = userPerformance;
-    const accuracy = totalQuestions > 0 ? (correctAnswers / totalQuestions * 100).toFixed(1) : 0;
-    
-    // Get top weak areas (questions user got wrong most)
-    const topWeakAreas = Object.entries(weakAreas)
-      .sort(([,a], [,b]) => b - a)
-      .slice(0, 5)
-      .map(([question, count]) => ({ question, count }));
-    
-    // Get top strong areas (questions user got right most)
-    const topStrongAreas = Object.entries(strongAreas)
-      .sort(([,a], [,b]) => b - a)
-      .slice(0, 3)
-      .map(([question, count]) => ({ question, count }));
-    
-    // Calculate difficulty-based analytics
-    const difficultyAnalytics = {
-      easy: {
-        accuracy: (difficultyStats.easy?.total > 0) ? ((difficultyStats.easy?.correct / difficultyStats.easy.total) * 100).toFixed(1) : 0,
-        total: difficultyStats.easy?.total ?? 0,
-        correct: difficultyStats.easy?.correct ?? 0
-      },
-      medium: {
-        accuracy: (difficultyStats.medium?.total > 0) ? ((difficultyStats.medium?.correct / difficultyStats.medium.total) * 100).toFixed(1) : 0,
-        total: difficultyStats.medium?.total ?? 0,
-        correct: difficultyStats.medium?.correct ?? 0
-      },
-      hard: {
-        accuracy: (difficultyStats.hard?.total > 0) ? ((difficultyStats.hard?.correct / difficultyStats.hard.total) * 100).toFixed(1) : 0,
-        total: difficultyStats.hard?.total ?? 0,
-        correct: difficultyStats.hard?.correct ?? 0
+    // Check answer immediately and update game state
+    const question = questions[currentQuestion];
+    const isCorrect = checkAnswer(answer, question.correct_answer, question.question_type);
+
+    // Show result
+    setShowResult(true);
+
+    if (isCorrect) {
+      // Play correct sound
+      if (sfxEnabled) {
+        soundService.play('correct');
       }
-    };
-    
-    // Generate insights and recommendations
-    const { insights, recommendations } = generateInsights();
-    
-    return {
-      accuracy: parseFloat(accuracy),
-      totalQuestions,
-      correctAnswers,
-      incorrectAnswers,
-      topWeakAreas,
-      topStrongAreas,
-      difficultyAnalytics,
-      insights,
-      recommendations,
-      averageTimePerQuestion: questionHistory.length > 0 
-        ? questionHistory.reduce((sum, q) => sum + (60 - q.timeLeft), 0) / questionHistory.length 
-        : 0
-    };
+
+      // Track correct answer
+      setCorrectCount(prev => prev + 1);
+
+      // Calculate points with streak bonus
+      const points = calculateScore(true, streak);
+      setScore(prev => prev + points);
+
+      // Update streak
+      const newStreak = streak + 1;
+      setStreak(newStreak);
+      if (newStreak > maxStreak) {
+        setMaxStreak(newStreak);
+      }
+
+      // Play level-up sound every 5 streak milestone
+      if (newStreak % 5 === 0 && sfxEnabled) {
+        soundService.play('levelup');
+      }
+    } else {
+      // Play wrong sound
+      if (sfxEnabled) {
+        soundService.play('wrong');
+      }
+
+      // Track incorrect answer
+      setIncorrectCount(prev => prev + 1);
+
+      // Reset streak
+      setStreak(0);
+
+      // No lives system - continue to next question
+    }
   };
 
-  const endGame = () => {
-    // Check and update highest score
-    if (score > highestScore) {
-      setHighestScore(score);
-      localStorage.setItem('highestScore', score.toString());
+  const handleNext = () => {
+    // Record time for this question
+    const timeSpent = Math.floor((Date.now() - questionStartTime) / 1000);
+    setQuestionTimers(prev => ({
+      ...prev,
+      [currentQuestion]: timeSpent
+    }));
+
+    setShowResult(false);
+    setHiddenOptions([]);
+    setShowCorrectAnswer(false);
+
+    if (currentQuestion < questions.length - 1) {
+      setCurrentQuestion(prev => prev + 1);
+      setQuestionStartTime(Date.now());
+
+      // Reset question-specific power-ups
+      resetQuestionPowerUps();
+    } else {
+      handleFinishQuiz();
     }
-    
-    // Check and update highest streak
-    if (maxStreak > highestStreak) {
-      setHighestStreak(maxStreak);
-      localStorage.setItem('highestStreak', maxStreak.toString());
+  };
+
+  const handlePrevious = () => {
+    if (currentQuestion > 0) {
+      setShowResult(false);
+      setCurrentQuestion(prev => prev - 1);
     }
-    
-    // Save user performance data for analytics
-    if (userPerformance.totalQuestions > 0) {
-      const performanceData = {
-        ...userPerformance,
-        sessionEndTime: new Date().toISOString(),
-        finalScore: score,
-        finalStreak: maxStreak
+  };
+
+  const handleFinishQuiz = async () => {
+    // Stop background music
+    soundService.stopBackgroundMusic();
+
+    const endTime = Date.now();
+    const totalSeconds = Math.floor((endTime - startTime) / 1000);
+    setTotalTime(totalSeconds);
+
+    // Calculate score
+    let correct = 0;
+    const detailedAnswers = questions.map((question, index) => {
+      const studentAnswer = answers[index];
+      const isCorrect = checkAnswer(studentAnswer, question.correct_answer, question.question_type);
+
+      if (isCorrect) correct++;
+
+      // Calculate points for this question
+      const timeTaken = questionTimers[index] || 0;
+      const timeRemaining = Math.max(0, 60 - timeTaken);
+      const streakAtTime = 0; // We don't track per-question streak in history
+      const points = isCorrect ? calculateScore(true, timeRemaining, 60, streakAtTime) : 0;
+
+      return {
+        question_id: question.id,
+        question_text: question.question_text,
+        question_type: question.question_type,
+        options: question.options, // IMPORTANT: Store options for replay
+        student_answer: studentAnswer,
+        correct_answer: question.correct_answer,
+        is_correct: isCorrect,
+        time_spent: timeTaken,
+        points_earned: points,
+        concept_tested: question.concept_tested,
+        difficulty_level: question.difficulty_level,
+        explanation: question.explanation
       };
-      localStorage.setItem('userPerformance', JSON.stringify(performanceData));
-    }
-    
+    });
+
+    const scorePercentage = (correct / questions.length) * 100;
+    setFinalScore(scorePercentage);
+
+    // Power-ups disabled in regular quiz (saved for Rapid Fire mode)
+    const powerUpsUsed = {
+      fifty_fifty: 0,
+      blaster: 0,
+      extra_time: 0
+    };
+
+    const data = {
+      student_id: student.id,
+      student_name: student.display_name,
+      quiz_date: new Date().toISOString().split('T')[0],
+      total_questions: questions.length,
+      correct_answers: correct,
+      incorrect_answers: questions.length - correct, // Total incorrect
+      score: scorePercentage,
+      time_taken_seconds: totalSeconds,
+      highest_streak: maxStreak,
+      total_score: score,
+      power_ups_used: powerUpsUsed,
+      answers_json: {
+        questions: detailedAnswers,
+        metadata: {
+          correct_count: correctCount,
+          incorrect_count: incorrectCount,
+          questions_attempted: questions.length,
+          completion_rate: 100 // All 30 questions completed in arcade mode
+        }
+      },
+      concepts_tested: [...new Set(questions.map(q => q.concept_tested).filter(Boolean))]
+    };
+
+    // Save results data for manual submission
+    setResultsData(data);
     setGameState('results');
   };
 
-  // Update startGame to remove unlimited mode logic
-  const startGame = () => {
-    setGameState('playing');
-    setCurrentQuestion(0);
-    setScore(0);
-    setStreak(0);
-    setMaxStreak(0);
-    setLives(3);
-    setTimeLeft(60);
-    setShowResult(false);
-    setSelectedAnswer('');
-    setIsCorrect(false);
-    setPowerUps({ skipQuestion: 2, extraTime: 2, fiftyFifty: 2 });
-    setShowPowerUpEffect('');
-  };
+  const handleSubmitResults = async () => {
+    if (!resultsData) return;
 
-  // Update restartGame to remove unlimited mode logic
-  const restartGame = () => {
-    setGameState('playing');
-    setCurrentQuestion(0);
-    setScore(0);
-    setStreak(0);
-    setMaxStreak(0);
-    setLives(3);
-    setTimeLeft(60);
-    setShowResult(false);
-    setSelectedAnswer('');
-    setIsCorrect(false);
-    setPowerUps({ skipQuestion: 2, extraTime: 2, fiftyFifty: 2 });
-    setShowPowerUpEffect('');
-  };
+    setSubmitting(true);
+    setSubmitError(null);
 
-  // Update startStudentQuiz to remove unlimited mode logic
-  const startStudentQuiz = () => {
-    setGameState('playing');
-    setCurrentQuestion(0);
-    setScore(0);
-    setStreak(0);
-    setMaxStreak(0);
-    setLives(3);
-    setTimeLeft(60);
-    setShowResult(false);
-    setSelectedAnswer('');
-    setIsCorrect(false);
-    setPowerUps({ skipQuestion: 2, extraTime: 2, fiftyFifty: 2 });
-    setShowPowerUpEffect('');
-  };
-
-  const powerUp = (type) => {
-    // Guard: do nothing if no current question
-    if (!questions[currentQuestion]) return;
-    switch (type) {
-      case 'skipQuestion':
-        setPowerUps({ ...powerUps, skipQuestion: powerUps.skipQuestion - 1 });
-        if (currentQuestion + 1 < questions.length) {
-          nextQuestion();
-        } else {
-          endGame();
-        }
-        break;
-      case 'extraTime':
-        setPowerUps({ ...powerUps, extraTime: powerUps.extraTime - 1 });
-        setTimeLeft(Math.min(timeLeft + 10, 60));
-        break;
-      case 'fiftyFifty':
-        setPowerUps({ ...powerUps, fiftyFifty: powerUps.fiftyFifty - 1 });
-        const currentQ = questions[currentQuestion];
-        if (!currentQ) return;
-        const correctAnswer = currentQ.correct;
-        const incorrectOptions = currentOptions.filter(opt => opt !== correctAnswer);
-        const optionsToRemove = incorrectOptions.slice(0, 2);
-        setCurrentOptions(currentOptions.filter(opt => !optionsToRemove.includes(opt)));
-        break;
-      default: break;
-    }
-  };
-
-  const getScoreRating = () => {
-    const percentage = (score / (questions.length * 100)) * 100;
-    if (percentage >= 90) return { rating: "🏆 CHAMPION!", color: "text-yellow-400" };
-    if (percentage >= 80) return { rating: "⭐ EXCELLENT!", color: "text-blue-400" };
-    if (percentage >= 70) return { rating: "🎯 GREAT JOB!", color: "text-green-400" };
-    if (percentage >= 60) return { rating: "👍 GOOD WORK!", color: "text-purple-400" };
-    return { rating: "💪 KEEP TRYING!", color: "text-red-400" };
-  };
-
-  // Share score function with screenshot
-  const shareScore = async () => {
     try {
-      // Take screenshot of the results page
-      const resultsElement = document.querySelector('.bg-white\\/10.backdrop-blur-lg.rounded-3xl');
-      if (resultsElement) {
-        // Use html2canvas to capture the screenshot
-        const html2canvas = await import('html2canvas');
-        const canvas = await html2canvas.default(resultsElement, {
-          backgroundColor: null,
-          scale: 2,
-          useCORS: true,
-          allowTaint: true
-        });
-        
-        // Convert canvas to blob
-        canvas.toBlob(async (blob) => {
-          if (blob) {
-            const file = new File([blob], 'fluence-quiz-score.png', { type: 'image/png' });
-            
-            if (navigator.share && navigator.canShare && navigator.canShare({ files: [file] })) {
-              // Share the screenshot file
-              await navigator.share({
-                title: 'Fluence Quiz Score',
-                text: `🎉 I scored ${score} points in the Fluence Quiz! Can you beat my score? 🏆`,
-                files: [file]
-              });
-            } else {
-              // Fallback: download the screenshot
-              const url = URL.createObjectURL(blob);
-              const a = document.createElement('a');
-              a.href = url;
-              a.download = 'fluence-quiz-score.png';
-              document.body.appendChild(a);
-              a.click();
-              document.body.removeChild(a);
-              URL.revokeObjectURL(url);
-              
-              setShowShareSuccess(true);
-              setTimeout(() => setShowShareSuccess(false), 3000);
-            }
-          }
-        }, 'image/png');
-      }
-    } catch (error) {
-      console.error('Error sharing screenshot:', error);
-      // Fallback to text sharing
-      const { rating } = getScoreRating();
-      const shareText = `🎉 I scored ${score} points on Fluence Quiz! ${rating} 
-      
-Questions: ${Math.min(currentQuestion + 1, questions.length)}/${questions.length}
-Max Streak: ${maxStreak} 🔥
+      // Submit to webhook
+      const webhookResult = await submitQuizResults(resultsData);
 
-Try the quiz yourself!`;
-      
-      try {
-        if (navigator.share) {
-          await navigator.share({
-            title: 'My Fluence Quiz Score',
-            text: shareText,
-            url: window.location.href
-          });
-        } else {
-          await navigator.clipboard.writeText(shareText);
-          setShowShareSuccess(true);
-          setTimeout(() => setShowShareSuccess(false), 2000);
-        }
-      } catch (clipboardError) {
-        console.error('Error copying to clipboard:', clipboardError);
+      if (!webhookResult || !webhookResult.success) {
+        throw new Error(webhookResult?.error || 'Failed to submit to webhook');
       }
+
+      console.log('Quiz results submitted to webhook successfully');
+
+      // Save to history only after successful webhook submission
+      const historyResult = await saveQuizToHistory(resultsData);
+
+      if (!historyResult || !historyResult.success) {
+        throw new Error(historyResult?.error || 'Failed to save to history');
+      }
+
+      console.log('Quiz saved to history successfully');
+
+      // Leaderboard is now updated by n8n webhook automatically
+      // No need to call updateLeaderboard from frontend
+
+      // Update total points (add current quiz score)
+      setTotalPoints(prev => prev + resultsData.total_score);
+
+      setSubmitted(true);
+    } catch (err) {
+      console.error('Error submitting quiz:', err);
+      setSubmitError(err?.message || 'An unexpected error occurred');
+    } finally {
+      setSubmitting(false);
     }
   };
 
-  // Load available voices
-  useEffect(() => {
-    if ('speechSynthesis' in window) {
-      const loadVoices = () => {
-        const allVoices = window.speechSynthesis.getVoices();
-        setVoices(allVoices);
-        if (allVoices.length > 0 && !voice) {
-          setVoice(allVoices[0]);
-        }
-      };
-      loadVoices();
-      window.speechSynthesis.onvoiceschanged = loadVoices;
-    }
-  }, [voice]);
+  const handleRestart = () => {
+    setGameState('menu');
+    setCurrentQuestion(0);
+    setShowResult(false);
+    setFinalScore(0);
 
-  // Helper to auto-select voice
-  function getVoiceForText(text, voices) {
-    // Simple check: if text contains Devanagari, use Hindi
-    const hindiChar = /[\u0900-\u097F]/;
-    if (hindiChar.test(text)) {
-      return voices.find(v => v.lang && v.lang.startsWith('hi')) || voices[0];
+    // Reset answers and timers
+    const initialAnswers = {};
+    const initialTimers = {};
+    questions.forEach((q, index) => {
+      initialAnswers[index] = '';
+      initialTimers[index] = 0;
+    });
+    setAnswers(initialAnswers);
+    setQuestionTimers(initialTimers);
+
+    // Reset game mechanics
+    // setLives(3); // Commented for arcade mode
+    setCorrectCount(0);
+    setIncorrectCount(0);
+    setStreak(0);
+    setMaxStreak(0);
+    setScore(0);
+    setHiddenOptions([]);
+    setShowCorrectAnswer(false);
+    resetAllPowerUps();
+  };
+
+  // Power-up handlers
+  const handleFiftyFifty = () => {
+    const question = questions[currentQuestion];
+
+    // Only works on MCQ questions
+    if (question.question_type !== 'mcq') {
+      return;
     }
-    // Otherwise, prefer English
-    return voices.find(v => v.lang && v.lang.startsWith('en')) || voices[0];
+
+    const success = activateFiftyFifty();
+    if (!success) {
+      return;
+    }
+
+    // Parse options - handle both string and array formats
+    let options = [];
+    if (Array.isArray(question.options)) {
+      options = question.options;
+    } else if (typeof question.options === 'string') {
+      try {
+        options = JSON.parse(question.options);
+      } catch (e) {
+        console.error('[50/50] Failed to parse options:', e);
+        return;
+      }
+    } else {
+      console.error('[50/50] Invalid options format:', question.options);
+      return;
+    }
+
+    // Get correct answer and find 2 wrong options to hide
+    const correctAnswer = question.correct_answer;
+    const wrongOptions = options.filter(opt => opt !== correctAnswer);
+
+    if (wrongOptions.length < 2) {
+      console.warn('[50/50] Not enough wrong options to hide');
+      return;
+    }
+
+    // Randomly select 2 wrong options to hide
+    const shuffled = wrongOptions.sort(() => 0.5 - Math.random());
+    const toHide = shuffled.slice(0, 2);
+
+    setHiddenOptions(toHide);
+
+    // Sound already played by hook
+  };
+
+  const handleBlaster = () => {
+    const success = activateBlaster();
+    if (!success) {
+      return;
+    }
+
+    // Get current question
+    const question = questions[currentQuestion];
+
+    // Trigger particle explosion animation
+    setBlasterActive(true);
+
+    // Show correct answer briefly
+    setShowCorrectAnswer(true);
+
+    // Sound already played by hook
+
+    // Auto-select correct answer after 1.5 seconds (shorter for particle effect)
+    setTimeout(() => {
+      setShowCorrectAnswer(false);
+      setBlasterActive(false);
+      handleAnswerSelect(question.correct_answer);
+    }, 1500);
+  };
+
+  const handleExtraTime = () => {
+    const success = activateExtraTime();
+    if (!success) {
+      return;
+    }
+
+    // Timer removed - this power-up needs new functionality
+    // TODO: Replace with something else (e.g., bonus points, skip question, etc.)
+
+    // Sound already played by hook
+  };
+
+  // Render appropriate question type
+  const renderQuestion = () => {
+    if (!questions[currentQuestion]) return null;
+
+    const question = questions[currentQuestion];
+    const selectedAnswer = answers[currentQuestion];
+    const isCorrect = checkAnswer(selectedAnswer, question.correct_answer, question.question_type);
+
+    const commonProps = {
+      question,
+      selectedAnswer,
+      onAnswerSelect: handleAnswerSelect,
+      showResult,
+      isCorrect,
+      hiddenOptions,
+      showCorrectAnswer
+    };
+
+    switch (question.question_type) {
+      case 'mcq':
+        return <MCQQuestion {...commonProps} />;
+      case 'true_false':
+        return <TrueFalseQuestion {...commonProps} />;
+      case 'short_answer':
+        return <ShortAnswerQuestion {...commonProps} />;
+      case 'voice':
+        return <VoiceAnswerQuestion {...commonProps} />;
+      case 'fill_blank':
+        return <FillBlankQuestion {...commonProps} />;
+      case 'match':
+        return <MatchQuestion {...commonProps} />;
+      default:
+        return <div className="text-white">Unsupported question type: {question.question_type}</div>;
+    }
+  };
+
+  // Loading state
+  if (loading) {
+    return <LoadingSpinner message="Loading quiz..." />;
   }
 
-  // Mastery persistence: load mastery from localStorage and merge into questions
-  useEffect(() => {
-    const masteryData = localStorage.getItem('fluenceQuizMastery');
-    if (masteryData) {
-      try {
-        const masteryMap = JSON.parse(masteryData);
-        setQuestions(prevQuestions => prevQuestions.map(q =>
-          masteryMap[q.id] ? { ...q, masteryLevel: masteryMap[q.id] } : q
-        ));
-      } catch {}
-    }
-  }, [questions.length]);
+  // History screen
+  if (gameState === 'history') {
+    const handleReplayQuiz = (replayQuestions, quizInfo) => {
+      // Load the questions for replay
+      setQuestions(replayQuestions);
+      setCurrentQuestion(0);
+      setShowResult(false);
+      setIsReplayMode(true); // Mark as replay mode
 
-  // When updating masteryLevel, persist to localStorage
-  useEffect(() => {
-    if (questions.length > 0) {
-      const masteryMap = {};
-      questions.forEach(q => {
-        if (q.id !== undefined && q.masteryLevel !== undefined) {
-          masteryMap[q.id] = q.masteryLevel;
-        }
+      // Reset game state for replay mode
+      setCorrectCount(0);
+      setIncorrectCount(0);
+      setStreak(0);
+      setMaxStreak(0);
+      setScore(0);
+      setAnswers({});
+      setQuestionTimers({});
+      setHiddenOptions([]);
+      setShowCorrectAnswer(false);
+      resetAllPowerUps();
+
+      // Initialize answers and timers
+      const initialAnswers = {};
+      const initialTimers = {};
+      replayQuestions.forEach((q, index) => {
+        initialAnswers[index] = '';
+        initialTimers[index] = 0;
       });
-      localStorage.setItem('fluenceQuizMastery', JSON.stringify(masteryMap));
-    }
-  }, [questions]);
+      setAnswers(initialAnswers);
+      setQuestionTimers(initialTimers);
 
+      // Set start time
+      setStartTime(Date.now());
+      setQuestionStartTime(Date.now());
+
+      // Switch to playing mode
+      setGameState('playing');
+
+      // Show alert that this is review mode (no points)
+      setTimeout(() => {
+        alert('📚 Review Mode: This quiz won\'t affect your score or leaderboard position. Use it to practice and review!');
+      }, 500);
+    };
+
+    return (
+      <History
+        student={student}
+        onBack={() => setGameState('menu')}
+        onReplayQuiz={handleReplayQuiz}
+      />
+    );
+  }
+
+  // Leaderboard screen
+  if (gameState === 'leaderboard') {
+    return (
+      <LeaderboardScreen
+        student={student}
+        onBack={() => setGameState('menu')}
+      />
+    );
+  }
+
+  // Settings screen
+  if (gameState === 'settings') {
+    return (
+      <Settings
+        student={student}
+        musicEnabled={musicEnabled}
+        setMusicEnabled={setMusicEnabled}
+        sfxEnabled={sfxEnabled}
+        setSfxEnabled={setSfxEnabled}
+        onBack={() => setGameState('menu')}
+      />
+    );
+  }
+
+  // Results screen
+  if (gameState === 'results') {
+    return (
+      <ResultScreen
+        score={finalScore}
+        correctAnswers={correctCount}
+        incorrectAnswers={incorrectCount}
+        totalQuestions={questions.length}
+        timeTaken={totalTime}
+        studentId={student?.id}
+        maxStreak={maxStreak}
+        totalScore={score}
+        onRestart={handleRestart}
+        onSubmit={handleSubmitResults}
+        submitting={submitting}
+        submitted={submitted}
+        submitError={submitError}
+        isReplayMode={isReplayMode}
+      />
+    );
+  }
+
+  // Menu screen
   if (gameState === 'menu') {
-    // Show student quiz interface if in student quiz mode
-    if (studentQuizMode) {
-      return (
-        <div className="min-h-screen bg-gradient-to-br from-purple-600 via-blue-600 to-indigo-800 flex items-center justify-center p-4">
-          <div className="bg-white/10 backdrop-blur-lg rounded-3xl p-8 max-w-md w-full text-center shadow-2xl border border-white/20">
+    return (
+      <div className="min-h-screen game-bg flex items-center justify-center p-4">
+        <div className="max-w-md w-full">
+
+          {/* Main Card */}
+          <div className="neon-border-purple bg-gradient-to-br from-purple-900/40 to-purple-800/40 backdrop-blur-lg rounded-3xl p-8 text-center">
             <div className="mb-8">
-              <h1 className="text-4xl font-bold text-white mb-2 animate-pulse flex items-center justify-center gap-2">
-                🎓 Student Quiz
+              <h1 className="text-5xl font-black text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 via-pink-500 to-purple-500 mb-4 neon-text-pink" style={{ fontFamily: 'Arial Black, sans-serif', letterSpacing: '1px' }}>
+                Fluence<br/>Daily Quiz
               </h1>
-              <p className="text-white/80 text-lg">Welcome, {playerName}!</p>
+              {student ? (
+                <p className="text-cyan-300 text-lg font-semibold">Welcome, {student.display_name}! 🎮</p>
+              ) : (
+                <p className="text-cyan-300 text-lg font-semibold">Enter your name to begin</p>
+              )}
             </div>
-            
-            {/* Show quiz update date for student users */}
-            {quizUpdateDate && (
-              <div className="mb-6 flex items-center justify-center gap-2 text-white/60 text-sm">
-                <Calendar className="w-4 h-4" />
-                <span>Quiz updated on: {quizUpdateDate.toLocaleDateString('en-GB')}</span>
+
+            {error && (
+              <div className="mb-4 p-3 neon-border-pink bg-red-900/30 rounded-xl">
+                <p className="text-red-300 text-sm font-semibold">{error}</p>
               </div>
             )}
-            
-            {/* Show error if questions fail to load */}
-            {questionLoadError && (
-              <div className="mb-6 text-red-300 text-sm">{questionLoadError}</div>
+
+            {!student && (
+              <div className="mb-6">
+                <input
+                  type="text"
+                  value={playerName}
+                  onChange={(e) => setPlayerName(e.target.value)}
+                  onKeyPress={(e) => e.key === 'Enter' && handleNameSubmit()}
+                  placeholder="Your Name..."
+                  className="w-full px-4 py-4 rounded-2xl neon-border-cyan bg-purple-900/50 text-white text-center text-lg font-bold
+                    placeholder-cyan-300/50 focus:outline-none focus:neon-border-pink transition-all"
+                />
+              </div>
             )}
-            
-            <button
-              onClick={startStudentQuiz}
-              className="w-full bg-gradient-to-r from-green-400 to-blue-500 text-white font-bold py-4 px-8 rounded-xl hover:from-green-500 hover:to-blue-600 transition-all duration-300 transform hover:scale-105 shadow-lg mb-4"
-              disabled={!!questionLoadError || questions.length === 0}
-            >
-              START QUIZ
-            </button>
-            
+
+            {student && questions.length > 0 && (
+              <div className="mb-6 grid grid-cols-2 gap-4">
+                {/* Questions Ready */}
+                <div className="p-4 neon-border-cyan bg-cyan-900/20 rounded-2xl">
+                  <p className="text-cyan-300 text-sm mb-1 font-semibold">Questions Ready</p>
+                  <p className="text-white font-black text-3xl">{questions.length}</p>
+                </div>
+                {/* Total Points */}
+                <div className="p-4 neon-border-yellow bg-yellow-900/20 rounded-2xl">
+                  <p className="text-yellow-300 text-sm mb-1 font-semibold">Total Points</p>
+                  <p className="text-white font-black text-3xl">{totalPoints.toLocaleString()}</p>
+                </div>
+              </div>
+            )}
+
+            {/* Action Buttons Grid */}
+            {student ? (
+              <>
+                <button
+                  onClick={startQuiz}
+                  disabled={questions.length === 0}
+                  className="w-full neon-border-pink bg-gradient-to-r from-pink-600 to-purple-600 text-white font-black text-xl py-5 px-8 rounded-full
+                    hover:from-pink-500 hover:to-purple-500 transition-all duration-300 transform hover:scale-105 shadow-2xl mb-4
+                    disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none uppercase tracking-wider"
+                >
+                  PLAY QUIZ
+                </button>
+
+                {/* Rapid Fire - Coming Soon */}
+                <button
+                  onClick={() => alert('🔥 Rapid Fire Mode Coming Soon!\n\nGet ready for:\n• ⏱️ 30-second rapid questions\n• 🎮 Power-ups (50:50, Blaster, +30s)\n• ❤️ 3 lives system\n• ⚡ Infinite questions\n• 🏆 High score challenge\n\nStay tuned!')}
+                  className="relative w-full neon-border-yellow bg-gradient-to-r from-orange-600 to-red-600 text-white font-black text-xl py-5 px-8 rounded-full
+                    hover:from-orange-500 hover:to-red-500 transition-all duration-300 transform hover:scale-105 shadow-2xl mb-6 uppercase tracking-wider"
+                >
+                  <span className="flex items-center justify-center gap-2">
+                    🔥 RAPID FIRE
+                  </span>
+                  <span className="absolute top-1 right-4 bg-yellow-300 text-purple-900 text-xs font-black px-2 py-1 rounded-full animate-pulse">
+                    COMING SOON
+                  </span>
+                </button>
+
+                {/* Menu Grid */}
+                <div className="grid grid-cols-2 gap-4 mb-4">
+                  <button
+                    onClick={() => setGameState('settings')}
+                    className="neon-border-cyan bg-cyan-900/30 p-4 rounded-2xl hover:bg-cyan-800/40 transition-all"
+                  >
+                    <div className="text-3xl mb-2">⚙️</div>
+                    <div className="text-white font-bold text-sm">Settings</div>
+                  </button>
+                  <button
+                    onClick={() => alert('Bonus: Daily challenges and special rewards will be available here.')}
+                    className="neon-border-cyan bg-cyan-900/30 p-4 rounded-2xl hover:bg-cyan-800/40 transition-all"
+                  >
+                    <div className="text-3xl mb-2">🎁</div>
+                    <div className="text-white font-bold text-sm">Bonus</div>
+                  </button>
+                  <button
+                    onClick={() => setGameState('history')}
+                    className="neon-border-cyan bg-cyan-900/30 p-4 rounded-2xl hover:bg-cyan-800/40 transition-all"
+                  >
+                    <div className="text-3xl mb-2">📜</div>
+                    <div className="text-white font-bold text-sm">History</div>
+                  </button>
+                  <button
+                    onClick={() => setGameState('leaderboard')}
+                    className="neon-border-cyan bg-cyan-900/30 p-4 rounded-2xl hover:bg-cyan-800/40 transition-all"
+                  >
+                    <div className="text-3xl mb-2">🏆</div>
+                    <div className="text-white font-bold text-sm">Leaderboard</div>
+                  </button>
+                </div>
+              </>
+            ) : (
+              <button
+                onClick={handleNameSubmit}
+                className="w-full neon-border-purple bg-gradient-to-r from-purple-600 to-pink-600 text-white font-black text-xl py-5 px-8 rounded-full
+                  hover:from-purple-500 hover:to-pink-500 transition-all duration-300 transform hover:scale-105 shadow-2xl uppercase tracking-wider"
+              >
+                Tap to Continue
+              </button>
+            )}
+
+            {/* Sound Controls */}
             <div className="flex justify-center gap-4 mt-6">
               <button
                 onClick={() => setMusicEnabled(!musicEnabled)}
-                className="p-3 bg-white/20 rounded-full hover:bg-white/30 transition-colors"
+                className="p-3 neon-border-purple bg-purple-900/50 rounded-full hover:bg-purple-800/60 transition-all"
               >
-                {musicEnabled ? <Volume2 className="w-6 h-6 text-white" /> : <VolumeX className="w-6 h-6 text-white" />}
+                {musicEnabled ? <Volume2 className="w-6 h-6 text-cyan-300" /> : <VolumeX className="w-6 h-6 text-pink-400" />}
               </button>
               <button
                 onClick={() => setSfxEnabled(!sfxEnabled)}
-                className="p-3 bg-white/20 rounded-full hover:bg-white/30 transition-colors"
+                className="p-3 neon-border-purple bg-purple-900/50 rounded-full hover:bg-purple-800/60 transition-all"
               >
-                {sfxEnabled ? <Star className="w-6 h-6 text-white" /> : <Star className="w-6 h-6 text-white/50" />}
+                {sfxEnabled ? <Volume2 className="w-6 h-6 text-cyan-300" /> : <VolumeX className="w-6 h-6 text-pink-400" />}
               </button>
             </div>
           </div>
         </div>
-      );
-    }
-    
-    // Regular menu interface
-    return (
-      <div className="min-h-screen bg-gradient-to-br from-purple-600 via-blue-600 to-indigo-800 flex items-center justify-center p-4">
-        <div className="bg-white/10 backdrop-blur-lg rounded-3xl p-8 max-w-md w-full text-center shadow-2xl border border-white/20">
-          <div className="mb-8">
-            <h1 className="text-4xl font-bold text-white mb-2 animate-pulse flex items-center justify-center gap-2">
-              <Target className="w-8 h-8 text-pink-400 inline-block" /> Fluence Quiz
-            </h1>
-            <p className="text-white/80 text-lg">Test your knowledge!</p>
-          </div>
-          
-          {/* Show personal records if they exist */}
-          {(highestScore > 0 || highestStreak > 0) && (
-            <div className="mb-6 bg-gradient-to-r from-yellow-500/10 to-orange-500/10 rounded-xl p-4 border border-yellow-400/20">
-              <h4 className="text-yellow-300 font-bold mb-2 text-sm">🏆 Your Records</h4>
-              <div className="grid grid-cols-2 gap-4">
-                <div>
-                  <p className="text-white/60 text-xs">Best Score</p>
-                  <p className="text-yellow-300 font-bold">{highestScore}</p>
-                </div>
-                <div>
-                  <p className="text-white/60 text-xs">Best Streak</p>
-                  <p className="text-yellow-300 font-bold">{highestStreak} 🔥</p>
-                </div>
-              </div>
-            </div>
-          )}
-          <div className="mb-6 space-y-4">
-            <input
-              type="text"
-              placeholder="Enter your name"
-              value={playerName}
-              onChange={(e) => setPlayerName(e.target.value)}
-              className="w-full p-3 rounded-xl bg-white/20 text-white placeholder-white/60 border border-white/30 focus:outline-none focus:ring-2 focus:ring-white/50"
-              onKeyPress={(e) => e.key === 'Enter' && (isStudentQuiz ? startStudentQuiz() : startGame())}
-            />
-            
-            {/* Show which student quiz is being taken */}
-            {isStudentQuiz && (
-              <div className="mt-2 flex items-center justify-center gap-2 text-blue-300 text-sm font-medium">
-                <span>🎓 Student Quiz</span>
-              </div>
-            )}
-            {/* Show error if questions fail to load */}
-            {questionLoadError && (
-              <div className="mt-4 text-red-300 text-sm">{questionLoadError}</div>
-            )}
-          </div>
-          <button
-            onClick={isStudentQuiz ? startStudentQuiz : startGame}
-            className="w-full bg-gradient-to-r from-green-400 to-blue-500 text-white font-bold py-4 px-8 rounded-xl hover:from-green-500 hover:to-blue-600 transition-all duration-300 transform hover:scale-105 shadow-lg mb-4"
-            disabled={!playerName || !!questionLoadError || questions.length === 0}
-          >
-            START QUIZ
-          </button>
-          <div className="flex justify-center gap-4 mt-6">
-            <button
-              onClick={() => setMusicEnabled(!musicEnabled)}
-              className="p-3 bg-white/20 rounded-full hover:bg-white/30 transition-colors"
-            >
-              {musicEnabled ? <Volume2 className="w-6 h-6 text-white" /> : <VolumeX className="w-6 h-6 text-white" />}
-            </button>
-            <button
-              onClick={() => setSfxEnabled(!sfxEnabled)}
-              className="p-3 bg-white/20 rounded-full hover:bg-white/30 transition-colors"
-            >
-              {sfxEnabled ? <Star className="w-6 h-6 text-white" /> : <Star className="w-6 h-6 text-white/50" />}
-            </button>
-          </div>
-        </div>
       </div>
     );
   }
 
-  if (gameState === 'results') {
-    const { rating, color } = getScoreRating();
-    return (
-      <div className="min-h-screen bg-gradient-to-br from-purple-600 via-blue-600 to-indigo-800 flex items-center justify-center p-4">
-        <div className="bg-white/10 backdrop-blur-lg rounded-3xl p-8 max-w-md w-full text-center shadow-2xl border border-white/20">
-          <div className="mb-8">
-            <Trophy className="w-16 h-16 text-yellow-400 mx-auto mb-4 animate-bounce" />
-            <h2 className="text-3xl font-bold text-white mb-2">Game Over!</h2>
-            <p className="text-white/80">Great job, {playerName}!</p>
-          </div>
-          
-          <div className="space-y-4 mb-8">
-            <div className="bg-white/20 rounded-xl p-4">
-              <h3 className={`text-2xl font-bold ${color} mb-2`}>{rating}</h3>
-              <p className="text-white text-xl">Final Score: {score}</p>
-            </div>
-            
-            <div className="bg-white/20 rounded-xl p-4">
-              <p className="text-white">Max Streak: {maxStreak} 🔥</p>
-              <p className="text-white">Questions Answered: {Math.min(currentQuestion + 1, questions.length)}/{questions.length}</p>
-            </div>
-            
-            {/* Highest Records */}
-            <div className="bg-gradient-to-r from-yellow-500/20 to-orange-500/20 rounded-xl p-4 border border-yellow-400/30">
-              <h4 className="text-yellow-300 font-bold mb-2">🏆 Personal Records</h4>
-              <div className="grid grid-cols-2 gap-4">
-                <div>
-                  <p className="text-white/80 text-sm">Highest Score</p>
-                  <p className="text-yellow-300 font-bold text-lg">{highestScore}</p>
-                </div>
-                <div>
-                  <p className="text-white/80 text-sm">Highest Streak</p>
-                  <p className="text-yellow-300 font-bold text-lg">{highestStreak} 🔥</p>
-                </div>
-              </div>
-              {/* Show new record indicators */}
-              {score >= highestScore && score > 0 && (
-                <div className="mt-2 text-green-400 text-sm font-bold animate-pulse">
-                  🎉 New High Score!
-                </div>
-              )}
-              {maxStreak >= highestStreak && maxStreak > 0 && (
-                <div className="mt-1 text-green-400 text-sm font-bold animate-pulse">
-                  🔥 New Best Streak!
-                </div>
-              )}
-            </div>
-
-            {/* Performance Insights and Recommendations */}
-            <div className="bg-gradient-to-r from-purple-500/20 to-blue-500/20 rounded-xl p-4 border border-purple-400/30">
-              <h4 className="text-purple-300 font-bold mb-3">🧠 Learning Insights</h4>
-              {(() => {
-                const { insights, recommendations } = generateInsights();
-                return (
-                  <div className="space-y-3">
-                    {insights.length > 0 && (
-                      <div>
-                        <h5 className="text-white font-semibold mb-2">📊 Your Progress:</h5>
-                        <ul className="text-white/90 text-sm space-y-1">
-                          {insights.slice(0, 3).map((insight, index) => (
-                            <li key={index} className="flex items-start gap-2">
-                              <span>•</span>
-                              <span>{insight}</span>
-                            </li>
-                          ))}
-                        </ul>
-                      </div>
-                    )}
-                    
-                    {recommendations.length > 0 && (
-                      <div>
-                        <h5 className="text-white font-semibold mb-2">💡 Recommendations:</h5>
-                        <ul className="text-white/90 text-sm space-y-1">
-                          {recommendations.slice(0, 2).map((rec, index) => (
-                            <li key={index} className="flex items-start gap-2">
-                              <span>•</span>
-                              <span>{rec}</span>
-                            </li>
-                          ))}
-                        </ul>
-                      </div>
-                    )}
-                  </div>
-                );
-              })()}
-            </div>
-          </div>
-          
-          <div className="space-y-4">
-            <button
-              onClick={shareScore}
-              className="w-full bg-gradient-to-r from-purple-400 to-pink-500 text-white font-bold py-3 px-6 rounded-xl hover:from-purple-500 hover:to-pink-600 transition-all duration-300 transform hover:scale-105 shadow-lg flex items-center justify-center gap-2"
-            >
-              <Share2 className="w-5 h-5" />
-              SHARE SCORE
-            </button>
-            
-            <button
-              onClick={restartGame}
-              className="w-full bg-gradient-to-r from-green-400 to-blue-500 text-white font-bold py-4 px-8 rounded-xl hover:from-green-500 hover:to-blue-600 transition-all duration-300 transform hover:scale-105 shadow-lg"
-            >
-              PLAY AGAIN
-            </button>
-          </div>
-          
-          {/* Share Success Message */}
-          {showShareSuccess && (
-            <div className="mt-4 p-3 bg-green-500/20 border border-green-400/30 rounded-xl text-green-300 text-sm">
-              ✅ Screenshot saved! Check your downloads folder.
-            </div>
-          )}
-          
-          {/* Powered by Fluence Footer */}
-          <div className="mt-8 pt-4 border-t border-white/20">
-            <p className="text-white/40 text-sm text-center">
-              Powered by <span className="font-semibold text-white/60">Fluence</span>
-            </p>
-          </div>
-        </div>
-      </div>
-    );
-  }
-
+  // Playing state
   return (
-    <div className="min-h-screen bg-gradient-to-br from-purple-600 via-blue-600 to-indigo-800 p-4">
-      <div className="max-w-4xl mx-auto">
-        {/* Header */}
-        <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-4 mb-6 shadow-xl border border-white/20">
-          <div className="flex justify-between items-center">
-            <div className="flex items-center gap-4">
-              <div className="text-white">
-                <span className="text-sm opacity-80">Score</span>
-                <div className="text-xl font-bold">{score}</div>
+    <div className="min-h-screen game-bg p-3">
+      <div className="max-w-4xl mx-auto py-4">
+        {/* Progress Bar - At the very top */}
+        <ProgressBar
+          current={currentQuestion + 1}
+          total={questions.length}
+        />
+
+        {/* Simplified Header Row: Streak and Score */}
+        <div className="flex items-center justify-between mb-3">
+          {/* Left: Streak Display */}
+          <div className="flex-shrink-0">
+            <GameHeader
+              correctCount={correctCount}
+              incorrectCount={incorrectCount}
+              streak={streak}
+              score={score}
+              onlyTimer={true}
+            />
+          </div>
+
+          {/* Right: Score Badge */}
+          <div className="flex-shrink-0">
+            <div className="coin-badge px-4 py-2 rounded-full flex items-center gap-2">
+              <div className="w-6 h-6 bg-yellow-300 rounded-full flex items-center justify-center text-base">
+                💰
               </div>
-              <div className="text-white">
-                <span className="text-sm opacity-80">Streak</span>
-                <div className="text-xl font-bold">{streak} 🔥</div>
-              </div>
-              <div className="text-white">
-                <span className="text-sm opacity-80">Lives</span>
-                <div className="text-xl">{'❤️'.repeat(Math.max(0, lives))}</div>
-              </div>
-            </div>
-            
-            <div className="text-white text-right">
-              <div className="text-sm opacity-80">
-                Question {currentQuestion + 1}/{questions.length}
-              </div>
-              <div className={`text-3xl font-bold ${timeLeft <= 5 ? 'text-red-400 animate-pulse' : ''}`}>{timeLeft}s</div>
+              <span className="text-white font-black text-lg">{score.toLocaleString()}</span>
             </div>
           </div>
         </div>
 
-        {/* Power-ups */}
-        <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-4 mb-6 shadow-xl border border-white/20">
-          <div className="flex gap-3">
-            <button
-              onClick={() => powerUp('skipQuestion')}
-              disabled={powerUps.skipQuestion <= 0}
-              className={`flex-1 p-3 rounded-xl text-white font-bold transition-all ${
-                powerUps.skipQuestion > 0 
-                  ? 'bg-yellow-500 hover:bg-yellow-600 transform hover:scale-105' 
-                  : 'bg-gray-500 cursor-not-allowed opacity-50'
-              }`}
-            >
-              🚀 Skip ({powerUps.skipQuestion})
-            </button>
-            <button
-              onClick={() => powerUp('extraTime')}
-              disabled={powerUps.extraTime <= 0}
-              className={`flex-1 p-3 rounded-xl text-white font-bold transition-all ${
-                powerUps.extraTime > 0 
-                  ? 'bg-blue-500 hover:bg-blue-600 transform hover:scale-105' 
-                  : 'bg-gray-500 cursor-not-allowed opacity-50'
-              }`}
-            >
-              ⏰ +10s ({powerUps.extraTime})
-            </button>
-            <button
-              onClick={() => powerUp('fiftyFifty')}
-              disabled={powerUps.fiftyFifty <= 0}
-              className={`flex-1 p-3 rounded-xl text-white font-bold transition-all ${
-                powerUps.fiftyFifty > 0 
-                  ? 'bg-purple-500 hover:bg-purple-600 transform hover:scale-105' 
-                  : 'bg-gray-500 cursor-not-allowed opacity-50'
-              }`}
-            >
-              ✂️ 50/50 ({powerUps.fiftyFifty})
-            </button>
-          </div>
-        </div>
+        {/* Question Card with Animations */}
+        <AnimatePresence mode="wait">
+          <motion.div
+            key={currentQuestion}
+            initial={{ x: 300, opacity: 0 }}
+            animate={{ x: 0, opacity: 1 }}
+            exit={{ x: -300, opacity: 0 }}
+            transition={{ type: "spring", stiffness: 300, damping: 30 }}
+            className={`neon-border-purple bg-gradient-to-br from-purple-900/60 to-purple-800/60 backdrop-blur-lg rounded-3xl p-6 mb-4 shadow-2xl min-h-[350px] relative overflow-hidden ${blasterActive ? 'blaster-animation' : ''}`}
+          >
+            {/* Particle Explosion Effect */}
+            {blasterActive && (
+              <div className="absolute inset-0 pointer-events-none flex items-center justify-center">
+                {/* Create 20 particles exploding in all directions */}
+                {[...Array(20)].map((_, i) => {
+                  const angle = (i / 20) * 2 * Math.PI;
+                  const distance = 300;
+                  const tx = Math.cos(angle) * distance;
+                  const ty = Math.sin(angle) * distance;
+                  const colors = ['bg-cyan-400', 'bg-green-400', 'bg-yellow-400', 'bg-pink-400', 'bg-purple-400', 'bg-blue-400'];
+                  const color = colors[i % colors.length];
+                  const size = Math.random() * 8 + 4;
 
-        {/* Question */}
-        {questions.length > 0 && (
-          <div className="bg-white/10 backdrop-blur-lg rounded-2xl py-4 px-3 mb-6 shadow-xl border border-white/20">
-            <div className="text-center">
-              <p className="text-white text-2xl font-bold mb-3 leading-relaxed">
-                {questions[currentQuestion].question}
-              </p>
-              {/* Minimal TTS Controls */}
-              <div className="flex justify-center gap-4 mb-2 items-center">
-                <button
-                  aria-label="Replay at normal speed"
-                  className="hover:bg-white/20 rounded-full p-2 transition-colors text-2xl"
-                  onClick={() => speak(questions[currentQuestion].question, 1)}
-                >
-                  🔊
-                </button>
-                <button
-                  aria-label="Replay at slow speed"
-                  className="hover:bg-white/20 rounded-full p-2 transition-colors text-2xl"
-                  onClick={() => speak(questions[currentQuestion].question, 0.4)}
-                >
-                  🐢
-                </button>
-              </div>
-              
-              {showPowerUpEffect && (
-                <div className="absolute inset-0 flex items-center justify-center">
-                  <div className="text-6xl animate-ping">✨</div>
-                </div>
-              )}
-            </div>
-          </div>
-        )}
-
-        {/* Options */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          {currentOptions.map((option, index) => (
-            <button
-              key={`${currentQuestion}-${index}`}
-              onClick={() => handleAnswerSelect(option)}
-              disabled={showResult}
-              className={`p-6 rounded-xl font-bold text-left transition-all duration-300 transform hover:scale-105 shadow-lg ${
-                showResult
-                  ? option === questions[currentQuestion]?.correct
-                    ? 'bg-green-500 text-white'
-                    : option === selectedAnswer
-                    ? 'bg-red-500 text-white lifted'
-                    : 'bg-white/20 text-white/60'
-                  : selectedAnswer === option
-                  ? 'bg-white/20 text-white lifted'
-                  : 'bg-white/20 text-white hover:bg-white/30'
-              }`}
-            >
-              <span className="text-lg">{String.fromCharCode(65 + index)}.</span>
-              <span className="ml-3 text-lg">{option}</span>
-            </button>
-          ))}
-        </div>
-
-        {/* Result feedback */}
-        {showResult && (
-          <div className="mt-6 text-center">
-            <div className={`text-4xl font-bold mb-2 ${isCorrect ? 'text-green-400' : 'text-red-400'}`}>{isCorrect ? '🎉 Correct!' : '❌ Wrong!'}</div>
-            {isCorrect && streak > 1 && (
-              <div className="text-yellow-400 text-xl font-bold">
-                🔥 {streak} Streak! +{streak * 10} Bonus!
+                  return (
+                    <motion.div
+                      key={i}
+                      initial={{ scale: 0, opacity: 1 }}
+                      animate={{ scale: 1, opacity: 0 }}
+                      transition={{ duration: 1, ease: "easeOut" }}
+                      className={`particle absolute ${color} rounded-full`}
+                      style={{
+                        width: `${size}px`,
+                        height: `${size}px`,
+                        '--tx': `${tx}px`,
+                        '--ty': `${ty}px`,
+                        filter: 'drop-shadow(0 0 8px currentColor)',
+                        animationDelay: `${Math.random() * 0.1}s`
+                      }}
+                    />
+                  );
+                })}
               </div>
             )}
+            {renderQuestion()}
+          </motion.div>
+        </AnimatePresence>
+
+        {/* Navigation */}
+        <div className="flex gap-4">
+          <button
+            onClick={handlePrevious}
+            disabled={currentQuestion === 0}
+            className="flex-1 bg-white/20 text-white font-bold py-4 px-6 rounded-xl border-2 border-white/30
+              hover:bg-white/30 transition-all duration-200 flex items-center justify-center gap-2
+              disabled:opacity-50 disabled:cursor-not-allowed"
+          >
+            <ArrowLeft className="w-5 h-5" />
+            Previous
+          </button>
+
+          <button
+            onClick={handleNext}
+            disabled={!answers[currentQuestion] || answers[currentQuestion] === ''}
+            className="flex-1 bg-gradient-to-r from-green-400 to-blue-500 text-white font-bold py-4 px-6 rounded-xl
+              hover:from-green-500 hover:to-blue-600 transition-all duration-300 transform hover:scale-105
+              shadow-lg flex items-center justify-center gap-2
+              disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none"
+          >
+            {currentQuestion === questions.length - 1 ? 'Finish Quiz' : 'Next'}
+            <ArrowRight className="w-5 h-5" />
+          </button>
+        </div>
+
+        {submitting && (
+          <div className="mt-4 text-center text-white">
+            <div className="animate-spin rounded-full h-8 w-8 border-t-4 border-b-4 border-white mx-auto mb-2"></div>
+            <p>Submitting your results...</p>
           </div>
         )}
       </div>
     </div>
   );
-};
+}
 
-export default HindiEnglishQuiz;
+export default App;
