@@ -3,6 +3,7 @@ import { Trophy, Target, TrendingUp, Home, Flame, Heart, Send, CheckCircle, Aler
 import Confetti from 'react-confetti';
 import { motion } from 'framer-motion';
 import Leaderboard from './Leaderboard';
+import FeedbackScreen from './Feedback/FeedbackScreen';
 import { soundService } from '../services/soundService';
 
 const ResultScreen = ({
@@ -20,7 +21,8 @@ const ResultScreen = ({
   submitting = false,
   submitted = false,
   submitError = null,
-  isReplayMode = false
+  isReplayMode = false,
+  feedback = null // V3: AI-generated feedback from n8n workflow
 }) => {
   const percentage = Math.round(score);
   const [showConfetti, setShowConfetti] = useState(false);
@@ -34,7 +36,15 @@ const ResultScreen = ({
       setShowConfetti(true);
       setTimeout(() => setShowConfetti(false), 5000);
     }
-  }, [percentage]);
+
+    // Debug logging for feedback
+    console.log('[ResultScreen] Props received:', {
+      submitted,
+      isReplayMode,
+      hasFeedback: !!feedback,
+      feedback
+    });
+  }, [percentage, submitted, feedback, isReplayMode]);
 
   const getMessage = () => {
     if (percentage >= 90) return { text: "Outstanding! 🌟", color: "text-yellow-400" };
@@ -196,6 +206,26 @@ const ResultScreen = ({
             Back to Home
           </button>
         </motion.div>
+
+        {/* AI Feedback Section - V3 Feature */}
+        {feedback && submitted && !isReplayMode && (
+          <motion.div
+            initial={{ y: 50, opacity: 0 }}
+            animate={{ y: 0, opacity: 1 }}
+            transition={{ delay: 0.5, duration: 0.5 }}
+            className="neon-border-purple bg-gradient-to-br from-purple-900/60 to-purple-800/60 backdrop-blur-lg rounded-3xl shadow-2xl overflow-hidden"
+          >
+            <FeedbackScreen
+              feedback={feedback}
+              score={score}
+              onContinue={onRestart}
+              onPractice={() => {
+                // TODO: Implement practice mode for weak concepts
+                alert('Practice mode coming soon! 🚀');
+              }}
+            />
+          </motion.div>
+        )}
 
         {/* Leaderboard */}
         <Leaderboard currentStudentId={studentId} currentScore={score} />

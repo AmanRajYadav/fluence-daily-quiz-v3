@@ -1,0 +1,13 @@
+$transcription = Get-Content "personal-20251205-1600-FLUENCE-CLASS6-2025-kavya.txt" -Raw
+
+$body = @{
+    transcription = "$transcription"     # force plain string
+    metadata = @{
+        filename = "personal-20251205-1600-FLUENCE-CLASS6-2025-kavya.txt"
+    }
+} | ConvertTo-Json -Depth 10
+
+Invoke-RestMethod -Uri "https://n8n.myworkflow.top/webhook/class-questions-v3" `
+    -Method Post `
+    -Body $body `
+    -ContentType "application/json"

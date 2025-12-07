@@ -1,0 +1,267 @@
+{
+  "name": "Quiz Results Handler - IMPROVED",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "quiz-submit",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "d1ff28d6-a55a-425b-9ac3-7208c31ec6ef",
+      "name": "Webhook - Quiz Submit",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1.1,
+      "position": [250, 300],
+      "webhookId": "quiz-submit"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Extract and validate quiz results data\nconst body = $input.item.json.body;\n\n// Validate required fields\nif (!body.student_id || !body.quiz_date || body.score === undefined) {\n  throw new Error('Missing required fields: student_id, quiz_date, or score');\n}\n\n// Prepare quiz results data\nconst quizResults = {\n  student_id: body.student_id,\n  student_name: body.student_name || 'Unknown',\n  session_id: body.session_id || null,\n  quiz_date: body.quiz_date,\n  total_questions: body.total_questions || 0,\n  correct_answers: body.correct_answers || 0,\n  score: parseFloat(body.score),\n  time_taken_seconds: body.time_taken_seconds || 0,\n  answers_json: body.answers_json || {},\n  concept_names: body.concept_names || []\n};\n\n// Prepare individual answers for concept mastery updates\nconst answers = body.answers_json?.questions || [];\n\nreturn {\n  quizResults,\n  answers,\n  currentDate: new Date().toISOString().split('T')[0]\n};"
+      },
+      "id": "628fb22b-8d2d-450c-861d-43ab5f4569ae",
+      "name": "Parse Quiz Data",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [450, 300]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO quiz_results (student_id, session_id, quiz_date, total_questions, correct_answers, score, time_taken_seconds, answers_json, concept_names) VALUES ('{{ $('Parse Quiz Data').item.json.quizResults.student_id }}', {{ $('Parse Quiz Data').item.json.quizResults.session_id ? `'${$('Parse Quiz Data').item.json.quizResults.session_id}'` : 'NULL' }}, '{{ $('Parse Quiz Data').item.json.quizResults.quiz_date }}', {{ $('Parse Quiz Data').item.json.quizResults.total_questions }}, {{ $('Parse Quiz Data').item.json.quizResults.correct_answers }}, {{ $('Parse Quiz Data').item.json.quizResults.score }}, {{ $('Parse Quiz Data').item.json.quizResults.time_taken_seconds }}, '{{ JSON.stringify($('Parse Quiz Data').item.json.quizResults.answers_json) }}'::jsonb, ARRAY[{{ ($('Parse Quiz Data').item.json.quizResults.concept_names || []).map(c => `'${c}'`).join(',') }}]::text[]) RETURNING *;",
+        "additionalFields": {}
+      },
+      "id": "4c60bfc7-5e1b-4c23-8bd3-6cce51c36766",
+      "name": "Insert Quiz Results",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.4,
+      "position": [650, 200],
+      "credentials": {
+        "postgres": {
+          "id": "supabase-postgres",
+          "name": "Supabase PostgreSQL"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Extract answers for concept mastery updates\nconst parseData = $('Parse Quiz Data').first().json;\nconst answers = parseData.answers || [];\n\n// Group answers by concept\nconst conceptUpdates = {};\n\nanswers.forEach(answer => {\n  const concept = answer.concept_tested;\n  if (!concept) return;\n  \n  if (!conceptUpdates[concept]) {\n    conceptUpdates[concept] = {\n      concept_name: concept,\n      student_id: parseData.quizResults.student_id,\n      correct: 0,\n      wrong: 0,\n      total: 0\n    };\n  }\n  \n  conceptUpdates[concept].total++;\n  if (answer.is_correct) {\n    conceptUpdates[concept].correct++;\n  } else {\n    conceptUpdates[concept].wrong++;\n  }\n});\n\n// Convert to array for processing\nreturn Object.values(conceptUpdates).map(update => ({\n  ...update,\n  currentDate: parseData.currentDate\n}));"
+      },
+      "id": "a18edd01-c6bc-47aa-92bc-15f015621246",
+      "name": "Prepare Concept Updates",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [650, 300]
+    },
+    {
+      "parameters": {
+        "operation": "getAll",
+        "tableId": "concept_mastery",
+        "limit": 1
+      },
+      "id": "207985a4-f745-4a97-8a65-10399d1c5e9f",
+      "name": "Get Existing Mastery",
+      "type": "n8n-nodes-base.supabase",
+      "typeVersion": 1,
+      "position": [850, 300],
+      "credentials": {
+        "supabaseApi": {
+          "id": "eAvDfFxsUQu0FqWu",
+          "name": "Supabase account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Calculate new mastery score using SRS algorithm\nconst currentItem = $('Prepare Concept Updates').item.json;\nconst existingMastery = $input.all().length > 0 ? $input.all()[0].json : null;\n\n// Initialize or get current values\nlet masteryScore = existingMastery?.mastery_score || 0;\nlet timesPracticed = existingMastery?.times_practiced || 0;\nlet timesCorrect = existingMastery?.times_correct || 0;\nlet timesWrong = existingMastery?.times_wrong || 0;\n\n// Update based on current performance\ntimesPracticed += currentItem.total;\ntimesCorrect += currentItem.correct;\ntimesWrong += currentItem.wrong;\n\n// Adjust mastery score\nconst scoreChange = (currentItem.correct * 15) - (currentItem.wrong * 10);\nmasteryScore = Math.max(0, Math.min(100, masteryScore + scoreChange));\n\n// SRS: Calculate next review date\nlet nextReviewDays;\nif (masteryScore < 40) {\n  nextReviewDays = 1;\n} else if (masteryScore < 60) {\n  nextReviewDays = 3;\n} else if (masteryScore < 75) {\n  nextReviewDays = 7;\n} else if (masteryScore < 90) {\n  nextReviewDays = 14;\n} else {\n  nextReviewDays = 30;\n}\n\nconst nextReviewDate = new Date();\nnextReviewDate.setDate(nextReviewDate.getDate() + nextReviewDays);\n\nreturn {\n  student_id: currentItem.student_id,\n  concept_name: currentItem.concept_name,\n  mastery_score: Math.round(masteryScore),\n  times_practiced: timesPracticed,\n  times_correct: timesCorrect,\n  times_wrong: timesWrong,\n  last_practiced_date: currentItem.currentDate,\n  next_review_date: nextReviewDate.toISOString().split('T')[0]\n};"
+      },
+      "id": "78794834-8426-4255-9077-2b7dc32e0649",
+      "name": "Calculate New Mastery",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1050, 300]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://wvzvfzjjiamjkibegvip.supabase.co/rest/v1/concept_mastery",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "supabaseApi",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Prefer",
+              "value": "resolution=merge-duplicates"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "student_id",
+              "value": "={{ $json.student_id }}"
+            },
+            {
+              "name": "concept_name",
+              "value": "={{ $json.concept_name }}"
+            },
+            {
+              "name": "mastery_score",
+              "value": "={{ $json.mastery_score }}"
+            },
+            {
+              "name": "times_practiced",
+              "value": "={{ $json.times_practiced }}"
+            },
+            {
+              "name": "times_correct",
+              "value": "={{ $json.times_correct }}"
+            },
+            {
+              "name": "times_wrong",
+              "value": "={{ $json.times_wrong }}"
+            },
+            {
+              "name": "last_practiced_date",
+              "value": "={{ $json.last_practiced_date }}"
+            },
+            {
+              "name": "next_review_date",
+              "value": "={{ $json.next_review_date }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "d3cc470d-86bd-46ef-b6f1-f92297b40033",
+      "name": "Upsert Concept Mastery",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1250, 300],
+      "credentials": {
+        "supabaseApi": {
+          "id": "eAvDfFxsUQu0FqWu",
+          "name": "Supabase account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO leaderboard (student_id, quiz_date, score, time_taken_seconds, rank) VALUES ('{{ $('Parse Quiz Data').item.json.quizResults.student_id }}', '{{ $('Parse Quiz Data').item.json.currentDate }}', {{ $('Parse Quiz Data').item.json.quizResults.score }}, {{ $('Parse Quiz Data').item.json.quizResults.time_taken_seconds }}, 999) ON CONFLICT (student_id, quiz_date) DO UPDATE SET score = EXCLUDED.score, time_taken_seconds = EXCLUDED.time_taken_seconds, rank = 999 RETURNING *;"
+      },
+      "id": "upsert-leaderboard-entry",
+      "name": "Upsert Leaderboard Entry",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.4,
+      "position": [650, 400],
+      "credentials": {
+        "postgres": {
+          "id": "supabase-postgres",
+          "name": "Supabase PostgreSQL"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT id, student_id, score, time_taken_seconds FROM leaderboard WHERE quiz_date = '{{ $('Parse Quiz Data').item.json.currentDate }}' ORDER BY score DESC, time_taken_seconds ASC;"
+      },
+      "id": "get-all-today-scores",
+      "name": "Get All Today Scores",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.4,
+      "position": [1450, 400],
+      "credentials": {
+        "postgres": {
+          "id": "supabase-postgres",
+          "name": "Supabase PostgreSQL"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "WITH ranked_scores AS (\n  SELECT id, ROW_NUMBER() OVER (ORDER BY score DESC, time_taken_seconds ASC) as new_rank\n  FROM leaderboard\n  WHERE quiz_date = '{{ $('Parse Quiz Data').item.json.currentDate }}'\n)\nUPDATE leaderboard\nSET rank = ranked_scores.new_rank\nFROM ranked_scores\nWHERE leaderboard.id = ranked_scores.id\nRETURNING *;"
+      },
+      "id": "update-all-ranks",
+      "name": "Update All Ranks",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.4,
+      "position": [1650, 400],
+      "credentials": {
+        "postgres": {
+          "id": "supabase-postgres",
+          "name": "Supabase PostgreSQL"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const webhookData = $('Parse Quiz Data').item.json.quizResults;\nconst allScores = $('Get All Today Scores').all();\n\nconst studentEntry = allScores.find(entry => \n  entry.json.student_id === webhookData.student_id\n);\n\nconst rank = studentEntry ? \n  allScores.findIndex(entry => entry.json.id === studentEntry.json.id) + 1 \n  : null;\n\nreturn [{\n  json: {\n    success: true,\n    message: \"Quiz results submitted and leaderboard updated successfully\",\n    data: {\n      score: webhookData.score,\n      rank: rank,\n      total_students: allScores.length,\n      concepts_to_review: [],\n      next_milestone: \"Keep going!\"\n    }\n  }\n}];"
+      },
+      "id": "prepare-final-response",
+      "name": "Prepare Final Response",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [2250, 300]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ $json }}",
+        "options": {}
+      },
+      "id": "respond-to-webhook",
+      "name": "Respond to Webhook",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1,
+      "position": [2450, 300]
+    }
+  ],
+  "connections": {
+    "Webhook - Quiz Submit": {
+      "main": [[{"node": "Parse Quiz Data", "type": "main", "index": 0}]]
+    },
+    "Parse Quiz Data": {
+      "main": [[
+        {"node": "Insert Quiz Results", "type": "main", "index": 0},
+        {"node": "Prepare Concept Updates", "type": "main", "index": 0},
+        {"node": "Upsert Leaderboard Entry", "type": "main", "index": 0}
+      ]]
+    },
+    "Prepare Concept Updates": {
+      "main": [[{"node": "Get Existing Mastery", "type": "main", "index": 0}]]
+    },
+    "Get Existing Mastery": {
+      "main": [[{"node": "Calculate New Mastery", "type": "main", "index": 0}]]
+    },
+    "Calculate New Mastery": {
+      "main": [[{"node": "Upsert Concept Mastery", "type": "main", "index": 0}]]
+    },
+    "Upsert Leaderboard Entry": {
+      "main": [[{"node": "Get All Today Scores", "type": "main", "index": 0}]]
+    },
+    "Get All Today Scores": {
+      "main": [[{"node": "Update All Ranks", "type": "main", "index": 0}]]
+    },
+    "Update All Ranks": {
+      "main": [[{"node": "Prepare Final Response", "type": "main", "index": 0}]]
+    },
+    "Prepare Final Response": {
+      "main": [[{"node": "Respond to Webhook", "type": "main", "index": 0}]]
+    }
+  },
+  "pinData": {},
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "tags": [
+    {
+      "name": "fluence-jarvis-quiz-comp"
+    }
+  ]
+}

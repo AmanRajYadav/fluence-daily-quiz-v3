@@ -316,6 +316,102 @@
 
 ---
 
+#### DECISION-2025-10-27-005: Supabase as Primary Backend (Confirmed)
+
+**Decision:** Continue with Supabase as primary backend for Phase 2 institution model
+
+**Context:** Comprehensive research (2+ hours) evaluating alternatives before scaling to institution-ready platform
+
+**Alternatives Considered:**
+1. **Supabase** (chosen) - PostgreSQL BaaS with auth, real-time, storage
+2. **Firebase** - Google BaaS with NoSQL
+3. **Neon** - Serverless PostgreSQL (database only)
+4. **PlanetScale** - MySQL-focused serverless
+5. **Appwrite** - Open-source BaaS
+6. **Self-hosted PostgreSQL** - Full control
+
+**Why Supabase Won:**
+
+**1. Budget Alignment** (₹5,000/month max)
+- Supabase Pro: $25/mo base (₹2,000/mo)
+- Includes: 100,000 MAUs, 8GB database, 100GB storage, 250GB bandwidth
+- For 50-100 students: Fits entirely in base plan (no overage charges)
+- Alternatives: Similar cost or more expensive with fewer features
+
+**2. Perfect for Multi-Tenancy**
+- PostgreSQL Row-Level Security (RLS) designed for institution → teachers → students hierarchy
+- JWT claims support for fast filtering (`institution_id` in token)
+- Industry-proven pattern for SaaS apps
+- Relational database perfect for complex queries
+
+**3. SQL Power for SRS Algorithm**
+- Complex joins (students → quiz_results → concept_mastery)
+- Window functions for leaderboard ranking
+- Aggregations for weekly reports
+- Analytical queries for teacher dashboard
+- Firebase/Appwrite (NoSQL) would be nightmare for this data model
+
+**4. Real-Time Leaderboards**
+- Built on PostgreSQL replication (stable)
+- Works for <100 concurrent users (our scale)
+- Optimization path exists if needed at 500+ students
+- Firebase has better real-time, but terrible for other queries
+
+**5. Modern & Fast to Market**
+- Built-in Auth (JWT, role-based) saves 2+ weeks
+- Auto-generated REST/GraphQL APIs
+- File storage for voice recordings (future)
+- One service vs piecing together 4-5 tools
+- Self-hosted would take 4+ weeks setup time
+
+**Trade-offs Accepted:**
+
+1. **Production Reliability Risk** (618 outages over 3 years, Oct 2025 issues)
+   - Mitigation: Error handling, retry logic, offline-first features, monitoring
+   - Risk: Medium (manageable with proper architecture)
+
+2. **Real-Time Scaling Concerns** (RLS + Postgres Changes = performance hit at 500+ concurrent)
+   - Mitigation: Optimize RLS policies, use JWT claims, caching, hybrid approach if needed
+   - Risk: Low (unlikely to hit limits with 50-100 students)
+
+3. **Cost Escalation** (costs can climb fast as you scale)
+   - Mitigation: Spend cap enabled, query optimization, exit strategy documented
+   - Risk: Low (well under limits)
+
+**Exit Strategy:** (Low vendor lock-in)
+- Standard PostgreSQL (not proprietary)
+- Can export schema: `supabase db pull`
+- Can export data: `pg_dump`
+- Migration to Neon/AWS RDS/self-hosted: ~1 week work
+- Auth layer rebuild: 2-3 days
+
+**Re-Evaluation Triggers:**
+- If costs exceed ₹3,500/month → Consider Neon
+- If >3 major outages affecting users in 1 month → Add redundancy
+- If real-time latency >2s with 100+ users → Hybrid approach
+- Otherwise: Supabase is perfect for 0-500 students
+
+**Optimization Tasks Deferred to Post-Launch:**
+- RLS policy optimization (JWT claims, indexes)
+- Monitoring setup (Sentry, status alerts)
+- Real-time performance testing (100+ mock subscriptions)
+- Budget alerts and spend cap verification
+
+**Research Sources:**
+- TechCrunch, tech blogs (Supabase vs alternatives 2025)
+- Production experience articles (reliability, scaling)
+- Official docs (Supabase RLS, real-time benchmarks)
+- Pricing comparisons (Supabase, Neon, PlanetScale, Firebase)
+- Multi-tenancy best practices (2025)
+- Vendor lock-in analysis (exit strategies)
+- EdTech-specific use cases
+
+**Aligns With:** Tech Stack Philosophy (Modern → Stable → Budget-conscious)
+
+**Review Date:** After Phase 2 launch (12 weeks) or if re-evaluation triggers hit
+
+---
+
 ### 4.4 Conversation & Planning History
 
 **Note:** Older sessions (>30 days) have been archived to `context3.md` to keep this file readable.

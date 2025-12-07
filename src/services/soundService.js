@@ -5,7 +5,16 @@ class SoundService {
     // Get public URL for sound files
     const publicUrl = process.env.PUBLIC_URL || '';
 
-    // Fallback URLs (external) if local files don't exist
+    // Try local files first, fallback to external URLs
+    // Local files are MUCH faster (no network latency)
+    const getSoundUrls = (name, fallbackUrl) => {
+      return [
+        `${publicUrl}/sounds/${name}.mp3`, // Try local first
+        fallbackUrl // Fallback to external
+      ];
+    };
+
+    // External fallback URLs
     const fallbackUrls = {
       correct: 'https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3',
       wrong: 'https://assets.mixkit.co/active_storage/sfx/2955/2955-preview.mp3',
@@ -15,62 +24,62 @@ class SoundService {
       complete: 'https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3'
     };
 
-    // Sound effects - Use EXTERNAL URLs directly (local files optional)
-    // Howler's fallback doesn't work well with CORS, so we use external URLs as primary
+    // OPTIMIZATION: Remove html5 flag for Web Audio API (faster, no lag)
+    // OPTIMIZATION: Preload all sounds immediately
     this.sounds = {
       correct: new Howl({
-        src: [fallbackUrls.correct],
+        src: getSoundUrls('correct', fallbackUrls.correct),
         volume: 0.5,
-        html5: true, // Use HTML5 audio for better compatibility
+        preload: true, // Pre-load for instant playback
         onload: () => console.log('[SoundService] ✅ correct sound loaded'),
         onloaderror: (id, error) => {
-          console.error('[SoundService] ❌ Failed to load correct sound:', error);
+          console.warn('[SoundService] Using fallback for correct sound');
         }
       }),
       wrong: new Howl({
-        src: [fallbackUrls.wrong],
+        src: getSoundUrls('wrong', fallbackUrls.wrong),
         volume: 0.4,
-        html5: true,
+        preload: true,
         onload: () => console.log('[SoundService] ✅ wrong sound loaded'),
         onloaderror: (id, error) => {
-          console.error('[SoundService] ❌ Failed to load wrong sound:', error);
+          console.warn('[SoundService] Using fallback for wrong sound');
         }
       }),
       tick: new Howl({
-        src: [fallbackUrls.tick],
+        src: getSoundUrls('tick', fallbackUrls.tick),
         volume: 0.2,
         loop: true,
-        html5: true,
+        preload: true,
         onload: () => console.log('[SoundService] ✅ tick sound loaded'),
         onloaderror: (id, error) => {
-          console.error('[SoundService] ❌ Failed to load tick sound:', error);
+          console.warn('[SoundService] Using fallback for tick sound');
         }
       }),
       powerup: new Howl({
-        src: [fallbackUrls.powerup],
+        src: getSoundUrls('powerup', fallbackUrls.powerup),
         volume: 0.6,
-        html5: true,
+        preload: true,
         onload: () => console.log('[SoundService] ✅ powerup sound loaded'),
         onloaderror: (id, error) => {
-          console.error('[SoundService] ❌ Failed to load powerup sound:', error);
+          console.warn('[SoundService] Using fallback for powerup sound');
         }
       }),
       levelup: new Howl({
-        src: [fallbackUrls.levelup],
+        src: getSoundUrls('levelup', fallbackUrls.levelup),
         volume: 0.7,
-        html5: true,
+        preload: true,
         onload: () => console.log('[SoundService] ✅ levelup sound loaded'),
         onloaderror: (id, error) => {
-          console.error('[SoundService] ❌ Failed to load levelup sound:', error);
+          console.warn('[SoundService] Using fallback for levelup sound');
         }
       }),
       complete: new Howl({
-        src: [fallbackUrls.complete],
+        src: getSoundUrls('complete', fallbackUrls.complete),
         volume: 0.8,
-        html5: true,
+        preload: true,
         onload: () => console.log('[SoundService] ✅ complete sound loaded'),
         onloaderror: (id, error) => {
-          console.error('[SoundService] ❌ Failed to load complete sound:', error);
+          console.warn('[SoundService] Using fallback for complete sound');
         }
       }),
     };

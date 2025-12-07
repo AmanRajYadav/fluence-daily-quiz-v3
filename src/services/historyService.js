@@ -100,7 +100,7 @@ export const getQuestionsByDate = async (studentId, date) => {
     question_type: q.question_type,
     options: q.options || null,
     correct_answer: q.correct_answer,
-    concept_tested: q.concept_tested || null,
+    concept_name: q.concept_name || null,
     difficulty_level: q.difficulty_level || 'medium',
     explanation: q.explanation || null,
     active: false, // Mark as replay

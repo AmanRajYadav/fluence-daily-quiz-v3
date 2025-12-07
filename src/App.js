@@ -5,7 +5,7 @@ import LoadingSpinner from './components/LoadingSpinner';
 import ResultScreen from './components/ResultScreen';
 import MCQQuestion from './components/QuestionTypes/MCQQuestion';
 import TrueFalseQuestion from './components/QuestionTypes/TrueFalseQuestion';
-import ShortAnswerQuestion from './components/QuestionTypes/ShortAnswerQuestion';
+import ShortAnswerQuestion from './components/QuestionTypes/ShortAnswerQuestion'; // LEGACY: Kept for old questions only
 import VoiceAnswerQuestion from './components/QuestionTypes/VoiceAnswerQuestion';
 import FillBlankQuestion from './components/QuestionTypes/FillBlankQuestion';
 import MatchQuestion from './components/QuestionTypes/MatchQuestion';
@@ -21,9 +21,10 @@ import { checkAnswer } from './utils/answerChecker';
 import { calculateScore } from './utils/scoreCalculator';
 import { usePowerUps } from './hooks/usePowerUps';
 import { soundService } from './services/soundService';
+import { speechService } from './services/speechService';
 
-function App() {
-  // Student & Authentication
+function App({ session, onBack }) {
+  // Student & Authentication (V3: Use session if provided, otherwise old URL param method)
   const [student, setStudent] = useState(null);
   const [playerName, setPlayerName] = useState('');
   const [totalPoints, setTotalPoints] = useState(0); // Cumulative points across all quizzes
@@ -54,6 +55,7 @@ function App() {
   const [showResult, setShowResult] = useState(false);
   const [musicEnabled, setMusicEnabled] = useState(false); // Default OFF
   const [sfxEnabled, setSfxEnabled] = useState(true);
+  const [speechEnabled, setSpeechEnabled] = useState(true); // Enable by default
   const [blasterActive, setBlasterActive] = useState(false);
   const [isReplayMode, setIsReplayMode] = useState(false); // Track replay mode
 
@@ -63,6 +65,7 @@ function App() {
   const [submitted, setSubmitted] = useState(false);
   const [submitError, setSubmitError] = useState(null);
   const [resultsData, setResultsData] = useState(null);
+  const [feedbackData, setFeedbackData] = useState(null); // V3: AI feedback from n8n
 
   // Power-ups hook
   const {
@@ -74,15 +77,32 @@ function App() {
     resetAllPowerUps
   } = usePowerUps();
 
-  // Load student from URL or name
+  // Load student from session (V3) or URL param (V2 legacy)
   useEffect(() => {
+    // V3: If session is provided, use it directly
+    if (session) {
+      const studentData = {
+        id: session.user_id,
+        username: session.username,
+        full_name: session.full_name,
+        display_name: session.full_name, // Map full_name to display_name for compatibility
+        institution_id: session.institution_id,
+        class_id: session.class_id
+      };
+      setStudent(studentData);
+      setPlayerName(session.full_name);
+      loadQuestions(); // V3: No studentId needed, uses session internally
+      return;
+    }
+
+    // V2 Legacy: Load from URL params
     const urlParams = new URLSearchParams(window.location.search);
     const studentParam = urlParams.get('student');
 
     if (studentParam) {
       loadStudentById(studentParam);
     }
-  }, []);
+  }, [session]);
 
   // Reload points when returning to menu (fixes refresh bug)
   useEffect(() => {
@@ -99,6 +119,21 @@ function App() {
 
     reloadPoints();
   }, [student, gameState]);
+
+  // Auto-read question when it appears
+  useEffect(() => {
+    if (questions[currentQuestion] && gameState === 'playing' && speechEnabled) {
+      // Small delay to let animation complete
+      const timer = setTimeout(() => {
+        speechService.readQuestion(questions[currentQuestion]);
+      }, 300);
+
+      return () => {
+        clearTimeout(timer);
+        speechService.stop(); // Stop when question changes
+      };
+    }
+  }, [currentQuestion, questions, gameState, speechEnabled]);
 
   const loadStudentById = async (studentIdOrName) => {
     setLoading(true);
@@ -129,7 +164,9 @@ function App() {
 
   const loadQuestions = async (studentId) => {
     try {
-      const questionsData = await getActiveQuestions(studentId);
+      // V3: getActiveQuestions() uses session internally (no params)
+      // V2: getActiveQuestions(studentId) uses studentId parameter
+      const questionsData = studentId ? await getActiveQuestions(studentId) : await getActiveQuestions();
 
       if (!questionsData || questionsData.length === 0) {
         setError('No active quiz questions found. Please contact your teacher.');
@@ -307,7 +344,7 @@ function App() {
         is_correct: isCorrect,
         time_spent: timeTaken,
         points_earned: points,
-        concept_tested: question.concept_tested,
+        concept_name: question.concept_name, // FIXED: Use concept_name (standardized)
         difficulty_level: question.difficulty_level,
         explanation: question.explanation
       };
@@ -334,6 +371,7 @@ function App() {
       time_taken_seconds: totalSeconds,
       highest_streak: maxStreak,
       total_score: score,
+      total_points: score, // V3: Add total_points for n8n workflow and database
       power_ups_used: powerUpsUsed,
       answers_json: {
         questions: detailedAnswers,
@@ -344,7 +382,7 @@ function App() {
           completion_rate: 100 // All 30 questions completed in arcade mode
         }
       },
-      concepts_tested: [...new Set(questions.map(q => q.concept_tested).filter(Boolean))]
+      concept_names: [...new Set(questions.map(q => q.concept_name).filter(Boolean))]
     };
 
     // Save results data for manual submission
@@ -367,9 +405,40 @@ function App() {
       }
 
       console.log('Quiz results submitted to webhook successfully');
+      console.log('Webhook response data:', JSON.stringify(webhookResult.data, null, 2));
+
+      // V3: Capture feedback from webhook response
+      // Handle double-nested response structure from n8n
+      const responseData = webhookResult.data?.data || webhookResult.data;
+
+      if (responseData && responseData.feedback) {
+        console.log('✅ AI Feedback received:', JSON.stringify(responseData.feedback, null, 2));
+        setFeedbackData(responseData.feedback);
+      } else {
+        console.warn('⚠️ No feedback in webhook response. Full data:', JSON.stringify(webhookResult, null, 2));
+      }
 
       // Save to history only after successful webhook submission
-      const historyResult = await saveQuizToHistory(resultsData);
+      // Filter data to only include fields that exist in quiz_history table
+      const historyData = {
+        student_id: resultsData.student_id,
+        class_id: student.class_id || null,
+        institution_id: student.institution_id || null,
+        quiz_date: resultsData.quiz_date,
+        questions_json: questions, // Store the actual questions for replay
+        answers_json: resultsData.answers_json,
+        total_questions: resultsData.total_questions,
+        correct_answers: resultsData.correct_answers,
+        score: resultsData.score,
+        time_taken_seconds: resultsData.time_taken_seconds,
+        total_score: resultsData.total_score,
+        concept_names: resultsData.concept_names,
+        streak_count: 0, // Not tracking streaks in history
+        bonus_points: 0,
+        total_points: resultsData.total_score
+      };
+
+      const historyResult = await saveQuizToHistory(historyData);
 
       if (!historyResult || !historyResult.success) {
         throw new Error(historyResult?.error || 'Failed to save to history');
@@ -418,6 +487,11 @@ function App() {
     setHiddenOptions([]);
     setShowCorrectAnswer(false);
     resetAllPowerUps();
+  };
+
+  const toggleSpeech = () => {
+    const newState = speechService.toggle();
+    setSpeechEnabled(newState);
   };
 
   // Power-up handlers
@@ -528,7 +602,7 @@ function App() {
         return <MCQQuestion {...commonProps} />;
       case 'true_false':
         return <TrueFalseQuestion {...commonProps} />;
-      case 'short_answer':
+      case 'short_answer': // LEGACY: No longer generated, kept for historical quiz replay
         return <ShortAnswerQuestion {...commonProps} />;
       case 'voice':
         return <VoiceAnswerQuestion {...commonProps} />;
@@ -641,6 +715,7 @@ function App() {
         submitted={submitted}
         submitError={submitError}
         isReplayMode={isReplayMode}
+        feedback={feedbackData} // V3: Pass AI feedback from n8n workflow
       />
     );
   }
@@ -799,7 +874,7 @@ function App() {
           total={questions.length}
         />
 
-        {/* Simplified Header Row: Streak and Score */}
+        {/* Simplified Header Row: Streak, Speech, and Score */}
         <div className="flex items-center justify-between mb-3">
           {/* Left: Streak Display */}
           <div className="flex-shrink-0">
@@ -810,6 +885,21 @@ function App() {
               score={score}
               onlyTimer={true}
             />
+          </div>
+
+          {/* Center: Speech Toggle */}
+          <div className="flex-shrink-0">
+            <button
+              onClick={toggleSpeech}
+              className={`p-2 rounded-xl transition-all ${
+                speechEnabled
+                  ? 'bg-green-500/20 text-green-400 hover:bg-green-500/30 neon-border-cyan'
+                  : 'bg-gray-500/20 text-gray-400 hover:bg-gray-500/30 neon-border-purple'
+              }`}
+              title={speechEnabled ? 'Disable question reading' : 'Enable question reading'}
+            >
+              <Volume2 className="w-5 h-5" />
+            </button>
           </div>
 
           {/* Right: Score Badge */}

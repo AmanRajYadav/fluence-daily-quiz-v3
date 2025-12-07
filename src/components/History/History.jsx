@@ -234,11 +234,11 @@ const History = ({ student, onBack, onReplayQuiz }) => {
                     </div>
                   </div>
 
-                  {quiz.concepts_tested && quiz.concepts_tested.length > 0 && (
+                  {quiz.concept_names && quiz.concept_names.length > 0 && (
                     <div className="mt-4">
                       <p className="text-cyan-300 text-sm mb-2">Concepts Covered:</p>
                       <div className="flex flex-wrap gap-2">
-                        {quiz.concepts_tested.map((concept, i) => (
+                        {quiz.concept_names.map((concept, i) => (
                           <span
                             key={i}
                             className="bg-cyan-500/20 text-cyan-300 px-3 py-1 rounded-full text-xs"

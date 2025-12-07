@@ -1,18 +1,19 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { Trophy, Medal, Award, ArrowLeft, Clock, Target, TrendingUp, Calendar, History as HistoryIcon } from 'lucide-react';
-import { getTodaysLeaderboard, subscribeToLeaderboard, getTotalPoints } from '../services/quizService';
+import { getWeeklyLeaderboard, subscribeToWeeklyLeaderboard, getTotalPoints } from '../services/quizService';
+import { getLeagueTier, getLeagueProgress, formatLeagueName } from '../utils/leagueUtils';
 import LoadingSpinner from './LoadingSpinner';
 import HistoricalLeaderboard from './HistoricalLeaderboard';
 
 const LeaderboardScreen = ({ student, onBack }) => {
   const [leaderboard, setLeaderboard] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [view, setView] = useState('today'); // today, all-time
+  const [view, setView] = useState('week'); // week, all-time (changed from 'today')
   const [showHistorical, setShowHistorical] = useState(false);
 
   const loadLeaderboard = useCallback(async () => {
     try {
-      const data = await getTodaysLeaderboard();
+      const data = await getWeeklyLeaderboard(); // V3: Use weekly leaderboard
       setLeaderboard(data);
     } catch (error) {
       console.error('Error loading leaderboard:', error);
@@ -24,8 +25,8 @@ const LeaderboardScreen = ({ student, onBack }) => {
   useEffect(() => {
     loadLeaderboard();
 
-    // Subscribe to real-time updates
-    const subscription = subscribeToLeaderboard(() => {
+    // Subscribe to real-time updates - V3: Weekly leaderboard
+    const subscription = subscribeToWeeklyLeaderboard(() => {
       loadLeaderboard();
     });
 
@@ -103,51 +104,83 @@ const LeaderboardScreen = ({ student, onBack }) => {
           )}
         </div>
 
-        {/* Your Rank Card */}
-        {currentStudent && (
-          <div className="mb-6 neon-border-pink bg-gradient-to-r from-pink-900/40 to-purple-900/40 backdrop-blur-lg rounded-3xl p-6">
-            <h3 className="text-sm font-bold text-pink-300 mb-3 uppercase tracking-wide">Your Ranking</h3>
-            <div className="flex items-center justify-between">
-              <div className="flex items-center gap-4">
-                <div className={`w-16 h-16 rounded-full bg-gradient-to-br ${getRankColor(currentStudent.rank)} flex items-center justify-center`}>
-                  <span className="text-3xl">{getRankEmoji(currentStudent.rank)}</span>
-                </div>
-                <div>
-                  <p className="text-white font-bold text-2xl">{student.display_name}</p>
-                  <p className="text-pink-300 text-sm">Rank #{currentStudent.rank}</p>
-                </div>
-              </div>
-              <div className="text-right">
-                <p className="text-white font-black text-4xl">{Math.round(currentStudent.score)}%</p>
-                <p className="text-pink-300 text-sm">Score</p>
-              </div>
-            </div>
+        {/* Your Rank Card - V3: Weekly Stats + League */}
+        {currentStudent && (() => {
+          const leagueProgress = getLeagueProgress(currentStudent.total_points || 0);
+          const league = leagueProgress.currentLeague;
 
-            <div className="grid grid-cols-2 gap-3 mt-4">
-              <div className="bg-white/10 p-3 rounded-lg text-center">
-                <Clock className="w-5 h-5 text-blue-400 mx-auto mb-1" />
-                <p className="text-white font-bold">
-                  {Math.floor(currentStudent.time_taken_seconds / 60)}m {currentStudent.time_taken_seconds % 60}s
-                </p>
-                <p className="text-cyan-300 text-xs">Time Taken</p>
+          return (
+            <div className="mb-6 neon-border-pink bg-gradient-to-r from-pink-900/40 to-purple-900/40 backdrop-blur-lg rounded-3xl p-6">
+              <div className="flex items-center justify-between mb-3">
+                <h3 className="text-sm font-bold text-pink-300 uppercase tracking-wide">Your Weekly Ranking</h3>
+                {/* League Badge */}
+                <span className={`bg-gradient-to-r ${league.color} px-3 py-1 rounded-full text-sm font-bold text-white flex items-center gap-1`}>
+                  {league.icon} {league.name}
+                </span>
               </div>
-              <div className="bg-white/10 p-3 rounded-lg text-center">
-                <TrendingUp className="w-5 h-5 text-green-400 mx-auto mb-1" />
-                <p className="text-white font-bold">
-                  {currentStudent.rank === 1 ? 'Top Rank!' : `${leaderboard[0]?.score - currentStudent.score > 0 ? `+${Math.round(leaderboard[0]?.score - currentStudent.score)}%` : 'Tied'}`}
-                </p>
-                <p className="text-cyan-300 text-xs">To #1</p>
-              </div>
-            </div>
-          </div>
-        )}
 
-        {/* Leaderboard List */}
+              <div className="flex items-center justify-between">
+                <div className="flex items-center gap-4">
+                  <div className={`w-16 h-16 rounded-full bg-gradient-to-br ${getRankColor(currentStudent.rank)} flex items-center justify-center`}>
+                    <span className="text-3xl">{getRankEmoji(currentStudent.rank)}</span>
+                  </div>
+                  <div>
+                    <p className="text-white font-bold text-2xl">{student.display_name || student.full_name}</p>
+                    <p className="text-pink-300 text-sm">Rank #{currentStudent.rank}</p>
+                  </div>
+                </div>
+                <div className="text-right">
+                  <p className="text-white font-black text-4xl">{currentStudent.total_points}</p>
+                  <p className="text-pink-300 text-sm">Points</p>
+                </div>
+              </div>
+
+              <div className="grid grid-cols-3 gap-3 mt-4">
+                <div className="bg-white/10 p-3 rounded-lg text-center">
+                  <Trophy className="w-5 h-5 text-yellow-400 mx-auto mb-1" />
+                  <p className="text-white font-bold">{currentStudent.quizzes_taken || 0}</p>
+                  <p className="text-cyan-300 text-xs">Quizzes</p>
+                </div>
+                <div className="bg-white/10 p-3 rounded-lg text-center">
+                  <Target className="w-5 h-5 text-blue-400 mx-auto mb-1" />
+                  <p className="text-white font-bold">{Math.round(currentStudent.avg_score || 0)}%</p>
+                  <p className="text-cyan-300 text-xs">Avg Score</p>
+                </div>
+                <div className="bg-white/10 p-3 rounded-lg text-center">
+                  <TrendingUp className="w-5 h-5 text-green-400 mx-auto mb-1" />
+                  <p className="text-white font-bold">
+                    {currentStudent.rank === 1 ? 'Top!' : `+${leaderboard[0]?.total_points - currentStudent.total_points}`}
+                  </p>
+                  <p className="text-cyan-300 text-xs">To #1</p>
+                </div>
+              </div>
+
+              {/* League Progress Bar */}
+              {leagueProgress.nextLeague && (
+                <div className="mt-4 pt-4 border-t border-white/10">
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="text-sm text-white font-semibold">Next League Progress</span>
+                    <span className="text-xs text-cyan-300">{leagueProgress.pointsNeeded} pts to {leagueProgress.nextLeague.icon}</span>
+                  </div>
+                  <div className="w-full bg-white/10 rounded-full h-3 overflow-hidden">
+                    <div
+                      className={`h-full bg-gradient-to-r ${leagueProgress.nextLeague.color} transition-all duration-500`}
+                      style={{ width: `${leagueProgress.progress}%` }}
+                    />
+                  </div>
+                  <p className="text-xs text-gray-400 mt-1 text-center">{leagueProgress.progress}% to {leagueProgress.nextLeague.name}</p>
+                </div>
+              )}
+            </div>
+          );
+        })()}
+
+        {/* Leaderboard List - V3: Weekly Rankings */}
         <div className="neon-border-purple bg-gradient-to-br from-purple-900/60 to-purple-800/60 backdrop-blur-lg rounded-3xl p-6">
           <div className="flex items-center justify-between mb-6">
             <h2 className="text-2xl font-black text-white flex items-center gap-2">
               <Calendar className="w-6 h-6 text-cyan-400" />
-              Today's Rankings
+              This Week's Rankings
             </h2>
             <span className="bg-cyan-500/20 text-cyan-300 px-3 py-1 rounded-full text-sm font-bold">
               Live
@@ -158,7 +191,7 @@ const LeaderboardScreen = ({ student, onBack }) => {
             <div className="text-center py-12">
               <Trophy className="w-20 h-20 text-cyan-400 mx-auto mb-4 opacity-50" />
               <h3 className="text-xl font-bold text-white mb-2">No Scores Yet</h3>
-              <p className="text-cyan-300">Be the first to complete today's quiz!</p>
+              <p className="text-cyan-300">Be the first to complete a quiz this week!</p>
             </div>
           ) : (
             <div className="space-y-3">
@@ -184,32 +217,44 @@ const LeaderboardScreen = ({ student, onBack }) => {
                           {entry.rank <= 3 ? getRankEmoji(entry.rank) : `#${entry.rank}`}
                         </div>
 
-                        {/* Avatar & Name */}
+                        {/* Avatar & Name - V3: Weekly Stats + League Badge */}
                         <div>
-                          <div className="flex items-center gap-2">
+                          <div className="flex items-center gap-2 flex-wrap">
                             <span className="text-white font-bold text-xl">
-                              {entry.students?.display_name || 'Unknown'}
+                              {entry.students?.full_name || entry.students?.username || 'Unknown'}
                             </span>
                             {isCurrentStudent && (
                               <span className="bg-pink-500/30 text-pink-300 px-2 py-0.5 rounded-full text-xs font-bold">
                                 YOU
                               </span>
                             )}
+                            {/* League Badge */}
+                            {(() => {
+                              const league = getLeagueTier(entry.total_points || 0);
+                              return (
+                                <span className={`bg-gradient-to-r ${league.color} px-2 py-0.5 rounded-full text-xs font-bold text-white flex items-center gap-1`}>
+                                  {league.icon} {league.name.replace(' League', '')}
+                                </span>
+                              );
+                            })()}
                           </div>
                           <div className="flex items-center gap-3 mt-1">
+                            <span className="text-yellow-300 text-sm flex items-center gap-1">
+                              <Trophy className="w-3 h-3" />
+                              {entry.total_points} pts
+                            </span>
                             <span className="text-cyan-300 text-sm flex items-center gap-1">
                               <Target className="w-3 h-3" />
-                              {Math.round(entry.score)}%
+                              {Math.round(entry.avg_score || 0)}% avg
                             </span>
                             <span className="text-gray-400 text-sm flex items-center gap-1">
-                              <Clock className="w-3 h-3" />
-                              {Math.floor(entry.time_taken_seconds / 60)}:{String(entry.time_taken_seconds % 60).padStart(2, '0')}
+                              📝 {entry.quizzes_taken || 0} quizzes
                             </span>
                           </div>
                         </div>
                       </div>
 
-                      {/* Score Badge */}
+                      {/* Points Badge */}
                       {isTopThree && (
                         <div className={`px-4 py-2 rounded-full bg-gradient-to-r ${getRankColor(entry.rank)}`}>
                           <span className="text-white font-black text-lg">
@@ -225,12 +270,12 @@ const LeaderboardScreen = ({ student, onBack }) => {
           )}
         </div>
 
-        {/* Motivational Message */}
+        {/* Motivational Message - V3: Weekly */}
         {!currentStudent && leaderboard.length > 0 && (
           <div className="mt-6 neon-border-yellow bg-yellow-900/20 rounded-2xl p-6 text-center">
             <h3 className="text-xl font-bold text-white mb-2">Ready to Compete?</h3>
             <p className="text-yellow-300 mb-4">
-              Complete today's quiz to see your rank on the leaderboard!
+              Complete quizzes this week to climb the leaderboard!
             </p>
             <button
               onClick={onBack}

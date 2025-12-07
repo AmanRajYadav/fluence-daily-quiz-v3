@@ -3,9 +3,22 @@ import { ArrowRight, CheckCircle, XCircle } from 'lucide-react';
 
 const MatchQuestion = ({ question, selectedAnswer, onAnswerSelect, showResult, isCorrect }) => {
   // Parse options: should be { "left": [...], "right": [...] }
-  const options = typeof question.options === 'string'
-    ? JSON.parse(question.options || '{"left":[],"right":[]}')
-    : question.options || { left: [], right: [] };
+  // Defensive parsing to handle malformed or missing data
+  let parsedOptions = { left: [], right: [] };
+  try {
+    if (typeof question.options === 'string') {
+      parsedOptions = JSON.parse(question.options || '{"left":[],"right":[]}');
+    } else if (question.options) {
+      parsedOptions = question.options;
+    }
+  } catch (e) {
+    console.error('[MatchQuestion] Failed to parse options:', e);
+  }
+  // Ensure left and right are always arrays
+  const options = {
+    left: Array.isArray(parsedOptions?.left) ? parsedOptions.left : [],
+    right: Array.isArray(parsedOptions?.right) ? parsedOptions.right : []
+  };
 
   const correctMatches = typeof question.correct_answer === 'string'
     ? JSON.parse(question.correct_answer || '{}')

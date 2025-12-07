@@ -1,0 +1,415 @@
+{
+  "quiz_metadata": {
+    "student_name": "Anaya",
+    "subject": "English Grammar",
+    "topic": "Comprehensive Review (Tenses, Modals, Articles, and More)",
+    "total_questions": 30,
+    "date_generated": "2025-10-06"
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Based on the teacher's list, which of these requires the article 'the'?",
+      "question_type": "mcq",
+      "options": [
+        "An abstract noun like 'love'",
+        "The name of a historical event",
+        "A regular noun mentioned for the first time",
+        "The name of a single mountain"
+      ],
+      "correct_answer": "The name of a historical event",
+      "concept_tested": "Article Usage",
+      "difficulty": "medium",
+      "explanation": "The teacher's list of uses for 'the' included historical events. The teacher specifically corrected Anaya about not using 'the' with abstract nouns."
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which sentence means you will arrange for someone else to repair the AC?",
+      "question_type": "mcq",
+      "options": [
+        "I will repair the AC by myself.",
+        "I get the AC repaired.",
+        "I will get the AC repaired.",
+        "I had the AC repaired."
+      ],
+      "correct_answer": "I will get the AC repaired.",
+      "concept_tested": "Causative Form",
+      "difficulty": "medium",
+      "explanation": "The structure 'get + object + past participle' is the causative form, used to show you are causing someone else to perform the action."
+    },
+    {
+      "question_number": 3,
+      "question_text": "Which word was spelled correctly during the homework review?",
+      "question_type": "mcq",
+      "options": [
+        "Christmes",
+        "Rupeese",
+        "Thier",
+        "Christmas"
+      ],
+      "correct_answer": "Christmas",
+      "concept_tested": "Spelling Corrections",
+      "difficulty": "easy",
+      "explanation": "The teacher corrected the spelling of 'Christmas' (Christ-mas), 'rupees' (no 'e' at the end), and the use of 'there' vs. 'their'."
+    },
+    {
+      "question_number": 4,
+      "question_text": "The sentence 'If I were the Prime Minister...' is used to talk about...",
+      "question_type": "mcq",
+      "options": [
+        "a real future plan.",
+        "a past memory.",
+        "a hypothetical or imaginary situation.",
+        "a direct order."
+      ],
+      "correct_answer": "a hypothetical or imaginary situation.",
+      "concept_tested": "Conditional Sentences (Type 2)",
+      "difficulty": "hard",
+      "explanation": "This 'If I were...' structure is a key example of the second conditional, used for unreal situations, as discussed in the lesson."
+    },
+    {
+      "question_number": 5,
+      "question_text": "What does 'He need not play' mean?",
+      "question_type": "mcq",
+      "options": [
+        "He is unable to play.",
+        "He is forbidden from playing.",
+        "It is not necessary for him to play.",
+        "He must not play."
+      ],
+      "correct_answer": "It is not necessary for him to play.",
+      "concept_tested": "Modal Verbs (Need not)",
+      "difficulty": "medium",
+      "explanation": "As taught in class, 'need not' is a modal verb that expresses a lack of necessity or obligation."
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which of these means 'मैं खेलती थी'?",
+      "question_type": "mcq",
+      "options": [
+        "I kept on playing.",
+        "I used to play.",
+        "I did play.",
+        "I had played."
+      ],
+      "correct_answer": "I used to play.",
+      "concept_tested": "Past Habits (Used to)",
+      "difficulty": "easy",
+      "explanation": "The phrase 'used to' is specifically for describing a habit or state in the past that is no longer true."
+    },
+    {
+      "question_number": 7,
+      "question_text": "For a strong obligation like attending an assembly, which modal did the teacher use?",
+      "question_type": "mcq",
+      "options": [
+        "should",
+        "may",
+        "can",
+        "must"
+      ],
+      "correct_answer": "must",
+      "concept_tested": "Modal Verbs (Must)",
+      "difficulty": "medium",
+      "explanation": "The teacher used 'You must attend the assembly' to indicate a strong, non-negotiable obligation."
+    },
+    {
+      "question_number": 8,
+      "question_text": "Which preposition is correct for a specific date like the 25th of December?",
+      "question_type": "mcq",
+      "options": [
+        "at",
+        "in",
+        "for",
+        "on"
+      ],
+      "correct_answer": "on",
+      "concept_tested": "Prepositions of Time (On)",
+      "difficulty": "easy",
+      "explanation": "The teacher explicitly corrected the student, stating that 'on' is the correct preposition to use with specific dates."
+    },
+    {
+      "question_number": 9,
+      "question_text": "Choose the correct question for the answer 'I am playing.'",
+      "question_type": "mcq",
+      "options": [
+        "Did you play?",
+        "Do you play?",
+        "Are you playing?",
+        "Have you played?"
+      ],
+      "correct_answer": "Are you playing?",
+      "concept_tested": "Present Continuous Tense",
+      "difficulty": "easy",
+      "explanation": "The answer is in the present continuous tense, so the question must match that tense structure."
+    },
+    {
+      "question_number": 10,
+      "question_text": "The sentence 'I did not play' is the correct negative form of 'I played'.",
+      "question_type": "true_false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True",
+      "concept_tested": "Simple Past Tense (Negative)",
+      "difficulty": "easy",
+      "explanation": "As practiced in class, the negative past simple uses 'did not' followed by the base form of the verb ('play')."
+    },
+    {
+      "question_number": 11,
+      "question_text": "According to the teacher, 'the' should be used before abstract nouns like 'love'.",
+      "question_type": "true_false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False",
+      "concept_tested": "Article Usage",
+      "difficulty": "easy",
+      "explanation": "The teacher specifically corrected Anaya, stating that 'the' is not used with abstract nouns like 'love' or 'fear'."
+    },
+    {
+      "question_number": 12,
+      "question_text": "The sentence 'The shopkeeper had closed the shop' is in the passive voice.",
+      "question_type": "true_false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False",
+      "concept_tested": "Active and Passive Voice",
+      "difficulty": "medium",
+      "explanation": "This is active voice because the subject ('shopkeeper') performs the action. The passive version is 'The shop had been closed'."
+    },
+    {
+      "question_number": 13,
+      "question_text": "'I had to go' means that it was necessary for me to go in the past.",
+      "question_type": "true_false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True",
+      "concept_tested": "Modal Verbs (Had to)",
+      "difficulty": "easy",
+      "explanation": "'Had to' is the past tense of 'have to' and expresses a past necessity or obligation."
+    },
+    {
+      "question_number": 14,
+      "question_text": "The teacher said the article 'the' is used before ordinal numbers like 'first'.",
+      "question_type": "true_false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True",
+      "concept_tested": "Article Usage",
+      "difficulty": "easy",
+      "explanation": "When listing the uses for 'the', the teacher explicitly mentioned 'ordinal numbers' as one of the rules."
+    },
+    {
+      "question_number": 15,
+      "question_text": "How do you tell Anaya 'ghar na jaae'?",
+      "question_type": "short_answer",
+      "options": null,
+      "correct_answer": "Tell Anaya not to go home.",
+      "concept_tested": "Imperative Negatives",
+      "difficulty": "medium",
+      "explanation": "This requires using the negative imperative structure '...not to + verb' which was specifically practiced in the transcript."
+    },
+    {
+      "question_number": 16,
+      "question_text": "Why use passive voice for 'the shop'?",
+      "question_type": "short_answer",
+      "options": null,
+      "correct_answer": "The shop is an object; it cannot close itself.",
+      "concept_tested": "Passive Voice",
+      "difficulty": "hard",
+      "explanation": "The key concept is that the subject of the sentence (the shop) is receiving the action, not performing it."
+    },
+    {
+      "question_number": 17,
+      "question_text": "When is 'the' used with comparative adjectives?",
+      "question_type": "short_answer",
+      "options": null,
+      "correct_answer": "When there is a sense of selection.",
+      "concept_tested": "Article Usage with Comparatives",
+      "difficulty": "hard",
+      "explanation": "The teacher explained this specific rule: 'He is the better singer between you two,' implying selection."
+    },
+    {
+      "question_number": 18,
+      "question_text": "What does 'I could have played' imply?",
+      "question_type": "short_answer",
+      "options": null,
+      "correct_answer": "A missed opportunity to play in the past.",
+      "concept_tested": "Modal Verbs (Could have)",
+      "difficulty": "hard",
+      "explanation": "This structure ('could have' + past participle) is used for past possibilities that did not happen."
+    },
+    {
+      "question_number": 19,
+      "question_text": "What is the error in 'I did not went'?",
+      "question_type": "short_answer",
+      "options": null,
+      "correct_answer": "After 'did not', the base verb form is used.",
+      "concept_tested": "Simple Past Tense (Negative)",
+      "difficulty": "medium",
+      "explanation": "The rule is that the auxiliary verb 'did' carries the past tense, so the main verb returns to its base form ('go')."
+    },
+    {
+      "question_number": 20,
+      "question_text": "What word means to say something in an exaggerated way?",
+      "question_type": "short_answer",
+      "options": null,
+      "correct_answer": "Exaggerating.",
+      "concept_tested": "Vocabulary",
+      "difficulty": "easy",
+      "explanation": "The teacher introduced this word in the question 'Are you exaggerating?'"
+    },
+    {
+      "question_number": 21,
+      "question_text": "I am going ___ the road.",
+      "question_type": "fill_blank",
+      "options": null,
+      "correct_answer": "across",
+      "concept_tested": "Prepositions of Movement",
+      "difficulty": "easy",
+      "explanation": "'Across' is the correct preposition to describe movement from one side of an area to the other."
+    },
+    {
+      "question_number": 22,
+      "question_text": "He ___ on playing.",
+      "question_type": "fill_blank",
+      "options": null,
+      "correct_answer": "kept",
+      "concept_tested": "Phrasal Verbs (Keep on)",
+      "difficulty": "easy",
+      "explanation": "The phrase 'kept on' is the past tense form of 'keep on', which means to continue doing something."
+    },
+    {
+      "question_number": 23,
+      "question_text": "___ I come? (Asking if it's necessary)",
+      "question_type": "fill_blank",
+      "options": null,
+      "correct_answer": "Need",
+      "concept_tested": "Modal Verbs (Need)",
+      "difficulty": "medium",
+      "explanation": "The structure 'Need I come?' was taught as the correct interrogative form to ask about necessity."
+    },
+    {
+      "question_number": 24,
+      "question_text": "If I ___ the Prime Minister, I would change the rules.",
+      "question_type": "fill_blank",
+      "options": null,
+      "correct_answer": "were",
+      "concept_tested": "Conditional Sentences (Type 2)",
+      "difficulty": "medium",
+      "explanation": "For hypothetical 'if' clauses, 'were' is used for the first and third person singular instead of 'was'."
+    },
+    {
+      "question_number": 25,
+      "question_text": "Anaya had been doing garba ___ two months.",
+      "question_type": "fill_blank",
+      "options": null,
+      "correct_answer": "for",
+      "concept_tested": "Prepositions of Time (For/Since)",
+      "difficulty": "easy",
+      "explanation": "'For' is used for a duration of time (two months), while 'since' is for a specific starting point."
+    },
+    {
+      "question_number": 26,
+      "question_text": "I ___ play. (Emphasizing that you do play)",
+      "question_type": "fill_blank",
+      "options": null,
+      "correct_answer": "do",
+      "concept_tested": "Emphatic Tense",
+      "difficulty": "easy",
+      "explanation": "Using 'do' before the verb in an affirmative sentence adds emphasis, as in 'I do play'."
+    },
+    {
+      "question_number": 27,
+      "question_text": "Match the modal verb to its primary function.",
+      "question_type": "match",
+      "options": {
+        "left": [
+          "May",
+          "Can",
+          "Must"
+        ],
+        "right": [
+          "Ability",
+          "Strong Obligation",
+          "Formal Permission"
+        ]
+      },
+      "correct_answer": "{\"May\":\"Formal Permission\",\"Can\":\"Ability\",\"Must\":\"Strong Obligation\"}",
+      "concept_tested": "Modal Verbs",
+      "difficulty": "medium",
+      "explanation": "This tests the understanding of the different uses for common modal verbs as practiced in the transcript."
+    },
+    {
+      "question_number": 28,
+      "question_text": "Match the concept to its correct example.",
+      "question_type": "match",
+      "options": {
+        "left": [
+          "Article with Superlative",
+          "Passive Voice",
+          "Causative Form"
+        ],
+        "right": [
+          "The shop had already been closed.",
+          "I will get the AC repaired.",
+          "Is the biggest festival of Christians."
+        ]
+      },
+      "correct_answer": "{\"Article with Superlative\":\"Is the biggest festival of Christians.\",\"Passive Voice\":\"The shop had already been closed.\",\"Causative Form\":\"I will get the AC repaired.\"}",
+      "concept_tested": "Grammar Terminology",
+      "difficulty": "hard",
+      "explanation": "This requires identifying specific grammatical structures within sentences that were explicitly taught or corrected."
+    },
+    {
+      "question_number": 29,
+      "question_text": "Match the tense with its sentence structure.",
+      "question_type": "match",
+      "options": {
+        "left": [
+          "Present Perfect Continuous",
+          "Past Perfect",
+          "Future Perfect"
+        ],
+        "right": [
+          "The train had already departed.",
+          "I will have reached Dehradun tomorrow.",
+          "I have been studying for five hours."
+        ]
+      },
+      "correct_answer": "{\"Present Perfect Continuous\":\"I have been studying for five hours.\",\"Past Perfect\":\"The train had already departed.\",\"Future Perfect\":\"I will have reached Dehradun tomorrow.\"}",
+      "concept_tested": "Tense Identification",
+      "difficulty": "medium",
+      "explanation": "This tests the ability to recognize the distinct structures of three different perfect tenses practiced in class."
+    },
+    {
+      "question_number": 30,
+      "question_text": "Match the Hindi question word to its English meaning.",
+      "question_type": "match",
+      "options": {
+        "left": [
+          "क्या",
+          "कैसे",
+          "किसके साथ"
+        ],
+        "right": [
+          "How",
+          "With whom",
+          "What"
+        ]
+      },
+      "correct_answer": "{\"क्या\":\"What\",\"कैसे\":\"How\",\"किसके साथ\":\"With whom\"}",
+      "concept_tested": "Interrogative Words",
+      "difficulty": "easy",
+      "explanation": "This tests the basic translation of common question words that were used throughout the practice session."
+    }
+  ]
+}

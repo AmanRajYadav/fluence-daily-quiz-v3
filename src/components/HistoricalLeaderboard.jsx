@@ -15,36 +15,36 @@ const HistoricalLeaderboard = ({ student, onClose }) => {
   const loadHistoricalData = async () => {
     setLoading(true);
     try {
-      // Calculate date range
+      // Calculate date range (in weeks)
       const endDate = new Date().toISOString().split('T')[0];
       const startDate = new Date();
       startDate.setDate(startDate.getDate() - parseInt(timeRange));
       const startDateStr = startDate.toISOString().split('T')[0];
 
-      // Fetch leaderboard data for each date in range
+      // ✅ FIXED: Fetch WEEKLY leaderboard data (V3)
       const { data, error } = await supabase
-        .from('leaderboard')
+        .from('weekly_leaderboard')  // ✅ Changed from 'leaderboard'
         .select(`
           *,
-          students:student_id (
-            display_name,
-            grade
+          students (
+            username,
+            full_name
           )
         `)
-        .gte('quiz_date', startDateStr)
-        .lte('quiz_date', endDate)
-        .order('quiz_date', { ascending: false })
+        .gte('week_start_date', startDateStr)  // ✅ Changed from 'quiz_date'
+        .lte('week_start_date', endDate)
+        .order('week_start_date', { ascending: false })  // ✅ Changed from 'quiz_date'
         .order('rank', { ascending: true });
 
       if (error) throw error;
 
-      // Group by date
+      // ✅ Group by week_start_date (instead of quiz_date)
       const grouped = {};
       data.forEach(entry => {
-        if (!grouped[entry.quiz_date]) {
-          grouped[entry.quiz_date] = [];
+        if (!grouped[entry.week_start_date]) {
+          grouped[entry.week_start_date] = [];
         }
-        grouped[entry.quiz_date].push(entry);
+        grouped[entry.week_start_date].push(entry);
       });
 
       // Convert to array and sort by date (most recent first)
@@ -129,9 +129,9 @@ const HistoricalLeaderboard = ({ student, onClose }) => {
           <div>
             <h2 className="text-3xl font-black text-white mb-1 flex items-center gap-2">
               <Trophy className="w-8 h-8 text-yellow-400" />
-              Historical Champions
+              Weekly Champions
             </h2>
-            <p className="text-yellow-300">See who dominated the leaderboard!</p>
+            <p className="text-yellow-300">See who dominated each week!</p>
           </div>
           <button
             onClick={onClose}
@@ -200,23 +200,28 @@ const HistoricalLeaderboard = ({ student, onClose }) => {
               </div>
             )}
 
-            {/* Scrollable Daily Winners Cards */}
+            {/* Scrollable Weekly Winners Cards */}
             <div className="space-y-4">
               {historicalData.map((day, index) => {
                 const displayDate = new Date(day.date + 'T00:00:00').toLocaleDateString('en-US', {
-                  weekday: 'long',
                   month: 'long',
                   day: 'numeric',
                   year: 'numeric'
                 });
 
-                const isToday = day.date === new Date().toISOString().split('T')[0];
+                // Check if this is the current week
+                const today = new Date();
+                const dayOfWeek = today.getDay();
+                const diff = today.getDate() - dayOfWeek + (dayOfWeek === 0 ? -6 : 1);
+                const thisMonday = new Date(today.setDate(diff));
+                const thisMondayStr = thisMonday.toISOString().split('T')[0];
+                const isCurrentWeek = day.date === thisMondayStr;
 
                 return (
                   <div
                     key={day.date}
                     className={`rounded-3xl p-6 transition-all ${
-                      isToday
+                      isCurrentWeek
                         ? 'neon-border-yellow bg-gradient-to-br from-yellow-900/40 to-orange-900/40'
                         : 'neon-border-purple bg-gradient-to-br from-purple-900/40 to-blue-900/40'
                     }`}
@@ -224,17 +229,17 @@ const HistoricalLeaderboard = ({ student, onClose }) => {
                     {/* Date Header */}
                     <div className="flex items-center justify-between mb-4">
                       <div className="flex items-center gap-3">
-                        <Calendar className={`w-6 h-6 ${isToday ? 'text-yellow-400' : 'text-cyan-400'}`} />
+                        <Calendar className={`w-6 h-6 ${isCurrentWeek ? 'text-yellow-400' : 'text-cyan-400'}`} />
                         <div>
-                          <h3 className="text-xl font-bold text-white">{displayDate}</h3>
-                          <p className={`text-sm ${isToday ? 'text-yellow-300' : 'text-cyan-300'}`}>
+                          <h3 className="text-xl font-bold text-white">Week of {displayDate}</h3>
+                          <p className={`text-sm ${isCurrentWeek ? 'text-yellow-300' : 'text-cyan-300'}`}>
                             {day.totalParticipants} {day.totalParticipants === 1 ? 'participant' : 'participants'}
                           </p>
                         </div>
                       </div>
-                      {isToday && (
+                      {isCurrentWeek && (
                         <span className="bg-yellow-500 text-black px-3 py-1 rounded-full text-xs font-bold animate-pulse">
-                          TODAY
+                          THIS WEEK
                         </span>
                       )}
                     </div>
@@ -261,20 +266,25 @@ const HistoricalLeaderboard = ({ student, onClose }) => {
 
                             {/* Student Name */}
                             <p className={`font-bold text-sm mb-1 ${isCurrentStudent ? 'text-pink-300' : 'text-white'}`}>
-                              {entry.students?.display_name || 'Unknown'}
+                              {entry.students?.full_name || entry.students?.username || 'Unknown'}
                               {isCurrentStudent && (
                                 <span className="block text-xs text-pink-400 mt-1">(You)</span>
                               )}
                             </p>
 
-                            {/* Score */}
+                            {/* Score (Weekly Average) */}
                             <p className="text-2xl font-black text-white mb-1">
-                              {Math.round(entry.score)}%
+                              {Math.round(entry.avg_score || entry.score || 0)}%
                             </p>
 
-                            {/* Time */}
+                            {/* Total Points */}
+                            <p className="text-xs text-cyan-300 font-bold">
+                              {entry.total_points || 0} pts
+                            </p>
+
+                            {/* Quizzes Taken */}
                             <p className="text-xs text-gray-300">
-                              {Math.floor(entry.time_taken_seconds / 60)}:{String(entry.time_taken_seconds % 60).padStart(2, '0')}
+                              {entry.quizzes_taken || 0} {entry.quizzes_taken === 1 ? 'quiz' : 'quizzes'}
                             </p>
 
                             {/* Crown for winner */}

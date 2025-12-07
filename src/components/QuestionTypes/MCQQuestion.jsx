@@ -2,9 +2,19 @@ import React from 'react';
 import { CheckCircle, XCircle } from 'lucide-react';
 
 const MCQQuestion = ({ question, selectedAnswer, onAnswerSelect, showResult, isCorrect, hiddenOptions = [], showCorrectAnswer = false }) => {
-  const options = Array.isArray(question.options)
-    ? question.options
-    : (typeof question.options === 'string' ? JSON.parse(question.options || '[]') : []);
+  // Defensive parsing to handle malformed or missing options
+  let options = [];
+  try {
+    if (Array.isArray(question.options)) {
+      options = question.options;
+    } else if (typeof question.options === 'string' && question.options.trim()) {
+      options = JSON.parse(question.options);
+    }
+  } catch (e) {
+    console.error('[MCQQuestion] Failed to parse options:', e);
+  }
+  // Ensure options is always an array
+  if (!Array.isArray(options)) options = [];
 
   const optionLabels = ['A', 'B', 'C', 'D', 'E', 'F'];
 

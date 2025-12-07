@@ -1,0 +1,110 @@
+
+cat << 'EOF' > download.js
+const { TelegramClient } = require("telegram");
+const { StringSession } = require("telegram/sessions");
+const fs = require("fs");
+
+// ============ CONFIGURATION ============
+const apiId = 30147262;                   // YOUR API_ID
+const apiHash = "e422116d2f71784dd543d635350b4a9f";        // YOUR API_HASH
+const sessionString = "1BQANOTEuMTA4LjU2LjEyMQG7iqlIeePEG5mK69XiEXx6THWY+MxlKJrb5fqKBy/I4WPxs4ca3xcuTTSdpXty1xaAuV3ivuLbKRY1U74E+iBjWznEGrIjE37e/zA4UTdi+IIQHbiFSd0/laDxSV3Wf2BfGB1mRGLT+13Yth+jIeQEevaQXoXYqOqhrqmQMW2TRlZNQ8RgGhhqzLYk0sPLuys+JSIt3s5jTJjAxB/8MmeZsJ0TorzMBUytyz2MJIpCHqzx4mcdx+rQd6yKmMqi4lVUuQz/TSeOIo5BruqpfAndiZBGf423qTUDcQBpXLmTH5B6YLxvuBzF9NMQQ3Ig+UFZss1mjxGy3CK5Rno1NLfhUg=="; // YOUR LONG SESSION STRING
+const botUsername = "Fluence_vid_bot"; // e.g. "Fluence_vid_bot" (no @)
+// =======================================
+
+const stringSession = new StringSession(sessionString);
+
+(async () => {
+  console.log("Connecting...");
+  const client = new TelegramClient(stringSession, apiId, apiHash, { connectionRetries: 5 });
+  await client.connect();
+
+  // Get the LAST message from the chat with your bot
+  // This is safe because the workflow triggers immediately after you send the file
+  const messages = await client.getMessages(botUsername, { limit: 1 });
+
+  if (!messages || messages.length === 0) {
+    console.error("No messages found.");
+    process.exit(1);
+  }
+
+  const lastMsg = messages[0];
+  console.log(`Found message ID: ${lastMsg.id}`);
+
+  // Check if it has media (Audio, Voice, Document)
+  if (!lastMsg.media) {
+    console.error("Last message is text only (no file).");
+    process.exit(1);
+  }
+
+  console.log("Downloading media (User API - 2GB Limit)...");
+  const buffer = await client.downloadMedia(lastMsg);
+
+  fs.writeFileSync("/tmp/telegram-auth/audio.mp3", buffer);
+  console.log("Success! Saved to /tmp/telegram-auth/audio.mp3");
+  process.exit(0);
+})();
+EOF
+
+
+dfdfdfd
+
+# 1. Enter the container
+sudo docker exec -it n8n-compose-n8n-1 /bin/sh
+
+# 2. Re-create the folder and install libraries (Essential!)
+mkdir -p /tmp/telegram-auth
+cd /tmp/telegram-auth
+npm init -y
+npm install telegram input
+
+# 3. Re-create the download script
+cat << 'EOF' > download.js
+const { TelegramClient } = require("telegram");
+const { StringSession } = require("telegram/sessions");
+const fs = require("fs");
+
+// ================= CONFIGURATION =================
+// 👇 PASTE YOUR DETAILS HERE 👇
+const apiId = 30147262;                   // Replace with your APP API_ID
+const apiHash = "e422116d2f71784dd543d635350b4a9f";        // Replace with your APP API_HASH
+const sessionString = "1BQANOTEuMTA4LjU2LjEyMQG7iqlIeePEG5mK69XiEXx6THWY+MxlKJrb5fqKBy/I4WPxs4ca3xcuTTSdpXty1xaAuV3ivuLbKRY1U74E+iBjWznEGrIjE37e/zA4UTdi+IIQHbiFSd0/laDxSV3Wf2BfGB1mRGLT+13Yth+jIeQEevaQXoXYqOqhrqmQMW2TRlZNQ8RgGhhqzLYk0sPLuys+JSIt3s5jTJjAxB/8MmeZsJ0TorzMBUytyz2MJIpCHqzx4mcdx+rQd6yKmMqi4lVUuQz/TSeOIo5BruqpfAndiZBGf423qTUDcQBpXLmTH5B6YLxvuBzF9NMQQ3Ig+UFZss1mjxGy3CK5Rno1NLfhUg=="; // Replace with your Session String
+// =================================================
+
+const stringSession = new StringSession(sessionString);
+
+(async () => {
+  const messageId = parseInt(process.argv[2]); 
+  
+  if (!messageId) {
+    console.error("Error: No message ID provided.");
+    process.exit(1);
+  }
+
+  console.log(`Connecting to download message ID: ${messageId}...`);
+  const client = new TelegramClient(stringSession, apiId, apiHash, { connectionRetries: 5 });
+  await client.connect();
+
+  // Get message from history
+  const messages = await client.getMessages("me", { ids: [messageId] });
+  
+  if (!messages || messages.length === 0) {
+    console.error("Message not found.");
+    process.exit(1);
+  }
+
+  console.log("Downloading media...");
+  const buffer = await client.downloadMedia(messages[0]);
+  
+  // Save to the exact path n8n is looking for
+  fs.writeFileSync("/tmp/telegram-auth/downloaded_audio.mp3", buffer);
+  console.log("Download complete.");
+  
+  process.exit(0);
+})();
+EOF
+
+# 4. Fix permissions so n8n can read it
+chmod -R 777 /tmp/telegram-auth
+
+# 5. Exit the container
+exit

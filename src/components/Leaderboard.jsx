@@ -93,13 +93,13 @@ const Leaderboard = ({ currentStudentId, currentScore }) => {
                   <div className="flex items-center gap-3">
                     {/* Avatar Circle */}
                     <div className="w-12 h-12 rounded-full bg-gradient-to-br from-cyan-500 to-purple-600 flex items-center justify-center text-xl font-black text-white">
-                      {(entry.students?.display_name || 'U')[0]}
+                      {(entry.students?.full_name || entry.students?.username || 'U')[0]}
                     </div>
                     <div>
                       <div className="flex items-center gap-2">
                         <span className="text-2xl">{getRankEmoji(entry.rank)}</span>
                         <span className="text-white font-bold text-lg">
-                          {entry.students?.display_name || 'Unknown'}
+                          {entry.students?.full_name || entry.students?.username || 'Unknown'}
                         </span>
                       </div>
                       {isCurrentStudent && (
@@ -110,7 +110,7 @@ const Leaderboard = ({ currentStudentId, currentScore }) => {
                   <div className="text-right">
                     <div className="coin-badge px-3 py-1 rounded-full inline-block">
                       <span className="text-white font-black text-lg">
-                        {Math.round(entry.score)}%
+                        {Math.round(entry.avg_score || entry.score || 0)}%
                       </span>
                     </div>
                   </div>

@@ -1,22 +1,35 @@
 # Fluence Quiz v2 - TODO Tracker
 
-**Last Updated:** 2025-10-15
-**Project Status:** Phase 1 - 95% Complete ✅
+**Last Updated:** 2025-12-03
+**Project Status:** Phase 1 - 100% Complete ✅ | SRS Implementation Complete ✅
 
 ---
 
 ## 📖 Documentation Structure
 
+**⭐ PRIMARY PLAN:** [MASTER-PLAN-INDEX.md](roadmap-guide/MASTER-PLAN-INDEX.md) - **Complete strategic plan for institution-ready platform (START HERE!)**
+
 **This file (TODO.md):** Session-based task tracking, recently completed items, current priorities
-**See Also:** [MASTER-PLAN.md](MASTER-PLAN.md) - Comprehensive project plan from context1A.md analysis
+
+**Planning Docs (in /roadmap-guide):**
+- [MASTER-PLAN-INDEX.md](roadmap-guide/MASTER-PLAN-INDEX.md) ⭐ - 12-week strategic plan (2,532 lines)
+- [DATABASE-SCHEMA-REFERENCE.md](roadmap-guide/DATABASE-SCHEMA-REFERENCE.md) - Quick database reference
+- [AI-AGENT-QUICK-START.md](roadmap-guide/AI-AGENT-QUICK-START.md) - 30-second context guide
+- [README.md](roadmap-guide/README.md) - How to use planning docs
+
+**Supporting Docs:**
+- [MASTER-PLAN.md](MASTER-PLAN.md) - Original comprehensive plan (10 phases)
+- [context1A.md](context/context1A.md) - Master context (vision, current state)
+- [context1B.md](context/context1B.md) - Recent design decisions
+- [context1C.md](context/context1C.md) - Latest solved problems
 
 ### How to Use These Documents
-- **TODO.md** (this file): Day-to-day work tracking, session summaries, recently completed tasks
-- **MASTER-PLAN.md**: Long-term roadmap, all 10 phases, open problems, architecture tracking, budget, metrics
-- **context1A.md**: Master context document (vision, current state, technical specs)
-- **context1D.md**: Latest solved problems and session summaries
+- **roadmap-guide/MASTER-PLAN-INDEX.md** ⭐: Complete 12-week plan with institution model, auth, teacher dashboard, weekly reports
+- **TODO.md** (this file): Day-to-day tracking, recently completed tasks
+- **roadmap-guide/DATABASE-SCHEMA-REFERENCE.md**: Quick schema lookup when writing queries
+- **Context files**: Historical reference, solved problems, learnings
 
-💡 **Quick Start:** Check TODO.md for today's work, reference MASTER-PLAN.md for big picture
+💡 **Quick Start:** Read roadmap-guide/MASTER-PLAN-INDEX.md first, then check TODO.md for sprint tasks
 
 ---
 
@@ -31,12 +44,108 @@
 | **Animations** | ✅ 100% | Framer Motion, confetti |
 | **Sounds** | ✅ 100% | External URLs with fallback |
 | **Deployment** | ✅ 100% | GitHub Pages live |
+| **Teacher Dashboard** | ✅ 85% | Phase 3 in progress |
+| **Analytics Dashboard** | ✅ 100% | Charts, insights, SRS analytics |
+| **SRS System** | ✅ 100% | Production ready |
 
 ---
 
 ## ✅ RECENTLY COMPLETED
 
-### Session: 2025-10-15 (Today)
+### Session: 2025-12-03 (Evening) - Polish & Bug Fixes
+
+#### 1. ✅ Fixed Overview Tab Loading Skeleton Glitch
+**What:** Overview tab showed gray loading boxes that never disappeared
+**Root Cause:**
+- Complex Supabase query with nested joins (`student_class_enrollments!inner`) was hanging
+- No timeout mechanism to prevent infinite loading
+- Errors were throwing instead of returning empty data
+
+**Solution:**
+- Added 10-second timeout to `loadTeachingPlan()` function
+- Simplified Supabase query (removed complex nested joins)
+- Changed error handling to return empty arrays instead of throwing
+- Added proper null/undefined checks
+
+**Files Modified:**
+- `src/components/Teacher/SRSTeachingPlan.jsx` (added timeout mechanism)
+- `src/services/teacherService.js` (simplified query, better error handling)
+
+**Result:** Overview tab now loads properly, shows empty state if no data
+
+---
+
+#### 2. ✅ Verified Analytics Dashboard Complete
+**What:** Analytics dashboard is fully functional with all features
+**Components:**
+- Score Trends chart (line chart with 7/30/90 day selector)
+- Weak Concepts chart (bar chart, top 10)
+- Student Engagement chart (pie chart)
+- Class Performance Comparison
+- Question Type Performance
+- SRS Analytics section
+- Alerts panel with smart suggestions
+
+**Status:** Production ready (100% complete)
+
+---
+
+### Session: 2025-12-03 (Morning) - SRS Implementation Complete
+
+#### 1. ✅ Spaced Repetition System (SRS) - Complete
+**What:** Implemented SRS for intelligent question review based on concept mastery
+**Features:**
+- Retrieves questions from concepts due for review (based on `next_review_date`)
+- Mixes 10 SRS questions with 20 newly generated questions (20+10 pattern)
+- Fisher-Yates shuffle algorithm to prevent pattern recognition
+- Always delivers exactly 30 questions per quiz
+- Adapts based on student history (first quiz vs. returning student)
+- SRS intervals: 1, 3, 7, 14, 30 days (based on mastery_score thresholds)
+
+**Database Changes:**
+- Created PostgreSQL function: `get_srs_questions_for_quiz()`
+- Fixed critical issue: Removed `active` filter (questions are deactivated before retrieval)
+
+**n8n Workflow Changes (Class Q & S V3):**
+- Added "Check Previous Quizzes" node
+- Added "Get SRS Questions" node (calls PostgreSQL function)
+- Added "Has SRS Questions?" IF node (TRUE/FALSE branching)
+- Added "Calculate Question Count" node (determines 20 or 30 new questions)
+- Modified "Basic LLM Chain 2" with `executeOnce: true` and `batchSize: 1000`
+- Added "Combine SRS + New Questions" node (merges 10+20=30)
+- Added "Shuffle Questions" node (Fisher-Yates algorithm)
+- Added "Success Response 2" node (with data pairing fix)
+
+**Testing Results:**
+- ✅ First-time student: 30 new questions via FALSE branch
+- ✅ Anaya (45 quizzes): 10 SRS + 20 new = 30 total via TRUE branch
+- ✅ Student with history but no concepts due: 30 new questions via FALSE branch
+
+**Files Created:**
+- `n8n-workflows/SRS-IMPLEMENTATION-COMPLETE.md` (450+ lines)
+
+**Files Modified:**
+- `n8n-workflows/SRS-IMPLEMENTATION-GUIDE-V2.md` (reference document)
+- `n8n-workflows/SRS-QUICK-REFERENCE.md` (troubleshooting guide)
+
+**Critical Fixes Applied:**
+1. PostgreSQL function: Removed `active=true` filter (questions deactivated before retrieval)
+2. LLM batching: Added `executeOnce: true` to prevent 10x execution
+3. Dynamic prompt: Created separate "Calculate Question Count" node for reliability
+4. Data pairing: Changed to `.first()` with try-catch fallback
+5. IF node: Enabled "Convert types where required" (loose type validation)
+6. Get SRS Questions: Enabled "Always Output Data" setting
+
+**Key Learnings:**
+- n8n branches execute sequentially (top → bottom), not in parallel
+- Workflow deactivates ALL questions before SRS retrieval happens
+- LLM nodes need explicit `executeOnce` configuration to prevent loops
+- Data pairing breaks across multiple node transformations (use `.first()`)
+- IF nodes need loose type validation for expression-based conditions
+
+---
+
+### Session: 2025-10-15
 
 #### 1. ✅ History Section - Complete
 **What:** Calendar-based UI to view past quizzes and notes
@@ -167,7 +276,28 @@
 
 ---
 
-## ⏳ PENDING TASKS
+## 🚀 NEXT PHASE: Institution Model (12-Week Plan)
+
+**⭐ CRITICAL:** Phase 1 is 95% complete. Next step is implementing institution-based architecture.
+
+**See:** [MASTER-PLAN-INDEX.md](roadmap-guide/MASTER-PLAN-INDEX.md) for complete 12-week roadmap with detailed tasks
+
+### Immediate Next Steps (Week 1-2)
+
+**Foundation & Auth System**
+- [ ] Database migration to institution model
+- [ ] Create new tables (institutions, teachers, classes, weekly_leaderboard, feedback, etc.)
+- [ ] Implement JWT-based authentication
+- [ ] Build login screen (Duolingo-style UI)
+- [ ] Persistent sessions (localStorage)
+- [ ] Role-based routing (student vs teacher)
+- [ ] UI redesign foundation (Nunito font, design system)
+
+**Details:** See roadmap-guide/MASTER-PLAN-INDEX.md → Section "WEEK 1-2: FOUNDATION & AUTH SYSTEM"
+
+---
+
+## ⏳ PENDING TASKS (From Phase 1)
 
 ### High Priority
 
@@ -233,6 +363,78 @@
 #### 🔵 Social Sharing
 **Status:** PENDING (Phase 3)
 **What:** Share quiz results on social media
+
+---
+
+## 📝 Session Summary: 2025-12-03
+
+### What We Built Today:
+
+1. **Spaced Repetition System (SRS) - Complete**
+   - PostgreSQL function: `get_srs_questions_for_quiz()`
+   - n8n workflow branching (TRUE/FALSE paths)
+   - Dynamic question generation (20 or 30 based on SRS availability)
+   - Fisher-Yates shuffle for question randomization
+   - Exactly 30 questions always delivered
+
+### Critical Issues Resolved: (7 issues)
+1. **PostgreSQL Function Filter:** Removed `active=true` filter (questions deactivated before retrieval)
+2. **LLM Loop:** Added `executeOnce: true` and `batchSize: 1000` to prevent 10x execution
+3. **Dynamic Question Count:** Created "Calculate Question Count" node for reliable calculation
+4. **Data Pairing:** Changed to `.first()` with try-catch fallback in Success Response
+5. **IF Node Validation:** Enabled "Convert types where required" (loose type validation)
+6. **Workflow Stopping:** Enabled "Always Output Data" on "Get SRS Questions" node
+7. **Question Count Mismatch:** Fixed Gemini generating 30 instead of 20 questions
+
+### Files Created Today: (1 file)
+- `n8n-workflows/SRS-IMPLEMENTATION-COMPLETE.md` (450+ lines comprehensive documentation)
+
+### Files Modified Today: (2 files)
+- `n8n-workflows/SRS-IMPLEMENTATION-GUIDE-V2.md` (reference updates)
+- `n8n-workflows/SRS-QUICK-REFERENCE.md` (troubleshooting guide updates)
+
+### n8n Workflow Changes: (8 nodes added/modified)
+- "Check Previous Quizzes" (new)
+- "Get SRS Questions" (new)
+- "Has SRS Questions?" IF node (new)
+- "Calculate Question Count" (new)
+- "Basic LLM Chain 2" (modified with batching)
+- "Combine SRS + New Questions" (new)
+- "Shuffle Questions" (new)
+- "Success Response 2" (new with data pairing fix)
+
+### Testing Results:
+✅ Test 1: First-time student → 30 new questions (FALSE branch)
+✅ Test 2: Anaya (45 quizzes) → 10 SRS + 20 new = 30 total (TRUE branch)
+✅ Test 3: Student with history but no concepts due → 30 new questions (FALSE branch)
+
+### Key Achievements:
+✅ SRS fully integrated into quiz generation workflow
+✅ Intelligent question mixing (review + new)
+✅ Workflow adapts based on student history
+✅ All edge cases handled (first quiz, no concepts due, etc.)
+✅ Comprehensive documentation for troubleshooting
+✅ Production-ready implementation
+
+### Key Learnings:
+- n8n branches execute sequentially (top → bottom), not in parallel
+- Workflow deactivates ALL questions before SRS retrieval
+- LLM nodes need explicit `executeOnce` to prevent loops
+- Data pairing breaks across transformations (use `.first()`)
+- IF nodes need loose type validation for expressions
+- "Always Output Data" critical for 0-result queries
+
+### Current Project Status:
+- **Phase 1:** 100% Complete ✅
+- **SRS Implementation:** 100% Complete ✅
+- **Quiz Results Handler:** Already had SRS tracking ✅
+- **Question Generation:** Now includes SRS retrieval ✅
+
+### Next Session Priorities:
+1. Monitor SRS effectiveness with real students (Week 1-2)
+2. Track mastery_score improvements over time
+3. Begin Phase 2: Institution Model implementation
+4. See [MASTER-PLAN-INDEX.md](roadmap-guide/MASTER-PLAN-INDEX.md) for 12-week roadmap
 
 ---
 
@@ -384,6 +586,99 @@ The Fluence Quiz v2 app is now feature-complete with:
 
 ---
 
-**Last Updated:** 2025-10-15 by Claude Code
-**Session Status:** COMPLETE ✅
-**Next Session:** Test features + Plan Phase 2
+---
+
+## 🔧 FUTURE OPTIMIZATIONS (Post-Launch)
+
+**Status:** DEFERRED until after Phase 2 launch (Week 12+)
+**Reason:** Focus on building core features first, optimize after validation
+**Decision:** [DECISION-2025-10-27-005](context/context1B.md#decision-2025-10-27-005-supabase-as-primary-backend-confirmed)
+
+### Supabase Performance Optimizations
+
+#### 1. RLS Policy Optimization (2-3 days)
+**What:** Optimize Row-Level Security for multi-tenancy performance
+**Tasks:**
+- [ ] Add `institution_id` indexes on all tables
+- [ ] Migrate RLS policies to use JWT claims (faster than subqueries)
+- [ ] Test with 100 mock student subscriptions
+- [ ] Benchmark query performance before/after
+
+**Example:**
+```sql
+-- Add indexes
+CREATE INDEX idx_students_institution ON students(institution_id);
+CREATE INDEX idx_quiz_results_institution ON quiz_results(institution_id);
+CREATE INDEX idx_questions_institution ON quiz_questions(institution_id);
+
+-- Use JWT claims in RLS policies
+CREATE POLICY "Students can only see their institution data"
+ON students FOR SELECT
+USING (institution_id = (current_setting('request.jwt.claims')::json->>'institution_id')::uuid);
+```
+
+---
+
+#### 2. Monitoring & Error Handling (1-2 days)
+**What:** Set up production monitoring and error tracking
+**Tasks:**
+- [ ] Set up Sentry (free tier) for error tracking
+- [ ] Configure Supabase status alerts (email notifications)
+- [ ] Add error logging to n8n workflows
+- [ ] Create uptime monitoring (UptimeRobot - free)
+- [ ] Set up cost alerts (alert at ₹3,000/month)
+
+---
+
+#### 3. Real-Time Optimization (2 days)
+**What:** Optimize leaderboard real-time performance
+**Tasks:**
+- [ ] Implement leaderboard caching (refresh every 30s instead of every insert)
+- [ ] Test subscription performance with 100+ concurrent users
+- [ ] Document fallback strategy (hybrid approach if needed)
+- [ ] Monitor subscription latency in production
+
+**Example:**
+```javascript
+// Cache leaderboard data (reduce database reads)
+const cachedLeaderboard = useMemo(() => {
+  return leaderboardData; // Refresh every 30s
+}, [leaderboardData]);
+```
+
+---
+
+#### 4. Budget Management (1 day)
+**What:** Set up cost controls and monitoring
+**Tasks:**
+- [ ] Enable Supabase spend cap (prevents surprise bills)
+- [ ] Set budget alert at ₹3,000/month threshold
+- [ ] Monthly cost review calendar
+- [ ] Document cost optimization strategies
+
+---
+
+#### 5. Exit Strategy Documentation (1 day)
+**What:** Document migration path if Supabase becomes unsuitable
+**Tasks:**
+- [ ] Create migration guide (Supabase → Neon/Self-hosted)
+- [ ] Test schema export: `supabase db pull`
+- [ ] Test data export: `pg_dump`
+- [ ] Keep business logic in app layer (not DB functions)
+- [ ] Document re-evaluation triggers
+
+**Re-Evaluation Triggers:**
+- 🔴 If costs exceed ₹3,500/month → Consider Neon
+- 🔴 If >3 major outages affecting users in 1 month → Add redundancy
+- 🔴 If real-time latency >2s with 100+ users → Hybrid approach
+
+---
+
+**Total Effort:** 7-9 days (deferred to Week 13+)
+**Priority:** Medium (important for scale, but not blocking MVP)
+
+---
+
+**Last Updated:** 2025-12-03 by Claude Code
+**Session Status:** COMPLETE ✅ (SRS Implementation)
+**Next Session:** Monitor SRS effectiveness, then begin Phase 2 - Institution Model (Week 1-2)

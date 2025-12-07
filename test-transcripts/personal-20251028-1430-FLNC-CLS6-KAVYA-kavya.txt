@@ -1,0 +1,109 @@
+Teacher: Hello, Kavya! Today we're going to learn about fractions. Do you know what a fraction is?
+
+Student (Kavya): A little bit, sir. It's like half or quarter?
+
+Teacher: Exactly! A fraction represents a part of a whole. Let's start with the basics. A fraction has two parts: the numerator (top number) and the denominator (bottom number).
+
+Student (Kavya): So in 1/2, the 1 is the numerator and 2 is the denominator?
+
+Teacher: Perfect! The numerator tells us how many parts we have, and the denominator tells us how many equal parts the whole is divided into.
+
+Student (Kavya): I see!
+
+Teacher: Let's imagine a pizza cut into 4 equal slices. If you eat 1 slice, you've eaten 1/4 (one-fourth) of the pizza. If you eat 2 slices, how much have you eaten?
+
+Student (Kavya): 2/4?
+
+Teacher: Yes! And we can simplify that. 2/4 is the same as 1/2. Can you see why?
+
+Student (Kavya): Because 2 is half of 4?
+
+Teacher: Exactly! Now, let's learn how to add fractions. When the denominators are the same, we just add the numerators. For example, 1/8 + 2/8 = 3/8.
+
+Student (Kavya): So we keep the denominator same and add the numerators?
+
+Teacher: Correct! Try this: 2/5 + 1/5 = ?
+
+Student (Kavya): 3/5!
+
+Teacher: Perfect! Now, what if the denominators are different? Like 1/2 + 1/4?
+
+Student (Kavya): Hmm, that seems harder.
+
+Teacher: It is a bit trickier. First, we need to find a common denominator. For 1/2 and 1/4, what number can both 2 and 4 divide into?
+
+Student (Kavya): 4?
+
+Teacher: Yes! So we convert 1/2 to fourths. 1/2 = 2/4. Now we can add: 2/4 + 1/4 = 3/4.
+
+Student (Kavya): Oh, I understand now!
+
+Teacher: Great! Let's practice more. What is 1/3 + 1/6?
+
+Student (Kavya): We need a common denominator first... 6?
+
+Teacher: Correct! So convert 1/3 to sixths.
+
+Student (Kavya): 1/3 = 2/6, so 2/6 + 1/6 = 3/6, which simplifies to 1/2!
+
+Teacher: Excellent work! You're getting it. Now let's learn subtraction. It works the same way. 3/5 - 1/5 = ?
+
+Student (Kavya): 2/5!
+
+Teacher: Perfect! And with different denominators: 3/4 - 1/2 = ?
+
+Student (Kavya): Convert 1/2 to 2/4, so 3/4 - 2/4 = 1/4.
+
+Teacher: Wonderful! Now, let's talk about multiplication of fractions. This is actually easier than addition! You just multiply the numerators together and the denominators together.
+
+Student (Kavya): So 1/2 × 1/3 = ?
+
+Teacher: You tell me!
+
+Student (Kavya): 1 × 1 = 1 for the numerator, and 2 × 3 = 6 for the denominator, so 1/6?
+
+Teacher: Perfect! Let's try another: 2/3 × 3/4 = ?
+
+Student (Kavya): 2 × 3 = 6, and 3 × 4 = 12, so 6/12. Can we simplify?
+
+Teacher: Yes! Both 6 and 12 can be divided by 6, so 6/12 = 1/2.
+
+Student (Kavya): I see!
+
+Teacher: Now for division, we flip the second fraction and multiply. For example, 1/2 ÷ 1/4 = 1/2 × 4/1 = 4/2 = 2.
+
+Student (Kavya): So we flip and multiply?
+
+Teacher: Exactly! Try this: 2/3 ÷ 1/6 = ?
+
+Student (Kavya): Flip 1/6 to 6/1, then 2/3 × 6/1 = 12/3 = 4!
+
+Teacher: Brilliant! You've learned so much today. Let's review: what are the two parts of a fraction called?
+
+Student (Kavya): Numerator and denominator!
+
+Teacher: And how do we add fractions with the same denominator?
+
+Student (Kavya): We add the numerators and keep the denominator the same.
+
+Teacher: And for different denominators?
+
+Student (Kavya): Find a common denominator first, convert both fractions, then add.
+
+Teacher: Perfect! How do we multiply fractions?
+
+Student (Kavya): Multiply numerators together and denominators together!
+
+Teacher: And division?
+
+Student (Kavya): Flip the second fraction and multiply!
+
+Teacher: Excellent! For homework, solve these problems: 1/4 + 1/8, 2/3 - 1/6, 1/2 × 2/5, and 3/4 ÷ 1/2. Show all your work.
+
+Student (Kavya): Okay, sir! I'll practice.
+
+Teacher: Remember to always simplify your answers when possible. You did great today!
+
+Student (Kavya): Thank you, sir!
+
+Teacher: Keep practicing and you'll become a fractions expert. See you next class!
