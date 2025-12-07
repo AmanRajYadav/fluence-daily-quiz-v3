@@ -1,0 +1,282 @@
+[
+  {
+    "question": "In the first story, what was Rea's favorite video game?",
+    "correct": "Valorant",
+    "options": [
+      "Gemini",
+      "The Game of Life",
+      "Valorant",
+      "Sage's Adventure"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Listening Comprehension",
+    "complexity_score": 1
+  },
+  {
+    "question": "In the second story, what did Maya find under a bush in the park?",
+    "correct": "A bird with an injured wing",
+    "options": [
+      "A talking duck",
+      "A lost notebook",
+      "A bird with an injured wing",
+      "A box with soft cloth"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Listening Comprehension",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which sentence is grammatically correct based on the correction made during the writing session?",
+    "correct": "I want to be successful in my life.",
+    "options": [
+      "I want to be success in my life.",
+      "I want to being successful in my life.",
+      "I want to be successful in my life.",
+      "I wants to be success in my life."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Grammar - Parts of Speech",
+    "complexity_score": 1
+  },
+  {
+    "question": "According to the lesson, the article 'the' should be used before the names of what specific type of book?",
+    "correct": "Holy books or scriptures",
+    "options": [
+      "All notebooks",
+      "All story books",
+      "Holy books or scriptures",
+      "Any book mentioned twice"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Grammar - Articles",
+    "complexity_score": 1
+  },
+  {
+    "question": "In Valorant, what special power did the character Sage have?",
+    "correct": "She could heal teammates and build walls.",
+    "options": [
+      "She could use fire to attack.",
+      "She could move faster than anyone.",
+      "She could heal teammates and build walls.",
+      "She could become invisible."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Listening Comprehension",
+    "complexity_score": 1
+  },
+  {
+    "question": "Choose the correct subject-verb agreement discussed in the class.",
+    "correct": "I like badminton.",
+    "options": [
+      "I likes badminton.",
+      "I are liking badminton.",
+      "I like badminton.",
+      "I am likes badminton."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Grammar - Subject-Verb Agreement",
+    "complexity_score": 1
+  },
+  {
+    "question": "The story about Rea suggests that playing Valorant is similar to real life because success in both requires...",
+    "correct": "teamwork, patience, and smart choices.",
+    "options": [
+      "only being good at shooting.",
+      "playing as the character Sage.",
+      "teamwork, patience, and smart choices.",
+      "winning every round from the start."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Listening Comprehension - Inference",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why is the article 'the' used in the sentence, \"He is the Shahjahan of our class\"?",
+    "correct": "A proper noun (Shahjahan) is being used as a common noun to represent a quality (like being a great builder).",
+    "options": [
+      "Because Shahjahan was a historical person.",
+      "It refers to a unique job title.",
+      "A proper noun (Shahjahan) is being used as a common noun to represent a quality (like being a great builder).",
+      "The name is a superlative adjective."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Grammar - Articles",
+    "complexity_score": 2
+  },
+  {
+    "question": "Based on the instructor's example, which sentence correctly uses the second conditional structure?",
+    "correct": "If I were the Prime Minister, I would ban the Chinese products.",
+    "options": [
+      "If I was the Prime Minister, I will ban the Chinese products.",
+      "If I were the Prime Minister, I would have banned the Chinese products.",
+      "If I am the Prime Minister, I would ban the Chinese products.",
+      "If I were the Prime Minister, I would ban the Chinese products."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Grammar - Conditionals",
+    "complexity_score": 2
+  },
+  {
+    "question": "What character traits did Maya demonstrate by taking the injured bird home and caring for it?",
+    "correct": "Kindness and responsibility",
+    "options": [
+      "Curiosity and creativity",
+      "Patience and frustration",
+      "Kindness and responsibility",
+      "Bravery and strength"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Listening Comprehension - Character Analysis",
+    "complexity_score": 2
+  },
+  {
+    "question": "According to the quiz recall, which of these requires 'the' because it's a superlative adjective?",
+    "correct": "He is the best student.",
+    "options": [
+      "The more you study, the better you get.",
+      "He is a better student.",
+      "He is the best student.",
+      "The first student in line."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Grammar - Articles",
+    "complexity_score": 2
+  },
+  {
+    "question": "What strategy did the instructor suggest when the student was unsure about using 'I like' versus 'I likes'?",
+    "correct": "Say sentences out loud using different subjects to see what sounds right.",
+    "options": [
+      "Look up the rule in a grammar book.",
+      "Ask for the answer immediately.",
+      "Say sentences out loud using different subjects to see what sounds right.",
+      "Guess and move on to the next question."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Metacognition - Learning Strategies",
+    "complexity_score": 2
+  },
+  {
+    "question": "The instructor mentioned that the homework of talking with Gemini was meant to improve a specific skill tested by the unseen passages. What was that skill?",
+    "correct": "Listening comprehension and recall",
+    "options": [
+      "Writing speed",
+      "Spelling accuracy",
+      "Listening comprehension and recall",
+      "Reading out loud"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Lesson Purpose",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which sentence correctly applies the rule for using 'the' with ordinal numbers?",
+    "correct": "The first question was the easiest.",
+    "options": [
+      "A first question was the easiest.",
+      "First question was the easiest.",
+      "The first question was the easiest.",
+      "I have the one question."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Grammar - Articles",
+    "complexity_score": 2
+  },
+  {
+    "question": "The lesson about Valorant implies that a person's unique skills (like Sage's healing) are most effective when used...",
+    "correct": "in coordination with a team's strategy.",
+    "options": [
+      "only for self-defense.",
+      "to show off to other players.",
+      "in coordination with a team's strategy.",
+      "independently, without talking to others."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Listening Comprehension - Critical Thinking",
+    "complexity_score": 3
+  },
+  {
+    "question": "At the end of the second story, Maya felt proud. How was this feeling different from just being happy?",
+    "correct": "It came from understanding the importance of her own actions and values like kindness.",
+    "options": [
+      "It was the same as being happy; the words mean the same thing.",
+      "It came from understanding the importance of her own actions and values like kindness.",
+      "It was a less intense feeling than happiness.",
+      "It was because her mother praised her, not because of the bird."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Listening Comprehension - Thematic Analysis",
+    "complexity_score": 3
+  },
+  {
+    "question": "The sentence structure \"The more you practice, the more you learn\" was given as an example for using 'the'. What relationship does this structure show?",
+    "correct": "It shows that two things change together in a parallel way.",
+    "options": [
+      "It compares two different, unrelated things.",
+      "It is a rule for using superlatives.",
+      "It shows that two things change together in a parallel way.",
+      "It is used for selecting between two options."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Grammar - Advanced Structures",
+    "complexity_score": 3
+  },
+  {
+    "question": "What common theme connects the story about Rea playing Valorant and the story about Maya helping the bird?",
+    "correct": "Both stories show that applying positive values and smart strategies leads to success.",
+    "options": [
+      "Both stories are about winning a game.",
+      "Both stories involve animals.",
+      "Both stories show that applying positive values and smart strategies leads to success.",
+      "Both stories teach that one should always work alone."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Thematic Synthesis",
+    "complexity_score": 3
+  },
+  {
+    "question": "Based on the rules discussed in the quiz recall, why is 'the' correct in \"The US is a powerful country\"?",
+    "correct": "Because the name represents a union of states or a republic.",
+    "options": [
+      "Because it is a proper noun.",
+      "Because 'US' is a superlative adjective.",
+      "Because the name represents a union of states or a republic.",
+      "Because it is a unique object in the universe."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Grammar - Articles",
+    "complexity_score": 3
+  },
+  {
+    "question": "In the Valorant story, the team was initially losing and frustrated. What was the key change that led to their victory?",
+    "correct": "They shifted from frustration to a strategy of staying calm and working together.",
+    "options": [
+      "The other team made a mistake.",
+      "They changed the game they were playing.",
+      "Rea used a secret power no one knew about.",
+      "They shifted from frustration to a strategy of staying calm and working together."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Listening Comprehension - Cause and Effect",
+    "complexity_score": 3
+  }
+]
