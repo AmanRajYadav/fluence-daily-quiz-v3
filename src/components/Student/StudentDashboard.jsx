@@ -223,14 +223,29 @@ const StudentDashboard = ({ session, onLogout, onStartQuiz }) => {
               </button>
             </div>
           ) : (
-            <div className="text-center py-8">
-              <Clock className="w-16 h-16 text-gray-400 mx-auto mb-4" />
-              <h2 className="text-2xl font-bold text-gray-900 mb-2">
-                No Quiz Available
-              </h2>
-              <p className="text-gray-600">
-                Your teacher hasn't generated questions yet. Check back later!
-              </p>
+            <div>
+              <div className="flex items-center gap-3 mb-4">
+                <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center">
+                  <Target className="w-6 h-6 text-blue-600" />
+                </div>
+                <div>
+                  <h2 className="text-2xl font-bold text-gray-900">Daily Quiz</h2>
+                  <p className="text-gray-600">
+                    Practice and improve your skills
+                  </p>
+                </div>
+              </div>
+              <div className="bg-blue-50 border border-blue-200 rounded-xl p-4 mb-4">
+                <p className="text-sm text-blue-800">
+                  <strong>Note:</strong> Your teacher hasn't generated personalized questions yet, but you can still practice with available content!
+                </p>
+              </div>
+              <button
+                onClick={onStartQuiz}
+                className="w-full bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 text-white font-bold py-4 rounded-xl transition-all transform hover:scale-[1.02] shadow-lg"
+              >
+                Play Quiz →
+              </button>
             </div>
           )}
         </motion.div>
