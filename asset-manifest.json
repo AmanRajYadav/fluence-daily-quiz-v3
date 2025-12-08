@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/fluence-daily-quiz/static/css/main.63a3500f.css",
-    "main.js": "/fluence-daily-quiz/static/js/main.7fe19703.js",
-    "static/js/159.2ac5f6c3.chunk.js": "/fluence-daily-quiz/static/js/159.2ac5f6c3.chunk.js",
-    "static/js/450.7eed5d5d.chunk.js": "/fluence-daily-quiz/static/js/450.7eed5d5d.chunk.js",
-    "static/js/453.0718c2b8.chunk.js": "/fluence-daily-quiz/static/js/453.0718c2b8.chunk.js",
-    "index.html": "/fluence-daily-quiz/index.html",
-    "main.63a3500f.css.map": "/fluence-daily-quiz/static/css/main.63a3500f.css.map",
-    "main.7fe19703.js.map": "/fluence-daily-quiz/static/js/main.7fe19703.js.map",
-    "159.2ac5f6c3.chunk.js.map": "/fluence-daily-quiz/static/js/159.2ac5f6c3.chunk.js.map",
-    "450.7eed5d5d.chunk.js.map": "/fluence-daily-quiz/static/js/450.7eed5d5d.chunk.js.map",
-    "453.0718c2b8.chunk.js.map": "/fluence-daily-quiz/static/js/453.0718c2b8.chunk.js.map"
+    "main.css": "/fluence-daily-quiz-v3/static/css/main.63a3500f.css",
+    "main.js": "/fluence-daily-quiz-v3/static/js/main.175febe5.js",
+    "static/js/159.2ac5f6c3.chunk.js": "/fluence-daily-quiz-v3/static/js/159.2ac5f6c3.chunk.js",
+    "static/js/450.7eed5d5d.chunk.js": "/fluence-daily-quiz-v3/static/js/450.7eed5d5d.chunk.js",
+    "static/js/453.0718c2b8.chunk.js": "/fluence-daily-quiz-v3/static/js/453.0718c2b8.chunk.js",
+    "index.html": "/fluence-daily-quiz-v3/index.html",
+    "main.63a3500f.css.map": "/fluence-daily-quiz-v3/static/css/main.63a3500f.css.map",
+    "main.175febe5.js.map": "/fluence-daily-quiz-v3/static/js/main.175febe5.js.map",
+    "159.2ac5f6c3.chunk.js.map": "/fluence-daily-quiz-v3/static/js/159.2ac5f6c3.chunk.js.map",
+    "450.7eed5d5d.chunk.js.map": "/fluence-daily-quiz-v3/static/js/450.7eed5d5d.chunk.js.map",
+    "453.0718c2b8.chunk.js.map": "/fluence-daily-quiz-v3/static/js/453.0718c2b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63a3500f.css",
-    "static/js/main.7fe19703.js"
+    "static/js/main.175febe5.js"
   ]
 }
