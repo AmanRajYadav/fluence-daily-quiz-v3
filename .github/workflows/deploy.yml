@@ -28,10 +28,10 @@ jobs:
 
       # 4) Build the React app (disable CRA's "warnings == errors" in CI)
       - name: Build React app
-        run: CI=false npm run build
-        env:
-          REACT_APP_SUPABASE_URL: ${{ secrets.REACT_APP_SUPABASE_URL }}
-          REACT_APP_SUPABASE_ANON_KEY: ${{ secrets.REACT_APP_SUPABASE_ANON_KEY }}
+        run: |
+          REACT_APP_SUPABASE_URL=${{ secrets.REACT_APP_SUPABASE_URL }} \
+          REACT_APP_SUPABASE_ANON_KEY=${{ secrets.REACT_APP_SUPABASE_ANON_KEY }} \
+          CI=false npm run build
 
       # 5) Publish the build folder to gh-pages
       - name: Deploy to GitHub Pages
