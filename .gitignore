@@ -20,6 +20,7 @@
 .env.production
 .env.production.local
 .mcp.json
+n8n-workflows/
 
 npm-debug.log*
 yarn-debug.log*
