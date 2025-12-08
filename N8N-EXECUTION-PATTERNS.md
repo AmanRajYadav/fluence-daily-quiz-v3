@@ -234,8 +234,8 @@ Body:
 ✅ **CORRECT:**
 ```
 Headers:
-- apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
-- Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+- apikey: <redacted – set via env/credentials>
+- Authorization: Bearer <redacted – set via env/credentials>
 - Content-Type: application/json
 - Prefer: return=representation
 ```

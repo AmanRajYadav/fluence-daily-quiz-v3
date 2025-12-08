@@ -1763,8 +1763,8 @@ Headers:
 **Solution:**
 ```
 Headers:
-- apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
-- Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+- apikey: <redacted – set via env/credentials>
+- Authorization: Bearer <redacted – set via env/credentials>
 ```
 
 **Key Learning:** In n8n, only use `{{...}}` for referencing node data, never for static values like API keys or JWTs.

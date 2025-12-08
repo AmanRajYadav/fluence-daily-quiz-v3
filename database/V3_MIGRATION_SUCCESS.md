@@ -60,7 +60,7 @@
 ### **Supabase V3:**
 ```
 URL: https://qhvxijsrtzpirjbuoicy.supabase.co
-ANON_KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+ANON_KEY: <redacted – set in .env>
 ```
 
 ### **Environment File:**

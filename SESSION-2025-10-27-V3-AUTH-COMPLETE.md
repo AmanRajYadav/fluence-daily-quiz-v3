@@ -30,8 +30,8 @@ Build V3 authentication system with institution-centric architecture, replacing 
 
 **Supabase V3 Credentials:**
 - URL: https://qhvxijsrtzpirjbuoicy.supabase.co
-- ANON_KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
-- SERVICE_ROLE_KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9... (for n8n)
+- ANON_KEY: <redacted – move to .env>
+- SERVICE_ROLE_KEY: <redacted – move to .env> (for n8n)
 
 ---
 

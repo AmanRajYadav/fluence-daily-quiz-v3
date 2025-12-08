@@ -284,7 +284,7 @@ SELECT * FROM classes WHERE class_code = 'FLUENCE-CLASS6-2025';
 ### **Step 5: Update .env** ⏳
 ```bash
 REACT_APP_SUPABASE_URL=https://qhvxijsrtzpirjbuoicy.supabase.co
-REACT_APP_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+REACT_APP_SUPABASE_ANON_KEY=<redacted – set in .env>
 ```
 
 ### **Step 6: Test Connection** ⏳
