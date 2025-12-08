@@ -54,7 +54,7 @@ function AppV3() {
 
   // Authenticated - show appropriate dashboard
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         {/* Teacher Routes */}
         {isTeacher() && (
