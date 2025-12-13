@@ -21,9 +21,10 @@ const STORAGE_BUCKET = 'class-audio';
  *
  * @param {File} file - Audio file to upload
  * @param {Object} metadata - Class info, student, date, etc.
+ * @param {Function} onProgress - Progress callback (optional)
  * @returns {Object} Upload result with file URL
  */
-export const uploadAudioForProcessing = async (file, metadata) => {
+export const uploadAudioForProcessing = async (file, metadata, onProgress = null) => {
   try {
     console.log('[AudioUpload] Uploading to Supabase Storage:', {
       fileName: metadata.file_name,
@@ -31,18 +32,92 @@ export const uploadAudioForProcessing = async (file, metadata) => {
       metadata
     });
 
-    // 1. Upload file to Supabase Storage
     const filePath = `${metadata.institution_id}/${metadata.file_name}`;
+    const sizeMB = file.size / (1024 * 1024);
 
-    const { data: uploadData, error: uploadError } = await supabase.storage
-      .from(STORAGE_BUCKET)
-      .upload(filePath, file, {
-        cacheControl: '3600',
-        upsert: true // Overwrite if exists
+    // Use resumable upload for files >50MB (bypasses free tier limit)
+    if (sizeMB > 50) {
+      console.log('[AudioUpload] File >50MB, using resumable upload (TUS protocol)');
+
+      // Get Supabase URL and anon key from environment
+      const supabaseUrl = process.env.REACT_APP_SUPABASE_URL;
+      const supabaseKey = process.env.REACT_APP_SUPABASE_ANON_KEY;
+
+      if (!supabaseUrl || !supabaseKey) {
+        throw new Error('Supabase configuration missing');
+      }
+
+      const uploadUrl = `${supabaseUrl}/storage/v1/upload/resumable`;
+
+      // Create resumable upload session
+      const createResponse = await fetch(uploadUrl, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${supabaseKey}`,
+          'Content-Type': 'application/json',
+          'x-upsert': 'true' // Overwrite if exists
+        },
+        body: JSON.stringify({
+          bucketName: STORAGE_BUCKET,
+          objectName: filePath
+        })
       });
 
-    if (uploadError) {
-      throw new Error(`Storage upload failed: ${uploadError.message}`);
+      if (!createResponse.ok) {
+        const error = await createResponse.text();
+        throw new Error(`Failed to create upload session: ${error}`);
+      }
+
+      const { uploadId } = await createResponse.json();
+      console.log('[AudioUpload] Resumable upload session created:', uploadId);
+
+      // Upload file in chunks
+      const chunkSize = 6 * 1024 * 1024; // 6MB chunks
+      let offset = 0;
+
+      while (offset < file.size) {
+        const chunk = file.slice(offset, offset + chunkSize);
+        const chunkEnd = Math.min(offset + chunkSize, file.size);
+
+        const uploadChunkResponse = await fetch(`${uploadUrl}/${uploadId}`, {
+          method: 'PATCH',
+          headers: {
+            'Authorization': `Bearer ${supabaseKey}`,
+            'Content-Type': 'application/offset+octet-stream',
+            'Upload-Offset': offset.toString()
+          },
+          body: chunk
+        });
+
+        if (!uploadChunkResponse.ok) {
+          const error = await uploadChunkResponse.text();
+          throw new Error(`Failed to upload chunk: ${error}`);
+        }
+
+        offset = chunkEnd;
+
+        // Report progress
+        const progress = Math.round((offset / file.size) * 100);
+        console.log(`[AudioUpload] Progress: ${progress}%`);
+        if (onProgress) onProgress(progress);
+      }
+
+      console.log('[AudioUpload] Resumable upload completed');
+
+    } else {
+      // Standard upload for files ≤50MB
+      console.log('[AudioUpload] File ≤50MB, using standard upload');
+
+      const { data: uploadData, error: uploadError } = await supabase.storage
+        .from(STORAGE_BUCKET)
+        .upload(filePath, file, {
+          cacheControl: '3600',
+          upsert: true
+        });
+
+      if (uploadError) {
+        throw new Error(`Storage upload failed: ${uploadError.message}`);
+      }
     }
 
     // 2. Get public URL

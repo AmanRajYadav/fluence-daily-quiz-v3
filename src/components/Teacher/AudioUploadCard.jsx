@@ -227,15 +227,13 @@ const AudioUploadCard = ({ onUploadComplete }) => {
     setUploadStatus(null);
     setStatusMessage('Uploading...');
 
-    // Simulate progress (real progress would need XHR)
-    const progressInterval = setInterval(() => {
-      setUploadProgress(prev => Math.min(prev + 10, 90));
-    }, 500);
-
     try {
-      const result = await uploadAudioForProcessing(audioFile, metadata);
+      // Pass real progress callback for files >50MB
+      const result = await uploadAudioForProcessing(audioFile, metadata, (progress) => {
+        setUploadProgress(progress);
+        setStatusMessage(`Uploading... ${progress}%`);
+      });
 
-      clearInterval(progressInterval);
       setUploadProgress(100);
 
       if (result.success) {
@@ -253,12 +251,11 @@ const AudioUploadCard = ({ onUploadComplete }) => {
       }
 
     } catch (error) {
-      clearInterval(progressInterval);
       setUploadStatus('error');
       setStatusMessage(error.message || 'Upload failed. Please try again.');
     } finally {
       setIsLoading(false);
-      setUploadProgress(0);
+      setTimeout(() => setUploadProgress(0), 2000); // Clear progress after 2s
     }
   };
 
