@@ -35,80 +35,57 @@ export const uploadAudioForProcessing = async (file, metadata, onProgress = null
     const filePath = `${metadata.institution_id}/${metadata.file_name}`;
     const sizeMB = file.size / (1024 * 1024);
 
-    // Use resumable upload for files >50MB (bypasses free tier limit)
+    // For files >50MB, upload via n8n webhook (has SERVICE_ROLE_KEY)
     if (sizeMB > 50) {
-      console.log('[AudioUpload] File >50MB, using resumable upload (TUS protocol)');
+      console.log('[AudioUpload] File >50MB, uploading via n8n (bypasses free tier limit)');
 
-      // Get Supabase URL and anon key from environment
-      const supabaseUrl = process.env.REACT_APP_SUPABASE_URL;
-      const supabaseKey = process.env.REACT_APP_SUPABASE_ANON_KEY;
+      const n8nUploadUrl = process.env.REACT_APP_N8N_AUDIO_UPLOAD_WEBHOOK ||
+                           'https://n8n.myworkflow.top/webhook/audio-upload';
 
-      if (!supabaseUrl || !supabaseKey) {
-        throw new Error('Supabase configuration missing');
-      }
+      // Convert file to base64
+      const fileData = await new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onload = () => resolve(reader.result.split(',')[1]); // Get base64 part
+        reader.onerror = reject;
+        reader.readAsDataURL(file);
+      });
 
-      const uploadUrl = `${supabaseUrl}/storage/v1/upload/resumable`;
-
-      // Create resumable upload session
-      const createResponse = await fetch(uploadUrl, {
+      // Send to n8n which will upload to Supabase with SERVICE_ROLE_KEY
+      const uploadResponse = await fetch(n8nUploadUrl, {
         method: 'POST',
-        headers: {
-          'Authorization': `Bearer ${supabaseKey}`,
-          'Content-Type': 'application/json',
-          'x-upsert': 'true' // Overwrite if exists
-        },
+        headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          bucketName: STORAGE_BUCKET,
-          objectName: filePath
+          file_data: fileData,
+          file_name: metadata.file_name,
+          file_path: filePath,
+          content_type: file.type,
+          metadata
         })
       });
 
-      if (!createResponse.ok) {
-        const error = await createResponse.text();
-        throw new Error(`Failed to create upload session: ${error}`);
+      if (!uploadResponse.ok) {
+        const error = await uploadResponse.text();
+        throw new Error(`n8n upload failed: ${error}`);
       }
 
-      const { uploadId } = await createResponse.json();
-      console.log('[AudioUpload] Resumable upload session created:', uploadId);
+      const result = await uploadResponse.json();
+      const fileUrl = result.file_url;
 
-      // Upload file in chunks
-      const chunkSize = 6 * 1024 * 1024; // 6MB chunks
-      let offset = 0;
+      console.log('[AudioUpload] Large file uploaded via n8n:', fileUrl);
 
-      while (offset < file.size) {
-        const chunk = file.slice(offset, offset + chunkSize);
-        const chunkEnd = Math.min(offset + chunkSize, file.size);
-
-        const uploadChunkResponse = await fetch(`${uploadUrl}/${uploadId}`, {
-          method: 'PATCH',
-          headers: {
-            'Authorization': `Bearer ${supabaseKey}`,
-            'Content-Type': 'application/offset+octet-stream',
-            'Upload-Offset': offset.toString()
-          },
-          body: chunk
-        });
-
-        if (!uploadChunkResponse.ok) {
-          const error = await uploadChunkResponse.text();
-          throw new Error(`Failed to upload chunk: ${error}`);
+      // Simulate progress
+      if (onProgress) {
+        for (let i = 0; i <= 100; i += 10) {
+          onProgress(i);
+          await new Promise(resolve => setTimeout(resolve, 200));
         }
-
-        offset = chunkEnd;
-
-        // Report progress
-        const progress = Math.round((offset / file.size) * 100);
-        console.log(`[AudioUpload] Progress: ${progress}%`);
-        if (onProgress) onProgress(progress);
       }
-
-      console.log('[AudioUpload] Resumable upload completed');
 
     } else {
       // Standard upload for files ≤50MB
       console.log('[AudioUpload] File ≤50MB, using standard upload');
 
-      const { data: uploadData, error: uploadError } = await supabase.storage
+      const { data: uploadData, error: uploadError} = await supabase.storage
         .from(STORAGE_BUCKET)
         .upload(filePath, file, {
           cacheControl: '3600',
